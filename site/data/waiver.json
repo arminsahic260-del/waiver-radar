@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:37:06Z",
+ "updated": "2026-10-19T21:50:50Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -368,6 +368,605 @@
    "source": "https://www.rotowire.com/basketball/headlines/nikola-jovic-news-starting-friday-534738",
    "espnId": 4997528,
    "fpts": 14.3
+  }
+ ],
+ "days": [
+  {
+   "date": "2026-10-20",
+   "games": 3,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 0,
+     "open": 10,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "pos": "SG/SF",
+       "espnId": 2581018,
+       "fpts": 17.5,
+       "mpg": 21.3,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 70.0,
+       "gtd": false
+      },
+      {
+       "player": "Anfernee Simons",
+       "team": "PHI",
+       "pos": "PG/SG",
+       "espnId": 4351851,
+       "fpts": 22.8,
+       "mpg": 24.9,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 91.2,
+       "gtd": true
+      },
+      {
+       "player": "Caleb Love",
+       "team": "PHI",
+       "pos": "SG",
+       "espnId": 4433144,
+       "fpts": 17.1,
+       "mpg": 20.7,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 68.4,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 4,
+     "open": 6,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "pos": "SG/SF",
+       "espnId": 2581018,
+       "fpts": 17.5,
+       "mpg": 21.3,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 70.0,
+       "gtd": false
+      },
+      {
+       "player": "Anfernee Simons",
+       "team": "PHI",
+       "pos": "PG/SG",
+       "espnId": 4351851,
+       "fpts": 22.8,
+       "mpg": 24.9,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 91.2,
+       "gtd": true
+      },
+      {
+       "player": "Caleb Love",
+       "team": "PHI",
+       "pos": "SG",
+       "espnId": 4433144,
+       "fpts": 17.1,
+       "mpg": 20.7,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 68.4,
+       "gtd": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "games": 11,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 13,
+     "open": 0,
+     "sitting": 3,
+     "planned": [],
+     "picks": []
+    },
+    {
+     "league": "Banijska",
+     "mine": 8,
+     "open": 2,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
+      {
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "pos": "PG",
+       "espnId": 5101761,
+       "fpts": 24.0,
+       "mpg": 30.2,
+       "basis": "projekcija",
+       "matchup": "CHA @ BKN",
+       "dates": [
+        "2026-10-21",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 72.0,
+       "gtd": false
+      },
+      {
+       "player": "Noah Clowney",
+       "team": "BKN",
+       "pos": "PF",
+       "espnId": 4712896,
+       "fpts": 21.6,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "CHA @ BKN",
+       "dates": [
+        "2026-10-21",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 64.8,
+       "gtd": false
+      },
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "pos": "PG",
+       "espnId": 4395626,
+       "fpts": 31.6,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "CHI @ TOR",
+       "dates": [
+        "2026-10-21",
+        "2026-10-24"
+       ],
+       "value": 63.2,
+       "gtd": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "games": 2,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 0,
+     "open": 9,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-20"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Jaylon Tyson",
+       "team": "CLE",
+       "pos": "SG/SF",
+       "espnId": 4683747,
+       "fpts": 26.2,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24"
+       ],
+       "value": 52.4,
+       "gtd": false
+      },
+      {
+       "player": "Anfernee Simons",
+       "team": "PHI",
+       "pos": "PG/SG",
+       "espnId": 4351851,
+       "fpts": 22.8,
+       "mpg": 24.9,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 68.4,
+       "gtd": true
+      },
+      {
+       "player": "Caleb Love",
+       "team": "PHI",
+       "pos": "SG",
+       "espnId": 4433144,
+       "fpts": 17.1,
+       "mpg": 20.7,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 51.3,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 3,
+     "open": 6,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-20"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Jaylon Tyson",
+       "team": "CLE",
+       "pos": "SG/SF",
+       "espnId": 4683747,
+       "fpts": 26.2,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24"
+       ],
+       "value": 52.4,
+       "gtd": false
+      },
+      {
+       "player": "Anfernee Simons",
+       "team": "PHI",
+       "pos": "PG/SG",
+       "espnId": 4351851,
+       "fpts": 22.8,
+       "mpg": 24.9,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 68.4,
+       "gtd": true
+      },
+      {
+       "player": "Caleb Love",
+       "team": "PHI",
+       "pos": "SG",
+       "espnId": 4433144,
+       "fpts": 17.1,
+       "mpg": 20.7,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 51.3,
+       "gtd": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "games": 12,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 12,
+     "open": 0,
+     "sitting": 2,
+     "planned": [],
+     "picks": []
+    },
+    {
+     "league": "Banijska",
+     "mine": 10,
+     "open": 0,
+     "sitting": 0,
+     "planned": [],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "games": 8,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 6,
+     "open": 2,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-20"
+      },
+      {
+       "player": "Jaylon Tyson",
+       "team": "CLE",
+       "from": "2026-10-22"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Noah Clowney",
+       "team": "BKN",
+       "pos": "PF",
+       "espnId": 4712896,
+       "fpts": 21.6,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "BKN @ CLE",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 43.2,
+       "gtd": false
+      },
+      {
+       "player": "Chaney Johnson",
+       "team": "BKN",
+       "pos": "SF",
+       "espnId": 5174655,
+       "fpts": 20.9,
+       "mpg": 20.3,
+       "basis": "prošla sezona",
+       "matchup": "BKN @ CLE",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 41.8,
+       "gtd": false
+      },
+      {
+       "player": "Terance Mann",
+       "team": "BKN",
+       "pos": "SG/SF",
+       "espnId": 3907823,
+       "fpts": 17.9,
+       "mpg": 24.3,
+       "basis": "prošla sezona",
+       "matchup": "BKN @ CLE",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 35.8,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 7,
+     "open": 0,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-20"
+      },
+      {
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "from": "2026-10-21"
+      },
+      {
+       "player": "Jaylon Tyson",
+       "team": "CLE",
+       "from": "2026-10-22"
+      }
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "games": 7,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 7,
+     "open": 1,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-20"
+      },
+      {
+       "player": "Noah Clowney",
+       "team": "BKN",
+       "from": "2026-10-24"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 28.7,
+       "mpg": 25.7,
+       "basis": "prošla sezona",
+       "matchup": "LAL @ UTA",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 28.7,
+       "gtd": false
+      },
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 27.2,
+       "mpg": 23.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ SAC",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 27.2,
+       "gtd": false
+      },
+      {
+       "player": "Wendell Carter Jr.",
+       "team": "ORL",
+       "pos": "C",
+       "espnId": 4277847,
+       "fpts": 26.6,
+       "mpg": 29.4,
+       "basis": "prošla sezona",
+       "matchup": "ORL @ NYK",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 26.6,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 7,
+     "open": 1,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-20"
+      },
+      {
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "from": "2026-10-21"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 28.7,
+       "mpg": 25.7,
+       "basis": "prošla sezona",
+       "matchup": "LAL @ UTA",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 28.7,
+       "gtd": false
+      },
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 27.2,
+       "mpg": 23.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ SAC",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 27.2,
+       "gtd": false
+      },
+      {
+       "player": "Wendell Carter Jr.",
+       "team": "ORL",
+       "pos": "C",
+       "espnId": 4277847,
+       "fpts": 26.6,
+       "mpg": 29.4,
+       "basis": "prošla sezona",
+       "matchup": "ORL @ NYK",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 26.6,
+       "gtd": false
+      }
+     ]
+    }
+   ]
   }
  ]
 }
