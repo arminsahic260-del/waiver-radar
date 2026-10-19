@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:23:08Z",
+ "updated": "2026-10-19T21:27:53Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": true,
-   "updated": "2026-10-19T21:23:08Z",
+   "updated": "2026-10-19T21:27:53Z",
    "players": [
     {
      "name": "Trae Young",
@@ -107,8 +107,8 @@
    "id": "banijska",
    "name": "1. Banijska šampion liga",
    "team": "Barcelona",
-   "espnLeagueId": null,
-   "espnTeamId": null,
+   "espnLeagueId": 465846171,
+   "espnTeamId": 5,
    "public": false,
    "updated": null,
    "players": [
@@ -168,7 +168,8 @@
      "slot": "",
      "espnId": null
     }
-   ]
+   ],
+   "error": "privatna liga — dodaj ESPN_S2 i ESPN_SWID (GitHub secrets)"
   }
  ]
 }

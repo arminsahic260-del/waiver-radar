@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:23:08Z",
+ "updated": "2026-10-19T21:27:53Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -25,7 +25,7 @@
    "team": "SAS",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Tobias Harris (list) je out najmanje do 23.10. — nova ozljeda. Stephon Castle je prvi PG/SG u rotaciji SAS-a za te minute; ~35.0 FP po utakmici (prošle sezone, 30 min).",
+   "reason": "Tobias Harris (list) je out najmanje do 23.10. Stephon Castle je prvi PG/SG u rotaciji SAS-a za te minute; ~35.0 FP po utakmici (prošle sezone, 30 min).",
    "role": "Veća minutaža dok je out Tobias Harris",
    "horizon": "Do ~23.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris",
@@ -377,7 +377,7 @@
    "team": "SAS",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 23.10. — nova ozljeda. Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
+   "reason": "Tobias Harris (list) je out najmanje do 23.10. Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
    "role": "Veća minutaža dok je out Tobias Harris",
    "horizon": "Do ~23.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris",
