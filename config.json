@@ -1,7 +1,7 @@
 {
   "season": 2027,
   "timezone": "Europe/Zagreb",
-  "siteUrl": "",
+  "siteUrl": "https://arminsahic260-del.github.io/waiver-radar/",
   "week1": { "start": "2026-10-20", "end": "2026-10-25" },
   "scheduleWeeks": 3,
   "newsKeep": 60,

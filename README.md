@@ -34,7 +34,7 @@ Otvori http://localhost:8000.
    - `ANTHROPIC_API_KEY` — Claude (`claude-sonnet-5-5`) prepisuje i rangira preporuke; bez njega radi heuristika.
    - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` — push obavijesti.
    - `ESPN_S2`, `ESPN_SWID` — samo za privatne ESPN lige (cookieji s fantasy.espn.com).
-4. U `config.json` upiši `siteUrl` (npr. `https://<korisnik>.github.io/waiver-radar/`) da Telegram poruka ima link.
+4. `siteUrl` u `config.json` (link u Telegram poruci) je https://arminsahic260-del.github.io/waiver-radar/.
 5. **Actions → refresh → Run workflow** za prvi prolaz. Dalje se pokreće sam u 06:21, 18:21 i 21:21 UTC.
 
 ## Druga liga
