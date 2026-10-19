@@ -1,25 +1,7 @@
 {
- "updated": "2026-10-19T21:35:28Z",
+ "updated": "2026-10-19T21:37:06Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "pos": "SF/PF",
-   "priority": 1,
-   "reason": "RotoWire 19.10.: Confirmed as starter. Head coach Steve Kerr confirmed Monday that Lendeborg will start Wednesday's regular-season opener against the Lakers, per Nick Friedell of The Athletic. ~23.5 FP po utakmici (ESPN projekcija, 25 min). Kristaps Porzingis (neotkriveno) je out najmanje do 1.12. Yaxel Lendeborg je sljedeći SF/PF u rotaciji GSW-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": false,
-    "Banijska": null
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-confirmed-as-starter-535159",
-   "note": "na tvom rosteru (Legendi)",
-   "espnId": 5175737,
-   "fpts": 23.5
-  },
   {
    "player": "Jaylon Tyson",
    "team": "CLE",
@@ -31,7 +13,7 @@
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u četvrtak",
@@ -50,7 +32,7 @@
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": false
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u četvrtak",
@@ -69,7 +51,7 @@
    "risk": "Uloga pada kad se vrati Kristaps Porzingis",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3213,
@@ -86,7 +68,7 @@
    "risk": "Uloga pada kad se vrati Maxime Raynaud",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4431679,
@@ -103,13 +85,30 @@
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u utorak",
    "espnId": 4431823,
    "fpts": 23.2,
    "expires": "2026-10-20"
+  },
+  {
+   "player": "Derrick Jones Jr.",
+   "team": "LAC",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3936099,
+   "fpts": 22.9
   },
   {
    "player": "Anfernee Simons",
@@ -122,7 +121,7 @@
    "risk": "Upitan (GTD) — provjeri status prije utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u utorak i četvrtak",
@@ -141,7 +140,7 @@
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": false
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u utorak",
@@ -160,28 +159,11 @@
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-starting-friday-534827",
    "espnId": 4576060,
    "fpts": 22.1
-  },
-  {
-   "player": "Isaiah Jackson",
-   "team": "LAC",
-   "pos": "PF/C",
-   "priority": 2,
-   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Isaiah Jackson je sljedeći PF/C u rotaciji LAC-a za te minute; ~18.5 FP po utakmici (prošle sezone, 16 min). RotoWire 14.10.: Starting against Denver.",
-   "role": "Mogući starter dok je out Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Brandon Ingram",
-   "avail": {
-    "Legendi": true,
-    "Banijska": null
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-starting-against-denver-534482",
-   "espnId": 4432170,
-   "fpts": 18.5
   },
   {
    "player": "Kris Murray",
@@ -194,7 +176,7 @@
    "risk": "I kao starter nizak plafon (~16 FP)",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/kris-murray-news-starting-friday-534841",
    "espnId": 4594326,
@@ -211,7 +193,7 @@
    "risk": "Uloga pada kad se vrati Stephen Curry",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4066436,
@@ -228,28 +210,11 @@
    "risk": "Uloga pada kad se vrati Stephen Curry",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4397040,
    "fpts": 23.9
-  },
-  {
-   "player": "Kris Dunn",
-   "team": "LAC",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Kris Dunn je sljedeći PG/SG u rotaciji LAC-a za te minute; ~22.6 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Max Strus",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
-   "avail": {
-    "Legendi": true,
-    "Banijska": null
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2991139,
-   "fpts": 22.6
   },
   {
    "player": "Pelle Larsson",
@@ -262,11 +227,28 @@
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Bam Adebayo",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4601025,
    "fpts": 22.6
+  },
+  {
+   "player": "Tim Hardaway Jr.",
+   "team": "MIA",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Bam Adebayo (prepone) je upitan (GTD). Tim Hardaway Jr. je sljedeći SG/SF u rotaciji MIA-a za te minute; ~21.6 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Zamjena ako Bam Adebayo ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Bam Adebayo",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2528210,
+   "fpts": 21.6
   },
   {
    "player": "De'Andre Hunter",
@@ -279,7 +261,7 @@
    "risk": "Uloga pada kad se vrati Maxime Raynaud",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4065732,
@@ -296,7 +278,7 @@
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-available-starting-against-denver-534862",
    "espnId": 4433137,
@@ -313,28 +295,11 @@
    "risk": "Uloga pada kad se vrati Tobias Harris",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6578,
    "fpts": 19.1
-  },
-  {
-   "player": "Klay Thompson",
-   "team": "MIA",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Bam Adebayo (prepone) je upitan (GTD). Klay Thompson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~18.5 FP po utakmici (prošle sezone, 22 min).",
-   "role": "Zamjena ako Bam Adebayo ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Bam Adebayo",
-   "avail": {
-    "Legendi": true,
-    "Banijska": null
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 6475,
-   "fpts": 18.5
   },
   {
    "player": "Bones Hyland",
@@ -347,7 +312,7 @@
    "risk": "Uloga pada kad se vrati Donte DiVincenzo; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4592492,
@@ -364,7 +329,7 @@
    "risk": "I kao starter nizak plafon (~18 FP)",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/cody-williams-news-drawing-another-start-534830",
    "espnId": 4895758,
@@ -381,7 +346,7 @@
    "risk": "I kao starter nizak plafon (~14 FP)",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-friday-534826",
    "espnId": 4602025,
@@ -398,7 +363,7 @@
    "risk": "I kao starter nizak plafon (~14 FP)",
    "avail": {
     "Legendi": true,
-    "Banijska": null
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/nikola-jovic-news-starting-friday-534738",
    "espnId": 4997528,
