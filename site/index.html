@@ -223,7 +223,7 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
     <p class="meta" style="margin-top:8px">ESPN H2H tjedan: prvi tjedan je uto–ned (20.–25.10.), dalje pon–ned. Zeleno = 4 utakmice, crveno = 2 ili manje. Red „Moji igrači” broji igrače koji igraju taj dan (bez IR-a i igrača koji su out).</p>
   </section>
 
-  <p class="foot" id="foot">Izvori: ozljede CBS Sports, vijesti RotoWire, raspored Basketball-Reference, rosteri ESPN Fantasy. Podatke osvježava GitHub Actions 3× dnevno; waiver preporuke su analiza, ne garancija.</p>
+  <p class="foot" id="foot">Izvori: ozljede CBS Sports, vijesti RotoWire, raspored Basketball-Reference, rosteri ESPN Fantasy. Podatke osvježava GitHub Actions svaki sat; waiver preporuke su analiza, ne garancija.</p>
   <p class="foot" id="status" style="margin-top:4px"></p>
 </main>
 
@@ -385,7 +385,7 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
     dot.className="dot";
     if(latest){
       parts.push("Ažurirano "+ago(latest));
-      dot.classList.add(!navigator.onLine?"off":(Date.now()-new Date(latest).getTime())>14*3600e3?"stale":"live");
+      dot.classList.add(!navigator.onLine?"off":(Date.now()-new Date(latest).getTime())>3*3600e3?"stale":"live");
       $("stamp").title="Zadnje osvježavanje: "+fmtDT(latest);
     }
     if(!navigator.onLine)parts.push("offline");

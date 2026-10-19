@@ -1,7 +1,7 @@
 # Waiver Radar
 
 NBA fantasy tracker za ESPN H2H points lige: ozljede, vijesti o postavama, raspored po H2H tjednima, moji rosteri
-i waiver preporuke. Statički PWA na GitHub Pages; podatke 3× dnevno osvježava GitHub Actions.
+i waiver preporuke. Statički PWA na GitHub Pages; podatke svaki sat osvježava GitHub Actions.
 
 ```
 site/                 PWA (index.html, manifest.json, sw.js, icons/, data/*.json)
@@ -35,7 +35,7 @@ Otvori http://localhost:8000.
    - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` — push obavijesti.
    - `ESPN_S2`, `ESPN_SWID` — samo za privatne ESPN lige (cookieji s fantasy.espn.com).
 4. `siteUrl` u `config.json` (link u Telegram poruci) je https://arminsahic260-del.github.io/waiver-radar/.
-5. **Actions → refresh → Run workflow** za prvi prolaz. Dalje se pokreće sam u 06:21, 18:21 i 21:21 UTC.
+5. **Actions → refresh → Run workflow** za prvi prolaz. Dalje se pokreće sam svaki sat (u :21).
 
 ## Privatne lige
 

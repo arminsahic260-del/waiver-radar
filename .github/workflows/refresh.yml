@@ -2,10 +2,8 @@ name: refresh
 
 on:
   schedule:
-    # UTC; 08:21 / 20:21 / 23:21 in Zagreb during CEST (one hour earlier in winter time)
-    - cron: "21 6 * * *"
-    - cron: "21 18 * * *"
-    - cron: "21 21 * * *"
+    # every hour at :21 (off the top of the hour, when GitHub's scheduler is busiest)
+    - cron: "21 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
