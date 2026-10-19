@@ -25,8 +25,8 @@
       "short": "Banijska",
       "name": "1. Banijska šampion liga",
       "teamName": "Barcelona",
-      "espnLeagueId": null,
-      "espnTeamId": null,
+      "espnLeagueId": 465846171,
+      "espnTeamId": 5,
       "manualPlayers": [
         { "name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF" },
         { "name": "Alperen Sengun", "team": "HOU", "pos": "C" },

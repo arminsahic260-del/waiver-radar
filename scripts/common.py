@@ -177,6 +177,11 @@ def get(url, headers=None, cookies=None, tries=3, timeout=30):
                 raise requests.HTTPError(f"{r.status_code} for {url}", response=r)
             r.raise_for_status()
             return r
+        except requests.HTTPError as e:
+            err = e
+            if e.response is not None and 400 <= e.response.status_code < 500 and e.response.status_code != 429:
+                break  # 401/403/404 won't change on retry
+            time.sleep(2 * (i + 1))
         except requests.RequestException as e:
             err = e
             time.sleep(2 * (i + 1))

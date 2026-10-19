@@ -2,6 +2,7 @@
 import datetime as dt
 
 import pytest
+import requests
 
 import espn
 import fetch
@@ -164,3 +165,36 @@ def test_espn_estimate_fallbacks():
     full = dict(short, averageStats={"42": 6, "40": 31.0})
     assert espn.estimate([proj, full], 2027) == (50.0, 31.0, "sezona")
     assert espn.estimate([], 2027) == (0.0, 0.0, None)
+
+
+def test_espn_private_league_falls_back_with_error(monkeypatch):
+    denied = requests.Response()
+    denied.status_code = 401
+
+    def fake_fetch(season, league_id):
+        if league_id == 465846171:
+            raise requests.HTTPError("401", response=denied)
+        return fixture("espn_rosters.json"), fixture("espn_freeagents.json")
+
+    monkeypatch.setattr(espn, "fetch_raw", fake_fetch)
+    monkeypatch.setattr(espn, "write_json", lambda *a, **k: None)
+    monkeypatch.delenv("ESPN_S2", raising=False)
+    banijska = {"id": "banijska", "name": "Banijska", "teamName": "Barcelona", "espnLeagueId": 465846171,
+                "espnTeamId": 5, "manualPlayers": [{"name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF"}]}
+    cfg = {"season": 2027, "leagues": [
+        {"id": "legendi", "name": "Liga Legendi", "teamName": "DGJ", "espnLeagueId": 2023498222, "espnTeamId": 1},
+        banijska]}
+
+    # previous snapshot was the manual list -> rebuilt from config, with the reason attached
+    stale_manual = {"id": "banijska", "espnLeagueId": None, "updated": None, "players": [{"name": "Old Guy"}]}
+    doc, pools = espn.run(cfg, {"leagues": [stale_manual]})
+    legendi, b = doc["leagues"]
+    assert "error" not in legendi and list(pools) == ["legendi"]
+    assert b["error"].startswith("privatna liga") and [p["name"] for p in b["players"]] == ["Cooper Flagg"]
+
+    # previous snapshot came from ESPN for the same league -> keep that roster
+    old_espn = {"id": "banijska", "espnLeagueId": 465846171, "updated": "2026-10-19T06:21:00Z",
+                "players": [{"name": "Alperen Sengun"}]}
+    doc, _ = espn.run(cfg, {"leagues": [old_espn]})
+    assert [p["name"] for p in doc["leagues"][1]["players"]] == ["Alperen Sengun"]
+    assert doc["leagues"][1]["error"].startswith("privatna liga")

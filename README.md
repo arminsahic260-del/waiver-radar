@@ -37,10 +37,14 @@ Otvori http://localhost:8000.
 4. `siteUrl` u `config.json` (link u Telegram poruci) je https://arminsahic260-del.github.io/waiver-radar/.
 5. **Actions → refresh → Run workflow** za prvi prolaz. Dalje se pokreće sam u 06:21, 18:21 i 21:21 UTC.
 
-## Druga liga
+## Privatne lige
 
-U `config.json` za `banijska` upiši `espnLeagueId` (iz URL-a lige: `leagueId=...`). `espnTeamId` može ostati
-`null` — tim se nađe po imenu (`teamName: "Barcelona"`). Dok ID ne postoji, koristi se `manualPlayers`.
+Banijska (`espnLeagueId` 465846171, tim 5) je privatna: ESPN bez prijave vraća 401. Dok se to ne riješi, za nju se
+koristi `manualPlayers`, a u „Moji igrači” uz ligu piše razlog. Dva rješenja:
+
+- admin lige uključi *League is viewable to public* u ESPN postavkama lige, ili
+- dodaj GitHub secrets `ESPN_S2` i `ESPN_SWID`: cookieji `espn_s2` i `SWID` s espn.com dok si prijavljen
+  (F12 → Application → Cookies). Isti cookieji vrijede za sve lige u kojima si.
 
 ## Heuristika
 

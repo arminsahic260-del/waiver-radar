@@ -98,8 +98,21 @@ def manual_entry(lc):
             "players": [dict(p, slot=p.get("slot", ""), espnId=p.get("espnId")) for p in lc.get("manualPlayers", [])]}
 
 
+def league_error(e):
+    """Short Croatian reason shown next to the league in the UI."""
+    code = getattr(getattr(e, "response", None), "status_code", None)
+    if code in (401, 403):
+        if cookies():
+            return "ESPN odbija prijavu — obnovi ESPN_S2/ESPN_SWID"
+        return "privatna liga — dodaj ESPN_S2 i ESPN_SWID (GitHub secrets)"
+    if code == 404:
+        return "liga nije pronađena — provjeri espnLeagueId"
+    return f"ESPN greška: {e}"[:200]
+
+
 def run(cfg, prev=None):
-    """Returns (rosters doc, {league id: pool}). A failing league keeps its previous roster."""
+    """Returns (rosters doc, {league id: pool}). A failing league keeps its previous ESPN roster (or the manual one)
+    and carries an `error` the UI shows next to the league."""
     prev_by_id = {L["id"]: L for L in (prev or {}).get("leagues", [])}
     leagues, pools, errors = [], {}, []
     for lc in cfg["leagues"]:
@@ -115,7 +128,9 @@ def run(cfg, prev=None):
         except Exception as e:
             errors.append(f"{lc['id']}: {e}")
             print(f"  ! ESPN {lc['id']}: {e}", file=sys.stderr)
-            leagues.append(prev_by_id.get(lc["id"]) or manual_entry(lc))
+            old = prev_by_id.get(lc["id"])
+            keep = old if old and old.get("updated") and old.get("espnLeagueId") == lc["espnLeagueId"] else None
+            leagues.append(dict(keep or manual_entry(lc), error=league_error(e)))
     doc = {"updated": now_iso(), "leagues": leagues}
     write_json(data_path("rosters.json"), doc)
     write_json(os.path.join(CACHE, "players.json"), pools)
