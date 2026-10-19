@@ -28,14 +28,19 @@
       "espnLeagueId": 465846171,
       "espnTeamId": 5,
       "manualPlayers": [
-        { "name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF" },
-        { "name": "Alperen Sengun", "team": "HOU", "pos": "C" },
-        { "name": "Jaylen Brown", "team": "BOS", "pos": "SG/SF" },
-        { "name": "Stephon Castle", "team": "SAS", "pos": "PG/SG" },
-        { "name": "Keyonte George", "team": "UTA", "pos": "PG/SG" },
-        { "name": "Kel'el Ware", "team": "MIA", "pos": "C" },
-        { "name": "Malik Monk", "team": "SAC", "pos": "SG" },
-        { "name": "Brook Lopez", "team": "LAC", "pos": "C" }
+        {"name": "Stephon Castle", "team": "SAS", "pos": "PG/SG", "slot": "PG", "espnId": 4845367},
+        {"name": "Jaylen Brown", "team": "PHI", "pos": "SG/SF", "slot": "SG", "espnId": 3917376},
+        {"name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF", "slot": "SF", "espnId": 5041939},
+        {"name": "Jaden McDaniels", "team": "MIN", "pos": "SF/PF", "slot": "PF", "espnId": 4431671},
+        {"name": "Alperen Sengun", "team": "HOU", "pos": "C", "slot": "C", "espnId": 4871144},
+        {"name": "Keyonte George", "team": "UTA", "pos": "PG/SG", "slot": "G", "espnId": 4433627},
+        {"name": "Peyton Watson", "team": "CLE", "pos": "SF/PF", "slot": "F", "espnId": 4576087},
+        {"name": "Kel'el Ware", "team": "MIL", "pos": "C", "slot": "UTIL", "espnId": 5105623},
+        {"name": "VJ Edgecombe", "team": "PHI", "pos": "SG", "slot": "UTIL", "espnId": 5124612},
+        {"name": "Neemias Queta", "team": "BOS", "pos": "C", "slot": "UTIL", "espnId": 4397424},
+        {"name": "Malik Monk", "team": "SAC", "pos": "PG/SG", "slot": "BE", "espnId": 4066262},
+        {"name": "Brook Lopez", "team": "LAC", "pos": "C", "slot": "BE", "espnId": 3448},
+        {"name": "Keaton Wagler", "team": "LAC", "pos": "PG/SG", "slot": "BE", "espnId": 5254165}
       ]
     }
   ]
