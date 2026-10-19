@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:27:53Z",
+ "updated": "2026-10-19T21:32:03Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": true,
-   "updated": "2026-10-19T21:27:53Z",
+   "updated": "2026-10-19T21:32:03Z",
    "players": [
     {
      "name": "Trae Young",
@@ -113,60 +113,95 @@
    "updated": null,
    "players": [
     {
+     "name": "Stephon Castle",
+     "team": "SAS",
+     "pos": "PG/SG",
+     "slot": "PG",
+     "espnId": 4845367
+    },
+    {
+     "name": "Jaylen Brown",
+     "team": "PHI",
+     "pos": "SG/SF",
+     "slot": "SG",
+     "espnId": 3917376
+    },
+    {
      "name": "Cooper Flagg",
      "team": "DAL",
      "pos": "SF/PF",
-     "slot": "",
-     "espnId": null
+     "slot": "SF",
+     "espnId": 5041939
+    },
+    {
+     "name": "Jaden McDaniels",
+     "team": "MIN",
+     "pos": "SF/PF",
+     "slot": "PF",
+     "espnId": 4431671
     },
     {
      "name": "Alperen Sengun",
      "team": "HOU",
      "pos": "C",
-     "slot": "",
-     "espnId": null
-    },
-    {
-     "name": "Jaylen Brown",
-     "team": "BOS",
-     "pos": "SG/SF",
-     "slot": "",
-     "espnId": null
-    },
-    {
-     "name": "Stephon Castle",
-     "team": "SAS",
-     "pos": "PG/SG",
-     "slot": "",
-     "espnId": null
+     "slot": "C",
+     "espnId": 4871144
     },
     {
      "name": "Keyonte George",
      "team": "UTA",
      "pos": "PG/SG",
-     "slot": "",
-     "espnId": null
+     "slot": "G",
+     "espnId": 4433627
+    },
+    {
+     "name": "Peyton Watson",
+     "team": "CLE",
+     "pos": "SF/PF",
+     "slot": "F",
+     "espnId": 4576087
     },
     {
      "name": "Kel'el Ware",
-     "team": "MIA",
+     "team": "MIL",
      "pos": "C",
-     "slot": "",
-     "espnId": null
+     "slot": "UTIL",
+     "espnId": 5105623
+    },
+    {
+     "name": "VJ Edgecombe",
+     "team": "PHI",
+     "pos": "SG",
+     "slot": "UTIL",
+     "espnId": 5124612
+    },
+    {
+     "name": "Neemias Queta",
+     "team": "BOS",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 4397424
     },
     {
      "name": "Malik Monk",
      "team": "SAC",
-     "pos": "SG",
-     "slot": "",
-     "espnId": null
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 4066262
     },
     {
      "name": "Brook Lopez",
      "team": "LAC",
      "pos": "C",
-     "slot": "",
-     "espnId": null
+     "slot": "BE",
+     "espnId": 3448
+    },
+    {
+     "name": "Keaton Wagler",
+     "team": "LAC",
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 5254165
     }
    ],
    "error": "privatna liga — dodaj ESPN_S2 i ESPN_SWID (GitHub secrets)"
