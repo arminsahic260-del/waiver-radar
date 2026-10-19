@@ -1,0 +1,174 @@
+{
+ "updated": "2026-10-19T15:24:21Z",
+ "leagues": [
+  {
+   "id": "legendi",
+   "name": "Liga Legendi",
+   "team": "Druzina gospodara Jokica (DGJ)",
+   "espnLeagueId": 2023498222,
+   "espnTeamId": 1,
+   "public": true,
+   "updated": "2026-10-19T15:24:21Z",
+   "players": [
+    {
+     "name": "Trae Young",
+     "team": "WAS",
+     "pos": "PG",
+     "slot": "PG",
+     "espnId": 4277905
+    },
+    {
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
+     "slot": "SG",
+     "espnId": 2991230
+    },
+    {
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "SF",
+     "espnId": 5041939
+    },
+    {
+     "name": "Paolo Banchero",
+     "team": "ORL",
+     "pos": "SF/PF",
+     "slot": "PF",
+     "espnId": 4432573
+    },
+    {
+     "name": "Ivica Zubac",
+     "team": "IND",
+     "pos": "C",
+     "slot": "C",
+     "espnId": 4017837
+    },
+    {
+     "name": "Kyrie Irving",
+     "team": "DAL",
+     "pos": "PG",
+     "slot": "G",
+     "espnId": 6442
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
+     "slot": "F",
+     "espnId": 5175737
+    },
+    {
+     "name": "Donovan Clingan",
+     "team": "POR",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 5105565
+    },
+    {
+     "name": "Darius Acuff Jr.",
+     "team": "SAC",
+     "pos": "PG",
+     "slot": "UTIL",
+     "espnId": 5142620
+    },
+    {
+     "name": "Jalen Suggs",
+     "team": "ORL",
+     "pos": "PG/SG",
+     "slot": "UTIL",
+     "espnId": 4432165
+    },
+    {
+     "name": "Day'Ron Sharpe",
+     "team": "BKN",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 4432194
+    },
+    {
+     "name": "Brook Lopez",
+     "team": "LAC",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 3448
+    },
+    {
+     "name": "Keaton Wagler",
+     "team": "LAC",
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 5254165
+    }
+   ]
+  },
+  {
+   "id": "banijska",
+   "name": "1. Banijska šampion liga",
+   "team": "Barcelona",
+   "espnLeagueId": null,
+   "espnTeamId": null,
+   "public": false,
+   "updated": null,
+   "players": [
+    {
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Alperen Sengun",
+     "team": "HOU",
+     "pos": "C",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Jaylen Brown",
+     "team": "BOS",
+     "pos": "SG/SF",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Stephon Castle",
+     "team": "SAS",
+     "pos": "PG/SG",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Keyonte George",
+     "team": "UTA",
+     "pos": "PG/SG",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Kel'el Ware",
+     "team": "MIA",
+     "pos": "C",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Malik Monk",
+     "team": "SAC",
+     "pos": "SG",
+     "slot": "",
+     "espnId": null
+    },
+    {
+     "name": "Brook Lopez",
+     "team": "LAC",
+     "pos": "C",
+     "slot": "",
+     "espnId": null
+    }
+   ]
+  }
+ ]
+}

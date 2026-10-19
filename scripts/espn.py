@@ -1,0 +1,134 @@
+"""ESPN fantasy (fba) reads: league rosters + player pool -> site/data/rosters.json and cache/players.json."""
+import json
+import os
+import sys
+
+from common import (CACHE, ESPN_POS, ESPN_SLOT, ESPN_TEAM, data_path, get, load_config, norm_name, now_iso,
+                    read_json, write_json)
+
+API = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/fba/seasons/{season}/segments/0/leagues/{league}"
+POOL_LIMIT = 1000
+
+
+def cookies():
+    """Only needed for private leagues: set ESPN_S2 and ESPN_SWID (GitHub secrets)."""
+    s2, swid = os.environ.get("ESPN_S2"), os.environ.get("ESPN_SWID")
+    return {"espn_s2": s2, "SWID": swid} if s2 and swid else None
+
+
+def fetch_raw(season, league_id):
+    base = API.format(season=season, league=league_id)
+    rosters = get(base + "?view=mTeam&view=mRoster", cookies=cookies()).json()
+    flt = {"players": {"filterStatus": {"value": ["FREEAGENT", "WAIVERS", "ONTEAM"]}, "limit": POOL_LIMIT,
+                       "sortPercOwned": {"sortPriority": 1, "sortAsc": False}}}
+    pool = get(base + "?view=kona_player_info", headers={"X-Fantasy-Filter": json.dumps(flt)},
+               cookies=cookies()).json()
+    return rosters, pool
+
+
+def _avg(stat):
+    a = (stat or {}).get("averageStats") or {}
+    return a.get("42") or 0, a.get("40") or 0  # games played, minutes per game
+
+
+def estimate(stats, season):
+    """Fantasy points per game in this league's scoring (ESPN `appliedAverage`).
+
+    This season once there's a sample, else last season, else ESPN's projection."""
+    by = {s.get("id"): s for s in stats or []}
+    cur, last, proj = by.get(f"00{season}"), by.get(f"00{season - 1}"), by.get(f"10{season}")
+    for s, min_gp, basis in ((cur, 5, "sezona"), (last, 10, "prošla sezona"), (proj, 0, "projekcija")):
+        gp, mpg = _avg(s)
+        if s and s.get("appliedAverage") and gp >= min_gp:
+            return round(s["appliedAverage"], 1), round(mpg, 1), basis
+    return 0.0, 0.0, None
+
+
+def slim(player, season):
+    elig = [ESPN_SLOT[s] for s in player.get("eligibleSlots", []) if s in (0, 1, 2, 3, 4)]
+    fpts, mpg, basis = estimate(player.get("stats"), season)
+    return {
+        "espnId": player["id"],
+        "name": player.get("fullName"),
+        "team": ESPN_TEAM.get(player.get("proTeamId"), "FA"),
+        "pos": "/".join(elig) or ESPN_POS.get(player.get("defaultPositionId"), ""),
+        "posId": player.get("defaultPositionId"),
+        "injury": player.get("injuryStatus") or "ACTIVE",
+        "fpts": fpts,
+        "mpg": mpg,
+        "basis": basis,
+        "owned": round(((player.get("ownership") or {}).get("percentOwned") or 0), 1),
+    }
+
+
+def build_league(lc, season, rosters_raw, pool_raw):
+    teams = {t["id"]: t for t in rosters_raw.get("teams", [])}
+    my_id = lc.get("espnTeamId")
+    if not my_id and lc.get("teamName"):
+        want = norm_name(lc["teamName"])
+        my_id = next((tid for tid, t in teams.items() if want and want in norm_name(t.get("name"))), None)
+    players, rostered, mine = {}, {}, []
+    for tid, t in teams.items():
+        for e in (t.get("roster") or {}).get("entries", []):
+            p = e["playerPoolEntry"]["player"]
+            sp = slim(p, season)
+            players[sp["espnId"]] = sp
+            rostered[sp["espnId"]] = tid
+            if tid == my_id:
+                mine.append({"name": sp["name"], "team": sp["team"], "pos": sp["pos"],
+                             "slot": ESPN_SLOT.get(e.get("lineupSlotId"), ""), "espnId": sp["espnId"]})
+    for x in pool_raw.get("players", []):
+        sp = slim(x["player"], season)
+        players.setdefault(sp["espnId"], sp)
+        if x.get("onTeamId"):
+            rostered.setdefault(sp["espnId"], x["onTeamId"])
+    slot_order = {s: i for i, s in enumerate(["PG", "SG", "SF", "PF", "C", "G", "F", "UTIL", "BE", "IR"])}
+    mine.sort(key=lambda p: slot_order.get(p["slot"], 99))
+    entry = {"id": lc["id"], "name": lc["name"], "team": lc.get("teamName") or (teams.get(my_id) or {}).get("name"),
+             "espnLeagueId": lc["espnLeagueId"], "espnTeamId": my_id, "public": cookies() is None,
+             "updated": now_iso(), "players": mine}
+    pool = {"myTeamId": my_id, "teams": {str(k): v.get("name") for k, v in teams.items()},
+            "rostered": {str(k): v for k, v in rostered.items()}, "players": {str(k): v for k, v in players.items()}}
+    return entry, pool
+
+
+def manual_entry(lc):
+    return {"id": lc["id"], "name": lc["name"], "team": lc.get("teamName"), "espnLeagueId": lc.get("espnLeagueId"),
+            "espnTeamId": lc.get("espnTeamId"), "public": False, "updated": None,
+            "players": [dict(p, slot=p.get("slot", ""), espnId=p.get("espnId")) for p in lc.get("manualPlayers", [])]}
+
+
+def run(cfg, prev=None):
+    """Returns (rosters doc, {league id: pool}). A failing league keeps its previous roster."""
+    prev_by_id = {L["id"]: L for L in (prev or {}).get("leagues", [])}
+    leagues, pools, errors = [], {}, []
+    for lc in cfg["leagues"]:
+        if not lc.get("espnLeagueId"):
+            leagues.append(manual_entry(lc))
+            continue
+        try:
+            entry, pool = build_league(lc, cfg["season"], *fetch_raw(cfg["season"], lc["espnLeagueId"]))
+            if not entry["players"]:
+                raise RuntimeError(f"my team not found (espnTeamId={lc.get('espnTeamId')})")
+            leagues.append(entry)
+            pools[lc["id"]] = pool
+        except Exception as e:
+            errors.append(f"{lc['id']}: {e}")
+            print(f"  ! ESPN {lc['id']}: {e}", file=sys.stderr)
+            leagues.append(prev_by_id.get(lc["id"]) or manual_entry(lc))
+    doc = {"updated": now_iso(), "leagues": leagues}
+    write_json(data_path("rosters.json"), doc)
+    write_json(os.path.join(CACHE, "players.json"), pools)
+    if errors and not pools:
+        raise RuntimeError("; ".join(errors))
+    return doc, pools
+
+
+def load_pools():
+    return read_json(os.path.join(CACHE, "players.json"), {})
+
+
+if __name__ == "__main__":
+    d, p = run(load_config(), read_json(data_path("rosters.json")))
+    for L in d["leagues"]:
+        print(L["name"], len(L["players"]), "players;", len(p.get(L["id"], {}).get("players", {})), "in pool")

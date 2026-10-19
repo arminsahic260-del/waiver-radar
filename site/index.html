@@ -1,0 +1,444 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Waiver Radar</title>
+<meta name="description" content="Ozljede, postave, raspored i waiver preporuke za ESPN fantasy NBA lige.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#FFFFFF">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#182028">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Waiver Radar">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* Layout: sticky scoreboard bar + tab strip, then one scrolling column of dense, scannable cards; desktop widens to a 2-col grid where lists are long. */
+:root{
+  --bg:#EEF1F4; --surface:#FFFFFF; --surface-2:#E3E8ED; --fg:#141A22; --muted:#5B6673; --line:#D3DAE1;
+  --accent:#D9480F; --accent-ink:#FFFFFF;
+  --out:#C62828; --out-bg:#FBE4E4; --gtd:#A86B00; --gtd-bg:#FBEFD2; --ok:#2E7D32; --ok-bg:#DEF2E0; --info:#1E5AA8; --info-bg:#DCE8F8;
+  --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0F1418; --surface:#182028; --surface-2:#222C36; --fg:#E8ECF0; --muted:#93A0AC; --line:#2C3843;
+  --accent:#FF7A33; --accent-ink:#1A0D06;
+  --out:#FF6B6B; --out-bg:#3A1C1C; --gtd:#F2C14E; --gtd-bg:#3A2F12; --ok:#5DD39E; --ok-bg:#163326; --info:#7FB2F0; --info-bg:#172A42;
+  color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#0F1418; --surface:#182028; --surface-2:#222C36; --fg:#E8ECF0; --muted:#93A0AC; --line:#2C3843;
+  --accent:#FF7A33; --accent-ink:#1A0D06;
+  --out:#FF6B6B; --out-bg:#3A1C1C; --gtd:#F2C14E; --gtd-bg:#3A2F12; --ok:#5DD39E; --ok-bg:#163326; --info:#7FB2F0; --info-bg:#172A42;
+  color-scheme:dark }
+:root[data-theme="light"]{color-scheme:light}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.4;margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+a{color:var(--info)}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;letter-spacing:.01em}
+.num{font-variant-numeric:tabular-nums}
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--surface);border-bottom:1px solid var(--line)}
+.top-inner{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:10px 0;max-width:1100px;margin:0 auto}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.brand h1{font-size:28px;font-weight:700;text-transform:uppercase;line-height:1}
+.brand h1 em{font-style:normal;color:var(--accent)}
+.stamp{font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--muted);display:inline-block}
+.dot.live{background:var(--ok)}
+.dot.stale{background:var(--gtd)}
+.dot.off{background:var(--out)}
+.iconbtn{appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--muted);font:inherit;font-size:12px;border-radius:999px;padding:2px 9px;cursor:pointer;line-height:1.5}
+.iconbtn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.tabs{display:flex;gap:2px;overflow-x:auto;margin-top:8px;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{appearance:none;border:0;background:none;color:var(--muted);font-family:var(--display);font-size:17px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;padding:8px 12px;border-bottom:3px solid transparent;cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+.tab:focus-visible{outline:2px solid var(--accent);outline-offset:-2px;border-radius:4px}
+.tab .cnt{font-family:var(--body);font-size:11px;background:var(--surface-2);color:var(--fg);border-radius:10px;padding:1px 6px;margin-left:5px;vertical-align:middle}
+
+main{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:14px max(48px,env(safe-area-inset-bottom,0px));max-width:1100px;margin:0 auto}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+.toolbar input,.toolbar select{font:inherit;color:var(--fg);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:7px 10px;min-width:0}
+.toolbar input{flex:1 1 180px}
+.toolbar select{flex:0 1 auto}
+.toolbar input:focus-visible,.toolbar select:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--muted);font:inherit;font-size:13px;border-radius:999px;padding:4px 11px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.chip:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+
+section[role="tabpanel"]{display:block}
+[hidden]{display:none !important}
+.grid{display:grid;grid-template-columns:1fr;gap:10px}
+@media (min-width:760px){.grid.two{grid-template-columns:1fr 1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;min-width:0}
+.card.pri1{border-left:4px solid var(--accent)}
+.card.pri2{border-left:4px solid var(--info)}
+.card.pri3{border-left:4px solid var(--line)}
+.row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.row.between{justify-content:space-between}
+.name{font-family:var(--display);font-size:21px;font-weight:600;line-height:1.1}
+.team{font-family:var(--display);font-weight:700;font-size:13px;letter-spacing:.06em;background:var(--surface-2);color:var(--fg);padding:2px 7px;border-radius:4px}
+.pos{font-size:12px;color:var(--muted);letter-spacing:.04em}
+.pill{font-size:11.5px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.pill.out{background:var(--out-bg);color:var(--out)}
+.pill.gtd{background:var(--gtd-bg);color:var(--gtd)}
+.pill.ok{background:var(--ok-bg);color:var(--ok)}
+.pill.info{background:var(--info-bg);color:var(--info)}
+.pill.p1{background:var(--accent);color:var(--accent-ink)}
+.pill.p2{background:var(--info-bg);color:var(--info)}
+.pill.p3{background:var(--surface-2);color:var(--muted)}
+.meta{font-size:13px;color:var(--muted)}
+.why{margin:8px 0 4px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:3px 10px;font-size:13.5px;margin-top:8px}
+.kv dt{color:var(--muted);margin:0}
+.kv dd{margin:0;min-width:0}
+.avail{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.avail span{font-size:12px;border:1px dashed var(--line);border-radius:4px;padding:2px 7px;color:var(--muted)}
+.avail span.yes{border-style:solid;border-color:var(--ok);color:var(--ok)}
+.avail span.no{border-style:solid;border-color:var(--out);color:var(--out);text-decoration:line-through}
+.avail span.note{border-style:solid;border-color:var(--info);color:var(--info)}
+
+.teamblock{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.teamblock summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:10px 14px;font-family:var(--display);font-size:18px;font-weight:600}
+.teamblock summary::-webkit-details-marker{display:none}
+.teamblock summary .meta{margin-left:auto;font-family:var(--body);font-weight:400}
+.teamblock summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.inj{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:9px 14px;border-top:1px solid var(--line);align-items:start}
+.inj .name{font-size:17px}
+.inj .meta{grid-column:1 / -1}
+
+.news{display:flex;flex-direction:column;gap:0;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.news-item{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;padding:10px 14px;border-top:1px solid var(--line)}
+.news-item:first-child{border-top:0}
+.news-item time{font-size:12px;color:var(--muted);padding-top:4px;white-space:nowrap}
+.news-item .hd{font-weight:600}
+.news-item .hd a{color:inherit;text-decoration:none}
+.news-item .hd a:hover{text-decoration:underline}
+.news-item .kind{font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-left:6px}
+.kind.lineup{color:var(--accent)}.kind.injury{color:var(--out)}.kind.transaction{color:var(--info)}.kind.other{color:var(--muted)}
+
+.league{margin-bottom:18px}
+.league h2{font-size:22px;margin-bottom:8px}
+.league h2 small{font-family:var(--body);font-size:13px;color:var(--muted);font-weight:400;margin-left:8px}
+.ros{background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.ros-row{display:grid;grid-template-columns:1fr auto auto;gap:2px 10px;align-items:center;padding:9px 14px;border-top:1px solid var(--line)}
+.ros-row:first-child{border-top:0}
+.ros-row .meta{grid-column:1 / -1}
+.slot{font-family:var(--display);font-size:12px;font-weight:600;color:var(--muted);letter-spacing:.05em;min-width:2.6em;display:inline-block}
+.games{font-family:var(--display);font-size:18px;font-weight:600;min-width:2.2em;text-align:right}
+.games.g4{color:var(--ok)}.games.g2{color:var(--gtd)}.games.g1,.games.g0{color:var(--out)}
+
+.sched{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:13.5px}
+th,td{padding:7px 8px;text-align:center;border-top:1px solid var(--line)}
+th{font-family:var(--display);font-size:14px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;border-top:0;position:sticky;top:0;background:var(--surface)}
+td:first-child,th:first-child{text-align:left;font-family:var(--display);font-size:16px;font-weight:600;letter-spacing:.04em}
+td.g{font-family:var(--display);font-size:18px;font-weight:700}
+.sq{display:inline-block;width:14px;height:14px;border-radius:3px;background:var(--surface-2)}
+.sq.on{background:var(--accent)}
+.sq.today{box-shadow:0 0 0 2px var(--info)}
+tr.hot td{background:color-mix(in srgb,var(--ok-bg) 55%,transparent)}
+tr.cold td{background:color-mix(in srgb,var(--out-bg) 45%,transparent)}
+tr.mine td{background:var(--surface-2);font-family:var(--display);font-size:18px;font-weight:700}
+tr.mine td:first-child{font-size:16px;white-space:nowrap}
+tr.mine td.low{color:var(--out)}
+tr.mine td.today{box-shadow:inset 0 -3px 0 var(--info)}
+tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
+
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:20px 16px;color:var(--muted)}
+.empty strong{color:var(--fg)}
+.empty code{font-size:13px;background:var(--surface-2);padding:1px 5px;border-radius:3px}
+.foot{margin-top:28px;font-size:12px;color:var(--muted);line-height:1.6}
+.foot .warn{color:var(--gtd)}
+@media (prefers-reduced-motion:no-preference){.card,.teamblock{transition:border-color .15s}}
+</style>
+</head>
+<body>
+<header class="top"><div class="top-inner">
+  <div class="brand">
+    <h1>Waiver <em>Radar</em></h1>
+    <div class="stamp"><span class="dot" id="dot"></span><span id="stamp">Učitavam podatke…</span><button class="iconbtn" id="themebtn" type="button" aria-label="Promijeni temu">Tema: auto</button></div>
+  </div>
+  <div class="tabs" role="tablist" aria-label="Sekcije">
+    <button class="tab" role="tab" aria-selected="true" data-tab="waiver">Waiver<span class="cnt num" id="c-waiver">–</span></button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="injuries">Ozljede<span class="cnt num" id="c-injuries">–</span></button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="news">Postave<span class="cnt num" id="c-news">–</span></button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="mine">Moji igrači</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="schedule">Raspored</button>
+  </div>
+</div></header>
+
+<main>
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Traži igrača…" aria-label="Traži igrača" autocomplete="off">
+    <select id="teamsel" aria-label="Filtriraj po timu"><option value="">Svi timovi</option></select>
+  </div>
+
+  <section role="tabpanel" id="p-waiver">
+    <div class="chips" id="pri-chips" style="margin-bottom:12px">
+      <button class="chip" aria-pressed="true" data-pri="">Sve</button>
+      <button class="chip" aria-pressed="false" data-pri="1">Uzmi odmah</button>
+      <button class="chip" aria-pressed="false" data-pri="2">Stream / stash</button>
+      <button class="chip" aria-pressed="false" data-pri="3">Špekulacija</button>
+    </div>
+    <div class="grid two" id="waiver-list"></div>
+  </section>
+
+  <section role="tabpanel" id="p-injuries" hidden>
+    <div class="chips" id="inj-chips" style="margin-bottom:12px">
+      <button class="chip" aria-pressed="true" data-kind="">Sve</button>
+      <button class="chip" aria-pressed="false" data-kind="out">Out</button>
+      <button class="chip" aria-pressed="false" data-kind="gtd">Upitan (GTD)</button>
+      <button class="chip" aria-pressed="false" data-kind="out_season">Sezona gotova</button>
+    </div>
+    <div class="grid two" id="inj-list"></div>
+  </section>
+
+  <section role="tabpanel" id="p-news" hidden>
+    <div class="chips" id="news-chips" style="margin-bottom:12px">
+      <button class="chip" aria-pressed="true" data-kind="">Sve</button>
+      <button class="chip" aria-pressed="false" data-kind="lineup">Postava / minute</button>
+      <button class="chip" aria-pressed="false" data-kind="injury">Ozljede</button>
+      <button class="chip" aria-pressed="false" data-kind="transaction">Transakcije</button>
+    </div>
+    <div class="news" id="news-list"></div>
+  </section>
+
+  <section role="tabpanel" id="p-mine" hidden>
+    <div id="mine-list"></div>
+  </section>
+
+  <section role="tabpanel" id="p-schedule" hidden>
+    <div class="chips" id="week-chips" style="margin-bottom:12px"></div>
+    <div class="sched"><table id="sched-table"><thead></thead><tbody></tbody></table></div>
+    <p class="meta" style="margin-top:8px">ESPN H2H tjedan: prvi tjedan je uto–ned (20.–25.10.), dalje pon–ned. Zeleno = 4 utakmice, crveno = 2 ili manje. Red „Moji igrači” broji igrače koji igraju taj dan (bez IR-a i igrača koji su out).</p>
+  </section>
+
+  <p class="foot" id="foot">Izvori: ozljede CBS Sports, vijesti RotoWire, raspored Basketball-Reference, rosteri ESPN Fantasy. Podatke osvježava GitHub Actions 3× dnevno; waiver preporuke su analiza, ne garancija.</p>
+  <p class="foot" id="status" style="margin-top:4px"></p>
+</main>
+
+<script>
+(function(){
+  const TEAMS={ATL:"Hawks",BOS:"Celtics",BKN:"Nets",CHA:"Hornets",CHI:"Bulls",CLE:"Cavaliers",DAL:"Mavericks",DEN:"Nuggets",DET:"Pistons",GSW:"Warriors",HOU:"Rockets",IND:"Pacers",LAC:"Clippers",LAL:"Lakers",MEM:"Grizzlies",MIA:"Heat",MIL:"Bucks",MIN:"Timberwolves",NOP:"Pelicans",NYK:"Knicks",OKC:"Thunder",ORL:"Magic",PHI:"76ers",PHX:"Suns",POR:"Trail Blazers",SAC:"Kings",SAS:"Spurs",TOR:"Raptors",UTA:"Jazz",WAS:"Wizards"};
+  const DAYS=["Ned","Pon","Uto","Sri","Čet","Pet","Sub"];
+  const FILES=["injuries","news","waiver","schedule","rosters","meta"];
+  const SOURCES={cbs:"CBS ozljede",rotowire:"RotoWire",bref:"Basketball-Reference",espn:"ESPN",analyze:"analiza",telegram:"Telegram"};
+  const S={injuries:null,news:null,waiver:null,schedule:null,rosters:null,meta:null,tab:"waiver",q:"",team:"",pri:"",injKind:"",newsKind:"",week:null,theme:"auto"};
+  const $=id=>document.getElementById(id);
+  const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const norm=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g,"").replace(/\b(jr|sr|ii|iii|iv)\b/g,"").replace(/\s+/g," ").trim();
+  const isoOf=d=>d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+  const todayISO=()=>isoOf(new Date());
+  const fmtD=iso=>{if(!iso)return"";const [y,m,d]=iso.split("-");return `${+d}.${+m}.`;};
+  const fmtDT=iso=>{if(!iso)return"";try{const d=new Date(iso);return d.toLocaleString("hr-HR",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"});}catch(e){return iso;}};
+  const ago=iso=>{const m=Math.max(0,Math.round((Date.now()-new Date(iso).getTime())/60000));if(m<1)return"upravo";if(m<60)return`prije ${m} min`;const h=Math.floor(m/60);if(h<24)return`prije ${h} h`+(h<6&&m%60?` ${m%60} min`:"");const d=Math.floor(h/24);return`prije ${d} ${d===1?"dan":"dana"}`;};
+  const safe=(fn)=>{try{return fn();}catch(e){return null;}};
+
+  // team select
+  const sel=$("teamsel");
+  Object.keys(TEAMS).sort().forEach(k=>{const o=document.createElement("option");o.value=k;o.textContent=k+" · "+TEAMS[k];sel.appendChild(o);});
+
+  // per-viewer conveniences
+  S.tab=safe(()=>localStorage.getItem("wr.tab"))||S.tab;
+  S.theme=safe(()=>localStorage.getItem("wr.theme"))||"auto";
+
+  // ---------- theme
+  function applyTheme(){
+    const root=document.documentElement;
+    if(S.theme==="auto")delete root.dataset.theme;else root.dataset.theme=S.theme;
+    $("themebtn").textContent="Tema: "+({auto:"auto",light:"svijetla",dark:"tamna"}[S.theme]);
+    const dark=S.theme==="dark"||(S.theme==="auto"&&matchMedia("(prefers-color-scheme: dark)").matches);
+    document.querySelectorAll('meta[name="theme-color"]').forEach(m=>{m.content=dark?"#182028":"#FFFFFF";});
+  }
+  $("themebtn").addEventListener("click",()=>{S.theme={auto:"light",light:"dark",dark:"auto"}[S.theme];safe(()=>localStorage.setItem("wr.theme",S.theme));applyTheme();});
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change",applyTheme);
+  applyTheme();
+
+  // ---------- helpers over data
+  function currentWeek(){
+    const w=(S.schedule&&S.schedule.weeks)||[];if(!w.length)return null;
+    const t=todayISO();let i=w.findIndex(x=>t>=x.start&&t<=x.end);if(i<0)i=t<w[0].start?0:w.length-1;
+    return {idx:i,week:w[i]};
+  }
+  function gamesThisWeek(team){const c=currentWeek();if(!c||!team)return null;const x=c.week.teams[team];return x?x.n:null;}
+  function injuryFor(name){if(!S.injuries)return null;const n=norm(name);return (S.injuries.items||[]).find(i=>norm(i.player)===n)||null;}
+  function newsFor(name){if(!S.news)return[];const n=norm(name);return (S.news.items||[]).filter(i=>norm(i.player)===n);}
+  function statusPill(inj){
+    if(!inj)return `<span class="pill ok">Zdrav</span>`;
+    if(inj.kind==="out_season")return `<span class="pill out">Out za sezonu</span>`;
+    if(inj.kind==="out")return `<span class="pill out">Out${inj.ret?" · do "+fmtD(inj.ret):""}</span>`;
+    return `<span class="pill gtd">GTD · ${esc(inj.injury||"")}</span>`;
+  }
+  function gamesBadge(team){const n=gamesThisWeek(team);if(n==null)return"";return `<span class="games num g${n}" title="Utakmica ovaj tjedan">${n}<span class="pos"> utak.</span></span>`;}
+  function matches(name,team){
+    if(S.team&&team!==S.team)return false;
+    if(S.q&&!norm(name).includes(norm(S.q)))return false;
+    return true;
+  }
+  const activePicks=()=>((S.waiver&&S.waiver.picks)||[]).filter(p=>!p.expires||p.expires>=todayISO());
+
+  // ---------- renderers
+  function renderWaiver(){
+    const el=$("waiver-list");const picks=activePicks();
+    $("c-waiver").textContent=picks.length||"–";
+    if(!S.waiver){el.innerHTML=`<div class="empty">Waiver preporuke se pune nakon prve analize. Ovdje će stajati igrači kojima se otvara uloga zbog ozljede suigrača ili promjene u postavi, s prioritetom, horizontom i rizikom.</div>`;return;}
+    const list=picks.filter(p=>matches(p.player,p.team)&&(!S.pri||String(p.priority)===S.pri)).sort((a,b)=>a.priority-b.priority);
+    if(!list.length){el.innerHTML=`<div class="empty">Nema preporuka za ovaj filter.</div>`;return;}
+    const PRI={1:"Uzmi odmah",2:"Stream / stash",3:"Špekulacija"};
+    el.innerHTML=list.map(p=>{
+      const inj=injuryFor(p.player);
+      const av=(p.avail?Object.entries(p.avail).map(([k,v])=>`<span class="${v===true?"yes":v===false?"no":""}">${esc(k)}: ${v===true?"slobodan":v===false?"zauzet":"nepoznato"}</span>`).join(""):"")+(p.note?`<span class="note">${esc(p.note)}</span>`:"");
+      return `<article class="card pri${p.priority}">
+        <div class="row between"><div class="row"><span class="name">${esc(p.player)}</span><span class="team">${esc(p.team)}</span><span class="pos">${esc(p.pos||"")}</span></div><span class="pill p${p.priority}">${PRI[p.priority]||""}</span></div>
+        <div class="row" style="margin-top:6px">${statusPill(inj)}${gamesBadge(p.team)}</div>
+        <p class="why">${esc(p.reason||"")}</p>
+        <dl class="kv">${p.role?`<dt>Uloga</dt><dd>${esc(p.role)}</dd>`:""}${p.horizon?`<dt>Horizont</dt><dd>${esc(p.horizon)}</dd>`:""}${p.risk?`<dt>Rizik</dt><dd>${esc(p.risk)}</dd>`:""}${p.fpts?`<dt>Procjena</dt><dd class="num">~${esc(p.fpts)} FP po utakmici</dd>`:""}</dl>
+        ${av?`<div class="avail">${av}</div>`:""}
+        ${p.source?`<p class="meta" style="margin:8px 0 0"><a href="${esc(p.source)}" target="_blank" rel="noopener">Izvor</a></p>`:""}
+      </article>`;}).join("");
+  }
+
+  function renderInjuries(){
+    const el=$("inj-list");const items=(S.injuries&&S.injuries.items)||[];
+    $("c-injuries").textContent=items.length||"–";
+    if(!S.injuries){el.innerHTML=`<div class="empty">Lista ozljeda po timovima se učitava. Status: <strong>Out</strong> s datumom povratka, <strong>GTD</strong> (game-time decision) i <strong>Out za sezonu</strong>.</div>`;return;}
+    const f=items.filter(i=>matches(i.player,i.team)&&(!S.injKind||i.kind===S.injKind));
+    if(!f.length){el.innerHTML=`<div class="empty">Nema ozljeda za ovaj filter.</div>`;return;}
+    const by={};f.forEach(i=>(by[i.team]=by[i.team]||[]).push(i));
+    const open=!!(S.q||S.team||S.injKind);
+    el.innerHTML=Object.keys(by).sort().map(t=>{
+      const rows=by[t];const nOut=rows.filter(r=>r.kind!=="gtd").length;
+      return `<details class="teamblock"${open||nOut?" open":""}><summary><span class="team">${t}</span>${esc(TEAMS[t]||t)}<span class="meta num">${rows.length} ${rows.length===1?"igrač":"igrača"}${nOut?` · ${nOut} out`:""}</span></summary>
+        ${rows.map(r=>`<div class="inj"><span class="name">${esc(r.player)} <span class="pos">${esc(r.pos||"")}</span></span>${statusPill(r)}<span class="meta">${esc(r.injury||"")}${r.status&&r.kind==="out"?" · "+esc(r.status):""} · ažur. ${fmtD(r.updated)}</span></div>`).join("")}
+      </details>`;}).join("");
+  }
+
+  function renderNews(){
+    const el=$("news-list");const items=(S.news&&S.news.items)||[];
+    $("c-news").textContent=items.length||"–";
+    if(!S.news){el.innerHTML=`<div class="empty" style="border:0">Vijesti o postavama, minutama i ozljedama se učitavaju.</div>`;return;}
+    const f=items.filter(i=>matches(i.player,i.team)&&(!S.newsKind||i.kind===S.newsKind)).sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+    if(!f.length){el.innerHTML=`<div class="empty" style="border:0">Nema vijesti za ovaj filter.</div>`;return;}
+    const K={lineup:"postava",injury:"ozljeda",transaction:"transakcija",other:""};
+    el.innerHTML=f.map(i=>{const hd=`${esc(i.player)} — ${esc(i.headline)}`;
+      return `<div class="news-item"><time datetime="${esc(i.date)}">${fmtD(i.date)}</time><div><div class="row"><span class="team">${esc(i.team||"")}</span><span class="hd">${i.url?`<a href="${esc(i.url)}" target="_blank" rel="noopener">${hd}</a>`:hd}</span><span class="kind ${esc(i.kind||"other")}">${K[i.kind]||""}</span></div><div class="meta">${esc(i.note||"")}</div></div></div>`;}).join("");
+  }
+
+  function renderMine(){
+    const el=$("mine-list");
+    const leagues=((S.rosters&&S.rosters.leagues)||[]).filter(L=>(L.players||[]).length);
+    if(!leagues.length){el.innerHTML=`<div class="empty"><strong>Još nema spremljenih rostera.</strong><br>Dodaj <code>espnLeagueId</code> (i po potrebi <code>espnTeamId</code>) za ligu u <code>config.json</code> ili upiši igrače u <code>manualPlayers</code>; idući prolaz će ovdje za svakog tvog igrača pokazati status ozljede, zadnje vijesti i broj utakmica u tjednu.</div>`;return;}
+    el.innerHTML=leagues.map(L=>{
+      const ps=(L.players||[]).filter(p=>matches(p.name,p.team));
+      const rows=ps.map(p=>{const inj=injuryFor(p.name);const nw=newsFor(p.name).slice(0,2);
+        return `<div class="ros-row"><span class="name" style="font-size:18px">${p.slot?`<span class="slot">${esc(p.slot)}</span>`:""}${esc(p.name)} <span class="team">${esc(p.team||"")}</span> <span class="pos">${esc(p.pos||"")}</span></span>${statusPill(inj)}${gamesBadge(p.team)}
+          ${inj||nw.length?`<span class="meta">${inj?esc(inj.injury||"")+(inj.kind==="out"&&inj.status?" · "+esc(inj.status):"")+(nw.length?" · ":""):""}${nw.map(n=>fmtD(n.date)+" "+esc(n.headline)).join(" · ")}</span>`:""}
+        </div>`;}).join("");
+      const sub=[L.team,L.espnLeagueId?null:"ručni roster — dodaj ESPN League ID",L.updated?"ažur. "+fmtDT(L.updated):null].filter(Boolean).join(" · ");
+      return `<div class="league"><h2>${esc(L.name)}<small>${esc(sub)}</small></h2><div class="ros">${rows||`<div class="ros-row"><span class="meta">Nema igrača za ovaj filter.</span></div>`}</div></div>`;
+    }).join("");
+  }
+
+  function myDayRows(days){
+    const leagues=((S.rosters&&S.rosters.leagues)||[]).filter(L=>(L.players||[]).length);
+    const w=S.schedule.weeks[S.week];const t=todayISO();
+    return leagues.map(L=>{
+      const active=L.players.filter(p=>p.slot!=="IR"&&!((x=>x&&x.kind!=="gtd")(injuryFor(p.name))));
+      const per=days.map(d=>active.filter(p=>((w.teams[p.team]||{}).dates||[]).includes(d.iso)).length);
+      const total=per.reduce((a,b)=>a+b,0);
+      return `<tr class="mine"><td>Moji igrači <span class="meta" style="font-family:var(--body);font-weight:400">${esc(L.name)}</span></td><td class="g num" title="Ukupno utakmica mojih igrača">${total}</td>${per.map((n,i)=>`<td class="num ${n<=2?"low":""} ${days[i].iso===t?"today":""}" title="${n} mojih igrača igra">${n}</td>`).join("")}</tr>`;
+    }).join("");
+  }
+
+  function renderSchedule(){
+    const chips=$("week-chips");const tbl=$("sched-table");
+    const weeks=(S.schedule&&S.schedule.weeks)||[];
+    if(!weeks.length){chips.innerHTML="";tbl.querySelector("thead").innerHTML="";tbl.querySelector("tbody").innerHTML=`<tr><td colspan="9" class="meta" style="text-align:left">Raspored se učitava.</td></tr>`;return;}
+    if(S.week==null||S.week>=weeks.length)S.week=(currentWeek()||{idx:0}).idx;
+    chips.innerHTML=weeks.map((w,i)=>`<button class="chip" aria-pressed="${i===S.week}" data-week="${i}">${esc(w.label)} · ${fmtD(w.start)}–${fmtD(w.end)}</button>`).join("");
+    const w=weeks[S.week];
+    const days=[];for(let d=new Date(w.start+"T12:00:00");;d.setDate(d.getDate()+1)){const iso=isoOf(d);days.push({iso,lab:DAYS[d.getDay()]+" "+d.getDate()+"."});if(iso>=w.end||days.length>7)break;}
+    const t=todayISO();
+    tbl.querySelector("thead").innerHTML=`<tr><th>Tim</th><th>Utak.</th>${days.map(d=>`<th>${d.lab}</th>`).join("")}</tr>`;
+    const rows=Object.keys(TEAMS).filter(k=>!S.team||k===S.team).map(k=>({k,n:(w.teams[k]||{n:0}).n,dates:(w.teams[k]||{dates:[]}).dates})).sort((a,b)=>b.n-a.n||a.k.localeCompare(b.k));
+    tbl.querySelector("tbody").innerHTML=myDayRows(days)+rows.map(r=>`<tr class="${r.n>=4?"hot":r.n<=2?"cold":""}"><td>${r.k} <span class="meta" style="font-family:var(--body);font-weight:400">${esc(TEAMS[r.k])}</span></td><td class="g num">${r.n}</td>${days.map(d=>`<td><span class="sq ${r.dates.includes(d.iso)?"on":""} ${d.iso===t?"today":""}"></span></td>`).join("")}</tr>`).join("");
+  }
+
+  function lastUpdate(){
+    if(S.meta&&S.meta.updated)return S.meta.updated;
+    const ts=[S.injuries&&S.injuries.updated,S.news&&S.news.updated,S.waiver&&S.waiver.updated].filter(Boolean).sort();
+    return ts[ts.length-1]||null;
+  }
+  function renderStamp(){
+    const parts=[];const latest=lastUpdate();const dot=$("dot");
+    dot.className="dot";
+    if(latest){
+      parts.push("Ažurirano "+ago(latest));
+      dot.classList.add(!navigator.onLine?"off":(Date.now()-new Date(latest).getTime())>14*3600e3?"stale":"live");
+      $("stamp").title="Zadnje osvježavanje: "+fmtDT(latest);
+    }
+    if(!navigator.onLine)parts.push("offline");
+    const c=currentWeek();if(c)parts.push(c.week.label+" · "+fmtD(c.week.start)+"–"+fmtD(c.week.end));
+    $("stamp").textContent=parts.join(" · ")||"Čekam prve podatke…";
+  }
+
+  function renderStatus(){
+    const m=S.meta;if(!m){$("status").textContent="";return;}
+    const bad=Object.entries(m.sources||{}).filter(([,v])=>!v.ok);
+    const engine=m.engine==="claude"?"Claude analiza":"heuristika";
+    $("status").innerHTML=`Preporuke: ${esc(engine)}.`+(bad.length?` <span class="warn">Izvor nije uspio u zadnjem prolazu: ${bad.map(([k,v])=>esc(SOURCES[k]||k)+(v.lastOk?` (zadnje uspješno ${ago(v.lastOk)})`:"")).join(", ")} — prikazuje se prethodni snapshot.</span>`:"");
+  }
+
+  function renderAll(){renderStamp();renderWaiver();renderInjuries();renderNews();renderMine();renderSchedule();renderStatus();}
+
+  // ---------- tabs & filters
+  function showTab(name){S.tab=name;document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===name)));
+    ["waiver","injuries","news","mine","schedule"].forEach(n=>{$("p-"+n).hidden=n!==name;});safe(()=>localStorage.setItem("wr.tab",name));}
+  document.querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.tab)));
+  const hash=(location.hash||"").slice(1);showTab(["waiver","injuries","news","mine","schedule"].includes(hash)?hash:S.tab);
+  $("q").addEventListener("input",e=>{S.q=e.target.value;renderAll();});
+  sel.addEventListener("change",e=>{S.team=e.target.value;renderAll();});
+  function chipGroup(id,key,attr,after){$(id).addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S[key]=b.dataset[attr]||"";$(id).querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c===b)));after();});}
+  chipGroup("pri-chips","pri","pri",renderWaiver);chipGroup("inj-chips","injKind","kind",renderInjuries);chipGroup("news-chips","newsKind","kind",renderNews);
+  $("week-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.week=+b.dataset.week;renderSchedule();});
+
+  renderAll();
+
+  // ---------- data: static JSON snapshots next to the page (the service worker serves them cache-first)
+  let loading=null;
+  function load(){
+    if(loading)return loading;
+    loading=Promise.allSettled(FILES.map(f=>fetch(`data/${f}.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(f+" "+r.status);return r.json();})))
+      .then(res=>{
+        res.forEach((r,i)=>{if(r.status==="fulfilled")S[FILES[i]]=r.value;else console.warn(r.reason);});
+        if(res.every(r=>r.status==="rejected")&&!lastUpdate())$("stamp").textContent="Podaci nisu dostupni (offline?)";
+        else renderAll();
+      })
+      .finally(()=>{loading=null;});
+    return loading;
+  }
+  load();
+  setInterval(renderStamp,60e3);
+  document.addEventListener("visibilitychange",()=>{if(!document.hidden)load();});
+  addEventListener("online",()=>{renderStamp();load();});
+  addEventListener("offline",renderStamp);
+
+  if("serviceWorker" in navigator){
+    let t=null;
+    navigator.serviceWorker.addEventListener("message",e=>{if(e.data&&e.data.type==="data-updated"){clearTimeout(t);t=setTimeout(load,400);}});
+    addEventListener("load",()=>{navigator.serviceWorker.register("sw.js").catch(e=>console.warn("SW",e));});
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,605 @@
+{
+ "updated": "2026-10-19T15:24:16Z",
+ "items": [
+  {
+   "date": "2026-10-19",
+   "team": "FA",
+   "player": "Dwight Powell",
+   "headline": "Waived by Dallas",
+   "note": "The Mavericks waived Powell on Monday, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-waived-by-dallas-535141"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Signs five-year extension",
+   "note": "Wallace (undisclosed) agreed to a five-year, $139 million contract extension with the Thunder on Sunday, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-signs-five-year-extension-535140"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Suffers minor ankle injury",
+   "note": "Curry sustained a right ankle injury during Sunday's practice but is expected to be fine, Dalton Johnson of NBC Sports Bay Area reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-suffers-minor-ankle-injury-535139"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Inks three-year extension",
+   "note": "Ighodaro (hip) signed a three-year, $29 million deal with the Suns on Sunday, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-inks-three-year-extension-535138"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Appears to injure knee",
+   "note": "Curry appeared to suffer a right knee injury during Sunday's open practice, Dalton Johnson of NBC Sports Bay Area reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-appears-to-injure-knee-535137"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "SAC",
+   "player": "Ben Simmons",
+   "headline": "Suffers torn Achilles",
+   "note": "Simmons suffered a season-ending right Achilles tear during practice Sunday, Shams Charania of ESPN reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ben-simmons-injury-suffers-torn-achilles-535136"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Uncertain for regular-season opener",
+   "note": "Aldama (knee) remains without a timetable to return, and head coach Dusty May said he \"doesn't know yet\" if the forward will play in Wednesday's regular-season opener against Houston, Mike Curtis of The Dallas Morning News reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-uncertain-for-regular-season-opener-535135"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "headline": "Practices Sunday",
+   "note": "Jones (hamstring) participated in Sunday's practice, Adam Mares of TheDNVR.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-practices-sunday-535134"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "HOU",
+   "player": "Steven Adams",
+   "headline": "Not facing minutes restrictions",
+   "note": "Head coach Ime Udoka said Sunday that Adams won't face any minutes restrictions to begin the regular season, but the Rockets may be cautious with his availability in back-to-back sets, Lachard Binkley of SI.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-news-not-facing-minutes-restrictions-535133"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "HOU",
+   "player": "Fred VanVleet",
+   "headline": "Won't face minutes restrictions",
+   "note": "Head coach Ime Udoka said Sunday that VanVleet won't face any minutes restrictions to begin the regular season, though the team may exercise caution in back-to-back sets, Lachard Binkley of SI.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-wont-face-minutes-restrictions-535132"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Increasing workload in practice",
+   "note": "Head coach Charles Lee said Sunday that White (calf) is without a definitive timetable for a return, though he's been ramping up and taking more contact in practice, Nick Carboni of WCNC Charlotte reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-increasing-workload-in-practice-535131"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Ramping up toward return",
+   "note": "Head coach Charles Lee said Sunday that Knueppel (hamstring) is still without a timetable for a return, though he's been ramping up and taking more contact in practice, Nick Carboni of WCNC Charlotte reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-ramping-up-toward-return-535130"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "PHI",
+   "player": "Adem Bona",
+   "headline": "Full participant in Sunday's practice",
+   "note": "Bona (foot) was a full participant in Sunday's practice, Ky Carlin of USA Today reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-full-participant-in-sundays-practice-535129"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "PHI",
+   "player": "Anfernee Simons",
+   "headline": "Practices Sunday",
+   "note": "Simons (hamstring) was a full participant in Sunday's practice, Ky Carlin of USA Today reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-injury-practices-sunday-535128"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "PHI",
+   "player": "Dominick Barlow",
+   "headline": "Unable to practice Sunday",
+   "note": "Barlow (back) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-unable-to-practice-sunday-535126"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Doesn't practice Sunday",
+   "note": "Wade (ankle) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-doesnt-practice-sunday-535125"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Progressing in recovery",
+   "note": "Black (ankle) participated in Sunday's practice, and head coach Sean Sweeney said he will continue ramping up, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-progressing-in-recovery-535124"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "MIA",
+   "player": "Dru Smith",
+   "headline": "Active in Sunday's practice",
+   "note": "Smith (calf) participated in Sunday's practice, Anthony Chiang of the Miami Herald reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dru-smith-injury-active-in-sundays-practice-535123"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Participates in Sunday's practice",
+   "note": "Larsson (illness) participated in Sunday's practice, Anthony Chiang of the Miami Herald reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-participates-in-sundays-practice-535122"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "MIA",
+   "player": "Bam Adebayo",
+   "headline": "Practices Sunday",
+   "note": "Adebayo (groin) participated in Sunday's practice, Ira Winderman of the South Florida Sun Sentinel reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-injury-practices-sunday-535121"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "Considered day-to-day",
+   "note": "Head coach Brian Keefe said Sunday that Dybantsa is day-to-day with an ankle sprain, Kyle Williams of the Chicago Sun-Times reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-considered-day-to-day-535120"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "ORL",
+   "player": "Franz Wagner",
+   "headline": "Limited in Sunday's practice",
+   "note": "Head coach Sean Sweeney said the team will continue to evaluate Wagner's right shoulder, and he was limited to \"light work\" in Sunday's practice, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-injury-limited-in-sundays-practice-535119"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "ORL",
+   "player": "Jase Richardson",
+   "headline": "Classified as day-to-day",
+   "note": "Richardson (back) is considered day-to-day, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-injury-classified-as-day-to-day-535110"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "FA",
+   "player": "Milos Uzan",
+   "headline": "Waived by Boston",
+   "note": "Uzan was waived by the Celtics on Saturday, Keith Smith of Spotrac.com reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/milos-uzan-news-waived-by-boston-535107"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "FA",
+   "player": "Gabe McGlothan",
+   "headline": "Waived by Celtics",
+   "note": "McGlothan was waived by the Celtics on Saturday, Keith Smith of Spotrac.com reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gabe-mcglothan-news-waived-by-celtics-535106"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "ORL",
+   "player": "Noah Penda",
+   "headline": "Suffers partial hamstring tear",
+   "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noah-penda-injury-suffers-partial-hamstring-tear-535097"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "FA",
+   "player": "Enrique Freeman",
+   "headline": "Waived by Minnesota",
+   "note": "Freeman (shoulder) was waived by the Timberwolves on Saturday.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/enrique-freeman-injury-waived-by-minnesota-535082"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "PHI",
+   "player": "Tacko Fall",
+   "headline": "Lands two-way pact",
+   "note": "Fall had his Exhibit 10 deal converted to a two-way contract by the 76ers on Saturday, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tacko-fall-injury-lands-two-way-pact-534999"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CLE",
+   "player": "Sam Merrill",
+   "headline": "Not scrimmaging Saturday",
+   "note": "Merrill (elbow) isn't participating in Saturday's scrimmage, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-injury-not-scrimmaging-saturday-534992"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "ATL",
+   "player": "Jock Landale",
+   "headline": "Stuffs stat sheet Friday",
+   "note": "Landale recorded 16 points (4-5 FG, 3-4 3Pt, 5-5 FT), six rebounds, five assists and a block across 21 minutes in Friday's 135-111 preseason win over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-stuffs-stat-sheet-friday-534948"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "ATL",
+   "player": "Aaron Wiggins",
+   "headline": "Solid display off bench Friday",
+   "note": "Wiggins delivered 19 points (6-13 FG, 4-9 3Pt, 3-4 FT), seven rebounds and two assists across 22 minutes in Friday's 135-111 preseason win over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-solid-display-off-bench-friday-534947"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Leads Hawks in scoring in preseason finale",
+   "note": "Alexander-Walker recorded 25 points (7-12 FG, 6-10 3Pt, 5-9 FT), three rebounds and five assists across 27 minutes in Friday's 135-111 preseason win over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-leads-hawks-in-scoring-in-preseason-finale-534946"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Sam Hauser",
+   "headline": "Expected to suit up Tuesday",
+   "note": "Hauser (rest) is expected to play in Tuesday's game against Detroit.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-expected-to-suit-up-tuesday-535078"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Neemias Queta",
+   "headline": "Expected to suit up Tuesday",
+   "note": "Queta (rest) is expected to play in Tuesday's game against the Pistons.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-expected-to-suit-up-tuesday-535074"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Payton Pritchard",
+   "headline": "Set to play Tuesday",
+   "note": "Pritchard (rest) is expected to play in Tuesday's game versus Detroit.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-set-to-play-tuesday-535073"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "On track to play Tuesday",
+   "note": "Robinson (rest) is expected to play Tuesday versus Detroit.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-on-track-to-play-tuesday-535064"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Derrick White",
+   "headline": "Expected to play Tuesday",
+   "note": "White (rest) is expected to play in Tuesday's game against Detroit.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-news-expected-to-play-tuesday-535061"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Mike Conley",
+   "headline": "Anticipated to play Tuesday",
+   "note": "Conley (rest) is expected to play in Tuesday's game versus the Pistons.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mike-conley-news-anticipated-to-play-tuesday-534994"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "In line to play Tuesday",
+   "note": "George (rest) is expected to play Tuesday versus Detroit.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-in-line-to-play-tuesday-534993"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Expected to suit up Tuesday",
+   "note": "Tatum (rest) is expected to play in Tuesday's opener against the Pistons.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-expected-to-suit-up-tuesday-534991"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Milos Uzan",
+   "headline": "Solid scoring in preseason finale",
+   "note": "Uzan chipped in with 14 points (4-9 FG, 2-5 3Pt, 4-4 FT), two rebounds, an assist and a steal across 23 minutes in Friday's 125-120 preseason overtime win over the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/milos-uzan-news-solid-scoring-in-preseason-finale-534945"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Ron Harper",
+   "headline": "Scores 16 points in overtime win",
+   "note": "Harper tallied 16 points (7-20 FG, 1-9 3Pt, 1-2 FT), three rebounds, three assists and a steal across 35 minutes in Friday's 125-120 preseason overtime win over the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ron-harper-news-scores-16-points-in-overtime-win-534944"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "BOS",
+   "player": "Baylor Scheierman",
+   "headline": "Struggles from field in overtime win",
+   "note": "Scheierman posted seven points (1-11 FG, 1-6 3Pt, 4-5 FT), four rebounds, five assists and a steal across 19 minutes in Friday's 125-120 preseason overtime win over the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-struggles-from-field-in-overtime-win-534943"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CHA",
+   "player": "Tidjane Salaun",
+   "headline": "Posts nine points off bench",
+   "note": "Salaun supplied nine points (4-6 FG, 1-3 3Pt) and four rebounds over 19 minutes in Friday's 117-98 preseason loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-posts-nine-points-off-bench-534935"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CHA",
+   "player": "Naz Reid",
+   "headline": "Remains solid in preseason play",
+   "note": "Reid posted 12 points (5-10 FG, 2-6 3Pt), two rebounds, one assist and one steal in 24 minutes during Friday's 117-98 preseason loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-remains-solid-in-preseason-play-534934"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CHA",
+   "player": "Christian Anderson",
+   "headline": "Leads team in assists",
+   "note": "Anderson tallied 15 points (3-7 FG, 1-2 3Pt, 8-9 FT), two rebounds, six assists and one steal across 22 minutes in Friday's 117-98 preseason loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/christian-anderson-news-leads-team-in-assists-534933"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CHA",
+   "player": "Hannes Steinbach",
+   "headline": "Records double-double in preseason finale",
+   "note": "Steinbach logged 19 points (7-9 FG, 5-5 FT), 10 rebounds and three steals over 28 minutes during Friday's 117-98 preseason loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/hannes-steinbach-news-records-double-double-in-preseason-finale-534932"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CHI",
+   "player": "Josh Giddey",
+   "headline": "Inefficient shooting night Friday",
+   "note": "Giddey finished with 12 points (4-10 FG, 1-5 3Pt, 3-3 FT), four rebounds, four assists and one block across 19 minutes in Friday's 133-116 preseason win over Minnesota.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-news-inefficient-shooting-night-friday-534984"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "CHI",
+   "player": "Matas Buzelis",
+   "headline": "Scores 14 points in preseason finale",
+   "note": "Buzelis ended with 14 points (5-9 FG, 0-3 3Pt, 4-5 FT), six rebounds, one assist and one block across 19 minutes in Friday's 133-116 preseason win over Minnesota.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-scores-14-points-in-preseason-finale-534981"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Team option picked up",
+   "note": "The Mavericks exercised the third-year team option on Flagg's contract for the 2027-28 season, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-team-option-picked-up-535075"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DAL",
+   "player": "Max Christie",
+   "headline": "Expected to play Wednesday",
+   "note": "Christie (rest) is expected to play in Wednesday's regular-season opener against the Rockets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/max-christie-news-expected-to-play-wednesday-535044"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DAL",
+   "player": "P.J. Washington",
+   "headline": "Struggles offensively in loss",
+   "note": "Washington accounted for eight points (3-13 FG, 2-8 3Pt, 0-0 FT), six rebounds and an assist across 27 minutes in Friday's 135-111 preseason loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-struggles-offensively-in-loss-534951"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Records five threes, five assists",
+   "note": "Irving notched 18 points (6-12 FG, 5-7 3Pt, 1-4 FT), two rebounds, five assists and two steals across 25 minutes in Friday's 135-111 preseason loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-records-five-threes-five-assists-534950"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Strong finish to preseason",
+   "note": "Risacher recorded 18 points (8-12 FG, 0-1 3Pt, 2-3 FT), five rebounds and four assists across 27 minutes in Friday's 135-111 preseason loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-strong-finish-to-preseason-534949"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DEN",
+   "player": "Aaron Gordon",
+   "headline": "Expected to face OKC",
+   "note": "Gordon (rest) is expected to play in Thursday's regular-season opener against the Thunder.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-gordon-news-expected-to-face-okc-535045"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DEN",
+   "player": "Christian Braun",
+   "headline": "Solid two-way effort in win",
+   "note": "Braun delivered 16 points (5-10 FG, 2-4 3Pt, 4-5 FT), six rebounds, an assist and two steals across 28 minutes in Friday's 121-106 preseason win over the Lakers.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-solid-two-way-effort-in-win-534954"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DEN",
+   "player": "Jamal Murray",
+   "headline": "Scores team-high 21 points",
+   "note": "Murray notched 21 points (8-15 FG, 0-3 3Pt, 5-5 FT), three rebounds, six assists and a steal across 31 minutes in Friday's 121-106 preseason win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-scores-team-high-21-points-534953"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DEN",
+   "player": "Nikola Jokic",
+   "headline": "Fills stat sheet Friday",
+   "note": "Jokic posted 17 points (7-8 FG, 3-4 3Pt, 0-0 FT), six rebounds, eight assists and two steals across 31 minutes in Friday's 121-106 preseason win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-fills-stat-sheet-friday-534952"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DET",
+   "player": "Jalen Duren",
+   "headline": "Tallies 14 points vs. Toronto",
+   "note": "Duren finished Friday's 129-125 preseason win over the Raptors with 14 points (6-9 FG, 2-4 FT), three rebounds, one assist, two steals and one block over 20 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-news-tallies-14-points-vs-toronto-534983"
+  },
+  {
+   "date": "2026-10-17",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Makes all five FGA vs. Toronto",
+   "note": "Thompson recorded 12 points (5-5 FG, 2-3 FT), four assists, three rebounds and one steal over 19 minutes during Friday's 129-125 preseason win over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-makes-all-five-fga-vs-toronto-534982"
+  }
+ ]
+}

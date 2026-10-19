@@ -1,0 +1,443 @@
+{
+ "updated": "2026-10-19T15:24:21Z",
+ "engine": "heuristika",
+ "picks": [
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 0). Jaylon Tyson je rotacijski SG/SF, ~26.2 FP po utakmici (prošle sezone, 27 min). Liga: Legendi.",
+   "role": "Streamer (27 min)",
+   "horizon": "22.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 4683747,
+   "fpts": 26.2,
+   "expires": "2026-10-22"
+  },
+  {
+   "player": "Christian Braun",
+   "team": "DEN",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 0). Christian Braun je rotacijski SG/SF, ~24.9 FP po utakmici (prošle sezone, 32 min). Liga: Legendi.",
+   "role": "Streamer (32 min)",
+   "horizon": "22.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 4431767,
+   "fpts": 24.9,
+   "expires": "2026-10-22"
+  },
+  {
+   "player": "Keaton Wagler",
+   "team": "LAC",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.4 FP po utakmici (ESPN projekcija, 28 min).",
+   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "avail": {
+    "Legendi": false,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Legendi)",
+   "espnId": 5254165,
+   "fpts": 24.4
+  },
+  {
+   "player": "Al Horford",
+   "team": "GSW",
+   "pos": "PF/C",
+   "priority": 2,
+   "reason": "Kristaps Porzingis (neotkriveno) je out najmanje do 9.11. Al Horford je prvi PF/C u rotaciji GSW-a za te minute; ~24.1 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Veća minutaža dok je out Kristaps Porzingis",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kristaps Porzingis",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3213,
+   "fpts": 24.1
+  },
+  {
+   "player": "Precious Achiuwa",
+   "team": "SAC",
+   "pos": "PF/C",
+   "priority": 2,
+   "reason": "Maxime Raynaud (koljeno) je out najmanje do 2.11. Precious Achiuwa je prvi PF/C u rotaciji SAC-a za te minute; ~24.1 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Veća minutaža dok je out Maxime Raynaud",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Maxime Raynaud",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4431679,
+   "fpts": 24.1
+  },
+  {
+   "player": "Miles McBride",
+   "team": "NYK",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 0). Miles McBride je rotacijski PG/SG, ~23.2 FP po utakmici (prošle sezone, 26 min). Liga: Legendi.",
+   "role": "Streamer (26 min)",
+   "horizon": "20.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u utorak",
+   "espnId": 4431823,
+   "fpts": 23.2,
+   "expires": "2026-10-20"
+  },
+  {
+   "player": "Anfernee Simons",
+   "team": "PHI",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 0) i četvrtak (CLE @ PHI, tvojih igrača: 0). Anfernee Simons je rotacijski PG/SG, ~22.8 FP po utakmici (prošle sezone, 25 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "role": "Streamer (25 min)",
+   "horizon": "20.10.–22.10.",
+   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u utorak i četvrtak",
+   "espnId": 4351851,
+   "fpts": 22.8,
+   "expires": "2026-10-22"
+  },
+  {
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Stream za utorak (BOS @ DET, tvojih igrača: 0). Kevin Huerter je rotacijski SG/SF, ~22.5 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
+   "role": "Streamer (22 min)",
+   "horizon": "20.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u utorak",
+   "espnId": 4066372,
+   "fpts": 22.5,
+   "expires": "2026-10-20"
+  },
+  {
+   "player": "Ryan Kalkbrenner",
+   "team": "CHA",
+   "pos": "C",
+   "priority": 2,
+   "reason": "RotoWire 16.10.: Starting Friday. Kalkbrenner is in the Hornets' starting lineup for Friday's preseason game against the Grizzlies. ~22.1 FP po utakmici (prošle sezone, 21 min). Predsezonski start — naznaka za postavu na otvaranju, ne garancija.",
+   "role": "Mogući starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-starting-friday-534827",
+   "espnId": 4576060,
+   "fpts": 22.1
+  },
+  {
+   "player": "Isaiah Jackson",
+   "team": "LAC",
+   "pos": "PF/C",
+   "priority": 2,
+   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Isaiah Jackson je sljedeći PF/C u rotaciji LAC-a za te minute; ~18.5 FP po utakmici (prošle sezone, 16 min). RotoWire 14.10.: Starting against Denver.",
+   "role": "Mogući starter dok je out Brandon Ingram",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Brandon Ingram",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-starting-against-denver-534482",
+   "espnId": 4432170,
+   "fpts": 18.5
+  },
+  {
+   "player": "Bones Hyland",
+   "team": "MIN",
+   "pos": "PG",
+   "priority": 2,
+   "reason": "Donte DiVincenzo (Ahilova tetiva) je out najmanje do 2.4. Bones Hyland je prvi PG u rotaciji MIN-a za te minute; ~17.8 FP po utakmici (prošle sezone, 17 min).",
+   "role": "Veća minutaža dok je out Donte DiVincenzo",
+   "horizon": "Do ~2.4. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Donte DiVincenzo; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4592492,
+   "fpts": 17.8
+  },
+  {
+   "player": "Cody Williams",
+   "team": "MIN",
+   "pos": "SG",
+   "priority": 2,
+   "reason": "Donte DiVincenzo (Ahilova tetiva) je out najmanje do 2.4. Cody Williams je sljedeći SG u rotaciji MIN-a za te minute; ~17.6 FP po utakmici (prošle sezone, 24 min). RotoWire 16.10.: Drawing another start. Williams will start Friday's preseason finale against the Bulls. Predsezonski start — naznaka za postavu na otvaranju, ne garancija.",
+   "role": "Mogući starter dok je out Donte DiVincenzo",
+   "horizon": "Do ~2.4. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Donte DiVincenzo; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/cody-williams-news-drawing-another-start-534830",
+   "espnId": 4895758,
+   "fpts": 17.6
+  },
+  {
+   "player": "Kris Murray",
+   "team": "MEM",
+   "pos": "PF",
+   "priority": 2,
+   "reason": "RotoWire 16.10.: Starting Friday. Murray is in the starting lineup for Friday's game against the Hornets. ~15.7 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~16 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/kris-murray-news-starting-friday-534841",
+   "espnId": 4594326,
+   "fpts": 15.7
+  },
+  {
+   "player": "De'Anthony Melton",
+   "team": "GSW",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Stephen Curry (gležanj) je upitan (GTD). De'Anthony Melton je sljedeći PG/SG u rotaciji GSW-a za te minute; ~23.9 FP po utakmici (prošle sezone, 23 min).",
+   "role": "Zamjena ako Stephen Curry ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Stephen Curry",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4066436,
+   "fpts": 23.9
+  },
+  {
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Stephen Curry (gležanj) je upitan (GTD). Brandon Williams je sljedeći PG/SG u rotaciji GSW-a za te minute; ~23.9 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Zamjena ako Stephen Curry ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Stephen Curry",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397040,
+   "fpts": 23.9
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Kristaps Porzingis (neotkriveno) je out najmanje do 9.11. Yaxel Lendeborg je sljedeći SF/PF u rotaciji GSW-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
+   "role": "Veća minutaža dok je out Kristaps Porzingis",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kristaps Porzingis",
+   "avail": {
+    "Legendi": false,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Legendi)",
+   "espnId": 5175737,
+   "fpts": 23.5
+  },
+  {
+   "player": "Kris Dunn",
+   "team": "LAC",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Kris Dunn je sljedeći PG/SG u rotaciji LAC-a za te minute; ~22.6 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Veća minutaža dok su out Bradley Beal i Max Strus",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2991139,
+   "fpts": 22.6
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "MIA",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Bam Adebayo (prepone) je upitan (GTD). Pelle Larsson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~22.6 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Zamjena ako Bam Adebayo ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Bam Adebayo",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4601025,
+   "fpts": 22.6
+  },
+  {
+   "player": "Herbert Jones",
+   "team": "NOP",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Dejounte Murray (nožni prst) je upitan (GTD). Herbert Jones je sljedeći SF/PF u rotaciji NOP-a za te minute; ~22.6 FP po utakmici (prošle sezone, 28 min).",
+   "role": "Zamjena ako Dejounte Murray ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Dejounte Murray",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4277813,
+   "fpts": 22.6
+  },
+  {
+   "player": "De'Andre Hunter",
+   "team": "SAC",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Maxime Raynaud (koljeno) je out najmanje do 2.11. De'Andre Hunter je sljedeći SF/PF u rotaciji SAC-a za te minute; ~21.0 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Veća minutaža dok je out Maxime Raynaud",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Maxime Raynaud",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4065732,
+   "fpts": 21.0
+  },
+  {
+   "player": "Jordan Poole",
+   "team": "NOP",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Dejounte Murray (nožni prst) je upitan (GTD). Jordan Poole je sljedeći PG/SG u rotaciji NOP-a za te minute; ~20.9 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Zamjena ako Dejounte Murray ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Dejounte Murray",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4277956,
+   "fpts": 20.9
+  },
+  {
+   "player": "Ziaire Williams",
+   "team": "LAL",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "RotoWire 16.10.: Available, starting against Denver. Williams (foot) is available and will start in Friday's preseason game versus the Nuggets, Law Murray of The Athletic reports. ~19.6 FP po utakmici (prošle sezone, 23 min). Predsezonski start — naznaka za postavu na otvaranju, ne garancija.",
+   "role": "Mogući starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-available-starting-against-denver-534862",
+   "espnId": 4433137,
+   "fpts": 19.6
+  },
+  {
+   "player": "Klay Thompson",
+   "team": "MIA",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Bam Adebayo (prepone) je upitan (GTD). Klay Thompson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~18.5 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Zamjena ako Bam Adebayo ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Bam Adebayo",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 6475,
+   "fpts": 18.5
+  },
+  {
+   "player": "Sion James",
+   "team": "CHA",
+   "pos": "SF",
+   "priority": 3,
+   "reason": "RotoWire 16.10.: Starting Friday. James will start in Friday's preseason finale against the Grizzlies. ~14.4 FP po utakmici (prošle sezone, 22 min). Predsezonski start — naznaka za postavu na otvaranju, ne garancija.",
+   "role": "Mogući starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~14 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-friday-534826",
+   "espnId": 4602025,
+   "fpts": 14.4
+  },
+  {
+   "player": "Nikola Jovic",
+   "team": "MIA",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "RotoWire 16.10.: Starting Friday. Jovic will start in Friday's preseason finale in Orlando, Ira Winderman of the South Florida Sun Sentinel reports. ~14.3 FP po utakmici (prošle sezone, 17 min). Predsezonski start — naznaka za postavu na otvaranju, ne garancija.",
+   "role": "Mogući starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~14 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": null
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/nikola-jovic-news-starting-friday-534738",
+   "espnId": 4997528,
+   "fpts": 14.3
+  }
+ ]
+}

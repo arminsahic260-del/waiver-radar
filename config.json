@@ -1,0 +1,42 @@
+{
+  "season": 2027,
+  "timezone": "Europe/Zagreb",
+  "siteUrl": "",
+  "week1": { "start": "2026-10-20", "end": "2026-10-25" },
+  "scheduleWeeks": 3,
+  "newsKeep": 60,
+  "rotowireTeamPages": true,
+  "streamDayMaxMine": 2,
+  "streamersPerDay": 3,
+  "streamMinMinutes": 20,
+  "maxPicks": 30,
+  "claude": { "enabled": true, "model": "claude-sonnet-5-5" },
+  "leagues": [
+    {
+      "id": "legendi",
+      "short": "Legendi",
+      "name": "Liga Legendi",
+      "teamName": "Druzina gospodara Jokica (DGJ)",
+      "espnLeagueId": 2023498222,
+      "espnTeamId": 1
+    },
+    {
+      "id": "banijska",
+      "short": "Banijska",
+      "name": "1. Banijska šampion liga",
+      "teamName": "Barcelona",
+      "espnLeagueId": null,
+      "espnTeamId": null,
+      "manualPlayers": [
+        { "name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF" },
+        { "name": "Alperen Sengun", "team": "HOU", "pos": "C" },
+        { "name": "Jaylen Brown", "team": "BOS", "pos": "SG/SF" },
+        { "name": "Stephon Castle", "team": "SAS", "pos": "PG/SG" },
+        { "name": "Keyonte George", "team": "UTA", "pos": "PG/SG" },
+        { "name": "Kel'el Ware", "team": "MIA", "pos": "C" },
+        { "name": "Malik Monk", "team": "SAC", "pos": "SG" },
+        { "name": "Brook Lopez", "team": "LAC", "pos": "C" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+ "updated": "2026-10-19T15:24:21Z",
+ "engine": "heuristika",
+ "sources": {
+  "cbs": {
+   "ok": true,
+   "lastOk": "2026-10-19T15:23:39Z"
+  },
+  "rotowire": {
+   "ok": true,
+   "lastOk": "2026-10-19T15:23:40Z"
+  },
+  "bref": {
+   "ok": true,
+   "lastOk": "2026-10-19T15:24:16Z"
+  },
+  "espn": {
+   "ok": true,
+   "lastOk": "2026-10-19T15:24:20Z"
+  },
+  "analyze": {
+   "ok": true,
+   "lastOk": "2026-10-19T15:24:21Z"
+  }
+ }
+}
