@@ -55,6 +55,7 @@ koristi `manualPlayers`, a u „Moji igrači” uz ligu piše razlog. Dva rješe
 3. **Streameri**: dani tekućeg H2H tjedna kad igra ≤ 2 mojih igrača (`streamDayMaxMine`); slobodni rotacijski
    igrači (≥ 20 min) timova koji igraju taj dan, prednost više takvih dana i 4 utakmice u tjednu, jedan po timu.
    `note: "igra u <dan>"`, nestaju nakon tog dana (`expires`).
-4. Dostupnost po ligi iz ESPN rostera; `na tvom rosteru` ako je igrač moj.
+4. Dostupnost po ligi iz ESPN rostera; `na tvom rosteru` ako je igrač moj. Igrač koji nije slobodan ni u jednoj
+   ligi (moj ili tuđi posvuda) ne ulazi u preporuke; njegove vijesti su pod „Moji igrači”.
 5. Rang unutar prioriteta po ESPN `appliedAverage` (FP po utakmici u bodovanju lige): ova sezona nakon 5 utakmica,
    inače prošla sezona, inače ESPN projekcija.

@@ -387,7 +387,15 @@ def merge(picks):
     return list(out.values())
 
 
+def actionable(pick):
+    """Free (or unknown) in at least one league. A player who is mine or taken in every league is no waiver move;
+    his news already shows under Moji igrači."""
+    avail = pick.get("avail") or {}
+    return not avail or any(v is not False for v in avail.values())
+
+
 def rank(picks, limit):
+    picks = [p for p in picks if actionable(p)]
     picks.sort(key=lambda p: (p["priority"], -(p.get("fpts") or 0)))
     return picks[:limit]
 

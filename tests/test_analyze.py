@@ -147,3 +147,12 @@ def test_notify_compose():
     # nothing new -> no message; first run -> no message
     assert notify.compose({}, {"waiver.json": {"picks": [pick]}, "injuries.json": cur["injuries.json"]}, cur) is None
     assert notify.compose({}, {}, cur) is None
+
+
+def test_rank_drops_players_with_no_league_to_add_them_in():
+    def mk(name, avail):
+        return {"player": name, "priority": 2, "avail": avail, "fpts": 20}
+    picks = [mk("Mine Or Taken Everywhere", {"Legendi": False, "Banijska": False}),
+             mk("Unknown In One", {"Legendi": False, "Banijska": None}),
+             mk("Free", {"Legendi": True, "Banijska": False})]
+    assert [p["player"] for p in analyze.rank(picks, 30)] == ["Unknown In One", "Free"]
