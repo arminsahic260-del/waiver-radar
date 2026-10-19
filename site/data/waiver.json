@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:32:03Z",
+ "updated": "2026-10-19T21:35:28Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -19,42 +19,6 @@
    "note": "na tvom rosteru (Legendi)",
    "espnId": 5175737,
    "fpts": 23.5
-  },
-  {
-   "player": "Stephon Castle",
-   "team": "SAS",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Tobias Harris (list) je out najmanje do 23.10. Stephon Castle je prvi PG/SG u rotaciji SAS-a za te minute; ~35.0 FP po utakmici (prošle sezone, 30 min).",
-   "role": "Veća minutaža dok je out Tobias Harris",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Tobias Harris",
-   "avail": {
-    "Legendi": false,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "note": "na tvom rosteru (Banijska)",
-   "espnId": 4845367,
-   "fpts": 35.0
-  },
-  {
-   "player": "Jaden McDaniels",
-   "team": "MIN",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Donte DiVincenzo (Ahilova tetiva) je out najmanje do 2.4. Jaden McDaniels je prvi SF/PF u rotaciji MIN-a za te minute; ~30.8 FP po utakmici (prošle sezone, 32 min).",
-   "role": "Veća minutaža dok je out Donte DiVincenzo",
-   "horizon": "Do ~2.4. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Donte DiVincenzo",
-   "avail": {
-    "Legendi": false,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "note": "na tvom rosteru (Banijska)",
-   "espnId": 4431671,
-   "fpts": 30.8
   },
   {
    "player": "Jaylon Tyson",
@@ -93,24 +57,6 @@
    "espnId": 4431767,
    "fpts": 24.9,
    "expires": "2026-10-22"
-  },
-  {
-   "player": "Keaton Wagler",
-   "team": "LAC",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.4 FP po utakmici (ESPN projekcija, 28 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
-   "avail": {
-    "Legendi": false,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "note": "na tvom rosteru",
-   "espnId": 5254165,
-   "fpts": 24.4
   },
   {
    "player": "Al Horford",
