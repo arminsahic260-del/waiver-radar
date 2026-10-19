@@ -57,5 +57,9 @@ koristi `manualPlayers`, a u „Moji igrači” uz ligu piše razlog. Dva rješe
    `note: "igra u <dan>"`, nestaju nakon tog dana (`expires`).
 4. Dostupnost po ligi iz ESPN rostera; `na tvom rosteru` ako je igrač moj. Igrač koji nije slobodan ni u jednoj
    ligi (moj ili tuđi posvuda) ne ulazi u preporuke; njegove vijesti su pod „Moji igrači”.
-5. Rang unutar prioriteta po ESPN `appliedAverage` (FP po utakmici u bodovanju lige): ova sezona nakon 5 utakmica,
+5. **Plan po danima** (Waiver → Po danima): za idućih 7 dana i svaku ligu broj mojih zdravih igrača koji igraju i
+   praznih aktivnih mjesta (`activeSlots` = 10). Kandidati su slobodni u toj ligi i rangirani po FP po utakmici ×
+   utakmice do kraja H2H tjedna na dane s praznim mjestom (GTD × 0,75). Prvi izbor dana ulazi u plan, zauzima mjesto
+   u idućim danima tog tjedna i ne predlaže se ponovno.
+6. Rang unutar prioriteta po ESPN `appliedAverage` (FP po utakmici u bodovanju lige): ova sezona nakon 5 utakmica,
    inače prošla sezona, inače ESPN projekcija.

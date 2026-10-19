@@ -9,6 +9,9 @@
   "streamDayMaxMine": 2,
   "streamersPerDay": 3,
   "streamMinMinutes": 20,
+  "activeSlots": 10,
+  "planDays": 7,
+  "planPerDay": 3,
   "maxPicks": 30,
   "claude": { "enabled": true, "model": "claude-sonnet-5-5" },
   "leagues": [

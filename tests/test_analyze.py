@@ -156,3 +156,29 @@ def test_rank_drops_players_with_no_league_to_add_them_in():
              mk("Unknown In One", {"Legendi": False, "Banijska": None}),
              mk("Free", {"Legendi": True, "Banijska": False})]
     assert [p["player"] for p in analyze.rank(picks, 30)] == ["Unknown In One", "Free"]
+
+
+def test_day_plan_ranks_by_points_left_this_week_and_carries_the_plan():
+    days = {d["date"]: d for d in analyze.day_plan(ctx())}
+    assert list(days) == ["2026-10-20", "2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
+    assert [x["league"] for x in days["2026-10-20"]["leagues"]] == ["Legendi"]   # Banijska has no ESPN pool here
+    tue = days["2026-10-20"]["leagues"][0]
+    assert (tue["mine"], tue["open"]) == (0, 10)
+    # PHI plays 4 of the remaining days, NYK 3: 21 FP x 4 beats 24 FP x 3
+    assert [(p["player"], p["value"]) for p in tue["picks"]] == [("Stream Two", 84), ("Stream Star", 72),
+                                                               ("Second Knick", 66)]
+    assert tue["picks"][0]["dates"] == ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25"]
+    assert tue["picks"][0]["matchup"] == "PHI @ NYK"
+    wed = days["2026-10-21"]["leagues"][0]
+    assert wed["mine"] == 1 and wed["picks"][0]["player"] == "Bradley Beal"    # rostered players never show up
+    assert all(p["player"] != "Keaton Wagler" for d in days.values() for p in d["leagues"][0]["picks"])
+    thu = days["2026-10-22"]["leagues"][0]
+    assert thu["planned"] == [{"player": "Stream Two", "team": "PHI", "from": "2026-10-20"}]
+    assert "Stream Two" not in [p["player"] for p in thu["picks"]] and thu["open"] == 9
+
+
+def test_day_plan_skips_full_days():
+    full = analyze.Ctx(dict(CFG, activeSlots=1), {"items": []}, {"items": []}, {"items": []}, [], SCHEDULE, ROSTERS,
+                       {"L": POOL}, TODAY)
+    wed = next(d for d in analyze.day_plan(full) if d["date"] == "2026-10-21")["leagues"][0]
+    assert (wed["mine"], wed["open"], wed["picks"]) == (1, 0, [])

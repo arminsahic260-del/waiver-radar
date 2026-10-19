@@ -297,6 +297,12 @@ def lineup_picks(ctx):
 # ---------------------------------------------------------------- rule 3: streamers for thin days
 
 
+def active_players(ctx, roster):
+    """My players who can actually fill a lineup slot: not on IR and not out."""
+    return [p for p in roster["players"] if p.get("slot") != "IR"
+            and not (ctx.injury(p["name"]) and ctx.injury(p["name"])["kind"] != "gtd")]
+
+
 def stream_picks(ctx):
     if not ctx.week:
         return [], {}
@@ -313,8 +319,7 @@ def stream_picks(ctx):
         roster = next((L for L in ctx.rosters if L["id"] == lc["id"]), None)
         if not pool or not roster:
             continue
-        active = [p for p in roster["players"] if p.get("slot") != "IR"
-                  and not (ctx.injury(p["name"]) and ctx.injury(p["name"])["kind"] != "gtd")]
+        active = active_players(ctx, roster)
         count = {day: sum(1 for p in active if day in ctx.team_dates(p["team"])) for day in days}
         thin = [day for day in days if count[day] <= ctx.cfg.get("streamDayMaxMine", 2)]
         thin_by_league[lc["short"]] = {day: count[day] for day in thin}
@@ -362,6 +367,67 @@ def stream_picks(ctx):
         pick["expires"] = ds[-1]
         picks.append(pick)
     return picks, thin_by_league
+
+
+def day_plan(ctx):
+    """Who to add for each of the next days, per league.
+
+    A day has room for a streamer when fewer of my healthy players play than there are active lineup slots
+    (PG, SG, SF, PF, C, G, F, 3 UTIL = 10). Candidates are free in that league, play that day and are ranked by
+    expected points until the end of that H2H week, counting only their games on days with an open slot. Each day's
+    first choice joins the plan: it fills a slot on its later game days and is not suggested again."""
+    weeks = ctx.schedule.get("weeks") or []
+    plays = {(d, team) for w in weeks for team, x in w["teams"].items() for d in x["dates"]}
+    game_days = sorted({d for d, _ in plays})
+    first = ctx.today.isoformat()
+    last = (ctx.today + dt.timedelta(days=ctx.cfg.get("planDays", 7) - 1)).isoformat()
+    days = [d for d in game_days if first <= d <= last]
+    week_end = {d: w["end"] for w in weeks for d in game_days if w["start"] <= d <= w["end"]}
+    slots, per_day = ctx.cfg.get("activeSlots", 10), ctx.cfg.get("planPerDay", 3)
+    out = {d: {"date": d, "games": len({t for x, t in plays if x == d}) // 2, "leagues": []} for d in days}
+    for lc in ctx.leagues:
+        pool = ctx.pools.get(lc["id"])
+        roster = next((L for L in ctx.rosters if L["id"] == lc["id"]), None)
+        if not pool or not roster:
+            continue
+        active = active_players(ctx, roster)
+        horizon = [d for d in game_days if first <= d <= max(week_end.get(x, x) for x in days or [first])]
+        count = {d: sum(1 for p in active if (d, p["team"]) in plays) for d in horizon}
+        open_ = {d: max(0, slots - count[d]) for d in horizon}
+        planned, plan_week = {}, None  # espnId -> (day added, player); streamers are dropped when the week ends
+        for d in days:
+            if week_end[d] != plan_week:
+                planned, plan_week = {}, week_end[d]
+            entry = {"league": lc["short"], "mine": count[d], "open": open_[d], "sitting": max(0, count[d] - slots),
+                     "planned": [{"player": p["name"], "team": p["team"], "from": since}
+                                 for since, p in planned.values() if (d, p["team"]) in plays],
+                     "picks": []}
+            out[d]["leagues"].append(entry)
+            if not open_[d]:
+                continue
+            cands = []
+            for k, p in pool["players"].items():
+                if k in pool["rostered"] or p["team"] == "FA" or (d, p["team"]) not in plays:
+                    continue
+                if p["espnId"] in planned or ctx.is_out(p) or p["fpts"] <= 0:
+                    continue
+                if p["mpg"] < ctx.cfg.get("streamMinMinutes", 20):
+                    continue
+                rest = [x for x in horizon if d <= x <= week_end[d] and (x, p["team"]) in plays and open_[x]]
+                gtd = bool(ctx.is_gtd(p))
+                cands.append((round(p["fpts"] * len(rest), 1), gtd, p, rest))
+            # a questionable (GTD) player may not suit up: rank him as if worth a quarter less
+            cands.sort(key=lambda c: (-c[0] * (0.75 if c[1] else 1), -c[2]["fpts"]))
+            for value, gtd, p, rest in cands[:per_day]:
+                entry["picks"].append({"player": p["name"], "team": p["team"], "pos": p["pos"], "espnId": p["espnId"],
+                                       "fpts": p["fpts"], "mpg": p["mpg"], "basis": p["basis"],
+                                       "matchup": ctx.matchup(p["team"], d), "dates": rest, "value": value, "gtd": gtd})
+            if cands:
+                _, _, top, rest = cands[0]
+                planned[top["espnId"]] = (d, top)
+                for x in rest[1:]:
+                    open_[x] = max(0, open_[x] - 1)
+    return [out[d] for d in days]
 
 # ---------------------------------------------------------------- combine
 
@@ -514,7 +580,7 @@ def run(cfg, injuries, prev_injuries, news, fresh_news, schedule, rosters, pools
     ai = claude_picks(ctx, picks, thin)
     if ai:
         picks, engine = ai, "claude"
-    doc = {"updated": now_iso(), "engine": engine, "picks": picks}
+    doc = {"updated": now_iso(), "engine": engine, "picks": picks, "days": day_plan(ctx)}
     write_json(data_path("waiver.json"), doc)
     return doc
 

@@ -126,9 +126,24 @@ section[role="tabpanel"]{display:block}
 .news-item .kind{font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-left:6px}
 .kind.lineup{color:var(--accent)}.kind.injury{color:var(--out)}.kind.transaction{color:var(--info)}.kind.other{color:var(--muted)}
 
-.league{margin-bottom:18px}
-.league h2{font-size:22px;margin-bottom:8px}
-.league h2 small{font-family:var(--body);font-size:13px;color:var(--muted);font-weight:400;margin-left:8px}
+.league,.day{margin-bottom:18px}
+.league h2,.day h2{font-size:22px;margin-bottom:8px}
+.league h2 small,.day h2 small{font-family:var(--body);font-size:13px;color:var(--muted);font-weight:400;margin-left:8px}
+.daygrid{display:grid;grid-template-columns:1fr;gap:10px}
+@media (min-width:760px){.daygrid{grid-template-columns:1fr 1fr}}
+.dl{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden;min-width:0}
+.dl-head{display:flex;justify-content:space-between;align-items:baseline;gap:4px 8px;flex-wrap:wrap;padding:8px 14px;background:var(--surface-2);font-family:var(--display);font-size:17px;font-weight:600;letter-spacing:.02em}
+.dl-head .meta{font-family:var(--body);font-weight:400}
+.dl-head .open{color:var(--ok);font-weight:600}
+.dl-row{display:grid;grid-template-columns:1.3em 1fr auto;gap:2px 8px;align-items:center;padding:9px 14px;border-top:1px solid var(--line)}
+.dl-row .name{font-size:18px}
+.dl-row .meta{grid-column:2 / -1}
+.dl-row .meta b{color:var(--fg)}
+.rk{font-family:var(--display);font-size:17px;font-weight:700;color:var(--muted)}
+.dl-row.top .rk{color:var(--accent)}
+.fp{font-family:var(--display);font-size:19px;font-weight:700;text-align:right;white-space:nowrap}
+.dl-note{padding:9px 14px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
+.dl-head + .dl-row,.dl-head + .dl-note{border-top:0}
 .ros{background:var(--surface);border:1px solid var(--line);border-radius:8px}
 .ros-row{display:grid;grid-template-columns:1fr auto auto;gap:2px 10px;align-items:center;padding:9px 14px;border-top:1px solid var(--line)}
 .ros-row:first-child{border-top:0}
@@ -184,13 +199,20 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   </div>
 
   <section role="tabpanel" id="p-waiver">
-    <div class="chips" id="pri-chips" style="margin-bottom:12px">
-      <button class="chip" aria-pressed="true" data-pri="">Sve</button>
-      <button class="chip" aria-pressed="false" data-pri="1">Uzmi odmah</button>
-      <button class="chip" aria-pressed="false" data-pri="2">Stream / stash</button>
-      <button class="chip" aria-pressed="false" data-pri="3">Špekulacija</button>
+    <div class="chips" id="wview-chips" style="margin-bottom:12px">
+      <button class="chip" aria-pressed="true" data-wview="days">Po danima</button>
+      <button class="chip" aria-pressed="false" data-wview="all">Sve preporuke</button>
     </div>
-    <div class="grid two" id="waiver-list"></div>
+    <div id="waiver-days"></div>
+    <div id="waiver-all" hidden>
+      <div class="chips" id="pri-chips" style="margin-bottom:12px">
+        <button class="chip" aria-pressed="true" data-pri="">Sve</button>
+        <button class="chip" aria-pressed="false" data-pri="1">Uzmi odmah</button>
+        <button class="chip" aria-pressed="false" data-pri="2">Stream / stash</button>
+        <button class="chip" aria-pressed="false" data-pri="3">Špekulacija</button>
+      </div>
+      <div class="grid two" id="waiver-list"></div>
+    </div>
   </section>
 
   <section role="tabpanel" id="p-injuries" hidden>
@@ -251,6 +273,7 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   // per-viewer conveniences
   S.tab=safe(()=>localStorage.getItem("wr.tab"))||S.tab;
   S.theme=safe(()=>localStorage.getItem("wr.theme"))||"auto";
+  S.wview=safe(()=>localStorage.getItem("wr.wview"))==="all"?"all":"days";
 
   // ---------- theme
   function applyTheme(){
@@ -287,8 +310,52 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   }
   const activePicks=()=>((S.waiver&&S.waiver.picks)||[]).filter(p=>!p.expires||p.expires>=todayISO());
 
+  const DAY_FULL=["Nedjelja","Ponedjeljak","Utorak","Srijeda","Četvrtak","Petak","Subota"];
+  const dayOf=iso=>new Date(iso+"T12:00:00").getDay();
+  const dayShort=iso=>DAYS[dayOf(iso)].toLowerCase();
+  const dayName=iso=>(iso===todayISO()?"Danas · ":iso===isoOf(new Date(Date.now()+864e5))?"Sutra · ":"")+DAY_FULL[dayOf(iso)];
+  const plural=(n,one,few,many)=>n%10===1&&n%100!==11?one:n%10>=2&&n%10<=4&&(n%100<12||n%100>14)?few:many;
+
   // ---------- renderers
   function renderWaiver(){
+    $("waiver-days").hidden=S.wview!=="days";$("waiver-all").hidden=S.wview==="days";
+    renderDays();renderPickList();
+  }
+
+  function nowRow(p){
+    const mine=/^na tvom rosteru/.test(p.note||"")?((p.note.match(/\(([^)]*)\)/)||[])[1]||Object.keys(p.avail||{}).join(", ")).split(", "):[];
+    const av=p.avail?Object.entries(p.avail).map(([k,v])=>`${esc(k)}: ${mine.includes(k)?"tvoj":v===true?"slobodan":v===false?"zauzet":"?"}`).join(" · "):"";
+    return `<div class="dl-row top"><span class="rk">!</span><span class="name">${esc(p.player)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos||"")}</span></span><span class="fp num">${p.fpts?`~${esc(p.fpts)}<span class="pos"> FP</span>`:""}</span>
+      <span class="meta">${esc(p.role||"")}${av?" · "+av:""}</span></div>`;
+  }
+
+  function leagueBlock(d,L){
+    const head=`<div class="dl-head"><span>${esc(L.league)}</span><span class="meta num">igra ${L.mine} ${plural(L.mine,"tvoj","tvoja","tvojih")} · ${L.open?`<span class="open">prazno ${L.open}</span>`:"prazno 0"}</span></div>`;
+    const planned=L.planned.length?`<div class="dl-note">Iz plana igra i danas: ${L.planned.map(x=>`${esc(x.player)} (uzet ${dayShort(x.from)})`).join(", ")}</div>`:"";
+    if(!L.open)return `<div class="dl">${head}${planned}<div class="dl-note">${L.sitting?`${L.sitting} ${plural(L.sitting,"tvoj igrač sjedi","tvoja igrača sjede","tvojih igrača sjedi")} na klupi — `:""}svi slotovi su puni, streamer ne treba.</div></div>`;
+    const rows=L.picks.filter(p=>matches(p.player,p.team)).map((p,i)=>{
+      const inj=injuryFor(p.player);
+      const flag=inj?" "+statusPill(inj):p.gtd?` <span class="pill gtd">GTD</span>`:"";
+      return `<div class="dl-row${i===0?" top":""}"><span class="rk num">${i+1}</span><span class="name">${esc(p.player)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span>${flag}</span><span class="fp num" title="Očekivani bodovi do kraja H2H tjedna">~${Math.round(p.value)}<span class="pos"> FP</span></span>
+        <span class="meta">${esc(p.matchup)} · ~${esc(p.fpts)} FP po utakmici · ${Math.round(p.mpg)} min · igra ${p.dates.map(x=>x===d.date?`<b>${dayShort(x)}</b>`:dayShort(x)).join(", ")}</span></div>`;}).join("");
+    return `<div class="dl">${head}${planned}${rows||`<div class="dl-note">${L.picks.length?"Nema kandidata za ovaj filter.":"Nema slobodnih igrača koji taj dan igraju."}</div>`}</div>`;
+  }
+
+  function renderDays(){
+    const el=$("waiver-days");
+    if(!S.waiver){el.innerHTML=`<div class="empty">Plan po danima se puni nakon prve analize: za svaki dan i ligu koliko tvojih igrača igra, koliko mjesta ostaje prazno i koga uzeti.</div>`;return;}
+    const days=(S.waiver.days||[]).filter(d=>d.date>=todayISO());
+    const now=activePicks().filter(p=>p.priority===1&&matches(p.player,p.team));
+    let html=now.length?`<div class="day"><h2>Uzmi odmah<small>ne ovisi o danu</small></h2><div class="dl">${now.map(nowRow).join("")}</div></div>`:"";
+    html+=days.map(d=>{
+      const ls=d.leagues.map(L=>leagueBlock(d,L)).join("");
+      return `<div class="day"><h2>${esc(dayName(d.date))} ${fmtD(d.date)}<small>${d.games} ${plural(d.games,"utakmica","utakmice","utakmica")}</small></h2>${ls?`<div class="daygrid">${ls}</div>`:`<div class="empty">Nema ESPN podataka o slobodnim igračima.</div>`}</div>`;}).join("");
+    if(!days.length)html+=`<div class="empty">Nema NBA utakmica u idućih 7 dana.</div>`;
+    else html+=`<p class="meta">Prazno = aktivna mjesta (PG, SG, SF, PF, C, G, F, 3× UTIL) koja taj dan ostaju prazna jer igra manje od 10 tvojih zdravih igrača. Kandidati su slobodni u toj ligi i poredani po očekivanim bodovima do kraja H2H tjedna: FP po utakmici × utakmice na dane s praznim mjestom. Prvi s liste ulazi u plan i u idućim danima zauzima mjesto. Za svakog dodanog igrača moraš nekoga otpustiti.</p>`;
+    el.innerHTML=html;
+  }
+
+  function renderPickList(){
     const el=$("waiver-list");const picks=activePicks();
     $("c-waiver").textContent=picks.length||"–";
     if(!S.waiver){el.innerHTML=`<div class="empty">Waiver preporuke se pune nakon prve analize. Ovdje će stajati igrači kojima se otvara uloga zbog ozljede suigrača ili promjene u postavi, s prioritetom, horizontom i rizikom.</div>`;return;}
@@ -410,7 +477,9 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   $("q").addEventListener("input",e=>{S.q=e.target.value;renderAll();});
   sel.addEventListener("change",e=>{S.team=e.target.value;renderAll();});
   function chipGroup(id,key,attr,after){$(id).addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S[key]=b.dataset[attr]||"";$(id).querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c===b)));after();});}
-  chipGroup("pri-chips","pri","pri",renderWaiver);chipGroup("inj-chips","injKind","kind",renderInjuries);chipGroup("news-chips","newsKind","kind",renderNews);
+  chipGroup("pri-chips","pri","pri",renderWaiver);
+  chipGroup("wview-chips","wview","wview",()=>{safe(()=>localStorage.setItem("wr.wview",S.wview));renderWaiver();});
+  $("wview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.wview===S.wview)));chipGroup("inj-chips","injKind","kind",renderInjuries);chipGroup("news-chips","newsKind","kind",renderNews);
   $("week-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.week=+b.dataset.week;renderSchedule();});
 
   renderAll();
