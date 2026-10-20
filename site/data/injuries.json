@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:51:01Z",
+ "updated": "2026-10-20T17:19:54Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -134,20 +134,20 @@
   },
   {
    "team": "CLE",
+   "player": "Nae'Qwan Tomlin",
+   "pos": "PF",
+   "updated": "2026-10-20",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 16",
+   "kind": "out",
+   "ret": "2026-11-16"
+  },
+  {
+   "team": "CLE",
    "player": "Khalifa Diop",
    "pos": "C",
    "updated": "2026-10-13",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
-   "player": "Nae'Qwan Tomlin",
-   "pos": "PF",
-   "updated": "2026-10-13",
-   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -216,11 +216,11 @@
    "team": "DET",
    "player": "Taurean Prince",
    "pos": "SG",
-   "updated": "2026-10-19",
+   "updated": "2026-10-20",
    "injury": "Personal",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
   },
   {
    "team": "GSW",
@@ -785,7 +785,7 @@
   {
    "team": "SAS",
    "player": "Jayden Quaintance",
-   "pos": "C",
+   "pos": "PF",
    "updated": "2026-10-19",
    "injury": "Knee",
    "status": "Expected return: at least Dec 3",
