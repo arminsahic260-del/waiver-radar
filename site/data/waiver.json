@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:20:33Z",
+ "updated": "2026-10-20T20:44:41Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -18,6 +18,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4397002,
    "fpts": 29.0
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "team": "WAS",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 23.10. — nova ozljeda. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.5 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5104155,
+   "fpts": 26.5
   },
   {
    "player": "Jaylon Tyson",
@@ -250,6 +267,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4397040,
    "fpts": 23.9
+  },
+  {
+   "player": "Justin Champagnie",
+   "team": "WAS",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 23.10. — nova ozljeda. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~21.7 FP po utakmici (prošle sezone, 20 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432907,
+   "fpts": 21.7
   },
   {
    "player": "De'Andre Hunter",

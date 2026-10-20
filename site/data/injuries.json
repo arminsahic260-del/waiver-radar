@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:19:54Z",
+ "updated": "2026-10-20T20:44:01Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -114,10 +114,40 @@
   },
   {
    "team": "CHI",
+   "player": "Dailyn Swain",
+   "pos": "SF",
+   "updated": "2026-10-20",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
    "player": "Isaac Okoro",
    "pos": "SF",
-   "updated": "2026-10-16",
-   "injury": "Undisclosed",
+   "updated": "2026-10-20",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "pos": "SG",
+   "updated": "2026-10-20",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
+   "player": "Leonard Miller",
+   "pos": "SF",
+   "updated": "2026-10-20",
+   "injury": "Groin",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -204,6 +234,16 @@
   },
   {
    "team": "DEN",
+   "player": "Julian Strawther",
+   "pos": "SF",
+   "updated": "2026-10-20",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 29",
+   "kind": "out",
+   "ret": "2026-11-29"
+  },
+  {
+   "team": "DEN",
    "player": "Spencer Jones",
    "pos": "SF",
    "updated": "2026-10-13",
@@ -278,6 +318,26 @@
    "pos": "PG",
    "updated": "2026-10-18",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
+   "player": "Julian Phillips",
+   "pos": "SF",
+   "updated": "2026-10-20",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
+   "player": "Steven Adams",
+   "pos": "C",
+   "updated": "2026-10-20",
+   "injury": "Calf",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -454,30 +514,10 @@
   },
   {
    "team": "MIA",
-   "player": "Bam Adebayo",
-   "pos": "PF",
-   "updated": "2026-10-16",
-   "injury": "Groin",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "MIA",
-   "player": "Dru Smith",
-   "pos": "SG",
-   "updated": "2026-10-16",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "pos": "SF",
-   "updated": "2026-10-16",
-   "injury": "Illness",
+   "player": "Vladislav Goldin",
+   "pos": "C",
+   "updated": "2026-10-20",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -806,11 +846,11 @@
    "team": "TOR",
    "player": "Nate Bittle",
    "pos": "C",
-   "updated": "2026-10-17",
+   "updated": "2026-10-20",
    "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "UTA",
@@ -854,6 +894,16 @@
   },
   {
    "team": "WAS",
+   "player": "AJ Dybantsa",
+   "pos": "SF",
+   "updated": "2026-10-20",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
+  },
+  {
+   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -871,16 +921,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "pos": "SF",
-   "updated": "2026-10-16",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }
