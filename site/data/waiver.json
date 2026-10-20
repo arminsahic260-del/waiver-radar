@@ -1,13 +1,30 @@
 {
- "updated": "2026-10-20T06:08:33Z",
+ "updated": "2026-10-20T11:51:40Z",
  "engine": "heuristika",
  "picks": [
+  {
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Donte DiVincenzo (Ahilova tetiva) je out najmanje do 2.4. Ayo Dosunmu je prvi PG/SG u rotaciji MIN-a za te minute; ~29.0 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Veća minutaža dok je out Donte DiVincenzo",
+   "horizon": "Do ~2.4. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Donte DiVincenzo",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397002,
+   "fpts": 29.0
+  },
   {
    "player": "Jaylon Tyson",
    "team": "CLE",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 0). Jaylon Tyson je rotacijski SG/SF, ~26.2 FP po utakmici (prošle sezone, 27 min). Liga: Legendi.",
+   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 1). Jaylon Tyson je rotacijski SG/SF, ~26.2 FP po utakmici (prošle sezone, 27 min). Liga: Legendi.",
    "role": "Streamer (27 min)",
    "horizon": "22.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -26,7 +43,7 @@
    "team": "DEN",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 0). Christian Braun je rotacijski SG/SF, ~24.9 FP po utakmici (prošle sezone, 32 min). Liga: Legendi.",
+   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 1). Christian Braun je rotacijski SG/SF, ~24.9 FP po utakmici (prošle sezone, 32 min). Liga: Legendi.",
    "role": "Streamer (32 min)",
    "horizon": "22.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -39,6 +56,24 @@
    "espnId": 4431767,
    "fpts": 24.9,
    "expires": "2026-10-22"
+  },
+  {
+   "player": "Keaton Wagler",
+   "team": "LAC",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.4 FP po utakmici (ESPN projekcija, 28 min).",
+   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Banijska)",
+   "espnId": 5254165,
+   "fpts": 24.4
   },
   {
    "player": "Al Horford",
@@ -67,7 +102,7 @@
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Maxime Raynaud",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
@@ -79,7 +114,7 @@
    "team": "NYK",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 0). Miles McBride je rotacijski PG/SG, ~23.2 FP po utakmici (prošle sezone, 26 min). Liga: Legendi.",
+   "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 2). Miles McBride je rotacijski PG/SG, ~23.2 FP po utakmici (prošle sezone, 26 min). Liga: Legendi.",
    "role": "Streamer (26 min)",
    "horizon": "20.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -115,7 +150,7 @@
    "team": "PHI",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 0) i četvrtak (CLE @ PHI, tvojih igrača: 0). Anfernee Simons je rotacijski PG/SG, ~22.8 FP po utakmici (prošle sezone, 25 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 2) i četvrtak (CLE @ PHI, tvojih igrača: 1). Anfernee Simons je rotacijski PG/SG, ~22.8 FP po utakmici (prošle sezone, 25 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
    "role": "Streamer (25 min)",
    "horizon": "20.10.–22.10.",
    "risk": "Upitan (GTD) — provjeri status prije utakmice",
@@ -134,7 +169,7 @@
    "team": "DET",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za utorak (BOS @ DET, tvojih igrača: 0). Kevin Huerter je rotacijski SG/SF, ~22.5 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
+   "reason": "Stream za utorak (BOS @ DET, tvojih igrača: 2). Kevin Huerter je rotacijski SG/SF, ~22.5 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
    "role": "Streamer (22 min)",
    "horizon": "20.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -268,23 +303,6 @@
    "fpts": 19.1
   },
   {
-   "player": "Bones Hyland",
-   "team": "MIN",
-   "pos": "PG",
-   "priority": 3,
-   "reason": "Donte DiVincenzo (Ahilova tetiva) je out najmanje do 2.4. Bones Hyland je sljedeći PG u rotaciji MIN-a za te minute; ~17.8 FP po utakmici (prošle sezone, 17 min).",
-   "role": "Veća minutaža dok je out Donte DiVincenzo",
-   "horizon": "Do ~2.4. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Donte DiVincenzo; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4592492,
-   "fpts": 17.8
-  },
-  {
    "player": "Cody Williams",
    "team": "MIN",
    "pos": "SG",
@@ -343,29 +361,11 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 0,
-     "open": 10,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
      "planned": [],
      "picks": [
-      {
-       "player": "Kentavious Caldwell-Pope",
-       "team": "PHI",
-       "pos": "SG/SF",
-       "espnId": 2581018,
-       "fpts": 17.5,
-       "mpg": 21.3,
-       "basis": "prošla sezona",
-       "matchup": "PHI @ NYK",
-       "dates": [
-        "2026-10-20",
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 70.0,
-       "gtd": false
-      },
       {
        "player": "Anfernee Simons",
        "team": "PHI",
@@ -401,6 +401,24 @@
        ],
        "value": 68.4,
        "gtd": false
+      },
+      {
+       "player": "Dean Wade",
+       "team": "PHI",
+       "pos": "PF",
+       "espnId": 3912848,
+       "fpts": 17.4,
+       "mpg": 22.4,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 69.6,
+       "gtd": true
       }
      ]
     },
@@ -475,9 +493,9 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 13,
+     "mine": 11,
      "open": 0,
-     "sitting": 3,
+     "sitting": 1,
      "planned": [],
      "picks": []
     },
@@ -548,12 +566,12 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 0,
-     "open": 9,
+     "mine": 1,
+     "open": 8,
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-20"
       }
@@ -576,23 +594,6 @@
        "gtd": false
       },
       {
-       "player": "Anfernee Simons",
-       "team": "PHI",
-       "pos": "PG/SG",
-       "espnId": 4351851,
-       "fpts": 22.8,
-       "mpg": 24.9,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 68.4,
-       "gtd": true
-      },
-      {
        "player": "Caleb Love",
        "team": "PHI",
        "pos": "SG",
@@ -607,6 +608,22 @@
         "2026-10-25"
        ],
        "value": 51.3,
+       "gtd": false
+      },
+      {
+       "player": "Christian Braun",
+       "team": "DEN",
+       "pos": "SG/SF",
+       "espnId": 4431767,
+       "fpts": 24.9,
+       "mpg": 31.8,
+       "basis": "prošla sezona",
+       "matchup": "DEN @ OKC",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24"
+       ],
+       "value": 49.8,
        "gtd": false
       }
      ]
@@ -684,9 +701,9 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 12,
+     "mine": 11,
      "open": 0,
-     "sitting": 2,
+     "sitting": 1,
      "planned": [],
      "picks": []
     },
@@ -706,12 +723,12 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 6,
-     "open": 2,
+     "mine": 7,
+     "open": 1,
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-20"
       },
@@ -809,7 +826,7 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-20"
       },
@@ -820,6 +837,21 @@
       }
      ],
      "picks": [
+      {
+       "player": "Ayo Dosunmu",
+       "team": "MIN",
+       "pos": "PG/SG",
+       "espnId": 4397002,
+       "fpts": 29.0,
+       "mpg": 27.3,
+       "basis": "prošla sezona",
+       "matchup": "TOR @ MIN",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 29.0,
+       "gtd": false
+      },
       {
        "player": "Isaiah Collier",
        "team": "UTA",
@@ -848,21 +880,6 @@
         "2026-10-25"
        ],
        "value": 27.2,
-       "gtd": false
-      },
-      {
-       "player": "Wendell Carter Jr.",
-       "team": "ORL",
-       "pos": "C",
-       "espnId": 4277847,
-       "fpts": 26.6,
-       "mpg": 29.4,
-       "basis": "prošla sezona",
-       "matchup": "ORL @ NYK",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 26.6,
        "gtd": false
       }
      ]

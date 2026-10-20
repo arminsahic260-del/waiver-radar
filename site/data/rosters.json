@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:08:33Z",
+ "updated": "2026-10-20T11:51:40Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-20T06:08:33Z",
+   "updated": "2026-10-20T11:51:39Z",
    "players": [
     {
      "name": "Trae Young",
@@ -18,11 +18,11 @@
      "espnId": 4277905
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
-     "pos": "PG/SG",
+     "name": "Kentavious Caldwell-Pope",
+     "team": "PHI",
+     "pos": "SG/SF",
      "slot": "SG",
-     "espnId": 2991230
+     "espnId": 2581018
     },
     {
      "name": "Cooper Flagg",
@@ -39,11 +39,11 @@
      "espnId": 4432573
     },
     {
-     "name": "Ivica Zubac",
-     "team": "IND",
+     "name": "Andre Drummond",
+     "team": "NYK",
      "pos": "C",
      "slot": "C",
-     "espnId": 4017837
+     "espnId": 6585
     },
     {
      "name": "Kyrie Irving",
@@ -60,6 +60,13 @@
      "espnId": 5175737
     },
     {
+     "name": "Ivica Zubac",
+     "team": "IND",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 4017837
+    },
+    {
      "name": "Donovan Clingan",
      "team": "POR",
      "pos": "C",
@@ -67,17 +74,24 @@
      "espnId": 5105565
     },
     {
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
+     "slot": "UTIL",
+     "espnId": 2991230
+    },
+    {
      "name": "Darius Acuff Jr.",
      "team": "SAC",
      "pos": "PG",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 5142620
     },
     {
      "name": "Jalen Suggs",
      "team": "ORL",
      "pos": "PG/SG",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 4432165
     },
     {
@@ -86,20 +100,6 @@
      "pos": "C",
      "slot": "BE",
      "espnId": 4432194
-    },
-    {
-     "name": "Brook Lopez",
-     "team": "LAC",
-     "pos": "C",
-     "slot": "BE",
-     "espnId": 3448
-    },
-    {
-     "name": "Keaton Wagler",
-     "team": "LAC",
-     "pos": "PG/SG",
-     "slot": "BE",
-     "espnId": 5254165
     }
    ]
   },
@@ -110,7 +110,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-20T06:08:33Z",
+   "updated": "2026-10-20T11:51:40Z",
    "players": [
     {
      "name": "Stephon Castle",
