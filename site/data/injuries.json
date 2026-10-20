@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:50:09Z",
+ "updated": "2026-10-20T01:07:14Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -213,6 +213,16 @@
    "ret": null
   },
   {
+   "team": "DET",
+   "player": "Taurean Prince",
+   "pos": "SG",
+   "updated": "2026-10-19",
+   "injury": "Personal",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "GSW",
    "player": "Jimmy Butler",
    "pos": "SF",
@@ -404,16 +414,6 @@
   },
   {
    "team": "LAL",
-   "player": "Dalton Knecht",
-   "pos": "SF",
-   "updated": "2026-10-19",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
    "player": "Jarred Vanderbilt",
    "pos": "PF",
    "updated": "2026-10-17",
@@ -448,16 +448,6 @@
    "pos": "PF",
    "updated": "2026-10-17",
    "injury": "Undisclosed",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "MEM",
-   "player": "Micah Peavy",
-   "pos": "SF",
-   "updated": "2026-10-15",
-   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -533,16 +523,6 @@
    "ret": null
   },
   {
-   "team": "NYK",
-   "player": "Josh Hart",
-   "pos": "SF",
-   "updated": "2026-10-15",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "OKC",
    "player": "Otega Oweh",
    "pos": "SG",
@@ -554,53 +534,23 @@
   },
   {
    "team": "OKC",
-   "player": "Cason Wallace",
-   "pos": "PG",
-   "updated": "2026-10-15",
-   "injury": "Undisclosed",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "OKC",
-   "player": "Chet Holmgren",
-   "pos": "PF",
-   "updated": "2026-10-15",
-   "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "OKC",
-   "player": "Jaylin Williams",
-   "pos": "PF",
-   "updated": "2026-10-15",
-   "injury": "Heel",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "OKC",
    "player": "Nikola Topic",
    "pos": "PG",
-   "updated": "2026-10-15",
+   "updated": "2026-10-19",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 22",
+   "kind": "out",
+   "ret": "2026-10-22"
   },
   {
    "team": "OKC",
    "player": "Thomas Sorber",
    "pos": "PF",
-   "updated": "2026-10-15",
+   "updated": "2026-10-19",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 22",
+   "kind": "out",
+   "ret": "2026-10-22"
   },
   {
    "team": "ORL",
@@ -674,6 +624,26 @@
   },
   {
    "team": "PHI",
+   "player": "Dom Barlow",
+   "pos": "PF",
+   "updated": "2026-10-19",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "PHI",
+   "player": "Tacko Fall",
+   "pos": "C",
+   "updated": "2026-10-19",
+   "injury": "Hip",
+   "status": "Expected return: at least Oct 22",
+   "kind": "out",
+   "ret": "2026-10-22"
+  },
+  {
+   "team": "PHI",
    "player": "Adem Bona",
    "pos": "PF",
    "updated": "2026-10-15",
@@ -698,26 +668,6 @@
    "pos": "PF",
    "updated": "2026-10-16",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHI",
-   "player": "Dom Barlow",
-   "pos": "PF",
-   "updated": "2026-10-16",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHI",
-   "player": "Tacko Fall",
-   "pos": "C",
-   "updated": "2026-10-16",
-   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-19T21:50:45Z",
+ "updated": "2026-10-20T01:07:48Z",
  "items": [
+  {
+   "date": "2026-10-19",
+   "team": "MIA",
+   "player": "Dru Smith",
+   "headline": "Able to practice Monday",
+   "note": "Smith (calf) participated in practice Monday, Anthony Chiang of the Miami Herald reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dru-smith-injury-able-to-practice-monday-535190"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Practices Monday",
+   "note": "Larsson (illness) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-practices-monday-535189"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "MIA",
+   "player": "Bam Adebayo",
+   "headline": "Takes part in practice Monday",
+   "note": "Adebayo (groin) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-injury-takes-part-in-practice-monday-535188"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "NYK",
+   "player": "Josh Hart",
+   "headline": "Ready for season opener",
+   "note": "Hart (ankle) isn't listed on the injury report ahead of Tuesday's game against the 76ers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-news-ready-for-season-opener-535187"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Team option picked up",
+   "note": "The 76ers exercised the third-year team option on Edgecombe's contract for the 2027-28 season Monday, Derek Bodner of AllPHLY.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-team-option-picked-up-535186"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Not listed on injury report",
+   "note": "Wallace (undisclosed) is not listed on the injury report ahead of Tuesday's regular-season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-news-not-listed-on-injury-report-535185"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "DET",
+   "player": "Taurean Prince",
+   "headline": "Iffy for Tuesday",
+   "note": "Prince is questionable for Tuesday's season opener against the Celtics for personal reasons.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-injury-iffy-for-tuesday-535184"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "OKC",
+   "player": "Jaylin Williams",
+   "headline": "Available for opener",
+   "note": "Williams (heel) isn't listed on the injury report ahead of Tuesday's game against the Spurs, Justin Martinez of The Oklahoman reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-news-available-for-opener-535183"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "OKC",
+   "player": "Thomas Sorber",
+   "headline": "Won't play in season opener",
+   "note": "Sorber (knee) won't play in Tuesday's season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/thomas-sorber-injury-wont-play-in-season-opener-535182"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "Available to play",
+   "note": "Holmgren (quad) is available for Tuesday's regular-season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-news-available-to-play-535181"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "OKC",
+   "player": "Nikola Topic",
+   "headline": "Won't play Tuesday",
+   "note": "Topic (back) won't play in Tuesday's season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-topic-injury-wont-play-tuesday-535180"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "PHX",
+   "player": "Luke Kennard",
+   "headline": "Ramping up in practice",
+   "note": "Kennard (knee) increased his activity in practice Monday, Duane Rankin of the Arizona Republic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-injury-ramping-up-in-practice-535179"
+  },
   {
    "date": "2026-10-19",
    "team": "PHI",
@@ -33,20 +153,10 @@
   },
   {
    "date": "2026-10-19",
-   "team": "FA",
-   "player": "Drew Timme",
-   "headline": "Claimed by Suns",
-   "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/drew-timme-news-claimed-by-suns-535174"
-  },
-  {
-   "date": "2026-10-19",
    "team": "PHI",
    "player": "Dominick Barlow",
    "headline": "Out at least two weeks",
-   "note": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",
+   "note": "Barlow will miss at least the next two weeks due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-out-at-least-two-weeks-535173"
@@ -154,16 +264,6 @@
   {
    "date": "2026-10-19",
    "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Confirmed as starter",
-   "note": "Head coach Steve Kerr confirmed Monday that Lendeborg will start Wednesday's regular-season opener against the Lakers, per Nick Friedell of The Athletic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-confirmed-as-starter-535159"
-  },
-  {
-   "date": "2026-10-19",
-   "team": "GSW",
    "player": "Stephen Curry",
    "headline": "Expected to play Wednesday",
    "note": "Curry (ankle) is expected to play in Wednesday's regular-season opener against the Lakers, per Kenzo Fukuda of ClutchPoints.com.",
@@ -203,16 +303,6 @@
   },
   {
    "date": "2026-10-19",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Ready for season opener",
-   "note": "Murray (toe) said Monday he'll be fine to play in Wednesday's regular-season opener against the Pacers, per Jim Eichenhofer of the Pelicans' official site.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-ready-for-season-opener-535152"
-  },
-  {
-   "date": "2026-10-19",
    "team": "CHI",
    "player": "Zach Collins",
    "headline": "Hopeful to play",
@@ -244,16 +334,6 @@
   {
    "date": "2026-10-19",
    "team": "BKN",
-   "player": "Joshua Jefferson",
-   "headline": "Available for Wednesday",
-   "note": "Jefferson (back) is available for Wednesday's game against Charlotte, Sharif Phillips-Keaton of USA Today reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joshua-jefferson-news-available-for-wednesday-535148"
-  },
-  {
-   "date": "2026-10-19",
-   "team": "BKN",
    "player": "Tyler Bilodeau",
    "headline": "Will miss opener",
    "note": "Bilodeau will miss the regular-season opener against the Hornets on Wednesday due to a shoulder sprain, Sharif Phillips-Keaton of USA Today reports.",
@@ -270,6 +350,46 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-remains-day-to-day-535146"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "BKN",
+   "player": "Joshua Jefferson",
+   "headline": "Available for Wednesday",
+   "note": "Jefferson (back) is available for Wednesday's game against Charlotte, Sharif Phillips-Keaton of USA Today reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joshua-jefferson-news-available-for-wednesday-535148"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "headline": "Confirmed as starter",
+   "note": "Head coach Steve Kerr confirmed Monday that Lendeborg will start Wednesday's regular-season opener against the Lakers, per Nick Friedell of The Athletic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-confirmed-as-starter-535159"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "MEM",
+   "player": "Walter Clayton",
+   "headline": "Memphis could move him",
+   "note": "Memphis is actively shopping Clayton ahead of Monday's roster deadline, with Sacramento emerging as a possible destination, NBA reporter Marc Stein reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/walter-clayton-news-memphis-could-move-him-535142"
+  },
+  {
+   "date": "2026-10-19",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Ready for season opener",
+   "note": "Murray (toe) said Monday he'll be fine to play in Wednesday's regular-season opener against the Pacers, per Jim Eichenhofer of the Pelicans' official site.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-ready-for-season-opener-535152"
   },
   {
    "date": "2026-10-19",
@@ -293,13 +413,13 @@
   },
   {
    "date": "2026-10-19",
-   "team": "MEM",
-   "player": "Walter Clayton",
-   "headline": "Memphis could move him",
-   "note": "Memphis is actively shopping Clayton ahead of Monday's roster deadline, with Sacramento emerging as a possible destination, NBA reporter Marc Stein reports.",
-   "kind": "other",
+   "team": "FA",
+   "player": "Drew Timme",
+   "headline": "Claimed by Suns",
+   "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com.",
+   "kind": "transaction",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walter-clayton-news-memphis-could-move-him-535142"
+   "url": "https://www.rotowire.com/basketball/headlines/drew-timme-news-claimed-by-suns-535174"
   },
   {
    "date": "2026-10-19",
@@ -310,56 +430,6 @@
    "kind": "transaction",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-waived-by-dallas-535141"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "OKC",
-   "player": "Cason Wallace",
-   "headline": "Signs five-year extension",
-   "note": "Wallace (undisclosed) agreed to a five-year, $139 million contract extension with the Thunder on Sunday, Shams Charania of ESPN reports.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-signs-five-year-extension-535140"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Suffers minor ankle injury",
-   "note": "Curry sustained a right ankle injury during Sunday's practice but is expected to be fine, Dalton Johnson of NBC Sports Bay Area reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-suffers-minor-ankle-injury-535139"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Inks three-year extension",
-   "note": "Ighodaro (hip) signed a three-year, $29 million deal with the Suns on Sunday, Shams Charania of ESPN reports.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-inks-three-year-extension-535138"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Appears to injure knee",
-   "note": "Curry appeared to suffer a right knee injury during Sunday's open practice, Dalton Johnson of NBC Sports Bay Area reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-appears-to-injure-knee-535137"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "SAC",
-   "player": "Ben Simmons",
-   "headline": "Suffers torn Achilles",
-   "note": "Simmons suffered a season-ending right Achilles tear during practice Sunday, Shams Charania of ESPN reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ben-simmons-injury-suffers-torn-achilles-535136"
   },
   {
    "date": "2026-10-18",
@@ -400,6 +470,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-practices-sunday-535134"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Suffers minor ankle injury",
+   "note": "Curry sustained a right ankle injury during Sunday's practice but is expected to be fine, Dalton Johnson of NBC Sports Bay Area reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-suffers-minor-ankle-injury-535139"
+  },
+  {
+   "date": "2026-10-18",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Appears to injure knee",
+   "note": "Curry appeared to suffer a right knee injury during Sunday's open practice, Dalton Johnson of NBC Sports Bay Area reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-appears-to-injure-knee-535137"
   },
   {
    "date": "2026-10-18",
@@ -453,6 +543,16 @@
   },
   {
    "date": "2026-10-18",
+   "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Signs five-year extension",
+   "note": "Wallace (undisclosed) agreed to a five-year, $139 million contract extension with the Thunder on Sunday, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-signs-five-year-extension-535140"
+  },
+  {
+   "date": "2026-10-18",
    "team": "ORL",
    "player": "Anthony Black",
    "headline": "Progressing in recovery",
@@ -500,106 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-unable-to-practice-sunday-535126"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Doesn't practice Sunday",
-   "note": "Wade (ankle) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-doesnt-practice-sunday-535125"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "headline": "Considered day-to-day",
-   "note": "Head coach Brian Keefe said Sunday that Dybantsa is day-to-day with an ankle sprain, Kyle Williams of the Chicago Sun-Times reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-considered-day-to-day-535120"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "ATL",
-   "player": "Jock Landale",
-   "headline": "Stuffs stat sheet Friday",
-   "note": "Landale recorded 16 points (4-5 FG, 3-4 3Pt, 5-5 FT), six rebounds, five assists and a block across 21 minutes in Friday's 135-111 preseason win over the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-stuffs-stat-sheet-friday-534948"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Solid display off bench Friday",
-   "note": "Wiggins delivered 19 points (6-13 FG, 4-9 3Pt, 3-4 FT), seven rebounds and two assists across 22 minutes in Friday's 135-111 preseason win over the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-solid-display-off-bench-friday-534947"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Leads Hawks in scoring in preseason finale",
-   "note": "Alexander-Walker recorded 25 points (7-12 FG, 6-10 3Pt, 5-9 FT), three rebounds and five assists across 27 minutes in Friday's 135-111 preseason win over the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-leads-hawks-in-scoring-in-preseason-finale-534946"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "BOS",
-   "player": "Sam Hauser",
-   "headline": "Expected to suit up Tuesday",
-   "note": "Hauser (rest) is expected to play in Tuesday's game against Detroit.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-expected-to-suit-up-tuesday-535078"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "BOS",
-   "player": "Neemias Queta",
-   "headline": "Expected to suit up Tuesday",
-   "note": "Queta (rest) is expected to play in Tuesday's game against the Pistons.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-expected-to-suit-up-tuesday-535074"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "BOS",
-   "player": "Payton Pritchard",
-   "headline": "Set to play Tuesday",
-   "note": "Pritchard (rest) is expected to play in Tuesday's game versus Detroit.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-set-to-play-tuesday-535073"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "On track to play Tuesday",
-   "note": "Robinson (rest) is expected to play Tuesday versus Detroit.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-on-track-to-play-tuesday-535064"
-  },
-  {
-   "date": "2026-10-17",
-   "team": "BOS",
-   "player": "Derrick White",
-   "headline": "Expected to play Tuesday",
-   "note": "White (rest) is expected to play in Tuesday's game against Detroit.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-news-expected-to-play-tuesday-535061"
   }
  ]
 }

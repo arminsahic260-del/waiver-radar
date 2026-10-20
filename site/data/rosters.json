@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:50:50Z",
+ "updated": "2026-10-20T01:07:52Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-19T21:50:49Z",
+   "updated": "2026-10-20T01:07:52Z",
    "players": [
     {
      "name": "Trae Young",
@@ -110,7 +110,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-19T21:50:50Z",
+   "updated": "2026-10-20T01:07:52Z",
    "players": [
     {
      "name": "Stephon Castle",
