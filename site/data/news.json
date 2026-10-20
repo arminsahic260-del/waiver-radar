@@ -1,45 +1,275 @@
 {
- "updated": "2026-10-20T21:21:52Z",
+ "updated": "2026-10-20T23:58:28Z",
  "items": [
   {
    "date": "2026-10-20",
-   "team": "NOP",
-   "player": "Jeremiah Fears",
-   "headline": "Picks up third-year option with NOP",
-   "note": "The Pelicans exercised their third-year option on Fears on Tuesday, Terry Kimble of SI.com reports.",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Probable for Opening Night",
+   "note": "Curry (ankle) is listed as probable for Wednesday's game against the Lakers.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-picks-up-third-year-option-with-nop-535254"
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-probable-for-opening-night-535286"
   },
   {
    "date": "2026-10-20",
-   "team": "NOP",
-   "player": "Derik Queen",
-   "headline": "Team option picked up",
-   "note": "The Pelicans exercised their third-year team option on Queen's contract Tuesday, Terry Kimble of SI.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-team-option-picked-up-535253"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "NOP",
-   "player": "Yves Missi",
-   "headline": "Team option exercised",
-   "note": "The Pelicans exercised their fourth-year team option on Missi's contract Tuesday, Terry Kimble of SI.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-news-team-option-exercised-535252"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MIL",
-   "player": "Jericho Sims",
-   "headline": "Not listed on injury report",
-   "note": "Sims (undisclosed) is not listed on the injury report for Wednesday's game against the Wizards.",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Ruled out for regular-season opener",
+   "note": "Podziemski (back) has been ruled out for Wednesday's game against the Lakers.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jericho-sims-news-not-listed-on-injury-report-535251"
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-ruled-out-for-regular-season-opener-535285"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "POR",
+   "player": "Branden Carlson",
+   "headline": "Out for Wednesday",
+   "note": "Carlson (concussion) has been ruled out for Wednesday's game against the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/branden-carlson-injury-out-for-wednesday-535284"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "POR",
+   "player": "Chris Youngblood",
+   "headline": "Won't play Wednesday",
+   "note": "Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-wont-play-wednesday-535283"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "POR",
+   "player": "Jrue Holiday",
+   "headline": "Not listed on injury report",
+   "note": "Holiday (hand) isn't listed on the injury report for Wednesday's game against the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jrue-holiday-news-not-listed-on-injury-report-535282"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "POR",
+   "player": "Micah Potter",
+   "headline": "Questionable for Wednesday",
+   "note": "Potter (illness) is questionable for Wednesday's regular-season opener against the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/micah-potter-injury-questionable-for-wednesday-535281"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "SAC",
+   "player": "Malik Monk",
+   "headline": "Questionable for Wednesday",
+   "note": "Monk (ankle) is listed as questionable for Wednesday's game against the Clippers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/malik-monk-injury-questionable-for-wednesday-535280"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Questionable for Wednesday",
+   "note": "Avdija is questionable for Wednesday's game against the Suns due to right ankle soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-injury-questionable-for-wednesday-535279"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DET",
+   "player": "Javonte Green",
+   "headline": "Erupts for 19 points in victory",
+   "note": "Green dropped 19 points (5-10 FG, 5-8 3Pt, 4-4 FT) and four rebounds across 18 minutes in Detroit's season-opening 121-113 comeback victory over the Celtics on Tuesday.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/javonte-green-news-erupts-for-19-points-in-victory-535278"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "PHI",
+   "player": "Kentavious Caldwell-Pope",
+   "headline": "Not starting Tuesday",
+   "note": "Caldwell-Pope won't start Tuesday's game against the Knicks, Adam Aaronson of PhillyVoice.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-not-starting-tuesday-535277"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "PHI",
+   "player": "Anfernee Simons",
+   "headline": "Available to play",
+   "note": "Simons (hamstring) is available for Tuesday's regular-season opener in New York.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-available-to-play-535276"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "PHI",
+   "player": "Adem Bona",
+   "headline": "Ready to roll for regular-season opener",
+   "note": "Bona (foot) is available for Tuesday's game against the Knicks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-ready-to-roll-for-regular-season-opener-535275"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Ruled out for regular-season opener",
+   "note": "Wade (ankle) is out for Tuesday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-ruled-out-for-regular-season-opener-535274"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Out with thumb sprain",
+   "note": "Martin is out for Wednesday's season opener against the Rockets with a sprained right thumb.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-out-with-thumb-sprain-535273"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Out for Wednesday",
+   "note": "Biberovic (heel) has been ruled out for Wednesday's game against Houston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-out-for-wednesday-535272"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
+   "player": "Jett Howard",
+   "headline": "Moving past illness",
+   "note": "Howard (illness) is off the injury report for Wednesday's season opener against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-news-moving-past-illness-535271"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "headline": "Doubtful for Wednesday",
+   "note": "Stewart (ankle) is doubtful to play Wednesday against the Jazz.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-doubtful-for-wednesday-535270"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
+   "player": "Dereck Lively",
+   "headline": "Ruled out for regular-season opener",
+   "note": "Lively (foot) has been ruled out for Wednesday's game against Houston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dereck-lively-injury-ruled-out-for-regular-season-opener-535269"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "UTA",
+   "player": "Blake Hinson",
+   "headline": "Ruled out for regular-season opener",
+   "note": "Hinson (hamstring) is out for Wednesday's game against the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/blake-hinson-injury-ruled-out-for-regular-season-opener-535268"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "MEM",
+   "player": "GG Jackson",
+   "headline": "Absent from injury report",
+   "note": "Jackson (ankle) is off the injury report for Wednesday's season opener against the Jazz.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-absent-from-injury-report-535267"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Ruled out for Wednesday",
+   "note": "Aldama (knee) has been ruled out for Wednesday's game against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-ruled-out-for-wednesday-535266"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "UTA",
+   "player": "Tony Bradley",
+   "headline": "Won't play Wednesday",
+   "note": "Bradley is out for Wednesday's game in Memphis due to a left quadriceps strain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tony-bradley-injury-wont-play-wednesday-535265"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "UTA",
+   "player": "Kyle Filipowski",
+   "headline": "Not listed on injury report",
+   "note": "Filipowski (back) isn't listed on the injury report for Wednesday's game against the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyle-filipowski-news-not-listed-on-injury-report-535264"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "UTA",
+   "player": "Trey Alexander",
+   "headline": "Ruled out for Wednesday",
+   "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-alexander-injury-ruled-out-for-wednesday-535263"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "MEM",
+   "player": "Jerami Grant",
+   "headline": "Left off injury report",
+   "note": "Grant (rest) is off the injury report for Wednesday's season opener against the Jazz.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-news-left-off-injury-report-535262"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Ruled out for Wednesday",
+   "note": "McConnell won't play Wednesday in New Orleans due to a right hamstring strain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-ruled-out-for-wednesday-535259"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Ruled out for regular-season opener",
+   "note": "Nesmith (hamstring) has been ruled out for Wednesday's game against New Orleans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-ruled-out-for-regular-season-opener-535258"
   },
   {
    "date": "2026-10-20",
@@ -84,56 +314,6 @@
   {
    "date": "2026-10-20",
    "team": "CHA",
-   "player": "Moussa Diabate",
-   "headline": "Good to go for Opening Night",
-   "note": "Diabate (elbow) isn't listed on the injury report for Wednesday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-good-to-go-for-opening-night-535246"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Grayson Allen",
-   "headline": "Not listed on injury report",
-   "note": "Allen (knee) isn't listed on the injury report for Wednesday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-not-listed-on-injury-report-535245"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "ORL",
-   "player": "Jase Richardson",
-   "headline": "Omitted from injury report",
-   "note": "Richardson (back) is off the injury report for Wednesday's season opener against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-omitted-from-injury-report-535244"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "ORL",
-   "player": "Franz Wagner",
-   "headline": "Absent from injury report",
-   "note": "Wagner (shoulder) is off the injury report for Wednesday's season opener against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-absent-from-injury-report-535243"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MIN",
-   "player": "Rocco Zikarsky",
-   "headline": "Off injury report",
-   "note": "Zikarsky (undisclosed) isn't listed on the injury report for Wednesday's game against the Heat.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rocco-zikarsky-news-off-injury-report-535242"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
    "player": "Kon Knueppel",
    "headline": "Ruled out for Wednesday",
    "note": "Knueppel (hamstring) has returned to individual on-court activity but won't play in Wednesday's game against the Nets.",
@@ -163,233 +343,13 @@
   },
   {
    "date": "2026-10-20",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Omitted from injury report",
-   "note": "Larsson (illness) isn't listed on the injury report for Wednesday's game against the Timberwolves.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-omitted-from-injury-report-535238"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MIA",
-   "player": "Bam Adebayo",
-   "headline": "Off injury report",
-   "note": "Adebayo (groin) isn't listed on the injury report for Wednesday's game against Minnesota.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-off-injury-report-535237"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MIA",
-   "player": "Dru Smith",
-   "headline": "Available for Wednesday",
-   "note": "Smith (calf) is available for Wednesday's season opener versus Minnesota.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dru-smith-news-available-for-wednesday-535236"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MIA",
-   "player": "Vladislav Goldin",
-   "headline": "Questionable with ankle sprain",
-   "note": "Goldin is questionable for Wednesday's season opener against Minnesota with a right ankle sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vladislav-goldin-injury-questionable-with-ankle-sprain-535235"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Team option picked up",
-   "note": "The Grizzlies exercised their third-year team option on Coward's contract Tuesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-news-team-option-picked-up-535234"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MEM",
-   "player": "Zach Edey",
-   "headline": "Team option picked up",
-   "note": "Memphis exercised Edey's team option Tuesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-team-option-picked-up-535233"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "LAL",
-   "player": "Adou Thiero",
-   "headline": "Doesn't practice Tuesday",
-   "note": "Thiero (undisclosed) didn't practice Tuesday, Law Murray of The Athletic reports.",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "Dominates in regular-season opener",
+   "note": "George tallied 38 points (12-21 FG, 7-12 3Pt, 7-8 FT), five rebounds, five steals and three assists across 31 minutes in Tuesday's 121-113 loss to the Pistons.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-doesnt-practice-tuesday-535232"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "LAL",
-   "player": "Cameron Carr",
-   "headline": "Still not practicing",
-   "note": "Carr (undisclosed) didn't practice Tuesday, per Law Murray of The Athletic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-still-not-practicing-535231"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "LAL",
-   "player": "Bronny James",
-   "headline": "Practices Tuesday",
-   "note": "James (illness) participated in Tuesday's practice, Dan Woike of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bronny-james-injury-practices-tuesday-535230"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Iffy for regular-season opener",
-   "note": "Adams (calf) is listed as questionable for Wednesday's game against the Mavericks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-iffy-for-regular-season-opener-535227"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "GSW",
-   "player": "Charles Bassey",
-   "headline": "Questionable for Wednesday",
-   "note": "Bassey (knee) is questionable for Wednesday's season opener versus the Lakers, per Nick Friedell of The Athletic.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-questionable-for-wednesday-535225"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Misses practice Tuesday",
-   "note": "Podziemski (back) was unable to practice Tuesday, Nick Friedell of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-misses-practice-tuesday-535224"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Leonard Miller",
-   "headline": "Listed as probable",
-   "note": "Miller is probable for Wednesday's game against the Raptors with a right adductor strain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/leonard-miller-injury-listed-as-probable-535221"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Isaac Okoro",
-   "headline": "Probable for Wednesday",
-   "note": "Okoro (knee) is probable for Wednesday's season opener against Toronto.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaac-okoro-injury-probable-for-wednesday-535220"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Doubtful for Wednesday",
-   "note": "Swain (illness) is officially doubtful for Wednesday's season opener in Toronto.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-doubtful-for-wednesday-535219"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Zach Collins",
-   "headline": "Draws probable tag",
-   "note": "Collins (toe) is probable for Wednesday's game against the Raptors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-draws-probable-tag-535218"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Tobe Awaka",
-   "headline": "Probable for Wednesday",
-   "note": "Awaka (knee) is probable for Wednesday's game against the Raptors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-wednesday-535217"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Doubtful for Wednesday",
-   "note": "Biberovic (heel) is unlikely to play in Wednesday's regular-season opener against the Rockets, per Grant Afseth of DallasHoopsJournal.com.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-doubtful-for-wednesday-535210"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Doubtful for Wednesday",
-   "note": "Aldama (knee) is doubtful for Wednesday's game against Houston, Grant Afseth of DallasHoopsJournal.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-doubtful-for-wednesday-535206"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "headline": "Practices fully",
-   "note": "Head coach Kenny Atkinson said Tuesday that Merrill (elbow) went through a full practice, per Danny Cunningham of Sports Radio 92.3 The Fan Cleveland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-injury-practices-fully-535205"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MIA",
-   "player": "Vladislav Goldin",
-   "headline": "Sits out practice",
-   "note": "Goldin (ankle) did not practice Tuesday, Ira Winderman of the South Florida Sun Sentinel reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vladislav-goldin-injury-sits-out-practice-535204"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Status still unclear",
-   "note": "Black (ankle) said Tuesday that he doesn't know if he will play in Wednesday's season opener against the Hawks, Jason Beede of the Orlando Sentinel reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-status-still-unclear-535203"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "headline": "Will not debut Wednesday",
-   "note": "Dybantsa (ankle) will not debut Wednesday against the Bucks, Josh Robbins of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-will-not-debut-wednesday-535202"
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-dominates-in-regular-season-opener-535260"
   },
   {
    "date": "2026-10-20",
@@ -433,6 +393,26 @@
   },
   {
    "date": "2026-10-20",
+   "team": "CHA",
+   "player": "Moussa Diabate",
+   "headline": "Good to go for Opening Night",
+   "note": "Diabate (elbow) isn't listed on the injury report for Wednesday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-good-to-go-for-opening-night-535246"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CHA",
+   "player": "Grayson Allen",
+   "headline": "Not listed on injury report",
+   "note": "Allen (knee) isn't listed on the injury report for Wednesday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-not-listed-on-injury-report-535245"
+  },
+  {
+   "date": "2026-10-20",
    "team": "CHI",
    "player": "Matas Buzelis",
    "headline": "Team option exercised",
@@ -450,6 +430,56 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-news-team-option-picked-up-535222"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CHI",
+   "player": "Leonard Miller",
+   "headline": "Listed as probable",
+   "note": "Miller is probable for Wednesday's game against the Raptors with a right adductor strain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/leonard-miller-injury-listed-as-probable-535221"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CHI",
+   "player": "Isaac Okoro",
+   "headline": "Probable for Wednesday",
+   "note": "Okoro (knee) is probable for Wednesday's regular-season opener against Toronto.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaac-okoro-injury-probable-for-wednesday-535220"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Doubtful for Wednesday",
+   "note": "Swain (illness) is officially doubtful for Wednesday's regular-season opener in Toronto.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-doubtful-for-wednesday-535219"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CHI",
+   "player": "Zach Collins",
+   "headline": "Draws probable tag",
+   "note": "Collins (toe) is probable for Wednesday's game against the Raptors.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-draws-probable-tag-535218"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CHI",
+   "player": "Tobe Awaka",
+   "headline": "Probable for Wednesday",
+   "note": "Awaka (knee) is probable for Wednesday's game against the Raptors.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-wednesday-535217"
   },
   {
    "date": "2026-10-20",
@@ -474,6 +504,16 @@
   {
    "date": "2026-10-20",
    "team": "CLE",
+   "player": "Sam Merrill",
+   "headline": "Practices fully",
+   "note": "Head coach Kenny Atkinson said Tuesday that Merrill (elbow) went through a full practice, per Danny Cunningham of Sports Radio 92.3 The Fan Cleveland.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-injury-practices-fully-535205"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "CLE",
    "player": "Jaylon Tyson",
    "headline": "Team option picked up",
    "note": "The Cavaliers have exercised Tyson's fourth-year rookie-scale team option for the 2027-28 season, the team announced Tuesday.",
@@ -494,12 +534,42 @@
   {
    "date": "2026-10-20",
    "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Doubtful for Wednesday",
+   "note": "Biberovic (heel) is unlikely to play in Wednesday's regular-season opener against the Rockets, per Grant Afseth of DallasHoopsJournal.com.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-doubtful-for-wednesday-535210"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
    "player": "Max Christie",
    "headline": "Good to go Wednesday",
    "note": "Christie (foot) will play in Wednesday's regular-season opener against Houston, Grant Afseth of DallasHoopsJournal.com reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/max-christie-news-good-to-go-wednesday-535207"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Doubtful for Wednesday",
+   "note": "Aldama (knee) is doubtful for Wednesday's game against Houston, Grant Afseth of DallasHoopsJournal.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-doubtful-for-wednesday-535206"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DET",
+   "player": "Cade Cunningham",
+   "headline": "Nets 22 points with eight dimes in win",
+   "note": "Cunningham posted 22 points (8-18 FG, 1-6 3Pt, 5-5 FT), eight assists, four rebounds, one steal, one block and five turnovers across 35 minutes in Tuesday's 121-113 win over the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-nets-22-points-with-eight-dimes-in-win-535261"
   },
   {
    "date": "2026-10-20",
@@ -523,83 +593,13 @@
   },
   {
    "date": "2026-10-20",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Won't play back-to-backs",
-   "note": "Adams will sit out one leg of back-to-back sets to begin the year, per Will Guillory of The Athletic.",
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "headline": "Questionable for Wednesday",
+   "note": "Bassey (knee) is questionable for Wednesday's season opener versus the Lakers, per Nick Friedell of The Athletic.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-news-wont-play-back-to-backs-535211"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "HOU",
-   "player": "Fred VanVleet",
-   "headline": "To miss back-to-backs",
-   "note": "VanVleet will sit out one game of back-to-back sets to open the season, Will Guillory of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-to-miss-back-to-backs-535209"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "ORL",
-   "player": "Franz Wagner",
-   "headline": "Expected to play Wednesday",
-   "note": "Wagner (shoulder) practiced in full Tuesday and is planning to play in Wednesday's game against the Hawks, Jason Beede of the Orlando Sentinel reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-injury-expected-to-play-wednesday-535198"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "TOR",
-   "player": "Collin Murray-Boyles",
-   "headline": "Team option exercised",
-   "note": "The Raptors exercised their third-year team option on Murray-Boyles' contract Tuesday, Vivek Jacob of the Raptors' official site reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-team-option-exercised-535229"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "TOR",
-   "player": "Ja'Kobe Walter",
-   "headline": "Team option picked up",
-   "note": "Toronto exercised Walter's team option Tuesday, per Blake Murphy of Sportsnet.ca.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakobe-walter-news-team-option-picked-up-535228"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "FA",
-   "player": "Dain Dainja",
-   "headline": "Cut by Nets",
-   "note": "The Nets waived Dainja on Sunday.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dain-dainja-news-cut-by-nets-535196"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "FA",
-   "player": "Dion Brown",
-   "headline": "Waived by Nets",
-   "note": "The Nets waived Brown on Sunday.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dion-brown-news-waived-by-nets-535195"
-  },
-  {
-   "date": "2026-10-19",
-   "team": "BKN",
-   "player": "Joshua Jefferson",
-   "headline": "Available for Wednesday",
-   "note": "Jefferson (back) is available for Wednesday's game against Charlotte, Sharif Phillips-Keaton of USA Today reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joshua-jefferson-news-available-for-wednesday-535148"
+   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-questionable-for-wednesday-535225"
   }
  ]
 }

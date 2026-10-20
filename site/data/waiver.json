@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-20T21:21:57Z",
+ "updated": "2026-10-20T23:58:33Z",
  "engine": "heuristika",
  "picks": [
+  {
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Coby White (list) je out najmanje do 23.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 23.10. — nova ozljeda. Grayson Allen je prvi PG/SG u rotaciji CHA-a za te minute; ~30.5 FP po utakmici (prošle sezone, 29 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3135045,
+   "fpts": 30.5
+  },
   {
    "player": "Ayo Dosunmu",
    "team": "MIN",
@@ -54,6 +71,23 @@
    "espnId": 4683747,
    "fpts": 26.2,
    "expires": "2026-10-22"
+  },
+  {
+   "player": "Jalen Slawson",
+   "team": "IND",
+   "pos": "SF",
+   "priority": 2,
+   "reason": "Aaron Nesmith (stražnja loža) je out najmanje do 23.10. — nova ozljeda. Jalen Slawson je prvi SF u rotaciji IND-a za te minute; ~25.2 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Veća minutaža dok je out Aaron Nesmith",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Aaron Nesmith",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4398207,
+   "fpts": 25.2
   },
   {
    "player": "Christian Braun",
@@ -170,7 +204,7 @@
    "reason": "Stream za utorak (PHI @ NYK, tvojih igrača: 2) i četvrtak (CLE @ PHI, tvojih igrača: 1). Anfernee Simons je rotacijski PG/SG, ~22.8 FP po utakmici (prošle sezone, 25 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
    "role": "Streamer (25 min)",
    "horizon": "20.10.–22.10.",
-   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -235,6 +269,40 @@
    "fpts": 15.7
   },
   {
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Santi Aldama (koljeno) je out najmanje do 23.10. — nova ozljeda. Naji Marshall je sljedeći SF/PF u rotaciji DAL-a za te minute; ~28.1 FP po utakmici (prošle sezone, 30 min).",
+   "role": "Veća minutaža dok je out Santi Aldama",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Santi Aldama",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4278594,
+   "fpts": 28.1
+  },
+  {
+   "player": "Royce O'Neale",
+   "team": "CHA",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 23.10. — nova ozljeda. Royce O'Neale je sljedeći SF/PF u rotaciji CHA-a za te minute; ~24.5 FP po utakmici (prošle sezone, 28 min).",
+   "role": "Veća minutaža dok je out Kon Knueppel",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kon Knueppel",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2583632,
+   "fpts": 24.5
+  },
+  {
    "player": "De'Anthony Melton",
    "team": "GSW",
    "pos": "PG/SG",
@@ -267,6 +335,40 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4397040,
    "fpts": 23.9
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "CHA",
+   "pos": "PG",
+   "priority": 3,
+   "reason": "Coby White (list) je out najmanje do 23.10. — nova ozljeda. Dennis Schroder je sljedeći PG u rotaciji CHA-a za te minute; ~22.4 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Veća minutaža dok je out Coby White",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3032979,
+   "fpts": 22.4
+  },
+  {
+   "player": "Jarace Walker",
+   "team": "IND",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Aaron Nesmith (stražnja loža) je out najmanje do 23.10. — nova ozljeda. Jarace Walker je sljedeći SF/PF u rotaciji IND-a za te minute; ~22.4 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Veća minutaža dok je out Aaron Nesmith",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Aaron Nesmith",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5106060,
+   "fpts": 22.4
   },
   {
    "player": "Justin Champagnie",
@@ -416,7 +518,7 @@
         "2026-10-25"
        ],
        "value": 91.2,
-       "gtd": true
+       "gtd": false
       },
       {
        "player": "Caleb Love",
@@ -437,22 +539,20 @@
        "gtd": false
       },
       {
-       "player": "Dean Wade",
-       "team": "PHI",
-       "pos": "PF",
-       "espnId": 3912848,
-       "fpts": 17.4,
-       "mpg": 22.4,
+       "player": "Miles McBride",
+       "team": "NYK",
+       "pos": "PG/SG",
+       "espnId": 4431823,
+       "fpts": 23.2,
+       "mpg": 26.3,
        "basis": "prošla sezona",
        "matchup": "PHI @ NYK",
        "dates": [
         "2026-10-20",
-        "2026-10-22",
-        "2026-10-24",
         "2026-10-25"
        ],
-       "value": 69.6,
-       "gtd": true
+       "value": 46.4,
+       "gtd": false
       }
      ]
     },
@@ -463,6 +563,24 @@
      "sitting": 0,
      "planned": [],
      "picks": [
+      {
+       "player": "Anfernee Simons",
+       "team": "PHI",
+       "pos": "PG/SG",
+       "espnId": 4351851,
+       "fpts": 22.8,
+       "mpg": 24.9,
+       "basis": "prošla sezona",
+       "matchup": "PHI @ NYK",
+       "dates": [
+        "2026-10-20",
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 91.2,
+       "gtd": false
+      },
       {
        "player": "Kentavious Caldwell-Pope",
        "team": "PHI",
@@ -480,24 +598,6 @@
        ],
        "value": 70.0,
        "gtd": false
-      },
-      {
-       "player": "Anfernee Simons",
-       "team": "PHI",
-       "pos": "PG/SG",
-       "espnId": 4351851,
-       "fpts": 22.8,
-       "mpg": 24.9,
-       "basis": "prošla sezona",
-       "matchup": "PHI @ NYK",
-       "dates": [
-        "2026-10-20",
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 91.2,
-       "gtd": true
       },
       {
        "player": "Caleb Love",
@@ -669,12 +769,29 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-20"
       }
      ],
      "picks": [
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "pos": "SG/SF",
+       "espnId": 2581018,
+       "fpts": 17.5,
+       "mpg": 21.3,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 52.5,
+       "gtd": false
+      },
       {
        "player": "Jaylon Tyson",
        "team": "CLE",
@@ -690,23 +807,6 @@
        ],
        "value": 52.4,
        "gtd": false
-      },
-      {
-       "player": "Anfernee Simons",
-       "team": "PHI",
-       "pos": "PG/SG",
-       "espnId": 4351851,
-       "fpts": 22.8,
-       "mpg": 24.9,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 68.4,
-       "gtd": true
       },
       {
        "player": "Caleb Love",
@@ -830,7 +930,7 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-20"
       },
@@ -840,8 +940,8 @@
        "from": "2026-10-21"
       },
       {
-       "player": "Jaylon Tyson",
-       "team": "CLE",
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
        "from": "2026-10-22"
       }
      ],
@@ -921,11 +1021,11 @@
     {
      "league": "Banijska",
      "mine": 7,
-     "open": 1,
+     "open": 0,
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-20"
       },
@@ -933,55 +1033,14 @@
        "player": "Mikel Brown Jr.",
        "team": "BKN",
        "from": "2026-10-21"
+      },
+      {
+       "player": "Kentavious Caldwell-Pope",
+       "team": "PHI",
+       "from": "2026-10-22"
       }
      ],
-     "picks": [
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 28.7,
-       "mpg": 25.7,
-       "basis": "prošla sezona",
-       "matchup": "LAL @ UTA",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 28.7,
-       "gtd": false
-      },
-      {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 27.2,
-       "mpg": 23.8,
-       "basis": "prošla sezona",
-       "matchup": "MEM @ SAC",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 27.2,
-       "gtd": false
-      },
-      {
-       "player": "Wendell Carter Jr.",
-       "team": "ORL",
-       "pos": "C",
-       "espnId": 4277847,
-       "fpts": 26.6,
-       "mpg": 29.4,
-       "basis": "prošla sezona",
-       "matchup": "ORL @ NYK",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 26.6,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -1057,6 +1116,23 @@
      "planned": [],
      "picks": [
       {
+       "player": "Grayson Allen",
+       "team": "CHA",
+       "pos": "PG/SG",
+       "espnId": 3135045,
+       "fpts": 30.5,
+       "mpg": 28.8,
+       "basis": "prošla sezona",
+       "matchup": "WAS @ CHA",
+       "dates": [
+        "2026-10-26",
+        "2026-10-30",
+        "2026-10-31"
+       ],
+       "value": 91.5,
+       "gtd": false
+      },
+      {
        "player": "Cam Spencer",
        "team": "MEM",
        "pos": "PG/SG",
@@ -1088,23 +1164,6 @@
         "2026-10-31"
        ],
        "value": 78.6,
-       "gtd": false
-      },
-      {
-       "player": "Jalen Slawson",
-       "team": "IND",
-       "pos": "SF",
-       "espnId": 4398207,
-       "fpts": 25.2,
-       "mpg": 23.9,
-       "basis": "prošla sezona",
-       "matchup": "IND @ MIL",
-       "dates": [
-        "2026-10-26",
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 75.6,
        "gtd": false
       }
      ]
