@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-20T01:07:48Z",
+ "updated": "2026-10-20T06:08:29Z",
  "items": [
+  {
+   "date": "2026-10-19",
+   "team": "MIN",
+   "player": "Jaden McDaniels",
+   "headline": "Agrees to one-year extension with MIN",
+   "note": "McDaniels agreed to a one-year, $40 million extension with the Timberwolves on Monday, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-agrees-to-one-year-extension-with-min-535191"
+  },
   {
    "date": "2026-10-19",
    "team": "MIA",
@@ -66,7 +76,7 @@
    "team": "DET",
    "player": "Taurean Prince",
    "headline": "Iffy for Tuesday",
-   "note": "Prince is questionable for Tuesday's season opener against the Celtics for personal reasons.",
+   "note": "Prince (personal) is questionable for Tuesday's season opening game against the Celtics.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-injury-iffy-for-tuesday-535184"
@@ -96,7 +106,7 @@
    "team": "OKC",
    "player": "Chet Holmgren",
    "headline": "Available to play",
-   "note": "Holmgren (quad) is available for Tuesday's regular-season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
+   "note": "Holmgren (quadriceps) is available for Tuesday's regular-season opener against the Spurs, Justin Martinez of The Oklahoman reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-news-available-to-play-535181"
@@ -136,7 +146,7 @@
    "team": "PHI",
    "player": "Adem Bona",
    "headline": "Questionable for Tuesday",
-   "note": "Bona (foot) is questionable for Tuesday's meeting in New York, Adam Aaronson of PhillyVoice.com reports.",
+   "note": "Bona (foot) is questionable for Tuesday's game against the Knicks, Adam Aaronson of PhillyVoice.com reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-questionable-for-tuesday-535177"
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-injury-practices-sunday-535128"
-  },
-  {
-   "date": "2026-10-18",
-   "team": "PHI",
-   "player": "Dominick Barlow",
-   "headline": "Unable to practice Sunday",
-   "note": "Barlow (back) didn't participate in Sunday's practice, Adam Aaronson of PhillyVoice.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-unable-to-practice-sunday-535126"
   }
  ]
 }

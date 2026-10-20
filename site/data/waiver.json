@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T01:07:52Z",
+ "updated": "2026-10-20T06:08:33Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -215,40 +215,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4397040,
    "fpts": 23.9
-  },
-  {
-   "player": "Pelle Larsson",
-   "team": "MIA",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Bam Adebayo (prepone) je upitan (GTD). Pelle Larsson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~22.6 FP po utakmici (prošle sezone, 26 min).",
-   "role": "Zamjena ako Bam Adebayo ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Bam Adebayo",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4601025,
-   "fpts": 22.6
-  },
-  {
-   "player": "Tim Hardaway Jr.",
-   "team": "MIA",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Bam Adebayo (prepone) je upitan (GTD). Tim Hardaway Jr. je sljedeći SG/SF u rotaciji MIA-a za te minute; ~21.6 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Zamjena ako Bam Adebayo ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Bam Adebayo",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2528210,
-   "fpts": 21.6
   },
   {
    "player": "De'Andre Hunter",
@@ -962,6 +928,132 @@
         "2026-10-25"
        ],
        "value": 26.6,
+       "gtd": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "games": 9,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 6,
+     "open": 4,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 27.2,
+       "mpg": 23.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ UTA",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 81.6,
+       "gtd": false
+      },
+      {
+       "player": "Jaylon Tyson",
+       "team": "CLE",
+       "pos": "SG/SF",
+       "espnId": 4683747,
+       "fpts": 26.2,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "MIN @ CLE",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 78.6,
+       "gtd": false
+      },
+      {
+       "player": "Jock Landale",
+       "team": "ATL",
+       "pos": "C",
+       "espnId": 3146557,
+       "fpts": 22.7,
+       "mpg": 22.2,
+       "basis": "prošla sezona",
+       "matchup": "ATL @ HOU",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 68.1,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 7,
+     "open": 3,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 27.2,
+       "mpg": 23.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ UTA",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 81.6,
+       "gtd": false
+      },
+      {
+       "player": "Jaylon Tyson",
+       "team": "CLE",
+       "pos": "SG/SF",
+       "espnId": 4683747,
+       "fpts": 26.2,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "MIN @ CLE",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 78.6,
+       "gtd": false
+      },
+      {
+       "player": "Jalen Slawson",
+       "team": "IND",
+       "pos": "SF",
+       "espnId": 4398207,
+       "fpts": 25.2,
+       "mpg": 23.9,
+       "basis": "prošla sezona",
+       "matchup": "IND @ MIL",
+       "dates": [
+        "2026-10-26",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 75.6,
        "gtd": false
       }
      ]
