@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:21:55Z",
+ "updated": "2026-10-21T20:15:24Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -95,7 +95,7 @@
    "team": "GSW",
    "pos": "PF/C",
    "priority": 2,
-   "reason": "Kristaps Porzingis (neotkriveno) je out najmanje do 1.12. Al Horford je prvi PF/C u rotaciji GSW-a za te minute; ~24.1 FP po utakmici (prošle sezone, 22 min).",
+   "reason": "Kristaps Porzingis (bolest) je out najmanje do 1.12. Al Horford je prvi PF/C u rotaciji GSW-a za te minute; ~24.1 FP po utakmici (prošle sezone, 22 min).",
    "role": "Veća minutaža dok je out Kristaps Porzingis",
    "horizon": "Do ~1.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kristaps Porzingis",

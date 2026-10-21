@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:21:17Z",
+ "updated": "2026-10-21T20:14:31Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -286,8 +286,8 @@
    "team": "GSW",
    "player": "Kristaps Porzingis",
    "pos": "C",
-   "updated": "2026-10-19",
-   "injury": "Undisclosed",
+   "updated": "2026-10-21",
+   "injury": "Illness",
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
