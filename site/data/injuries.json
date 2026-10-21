@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:28:20Z",
+ "updated": "2026-10-21T15:21:16Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,6 +41,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-21",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -246,11 +256,11 @@
    "team": "DET",
    "player": "Taurean Prince",
    "pos": "SG",
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "injury": "Personal",
-   "status": "Expected return: at least Oct 23",
-   "kind": "out",
-   "ret": "2026-10-23"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "GSW",
@@ -496,21 +506,21 @@
    "team": "OKC",
    "player": "Nikola Topic",
    "pos": "PG",
-   "updated": "2026-10-19",
+   "updated": "2026-10-21",
    "injury": "Back",
-   "status": "Expected return: at least Oct 22",
-   "kind": "out",
-   "ret": "2026-10-22"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "OKC",
    "player": "Thomas Sorber",
    "pos": "PF",
-   "updated": "2026-10-19",
+   "updated": "2026-10-21",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 22",
-   "kind": "out",
-   "ret": "2026-10-22"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "ORL",
@@ -574,20 +584,20 @@
   },
   {
    "team": "PHI",
-   "player": "Tacko Fall",
-   "pos": "C",
-   "updated": "2026-10-19",
-   "injury": "Hip",
-   "status": "Expected return: at least Oct 22",
-   "kind": "out",
-   "ret": "2026-10-22"
-  },
-  {
-   "team": "PHI",
    "player": "Dean Wade",
    "pos": "PF",
    "updated": "2026-10-20",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHI",
+   "player": "Tacko Fall",
+   "pos": "C",
+   "updated": "2026-10-21",
+   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -716,11 +726,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-19",
+   "updated": "2026-10-21",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 23",
-   "kind": "out",
-   "ret": "2026-10-23"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "TOR",

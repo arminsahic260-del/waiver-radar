@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:28:59Z",
+ "updated": "2026-10-21T15:21:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -314,23 +314,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4065732,
    "fpts": 21.0
-  },
-  {
-   "player": "Harrison Barnes",
-   "team": "SAS",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 23.10. Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
-   "role": "Veća minutaža dok je out Tobias Harris",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Tobias Harris",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 6578,
-   "fpts": 19.1
   },
   {
    "player": "Bones Hyland",
