@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:21:18Z",
+ "updated": "2026-10-21T19:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -84,6 +84,26 @@
   },
   {
    "team": "CHI",
+   "player": "Dailyn Swain",
+   "pos": "SF",
+   "updated": "2026-10-21",
+   "injury": "Illness",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "pos": "SG",
+   "updated": "2026-10-21",
+   "injury": "Illness",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "CHI",
    "player": "Nicolas Claxton",
    "pos": "C",
    "updated": "2026-10-19",
@@ -94,30 +114,10 @@
   },
   {
    "team": "CHI",
-   "player": "Dailyn Swain",
-   "pos": "SF",
-   "updated": "2026-10-20",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
    "player": "Isaac Okoro",
    "pos": "SF",
    "updated": "2026-10-20",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "pos": "SG",
-   "updated": "2026-10-20",
-   "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -264,6 +264,16 @@
   },
   {
    "team": "GSW",
+   "player": "Charles Bassey",
+   "pos": "C",
+   "updated": "2026-10-21",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
+  },
+  {
+   "team": "GSW",
    "player": "Jimmy Butler",
    "pos": "SF",
    "updated": "2026-10-02",
@@ -291,16 +301,6 @@
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
-  },
-  {
-   "team": "GSW",
-   "player": "Charles Bassey",
-   "pos": "C",
-   "updated": "2026-10-19",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "GSW",
@@ -736,11 +736,11 @@
    "team": "UTA",
    "player": "Blake Hinson",
    "pos": "SF",
-   "updated": "2026-10-20",
+   "updated": "2026-10-21",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 23",
+   "status": "Expected return: at least Nov 6",
    "kind": "out",
-   "ret": "2026-10-23"
+   "ret": "2026-11-06"
   },
   {
    "team": "UTA",
