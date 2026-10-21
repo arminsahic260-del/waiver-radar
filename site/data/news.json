@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-21T20:22:56Z",
+ "updated": "2026-10-21T21:22:14Z",
  "items": [
+  {
+   "date": "2026-10-21",
+   "team": "CLE",
+   "player": "Sam Merrill",
+   "headline": "Not listed on injury report",
+   "note": "Merrill (elbow) is not listed on the injury report ahead of Thursday's regular-season opener in Philadelphia.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-not-listed-on-injury-report-535369"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "CLE",
+   "player": "Khalifa Diop",
+   "headline": "Out for Thursday",
+   "note": "Diop (knee) has been ruled out for Thursday's game against the 76ers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/khalifa-diop-injury-out-for-thursday-535368"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Questionable versus Philadelphia",
+   "note": "Allen (knee) is questionable for Thursday's game against the 76ers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-questionable-versus-philadelphia-535367"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Iffy for Thursday",
+   "note": "Wade (ankle) is questionable for Thursday's game against Cleveland.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-iffy-for-thursday-535365"
+  },
   {
    "date": "2026-10-21",
    "team": "POR",
@@ -213,46 +253,6 @@
   },
   {
    "date": "2026-10-21",
-   "team": "SAS",
-   "player": "Harrison Barnes",
-   "headline": "Sees just nine minutes",
-   "note": "Barnes racked up three points (1-1 FG, 1-1 3Pt) and one block in nine minutes during Tuesday's 116-104 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/harrison-barnes-news-sees-just-nine-minutes-535343"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "SAS",
-   "player": "Devin Vassell",
-   "headline": "Muted effort in opener",
-   "note": "Vassell provided seven points (2-8 FG, 1-4 3Pt, 2-2 FT), three rebounds and one assist in 31 minutes during Tuesday's 116-104 loss to Oklahoma City.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-muted-effort-in-opener-535342"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "OKC",
-   "player": "Cason Wallace",
-   "headline": "Goes cold from deep",
-   "note": "Wallace finished Tuesday's 116-104 victory over the Spurs with six points (3-8 FG, 0-4 3Pt), three rebounds, two assists and one steal over 19 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-news-goes-cold-from-deep-535341"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "OKC",
-   "player": "Kenrich Williams",
-   "headline": "Sees seven minutes",
-   "note": "Williams notched three points (1-1 FG, 1-1 3Pt) and two rebounds across seven minutes during Tuesday's 116-104 victory over the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-sees-seven-minutes-535340"
-  },
-  {
-   "date": "2026-10-21",
    "team": "FA",
    "player": "Blake Hinson",
    "headline": "To be waived",
@@ -354,6 +354,26 @@
   {
    "date": "2026-10-21",
    "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Goes cold from deep",
+   "note": "Wallace finished Tuesday's 116-104 victory over the Spurs with six points (3-8 FG, 0-4 3Pt), three rebounds, two assists and one steal over 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-news-goes-cold-from-deep-535341"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Kenrich Williams",
+   "headline": "Sees seven minutes",
+   "note": "Williams notched three points (1-1 FG, 1-1 3Pt) and two rebounds across seven minutes during Tuesday's 116-104 victory over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-sees-seven-minutes-535340"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
    "player": "Isaiah Hartenstein",
    "headline": "Foul trouble limits production",
    "note": "Hartenstein had four points (2-4 FG), three rebounds, three assists, one block and one steal in 17 minutes during Tuesday's 116-104 win over the Spurs.",
@@ -430,6 +450,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-productive-off-bench-535333"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Harrison Barnes",
+   "headline": "Sees just nine minutes",
+   "note": "Barnes racked up three points (1-1 FG, 1-1 3Pt) and one block in nine minutes during Tuesday's 116-104 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/harrison-barnes-news-sees-just-nine-minutes-535343"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Devin Vassell",
+   "headline": "Muted effort in opener",
+   "note": "Vassell provided seven points (2-8 FG, 1-4 3Pt, 2-2 FT), three rebounds and one assist in 31 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-muted-effort-in-opener-535342"
   },
   {
    "date": "2026-10-21",
@@ -560,46 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-probable-for-opening-night-535286"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Ruled out for regular-season opener",
-   "note": "Podziemski (back) has been ruled out for Wednesday's game against the Lakers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-ruled-out-for-regular-season-opener-535285"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "POR",
-   "player": "Branden Carlson",
-   "headline": "Out for Wednesday",
-   "note": "Carlson (concussion) has been ruled out for Wednesday's game against the Suns.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/branden-carlson-injury-out-for-wednesday-535284"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "POR",
-   "player": "Chris Youngblood",
-   "headline": "Won't play Wednesday",
-   "note": "Youngblood is out for Wednesday's regular-season opener against Phoenix due to left ankle soreness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-wont-play-wednesday-535283"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "POR",
-   "player": "Micah Potter",
-   "headline": "Questionable for Wednesday",
-   "note": "Potter (illness) is questionable for Wednesday's regular-season opener against the Suns.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/micah-potter-injury-questionable-for-wednesday-535281"
   }
  ]
 }
