@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-21T05:00:59Z",
+ "updated": "2026-10-21T10:18:55Z",
  "items": [
+  {
+   "date": "2026-10-20",
+   "team": "DET",
+   "player": "John Collins",
+   "headline": "Quiet in Pistons debut",
+   "note": "Collins closed Tuesday's 121-113 victory over the Celtics with six points (3-7 FG, 0-3 3Pt), five rebounds, one assist, one block and one steal over 25 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/john-collins-news-quiet-in-pistons-debut-535316"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DET",
+   "player": "Paul Reed",
+   "headline": "Modest effort off bench",
+   "note": "Reed accumulated six points (2-3 FG, 2-2 FT), six rebounds, two assists and one steal over 17 minutes during Tuesday's 121-113 victory over the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-modest-effort-off-bench-535315"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Team-high 11 rebounds in win",
+   "note": "Thompson ended Tuesday's 121-113 victory over the Celtics with 11 points (4-8 FG, 0-1 3Pt, 3-3 FT), 11 rebounds, five assists and one steal in 33 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-team-high-11-rebounds-in-win-535314"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "BOS",
+   "player": "Jordan Walsh",
+   "headline": "Drops a donut in start",
+   "note": "Walsh had zero points (0-2 FG, 0-1 3Pt), six rebounds, one assist, one block and one steal in 13 minutes during Tuesday's 121-113 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-walsh-news-drops-a-donut-in-start-535313"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Quiet in starting role",
+   "note": "Robinson posted four points (2-2 FG, 0-2 FT), three rebounds, one assist, two blocks and one steal in 18 minutes during Tuesday's 121-113 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-quiet-in-starting-role-535312"
+  },
+  {
+   "date": "2026-10-20",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Double-doubles in loss",
+   "note": "Tatum closed with 13 points (6-23 FG, 0-7 3Pt, 1-1 FT), four rebounds and 11 assists across 38 minutes during Tuesday's 121-113 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-double-doubles-in-loss-535311"
+  },
   {
    "date": "2026-10-20",
    "team": "OKC",
@@ -194,42 +254,12 @@
   {
    "date": "2026-10-20",
    "team": "LAL",
-   "player": "Bronny James",
-   "headline": "Left off injury report",
-   "note": "James (illness) isn't listed on the injury report for Wednesday's game against the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bronny-james-news-left-off-injury-report-535291"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "LAL",
-   "player": "Jarred Vanderbilt",
-   "headline": "Not listed on injury report",
-   "note": "Vanderbilt (undisclosed) is not listed on the injury report ahead of Wednesday's regular-season opener against the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarred-vanderbilt-news-not-listed-on-injury-report-535290"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "LAL",
    "player": "Collin Sexton",
    "headline": "Questionable for Wednesday",
    "note": "Sexton (calf) is questionable for Wednesday's regular-season opener against the Warriors.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-injury-questionable-for-wednesday-535289"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "LAL",
-   "player": "Walker Kessler",
-   "headline": "Available against Warriors",
-   "note": "Kessler (finger) is available for Wednesday's game against the Warriors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-available-against-warriors-535288"
   },
   {
    "date": "2026-10-20",
@@ -570,36 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/leonard-miller-injury-listed-as-probable-535221"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Isaac Okoro",
-   "headline": "Probable for Wednesday",
-   "note": "Okoro (knee) is probable for Wednesday's regular-season opener against Toronto.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaac-okoro-injury-probable-for-wednesday-535220"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Doubtful for Wednesday",
-   "note": "Swain (illness) is officially doubtful for Wednesday's regular-season opener in Toronto.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-doubtful-for-wednesday-535219"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Zach Collins",
-   "headline": "Draws probable tag",
-   "note": "Collins (toe) is probable for Wednesday's game against the Raptors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-draws-probable-tag-535218"
   }
  ]
 }
