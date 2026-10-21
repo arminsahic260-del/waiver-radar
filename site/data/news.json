@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-21T10:18:55Z",
+ "updated": "2026-10-21T14:28:54Z",
  "items": [
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Keldon Johnson",
+   "headline": "Logs 10 points from bench",
+   "note": "Johnson contributed 10 points (4-8 FG, 1-2 3Pt, 1-1 FT), four rebounds, one assist and two steals over 20 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-news-logs-10-points-from-bench-535324"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "De'Aaron Fox",
+   "headline": "Efficient in opening game",
+   "note": "Fox contributed 14 points (6-9 FG, 0-2 3Pt, 2-3 FT), seven rebounds, seven assists and one steal across 32 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-efficient-in-opening-game-535323"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Dylan Harper",
+   "headline": "Posts 18 points in opening loss",
+   "note": "Harper ended with 18 points (7-17 FG, 0-2 3Pt, 4-4 FT), seven rebounds and five assists across 32 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-posts-18-points-in-opening-loss-535322"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Struggles with shot in loss",
+   "note": "Wembanyama registered 12 points (1-13 FG, 0-4 3Pt, 10-12 FT), 13 rebounds, three assists, six blocks and one steal over 34 minutes during Tuesday's 116-104 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-struggles-with-shot-in-loss-535321"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Aday Mara",
+   "headline": "Holds own against Wemby",
+   "note": "Mara produced seven points (3-4 FG, 1-2 FT), two rebounds, one assist and one block across 12 minutes during Tuesday's 116-104 win over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aday-mara-news-holds-own-against-wemby-535320"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Jalen Williams",
+   "headline": "Rusty shot during opener",
+   "note": "Williams closed Tuesday's 116-104 win over the Spurs with 12 points (5-16 FG, 1-2 3Pt, 1-2 FT), seven rebounds, two assists, one block and one steal across 30 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-williams-news-rusty-shot-during-opener-535319"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "Swats four balls in opener",
+   "note": "Holmgren finished with 14 points (3-8 FG, 0-1 3Pt, 8-8 FT), seven rebounds, two assists and four blocks over 31 minutes during Tuesday's 116-104 win over San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-news-swats-four-balls-in-opener-535318"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Jared McCain",
+   "headline": "Drills six threes in opener",
+   "note": "McCain posted 20 points (7-9 FG, 6-8 3Pt), two rebounds, two assists and one steal over 22 minutes during Tuesday's 116-104 win over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-drills-six-threes-in-opener-535317"
+  },
   {
    "date": "2026-10-20",
    "team": "DET",
@@ -173,46 +253,6 @@
   },
   {
    "date": "2026-10-20",
-   "team": "NYK",
-   "player": "Karl-Anthony Towns",
-   "headline": "Overcomes foul trouble Tuesday",
-   "note": "Towns ended with 19 points (6-9 FG, 3-4 3Pt, 4-7 FT), 12 rebounds, one assist, one steal and two blocks over 24 minutes in Tuesday's 106-100 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-overcomes-foul-trouble-tuesday-535299"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "PHI",
-   "player": "Tyrese Maxey",
-   "headline": "Paces Philadelphia in regular-season opener",
-   "note": "Maxey amassed 28 points (9-19 FG, 2-9 3Pt, 8-9 FT), five assists, four rebounds, three steals and three blocks across 40 minutes in Tuesday's 106-100 win over the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-maxey-news-paces-philadelphia-in-regular-season-opener-535298"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Coming off bench Wednesday",
-   "note": "Caruso is not listed in the starting lineup for Wednesday's game against the Spurs, Clemente Almanza of USA Today reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-news-coming-off-bench-wednesday-535297"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "OKC",
-   "player": "Ajay Mitchell",
-   "headline": "Not starting Tuesday",
-   "note": "Mitchell won't start Tuesday's game against the Spurs, Clemente Almanza of USA Today reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-not-starting-tuesday-535296"
-  },
-  {
-   "date": "2026-10-20",
    "team": "DAL",
    "player": "Jett Howard",
    "headline": "Questionable to face Houston",
@@ -220,16 +260,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-questionable-to-face-houston-535295"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Not listed on injury report",
-   "note": "Ighodaro (hip) is not listed on the injury report ahead of Wednesday's regular-season opener in Portland.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-not-listed-on-injury-report-535294"
   },
   {
    "date": "2026-10-20",
@@ -570,36 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-ruled-out-for-season-opener-535239"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Matas Buzelis",
-   "headline": "Team option exercised",
-   "note": "The Bulls picked up Buzelis' team option Tuesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-team-option-exercised-535223"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Noa Essengue",
-   "headline": "Team option picked up",
-   "note": "The Bulls exercised Essengue's team option Tuesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-news-team-option-picked-up-535222"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHI",
-   "player": "Leonard Miller",
-   "headline": "Listed as probable",
-   "note": "Miller is probable for Wednesday's game against the Raptors with a right adductor strain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/leonard-miller-injury-listed-as-probable-535221"
   }
  ]
 }

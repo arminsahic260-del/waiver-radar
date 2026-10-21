@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T10:19:00Z",
+ "updated": "2026-10-21T14:28:58Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-21T10:18:59Z",
+   "updated": "2026-10-21T14:28:58Z",
    "players": [
     {
      "name": "Trae Young",
@@ -110,7 +110,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-21T10:19:00Z",
+   "updated": "2026-10-21T14:28:58Z",
    "players": [
     {
      "name": "Keyonte George",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T10:19:00Z",
+ "updated": "2026-10-21T14:28:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -197,21 +197,21 @@
    "expires": "2026-10-22"
   },
   {
-   "player": "Dennis Schroder",
+   "player": "Sion James",
    "team": "CHA",
-   "pos": "PG",
+   "pos": "SF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 23.10.; Kon Knueppel (stražnja loža) je out najmanje do 23.10. Dennis Schroder je prvi PG u rotaciji CHA-a za te minute; ~22.4 FP po utakmici (prošle sezone, 24 min).",
-   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "reason": "Coby White (list) je out najmanje do 23.10.; Kon Knueppel (stražnja loža) je out najmanje do 23.10. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 16.10.: Starting Friday.",
+   "role": "Mogući starter dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White",
+   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
-    "Banijska": false
+    "Banijska": true
    },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3032979,
-   "fpts": 22.4
+   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-friday-534826",
+   "espnId": 4602025,
+   "fpts": 14.4
   },
   {
    "player": "Naji Marshall",
