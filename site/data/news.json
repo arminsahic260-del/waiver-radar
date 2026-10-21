@@ -1,15 +1,85 @@
 {
- "updated": "2026-10-21T17:21:51Z",
+ "updated": "2026-10-21T18:23:01Z",
  "items": [
+  {
+   "date": "2026-10-21",
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "headline": "Ruled out Wednesday",
+   "note": "Bassey (knee) is out for Wednesday's season opener versus the Lakers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-ruled-out-wednesday-535361"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Out sick Wednesday",
+   "note": "Swain is out for Wednesday's season opener against Toronto with an illness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-out-sick-wednesday-535360"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "headline": "Downgraded to out",
+   "note": "Hawkins is out for Wednesday's season opener against Toronto with an illness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-downgraded-to-out-535359"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "NYK",
+   "player": "Landry Shamet",
+   "headline": "Significant role in season opener",
+   "note": "Shamet totaled five points (2-7 FG, 1-4 3Pt, 0-2 FT), two rebounds and four assists in 25 minutes during Tuesday's 106-100 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/landry-shamet-news-significant-role-in-season-opener-535358"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "NYK",
+   "player": "Miles McBride",
+   "headline": "Quiet in loss",
+   "note": "McBride amassed three points (1-5 FG, 1-3 3Pt), one rebound, one assist and one block over 14 minutes during Tuesday's 106-100 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/miles-mcbride-news-quiet-in-loss-535357"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "DET",
+   "player": "Ebuka Okorie",
+   "headline": "Not part of rotation",
+   "note": "Okorie (coach's decision) didn't play during Tuesday's 121-113 win over the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ebuka-okorie-news-not-part-of-rotation-535356"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "DET",
+   "player": "Daniss Jenkins",
+   "headline": "Sees 15 minutes",
+   "note": "Jenkins posted three points (1-3 FG, 1-1 3Pt), two rebounds and three assists in 15 minutes during Tuesday's 121-113 win over the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-sees-15-minutes-535355"
+  },
   {
    "date": "2026-10-21",
    "team": "DAL",
    "player": "Jett Howard",
-   "headline": "Downgraded to questionable",
+   "headline": "Downgraded to doubtful",
    "note": "Howard (calf) is now doubtful for Wednesday against the Rockets.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-downgraded-to-questionable-535354"
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-downgraded-to-doubtful-535354"
   },
   {
    "date": "2026-10-21",
@@ -36,7 +106,7 @@
    "team": "ORL",
    "player": "Tristan da Silva",
    "headline": "Team option picked up",
-   "note": "The Magic have exercised Da Silva's fourth-year rookie-scale team option, keeping him under contract through the 2027-28 season, Jason Beede of the Orlando Sentinel reports.",
+   "note": "The Magic have exercised da Silva's fourth-year rookie-scale team option, keeping him under contract through the 2027-28 season, Jason Beede of the Orlando Sentinel reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-team-option-picked-up-535351"
@@ -183,56 +253,6 @@
   },
   {
    "date": "2026-10-21",
-   "team": "NYK",
-   "player": "Mikal Bridges",
-   "headline": "Struggles with shot",
-   "note": "Bridges produced four points (2-8 FG, 0-2 3Pt), three rebounds, one assist and one block in 33 minutes during Tuesday's 106-100 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikal-bridges-news-struggles-with-shot-535336"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "PHI",
-   "player": "Adem Bona",
-   "headline": "Limited to 10 minutes",
-   "note": "Bona produced three rebounds, one assist and one block across 10 minutes during Tuesday's 106-100 victory over the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-limited-to-10-minutes-535335"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "PHI",
-   "player": "VJ Edgecombe",
-   "headline": "Sees 35 minutes in opener",
-   "note": "Edgecombe supplied nine points (4-10 FG, 0-3 3Pt, 1-2 FT), four rebounds, one assist and one steal in 35 minutes during Tuesday's 106-100 win over New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-sees-35-minutes-in-opener-535334"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "PHI",
-   "player": "Anfernee Simons",
-   "headline": "Productive off bench",
-   "note": "Simons closed with 13 points (5-10 FG, 3-8 3Pt) and two rebounds in 25 minutes during Tuesday's 106-100 victory over the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-productive-off-bench-535333"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "UTA",
-   "player": "Kobe Bufkin",
-   "headline": "Signs with Jazz",
-   "note": "Bufkin is signing a two-way contract with the Jazz, Jake Fischer of The Stein Line reports.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kobe-bufkin-news-signs-with-jazz-535332"
-  },
-  {
-   "date": "2026-10-21",
    "team": "FA",
    "player": "Blake Hinson",
    "headline": "To be waived",
@@ -240,16 +260,6 @@
    "kind": "transaction",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/blake-hinson-injury-to-be-waived-535331"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "DET",
-   "player": "Kevin Huerter",
-   "headline": "Quiet outing off bench",
-   "note": "Huerter closed with three points (1-4 FG, 1-4 3Pt), three rebounds and two assists over 18 minutes during Tuesday's 121-113 victory over the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-huerter-news-quiet-outing-off-bench-535330"
   },
   {
    "date": "2026-10-21",
@@ -284,12 +294,12 @@
   {
    "date": "2026-10-21",
    "team": "DET",
-   "player": "Daniss Jenkins",
-   "headline": "Sees 15 minutes",
-   "note": "Jenkins posted three points (1-3 FG, 1-1 3Pt), two rebounds and three assists in 15 minutes during Tuesday's 121-113 win over the Celtics.",
+   "player": "Kevin Huerter",
+   "headline": "Quiet outing off bench",
+   "note": "Huerter closed with three points (1-4 FG, 1-4 3Pt), three rebounds and two assists over 18 minutes during Tuesday's 121-113 victory over the Celtics.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-sees-15-minutes-535355"
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-huerter-news-quiet-outing-off-bench-535330"
   },
   {
    "date": "2026-10-21",
@@ -310,6 +320,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-shines-in-opener-535328"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "NYK",
+   "player": "Mikal Bridges",
+   "headline": "Struggles with shot",
+   "note": "Bridges produced four points (2-8 FG, 0-2 3Pt), three rebounds, one assist and one block in 33 minutes during Tuesday's 106-100 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikal-bridges-news-struggles-with-shot-535336"
   },
   {
    "date": "2026-10-21",
@@ -353,6 +373,36 @@
   },
   {
    "date": "2026-10-21",
+   "team": "PHI",
+   "player": "Adem Bona",
+   "headline": "Limited to 10 minutes",
+   "note": "Bona produced three rebounds, one assist and one block across 10 minutes during Tuesday's 106-100 victory over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-limited-to-10-minutes-535335"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Sees 35 minutes in opener",
+   "note": "Edgecombe supplied nine points (4-10 FG, 0-3 3Pt, 1-2 FT), four rebounds, one assist and one steal in 35 minutes during Tuesday's 106-100 win over New York.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-sees-35-minutes-in-opener-535334"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "PHI",
+   "player": "Anfernee Simons",
+   "headline": "Productive off bench",
+   "note": "Simons closed with 13 points (5-10 FG, 3-8 3Pt) and two rebounds in 25 minutes during Tuesday's 106-100 victory over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-productive-off-bench-535333"
+  },
+  {
+   "date": "2026-10-21",
    "team": "SAS",
    "player": "Keldon Johnson",
    "headline": "Logs 10 points from bench",
@@ -390,6 +440,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-struggles-with-shot-in-loss-535321"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "UTA",
+   "player": "Kobe Bufkin",
+   "headline": "Signs with Jazz",
+   "note": "Bufkin is signing a two-way contract with the Jazz, Jake Fischer of The Stein Line reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kobe-bufkin-news-signs-with-jazz-535332"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "DAL",
+   "player": "Jett Howard",
+   "headline": "Downgraded to questionable",
+   "note": "Howard (calf) is now doubtful for Wednesday against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-downgraded-to-questionable-535354"
   },
   {
    "date": "2026-10-20",
@@ -530,76 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-ruled-out-for-regular-season-opener-535274"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "DAL",
-   "player": "Caleb Martin",
-   "headline": "Out with thumb sprain",
-   "note": "Martin is out for Wednesday's season opener against the Rockets with a sprained right thumb.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-out-with-thumb-sprain-535273"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Out for Wednesday",
-   "note": "Biberovic (heel) has been ruled out for Wednesday's game against Houston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-out-for-wednesday-535272"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "MEM",
-   "player": "Isaiah Stewart",
-   "headline": "Doubtful for Wednesday",
-   "note": "Stewart (ankle) is doubtful to play Wednesday against the Jazz.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-doubtful-for-wednesday-535270"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "DAL",
-   "player": "Dereck Lively",
-   "headline": "Ruled out for regular-season opener",
-   "note": "Lively (foot) has been ruled out for Wednesday's game against Houston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dereck-lively-injury-ruled-out-for-regular-season-opener-535269"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "UTA",
-   "player": "Blake Hinson",
-   "headline": "Ruled out for regular-season opener",
-   "note": "Hinson (hamstring) is out for Wednesday's game against the Grizzlies.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/blake-hinson-injury-ruled-out-for-regular-season-opener-535268"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Ruled out for Wednesday",
-   "note": "Aldama (knee) has been ruled out for Wednesday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-ruled-out-for-wednesday-535266"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "UTA",
-   "player": "Tony Bradley",
-   "headline": "Won't play Wednesday",
-   "note": "Bradley is out for Wednesday's game in Memphis due to a left quadriceps strain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tony-bradley-injury-wont-play-wednesday-535265"
   }
  ]
 }
