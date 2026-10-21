@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:57:54Z",
+ "updated": "2026-10-21T05:00:27Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,6 +41,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-21",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -213,6 +223,16 @@
    "ret": "2026-10-23"
   },
   {
+   "team": "DAL",
+   "player": "Jett Howard",
+   "pos": "SG",
+   "updated": "2026-10-20",
+   "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
@@ -238,6 +258,16 @@
    "pos": "SG",
    "updated": "2026-10-20",
    "injury": "Personal",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
+  },
+  {
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "pos": "SG",
+   "updated": "2026-10-20",
+   "injury": "Back",
    "status": "Expected return: at least Oct 23",
    "kind": "out",
    "ret": "2026-10-23"
@@ -271,16 +301,6 @@
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
-  },
-  {
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "pos": "SG",
-   "updated": "2026-10-19",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "GSW",
@@ -406,48 +426,28 @@
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
-   "updated": "2026-10-16",
-   "injury": "Undisclosed",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
-   "player": "Bronny James",
-   "pos": "PG",
-   "updated": "2026-10-19",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "updated": "2026-10-20",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
   },
   {
    "team": "LAL",
    "player": "Cameron Carr",
    "pos": "SG",
-   "updated": "2026-10-16",
-   "injury": "Undisclosed",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "updated": "2026-10-20",
+   "injury": "Oblique",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
   },
   {
    "team": "LAL",
    "player": "Collin Sexton",
    "pos": "SG",
-   "updated": "2026-10-16",
-   "injury": "Lower Leg",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
-   "player": "Jarred Vanderbilt",
-   "pos": "PF",
-   "updated": "2026-10-17",
-   "injury": "Undisclosed",
+   "updated": "2026-10-20",
+   "injury": "Calf",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -535,7 +535,7 @@
   {
    "team": "ORL",
    "player": "Izaiyah Nelson",
-   "pos": "C",
+   "pos": "PF",
    "updated": "2026-10-19",
    "injury": "Ankle",
    "status": "Expected return: at least Nov 18",
@@ -574,16 +574,6 @@
   },
   {
    "team": "PHI",
-   "player": "Dean Wade",
-   "pos": "PF",
-   "updated": "2026-10-20",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 22",
-   "kind": "out",
-   "ret": "2026-10-22"
-  },
-  {
-   "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -601,6 +591,16 @@
    "status": "Expected return: at least Oct 22",
    "kind": "out",
    "ret": "2026-10-22"
+  },
+  {
+   "team": "PHI",
+   "player": "Dean Wade",
+   "pos": "PF",
+   "updated": "2026-10-20",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHX",
@@ -623,14 +623,24 @@
    "ret": null
   },
   {
-   "team": "PHX",
-   "player": "Oso Ighodaro",
+   "team": "POR",
+   "player": "Branden Carlson",
    "pos": "C",
-   "updated": "2026-10-17",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "updated": "2026-10-20",
+   "injury": "Concussion",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
+  },
+  {
+   "team": "POR",
+   "player": "Chris Youngblood",
+   "pos": "SG",
+   "updated": "2026-10-20",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 23",
+   "kind": "out",
+   "ret": "2026-10-23"
   },
   {
    "team": "POR",
@@ -644,20 +654,10 @@
   },
   {
    "team": "POR",
-   "player": "Chris Youngblood",
+   "player": "Deni Avdija",
    "pos": "SG",
-   "updated": "2026-10-16",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "POR",
-   "player": "Jrue Holiday",
-   "pos": "PG",
-   "updated": "2026-10-16",
-   "injury": "Hand",
+   "updated": "2026-10-20",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
