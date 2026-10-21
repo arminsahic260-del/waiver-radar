@@ -1,6 +1,196 @@
 {
- "updated": "2026-10-21T16:22:09Z",
+ "updated": "2026-10-21T17:21:51Z",
  "items": [
+  {
+   "date": "2026-10-21",
+   "team": "DAL",
+   "player": "Jett Howard",
+   "headline": "Downgraded to questionable",
+   "note": "Howard (calf) is now doubtful for Wednesday against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-downgraded-to-questionable-535354"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "BOS",
+   "player": "Mike Conley",
+   "headline": "Outside of rotation",
+   "note": "Conley (coach's decision) didn't play during Tuesday's 121-113 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mike-conley-news-outside-of-rotation-535353"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "ORL",
+   "player": "Jase Richardson",
+   "headline": "Team option picked up",
+   "note": "The Magic exercised Richardson's team option Wednesday, per Jason Beede of the Orlando Sentinel.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-team-option-picked-up-535352"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "ORL",
+   "player": "Tristan da Silva",
+   "headline": "Team option picked up",
+   "note": "The Magic have exercised Da Silva's fourth-year rookie-scale team option, keeping him under contract through the 2027-28 season, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-team-option-picked-up-535351"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "PHI",
+   "player": "Labaron Philon",
+   "headline": "Out of rotation",
+   "note": "Philon (coach's decision) didn't play during Tuesday's 106-100 victory over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/labaron-philon-news-out-of-rotation-535350"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "BOS",
+   "player": "Luka Garza",
+   "headline": "Limited to eight minutes",
+   "note": "Garza recorded two points (1-3 FG, 0-2 3Pt) and two rebounds in eight minutes during Tuesday's 121-113 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luka-garza-news-limited-to-eight-minutes-535349"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Julian Champagnie",
+   "headline": "Fills box score in loss",
+   "note": "Champagnie notched eight points (3-8 FG, 2-6 3Pt), three rebounds, one assist, three blocks and two steals over 30 minutes during Tuesday's 116-104 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/julian-champagnie-news-fills-box-score-in-loss-535348"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "BOS",
+   "player": "Hugo Gonzalez",
+   "headline": "Scoreless in 10 minutes",
+   "note": "Gonzalez accumulated zero points (0-1 FG, 0-1 3Pt) and three rebounds over 10 minutes during Tuesday's 121-113 loss to Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-scoreless-in-10-minutes-535347"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "BOS",
+   "player": "Baylor Scheierman",
+   "headline": "Perfect from deep",
+   "note": "Scheierman produced eight points (3-4 FG, 2-2 3Pt), three rebounds and one steal across 18 minutes during Tuesday's 121-113 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-perfect-from-deep-535346"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Jaylin Williams",
+   "headline": "Quiet in season opener",
+   "note": "Williams accumulated five points (1-6 FG, 1-5 3Pt, 2-2 FT), four rebounds and one assist over 17 minutes during Tuesday's 116-104 win over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-news-quiet-in-season-opener-535345"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "BOS",
+   "player": "Sam Hauser",
+   "headline": "Scores 11 off bench",
+   "note": "Hauser chipped in 11 points (4-7 FG, 3-5 3Pt), four rebounds and one assist across 18 minutes during Tuesday's 121-113 loss to Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-scores-11-off-bench-535344"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Harrison Barnes",
+   "headline": "Sees just nine minutes",
+   "note": "Barnes racked up three points (1-1 FG, 1-1 3Pt) and one block in nine minutes during Tuesday's 116-104 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/harrison-barnes-news-sees-just-nine-minutes-535343"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Devin Vassell",
+   "headline": "Muted effort in opener",
+   "note": "Vassell provided seven points (2-8 FG, 1-4 3Pt, 2-2 FT), three rebounds and one assist in 31 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-muted-effort-in-opener-535342"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Goes cold from deep",
+   "note": "Wallace finished Tuesday's 116-104 victory over the Spurs with six points (3-8 FG, 0-4 3Pt), three rebounds, two assists and one steal over 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-news-goes-cold-from-deep-535341"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Kenrich Williams",
+   "headline": "Sees seven minutes",
+   "note": "Williams notched three points (1-1 FG, 1-1 3Pt) and two rebounds across seven minutes during Tuesday's 116-104 victory over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-sees-seven-minutes-535340"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "OKC",
+   "player": "Isaiah Hartenstein",
+   "headline": "Foul trouble limits production",
+   "note": "Hartenstein had four points (2-4 FG), three rebounds, three assists, one block and one steal in 17 minutes during Tuesday's 116-104 win over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-hartenstein-news-foul-trouble-limits-production-535339"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "NYK",
+   "player": "Jordan Clarkson",
+   "headline": "Sees just eight minutes",
+   "note": "Clarkson posted four points (2-4 FG), one rebound and one assist over eight minutes during Tuesday's 106-100 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-clarkson-news-sees-just-eight-minutes-535338"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "NYK",
+   "player": "Jose Alvarado",
+   "headline": "Provides spark off bench",
+   "note": "Alvarado contributed eight points (3-7 FG, 2-3 3Pt), three rebounds, three assists and two steals over 16 minutes during Tuesday's 106-100 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-news-provides-spark-off-bench-535337"
+  },
+  {
+   "date": "2026-10-21",
+   "team": "NYK",
+   "player": "Mikal Bridges",
+   "headline": "Struggles with shot",
+   "note": "Bridges produced four points (2-8 FG, 0-2 3Pt), three rebounds, one assist and one block in 33 minutes during Tuesday's 106-100 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikal-bridges-news-struggles-with-shot-535336"
+  },
   {
    "date": "2026-10-21",
    "team": "PHI",
@@ -63,26 +253,6 @@
   },
   {
    "date": "2026-10-21",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "Nearly double-doubles in win",
-   "note": "Duren provided 22 points (8-13 FG, 6-7 FT), nine rebounds, one assist, one block and one steal in 28 minutes during Tuesday's 121-113 victory over the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-news-nearly-double-doubles-in-win-535329"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "DET",
-   "player": "Duncan Robinson",
-   "headline": "Shines in opener",
-   "note": "Robinson accumulated 21 points (5-10 FG, 5-9 3Pt, 6-8 FT), two rebounds, two assists and one steal across 28 minutes during Tuesday's 121-113 victory over Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-shines-in-opener-535328"
-  },
-  {
-   "date": "2026-10-21",
    "team": "BOS",
    "player": "Neemias Queta",
    "headline": "Blocks two shots in reserve role",
@@ -113,43 +283,33 @@
   },
   {
    "date": "2026-10-21",
-   "team": "SAS",
-   "player": "Keldon Johnson",
-   "headline": "Logs 10 points from bench",
-   "note": "Johnson contributed 10 points (4-8 FG, 1-2 3Pt, 1-1 FT), four rebounds, one assist and two steals over 20 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "team": "DET",
+   "player": "Daniss Jenkins",
+   "headline": "Sees 15 minutes",
+   "note": "Jenkins posted three points (1-3 FG, 1-1 3Pt), two rebounds and three assists in 15 minutes during Tuesday's 121-113 win over the Celtics.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-news-logs-10-points-from-bench-535324"
+   "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-sees-15-minutes-535355"
   },
   {
    "date": "2026-10-21",
-   "team": "SAS",
-   "player": "De'Aaron Fox",
-   "headline": "Efficient in opening game",
-   "note": "Fox contributed 14 points (6-9 FG, 0-2 3Pt, 2-3 FT), seven rebounds, seven assists and one steal across 32 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "team": "DET",
+   "player": "Jalen Duren",
+   "headline": "Nearly double-doubles in win",
+   "note": "Duren provided 22 points (8-13 FG, 6-7 FT), nine rebounds, one assist, one block and one steal in 28 minutes during Tuesday's 121-113 victory over the Celtics.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-efficient-in-opening-game-535323"
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-news-nearly-double-doubles-in-win-535329"
   },
   {
    "date": "2026-10-21",
-   "team": "SAS",
-   "player": "Dylan Harper",
-   "headline": "Posts 18 points in opening loss",
-   "note": "Harper ended with 18 points (7-17 FG, 0-2 3Pt, 4-4 FT), seven rebounds and five assists across 32 minutes during Tuesday's 116-104 loss to Oklahoma City.",
+   "team": "DET",
+   "player": "Duncan Robinson",
+   "headline": "Shines in opener",
+   "note": "Robinson accumulated 21 points (5-10 FG, 5-9 3Pt, 6-8 FT), two rebounds, two assists and one steal across 28 minutes during Tuesday's 121-113 victory over Boston.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-posts-18-points-in-opening-loss-535322"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "SAS",
-   "player": "Victor Wembanyama",
-   "headline": "Struggles with shot in loss",
-   "note": "Wembanyama registered 12 points (1-13 FG, 0-4 3Pt, 10-12 FT), 13 rebounds, three assists, six blocks and one steal over 34 minutes during Tuesday's 116-104 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-struggles-with-shot-in-loss-535321"
+   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-shines-in-opener-535328"
   },
   {
    "date": "2026-10-21",
@@ -192,64 +352,44 @@
    "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-drills-six-threes-in-opener-535317"
   },
   {
-   "date": "2026-10-20",
-   "team": "DET",
-   "player": "John Collins",
-   "headline": "Quiet in Pistons debut",
-   "note": "Collins closed Tuesday's 121-113 victory over the Celtics with six points (3-7 FG, 0-3 3Pt), five rebounds, one assist, one block and one steal over 25 minutes.",
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Keldon Johnson",
+   "headline": "Logs 10 points from bench",
+   "note": "Johnson contributed 10 points (4-8 FG, 1-2 3Pt, 1-1 FT), four rebounds, one assist and two steals over 20 minutes during Tuesday's 116-104 loss to Oklahoma City.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/john-collins-news-quiet-in-pistons-debut-535316"
+   "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-news-logs-10-points-from-bench-535324"
   },
   {
-   "date": "2026-10-20",
-   "team": "DET",
-   "player": "Paul Reed",
-   "headline": "Modest effort off bench",
-   "note": "Reed accumulated six points (2-3 FG, 2-2 FT), six rebounds, two assists and one steal over 17 minutes during Tuesday's 121-113 victory over the Celtics.",
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "De'Aaron Fox",
+   "headline": "Efficient in opening game",
+   "note": "Fox contributed 14 points (6-9 FG, 0-2 3Pt, 2-3 FT), seven rebounds, seven assists and one steal across 32 minutes during Tuesday's 116-104 loss to Oklahoma City.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-modest-effort-off-bench-535315"
+   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-efficient-in-opening-game-535323"
   },
   {
-   "date": "2026-10-20",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Team-high 11 rebounds in win",
-   "note": "Thompson ended Tuesday's 121-113 victory over the Celtics with 11 points (4-8 FG, 0-1 3Pt, 3-3 FT), 11 rebounds, five assists and one steal in 33 minutes.",
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Dylan Harper",
+   "headline": "Posts 18 points in opening loss",
+   "note": "Harper ended with 18 points (7-17 FG, 0-2 3Pt, 4-4 FT), seven rebounds and five assists across 32 minutes during Tuesday's 116-104 loss to Oklahoma City.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-team-high-11-rebounds-in-win-535314"
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-posts-18-points-in-opening-loss-535322"
   },
   {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Jordan Walsh",
-   "headline": "Drops a donut in start",
-   "note": "Walsh had zero points (0-2 FG, 0-1 3Pt), six rebounds, one assist, one block and one steal in 13 minutes during Tuesday's 121-113 loss to the Pistons.",
+   "date": "2026-10-21",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Struggles with shot in loss",
+   "note": "Wembanyama registered 12 points (1-13 FG, 0-4 3Pt, 10-12 FT), 13 rebounds, three assists, six blocks and one steal over 34 minutes during Tuesday's 116-104 loss to the Thunder.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-walsh-news-drops-a-donut-in-start-535313"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Quiet in starting role",
-   "note": "Robinson posted four points (2-2 FG, 0-2 FT), three rebounds, one assist, two blocks and one steal in 18 minutes during Tuesday's 121-113 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-quiet-in-starting-role-535312"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Double-doubles in loss",
-   "note": "Tatum closed with 13 points (6-23 FG, 0-7 3Pt, 1-1 FT), four rebounds and 11 assists across 38 minutes during Tuesday's 121-113 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-double-doubles-in-loss-535311"
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-struggles-with-shot-in-loss-535321"
   },
   {
    "date": "2026-10-20",
@@ -460,146 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tony-bradley-injury-wont-play-wednesday-535265"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "UTA",
-   "player": "Trey Alexander",
-   "headline": "Ruled out for Wednesday",
-   "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trey-alexander-injury-ruled-out-for-wednesday-535263"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Ruled out for Wednesday",
-   "note": "McConnell won't play Wednesday in New Orleans due to a right hamstring strain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-ruled-out-for-wednesday-535259"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Ruled out for regular-season opener",
-   "note": "Nesmith (hamstring) has been ruled out for Wednesday's game against New Orleans.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-ruled-out-for-regular-season-opener-535258"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Paul George",
-   "headline": "Dominates in regular-season opener",
-   "note": "George tallied 38 points (12-21 FG, 7-12 3Pt, 7-8 FT), five rebounds, five steals and three assists across 31 minutes in Tuesday's 121-113 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-dominates-in-regular-season-opener-535260"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Jordan Walsh",
-   "headline": "Confirmed as starter",
-   "note": "Walsh is starting Tuesday's season opener against the Pistons, per Sean Grande of NBC Sports Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-walsh-news-confirmed-as-starter-535216"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Neemias Queta",
-   "headline": "Coming off bench",
-   "note": "Queta will come off the bench for Tuesday's season opener against Detroit, Sean Grande of NBC Sports Boston reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-coming-off-bench-535215"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Chris Cenac",
-   "headline": "Not starting Tuesday",
-   "note": "Cenac is not in the starting lineup for Tuesday's season opener against Detroit, per Sean Grande of NBC Sports Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chris-cenac-news-not-starting-tuesday-535214"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Drawing start at center",
-   "note": "Robinson will open the season as the starting center Tuesday against Detroit, Sean Grande of NBC Sports Boston reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-drawing-start-at-center-535213"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Kylan Boswell",
-   "headline": "Recovering from knee surgery",
-   "note": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kylan-boswell-injury-recovering-from-knee-surgery-535247"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Moussa Diabate",
-   "headline": "Good to go for Opening Night",
-   "note": "Diabate (elbow) isn't listed on the injury report for Wednesday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-good-to-go-for-opening-night-535246"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Grayson Allen",
-   "headline": "Not listed on injury report",
-   "note": "Allen (knee) isn't listed on the injury report for Wednesday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-not-listed-on-injury-report-535245"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Ruled out for Wednesday",
-   "note": "Knueppel (hamstring) has returned to individual on-court activity but won't play in Wednesday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-ruled-out-for-wednesday-535241"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Grant Williams",
-   "headline": "Ruled out for Wednesday",
-   "note": "Williams (hamstring) is out for Wednesday's season opener versus the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-ruled-out-for-wednesday-535240"
-  },
-  {
-   "date": "2026-10-20",
-   "team": "CHA",
-   "player": "Coby White",
-   "headline": "Ruled out for season opener",
-   "note": "White (calf) is out for Wednesday's season opener against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-ruled-out-for-season-opener-535239"
   }
  ]
 }
