@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:21:23Z",
+ "updated": "2026-10-21T23:27:05Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -113,34 +113,14 @@
    "ret": "2026-11-04"
   },
   {
-   "team": "CHI",
-   "player": "Isaac Okoro",
-   "pos": "SF",
-   "updated": "2026-10-20",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Leonard Miller",
-   "pos": "SF",
-   "updated": "2026-10-20",
-   "injury": "Groin",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Zach Collins",
+   "team": "CLE",
+   "player": "Khalifa Diop",
    "pos": "C",
-   "updated": "2026-10-16",
-   "injury": "Toe",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "updated": "2026-10-21",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
   },
   {
    "team": "CLE",
@@ -154,20 +134,10 @@
   },
   {
    "team": "CLE",
-   "player": "Khalifa Diop",
+   "player": "Jarrett Allen",
    "pos": "C",
-   "updated": "2026-10-13",
+   "updated": "2026-10-21",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "pos": "SG",
-   "updated": "2026-10-13",
-   "injury": "Elbow",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -453,26 +423,6 @@
    "ret": null
   },
   {
-   "team": "MIA",
-   "player": "Vladislav Goldin",
-   "pos": "C",
-   "updated": "2026-10-20",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "MIL",
-   "player": "Nate Ament",
-   "pos": "PF",
-   "updated": "2026-10-16",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "MIN",
    "player": "Donte DiVincenzo",
    "pos": "SG",
@@ -498,9 +448,9 @@
    "pos": "PG",
    "updated": "2026-10-21",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "OKC",
@@ -508,9 +458,9 @@
    "pos": "PF",
    "updated": "2026-10-21",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "ORL",
@@ -574,20 +524,20 @@
   },
   {
    "team": "PHI",
+   "player": "Tacko Fall",
+   "pos": "C",
+   "updated": "2026-10-21",
+   "injury": "Quadriceps",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "PHI",
    "player": "Dean Wade",
    "pos": "PF",
    "updated": "2026-10-20",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHI",
-   "player": "Tacko Fall",
-   "pos": "C",
-   "updated": "2026-10-21",
-   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -731,16 +681,6 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
-  },
-  {
-   "team": "UTA",
-   "player": "Blake Hinson",
-   "pos": "SF",
-   "updated": "2026-10-21",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 6",
-   "kind": "out",
-   "ret": "2026-11-06"
   },
   {
    "team": "UTA",

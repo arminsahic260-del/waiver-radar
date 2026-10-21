@@ -1,23 +1,40 @@
 {
- "updated": "2026-10-21T21:22:19Z",
+ "updated": "2026-10-21T23:27:46Z",
  "engine": "heuristika",
  "picks": [
   {
    "player": "Bilal Coulibaly",
    "team": "WAS",
    "pos": "SG/SF",
-   "priority": 2,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 23.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.5 FP po utakmici (prošle sezone, 26 min).",
-   "role": "Veća minutaža dok je out AJ Dybantsa",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "priority": 1,
+   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.5 FP po utakmici (prošle sezone, 26 min). AJ Dybantsa (gležanj) je out najmanje do 23.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.5 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
     "Banijska": false
    },
-   "source": "https://www.cbssports.com/nba/injuries/",
+   "source": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-starting-sans-dybantsa-535381",
    "espnId": 5104155,
    "fpts": 26.5
+  },
+  {
+   "player": "Sion James",
+   "team": "CHA",
+   "pos": "SF",
+   "priority": 1,
+   "reason": "Coby White (list) je out najmanje do 23.10.; Kon Knueppel (stražnja loža) je out najmanje do 23.10. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn.",
+   "role": "Starter dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~23.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
+   "espnId": 4602025,
+   "fpts": 14.4
   },
   {
    "player": "Jaylon Tyson",
@@ -197,23 +214,6 @@
    "expires": "2026-10-22"
   },
   {
-   "player": "Sion James",
-   "team": "CHA",
-   "pos": "SF",
-   "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 23.10.; Kon Knueppel (stražnja loža) je out najmanje do 23.10. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 16.10.: Starting Friday.",
-   "role": "Mogući starter dok su out Coby White i Kon Knueppel",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-friday-534826",
-   "espnId": 4602025,
-   "fpts": 14.4
-  },
-  {
    "player": "Naji Marshall",
    "team": "DAL",
    "pos": "SF/PF",
@@ -388,19 +388,20 @@
        "gtd": false
       },
       {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 31.6,
-       "mpg": 27.0,
+       "player": "Chaney Johnson",
+       "team": "BKN",
+       "pos": "SF",
+       "espnId": 5174655,
+       "fpts": 20.9,
+       "mpg": 20.3,
        "basis": "prošla sezona",
-       "matchup": "CHI @ TOR",
+       "matchup": "CHA @ BKN",
        "dates": [
         "2026-10-21",
-        "2026-10-24"
+        "2026-10-24",
+        "2026-10-25"
        ],
-       "value": 63.2,
+       "value": 62.7,
        "gtd": false
       }
      ]
@@ -622,8 +623,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 1,
+     "mine": 8,
+     "open": 0,
      "sitting": 0,
      "planned": [
       {
@@ -637,56 +638,7 @@
        "from": "2026-10-22"
       }
      ],
-     "picks": [
-      {
-       "player": "Noah Clowney",
-       "team": "BKN",
-       "pos": "PF",
-       "espnId": 4712896,
-       "fpts": 21.6,
-       "mpg": 27.0,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 43.2,
-       "gtd": false
-      },
-      {
-       "player": "Chaney Johnson",
-       "team": "BKN",
-       "pos": "SF",
-       "espnId": 5174655,
-       "fpts": 20.9,
-       "mpg": 20.3,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 41.8,
-       "gtd": false
-      },
-      {
-       "player": "Danny Wolf",
-       "team": "BKN",
-       "pos": "PF/C",
-       "espnId": 5107173,
-       "fpts": 19.4,
-       "mpg": 20.9,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 38.8,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -761,8 +713,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 0,
+     "mine": 6,
+     "open": 2,
      "sitting": 0,
      "planned": [
       {
@@ -774,14 +726,55 @@
        "player": "Anfernee Simons",
        "team": "PHI",
        "from": "2026-10-22"
-      },
-      {
-       "player": "Noah Clowney",
-       "team": "BKN",
-       "from": "2026-10-24"
       }
      ],
-     "picks": []
+     "picks": [
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 28.7,
+       "mpg": 25.7,
+       "basis": "prošla sezona",
+       "matchup": "LAL @ UTA",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 28.7,
+       "gtd": false
+      },
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 27.2,
+       "mpg": 23.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ SAC",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 27.2,
+       "gtd": false
+      },
+      {
+       "player": "Wendell Carter Jr.",
+       "team": "ORL",
+       "pos": "C",
+       "espnId": 4277847,
+       "fpts": 26.6,
+       "mpg": 29.4,
+       "basis": "prošla sezona",
+       "matchup": "ORL @ NYK",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 26.6,
+       "gtd": false
+      }
+     ]
     }
    ]
   },
@@ -831,28 +824,28 @@
        "gtd": false
       },
       {
-       "player": "Jock Landale",
-       "team": "ATL",
-       "pos": "C",
-       "espnId": 3146557,
-       "fpts": 22.7,
-       "mpg": 22.2,
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 23.7,
+       "mpg": 26.5,
        "basis": "prošla sezona",
-       "matchup": "ATL @ HOU",
+       "matchup": "MIN @ CLE",
        "dates": [
         "2026-10-26",
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 68.1,
+       "value": 71.1,
        "gtd": false
       }
      ]
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 3,
+     "mine": 8,
+     "open": 2,
      "sitting": 0,
      "planned": [],
      "picks": [
@@ -978,8 +971,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 3,
-     "open": 7,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
      "planned": [],
      "picks": [
@@ -1001,6 +994,23 @@
        "gtd": false
       },
       {
+       "player": "Precious Achiuwa",
+       "team": "SAC",
+       "pos": "PF/C",
+       "espnId": 4431679,
+       "fpts": 24.1,
+       "mpg": 24.0,
+       "basis": "prošla sezona",
+       "matchup": "SAC @ SAS",
+       "dates": [
+        "2026-10-27",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 72.3,
+       "gtd": false
+      },
+      {
        "player": "Mikel Brown Jr.",
        "team": "BKN",
        "pos": "PG",
@@ -1015,23 +1025,6 @@
         "2026-11-01"
        ],
        "value": 72.0,
-       "gtd": false
-      },
-      {
-       "player": "Noah Clowney",
-       "team": "BKN",
-       "pos": "PF",
-       "espnId": 4712896,
-       "fpts": 21.6,
-       "mpg": 27.0,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ BOS",
-       "dates": [
-        "2026-10-27",
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 64.8,
        "gtd": false
       }
      ]
