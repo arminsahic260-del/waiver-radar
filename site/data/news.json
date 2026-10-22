@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-22T18:22:04Z",
+ "updated": "2026-10-22T19:21:49Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "HOU",
+   "player": "Kevin Durant",
+   "headline": "Drops 30 points Wednesday",
+   "note": "Durant finished with 30 points (10-16 FG, 2-4 3Pt, 8-11 FT), six rebounds, three assists, one block and one steal over 37 minutes during Wednesday's 128-110 win over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-drops-30-points-wednesday-535564"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MIN",
+   "player": "Ayo Dosunmu",
+   "headline": "Productive in season opener",
+   "note": "Dosunmu provided 16 points (6-13 FG, 1-3 3Pt, 3-3 FT), five rebounds and three assists over 29 minutes during Wednesday's 131-106 victory over Miami.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-productive-in-season-opener-535563"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Double-doubles in victory",
+   "note": "Sengun totaled 23 points (9-15 FG, 2-2 3Pt, 3-4 FT), 10 rebounds and five assists in 30 minutes during Wednesday's 128-110 victory over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-double-doubles-in-victory-535562"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MIN",
+   "player": "Rudy Gobert",
+   "headline": "Grabs 15 boards in opener",
+   "note": "Gobert registered five points (0-2 FG, 5-8 FT), 15 rebounds and one assist in 33 minutes during Wednesday's 131-106 win over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-news-grabs-15-boards-in-opener-535561"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DET",
+   "player": "Taurean Prince",
+   "headline": "Probable for Friday",
+   "note": "Prince (personal) is listed as probable for Friday's game against the Heat.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-injury-probable-for-friday-535560"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MIA",
+   "player": "Andrew Wiggins",
+   "headline": "Scores 11 in lopsided loss",
+   "note": "Wiggins racked up 11 points (5-11 FG, 1-4 3Pt), two rebounds and one assist across 27 minutes during Wednesday's 131-106 loss to the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-wiggins-news-scores-11-in-lopsided-loss-535559"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "WAS",
+   "player": "Deandre Ayton",
+   "headline": "Swats two shots in Wizards' debut",
+   "note": "Ayton accumulated 11 points (5-6 FG, 1-2 FT), four rebounds and two blocks over 15 minutes during Wednesday's 128-116 win over Milwaukee.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deandre-ayton-news-swats-two-shots-in-wizards-debut-535558"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "WAS",
+   "player": "Bub Carrington",
+   "headline": "Plays well in backup role",
+   "note": "Carrington totaled 10 points (3-6 FG, 2-3 3Pt, 2-2 FT), one rebound, four assists and two steals over 18 minutes during Wednesday's 128-116 win over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bub-carrington-news-plays-well-in-backup-role-535557"
+  },
   {
    "date": "2026-10-22",
    "team": "WAS",
@@ -170,86 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kasparas-jakucionis-news-impresses-off-bench-535540"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "POR",
-   "player": "Donovan Clingan",
-   "headline": "Sniffs double-double in win",
-   "note": "Clingan amassed 11 points (4-9 FG, 2-4 3Pt, 1-2 FT), seven rebounds and two assists across 21 minutes during Wednesday's 124-83 victory over the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-sniffs-double-double-in-win-535539"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAC",
-   "player": "Isaiah Jackson",
-   "headline": "Makes most of limited action",
-   "note": "Jackson produced 13 points (6-8 FG, 1-2 FT), five rebounds and one steal across 15 minutes during Wednesday's 121-96 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-makes-most-of-limited-action-535538"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MIL",
-   "player": "Kyle Kuzma",
-   "headline": "Shooting woes in loss",
-   "note": "Kuzma totaled five points (2-9 FG, 1-4 3Pt), six rebounds, three assists and three steals in 27 minutes during Wednesday's 128-116 loss to Washington.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyle-kuzma-news-shooting-woes-in-loss-535537"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MIL",
-   "player": "Myles Turner",
-   "headline": "Solid shooting in opener",
-   "note": "Turner notched 11 points (4-7 FG, 2-5 3Pt, 1-1 FT), five rebounds, three assists and one block in 32 minutes during Wednesday's 128-116 loss to the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/myles-turner-news-solid-shooting-in-opener-535536"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAC",
-   "player": "Derrick Jones",
-   "headline": "Productive in victory",
-   "note": "Jones racked up eight points (3-4 FG, 1-2 3Pt, 1-2 FT), six rebounds, five assists and one steal over 26 minutes during Wednesday's 121-96 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-productive-in-victory-535535"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ORL",
-   "player": "Nikola Vucevic",
-   "headline": "Limited to five minutes",
-   "note": "Vucevic ended Wednesday's 132-125 loss to the Hawks with one rebound and one assist in five minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-vucevic-news-limited-to-five-minutes-535534"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ORL",
-   "player": "Goga Bitadze",
-   "headline": "Sees modest workload",
-   "note": "Bitadze closed Wednesday's 132-125 loss to the Hawks with six points (1-3 FG, 4-5 FT), six rebounds and one assist in 12 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/goga-bitadze-news-sees-modest-workload-535533"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Fills box score in opener",
-   "note": "Hachimura registered 10 points (3-13 FG, 2-7 3Pt, 2-5 FT), eight rebounds, two assists, one block and one steal in 32 minutes during Wednesday's 121-96 win over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-fills-box-score-in-opener-535532"
   },
   {
    "date": "2026-10-22",
@@ -464,6 +464,36 @@
   {
    "date": "2026-10-22",
    "team": "LAC",
+   "player": "Isaiah Jackson",
+   "headline": "Makes most of limited action",
+   "note": "Jackson produced 13 points (6-8 FG, 1-2 FT), five rebounds and one steal across 15 minutes during Wednesday's 121-96 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-makes-most-of-limited-action-535538"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAC",
+   "player": "Derrick Jones",
+   "headline": "Productive in victory",
+   "note": "Jones racked up eight points (3-4 FG, 1-2 3Pt, 1-2 FT), six rebounds, five assists and one steal over 26 minutes during Wednesday's 121-96 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-productive-in-victory-535535"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Fills box score in opener",
+   "note": "Hachimura registered 10 points (3-13 FG, 2-7 3Pt, 2-5 FT), eight rebounds, two assists, one block and one steal in 32 minutes during Wednesday's 121-96 win over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-fills-box-score-in-opener-535532"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAC",
    "player": "Gradey Dick",
    "headline": "Reaches double figures in scoring",
    "note": "Dick closed Wednesday's 121-96 win over Sacramento with 12 points (3-4 FG, 1-2 3Pt, 5-6 FT), four rebounds and one block across 19 minutes.",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-collects-nine-boards-in-win-535490"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Cameron Boozer",
-   "headline": "Struggles with shot",
-   "note": "Boozer racked up seven points (2-15 FG, 0-6 3Pt, 3-4 FT), 11 rebounds and five assists over 33 minutes during Wednesday's 123-103 victory over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-struggles-with-shot-535489"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Solid on glass in win",
-   "note": "Coward chipped in seven points (3-6 FG, 1-2 3Pt), seven rebounds, two assists and one block across 28 minutes during Wednesday's 123-103 win over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-news-solid-on-glass-in-win-535487"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MIL",
-   "player": "Nate Ament",
-   "headline": "NBA debut will have to wait",
-   "note": "Ament (coach's decision) did not play in Wednesday's 128-116 loss to Washington.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nate-ament-news-nba-debut-will-have-to-wait-535508"
   }
  ]
 }
