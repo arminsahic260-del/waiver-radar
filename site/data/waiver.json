@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:21:57Z",
+ "updated": "2026-10-22T23:28:24Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -122,6 +122,23 @@
    "fpts": 20.3
   },
   {
+   "player": "Sion James",
+   "team": "CHA",
+   "pos": "SF",
+   "priority": 1,
+   "reason": "Coby White (list) je out najmanje do 24.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 24.10. — nova ozljeda. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn.",
+   "role": "Starter dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
+   "espnId": 4602025,
+   "fpts": 14.4
+  },
+  {
    "player": "Draymond Green",
    "team": "GSW",
    "pos": "PF/C",
@@ -137,6 +154,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6589,
    "fpts": 25.6
+  },
+  {
+   "player": "Royce O'Neale",
+   "team": "CHA",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Coby White (list) je out najmanje do 24.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 24.10. — nova ozljeda. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~24.5 FP po utakmici (prošle sezone, 28 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2583632,
+   "fpts": 24.5
   },
   {
    "player": "Precious Achiuwa",
@@ -156,25 +190,6 @@
    "fpts": 24.1
   },
   {
-   "player": "Sam Merrill",
-   "team": "CLE",
-   "pos": "SG",
-   "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 1). Sam Merrill je rotacijski SG, ~23.7 FP po utakmici (prošle sezone, 26 min). Liga: Legendi.",
-   "role": "Streamer (26 min)",
-   "horizon": "22.10.",
-   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
-   "note": "igra u četvrtak",
-   "espnId": 4066757,
-   "fpts": 23.7,
-   "expires": "2026-10-22"
-  },
-  {
    "player": "Derrick Jones Jr.",
    "team": "LAC",
    "pos": "SF/PF",
@@ -192,22 +207,22 @@
    "fpts": 22.9
   },
   {
-   "player": "Dean Wade",
+   "player": "Caleb Love",
    "team": "PHI",
-   "pos": "PF",
+   "pos": "SG",
    "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 1). Dean Wade je rotacijski PF, ~17.4 FP po utakmici (prošle sezone, 22 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
-   "role": "Streamer (22 min)",
+   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 2). Caleb Love je rotacijski SG, ~17.1 FP po utakmici (prošle sezone, 21 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "role": "Streamer (21 min)",
    "horizon": "22.10.",
-   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "risk": "Nizak plafon, čisti kratkoročni stream",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u četvrtak",
-   "espnId": 3912848,
-   "fpts": 17.4,
+   "espnId": 4433144,
+   "fpts": 17.1,
    "expires": "2026-10-22"
   },
   {
@@ -215,7 +230,7 @@
    "team": "DEN",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 1). Spencer Jones je rotacijski SF/PF, ~15.1 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
+   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 2). Spencer Jones je rotacijski SF/PF, ~15.1 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
    "role": "Streamer (22 min)",
    "horizon": "22.10.",
    "risk": "Upitan (GTD) — provjeri status prije utakmice",
@@ -230,28 +245,28 @@
    "expires": "2026-10-22"
   },
   {
-   "player": "Sion James",
-   "team": "CHA",
-   "pos": "SF",
-   "priority": 2,
-   "reason": "RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn. ~14.4 FP po utakmici (prošle sezone, 22 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~14 FP)",
+   "player": "Tre Jones",
+   "team": "CHI",
+   "pos": "PG",
+   "priority": 3,
+   "reason": "Josh Giddey (zapešće) je upitan (GTD). Tre Jones je sljedeći PG u rotaciji CHI-a za te minute; ~31.6 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Zamjena ako Josh Giddey ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Josh Giddey",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
-   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
-   "espnId": 4602025,
-   "fpts": 14.4
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4395626,
+   "fpts": 31.6
   },
   {
    "player": "Naji Marshall",
    "team": "DAL",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10. — nova ozljeda. Naji Marshall je sljedeći SF/PF u rotaciji DAL-a za te minute; ~28.1 FP po utakmici (prošle sezone, 30 min).",
+   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10. Naji Marshall je sljedeći SF/PF u rotaciji DAL-a za te minute; ~28.1 FP po utakmici (prošle sezone, 30 min).",
    "role": "Veća minutaža dok je out Santi Aldama",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Santi Aldama",
@@ -296,6 +311,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4432907,
    "fpts": 21.7
+  },
+  {
+   "player": "Harrison Barnes",
+   "team": "SAS",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Tobias Harris (list) je out najmanje do 24.10. — nova ozljeda; De'Aaron Fox (zapešće) je upitan (GTD). Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Veća minutaža dok su out Tobias Harris i De'Aaron Fox",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Tobias Harris",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 6578,
+   "fpts": 19.1
   },
   {
    "player": "Isaac Okoro",
@@ -356,8 +388,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 1,
-     "open": 9,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
      "planned": [],
      "picks": [
@@ -379,87 +411,37 @@
        "gtd": false
       },
       {
-       "player": "Sam Merrill",
-       "team": "CLE",
-       "pos": "SG",
-       "espnId": 4066757,
-       "fpts": 23.7,
-       "mpg": 26.5,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24"
-       ],
-       "value": 47.4,
-       "gtd": false
-      },
-      {
-       "player": "Dean Wade",
-       "team": "PHI",
-       "pos": "PF",
-       "espnId": 3912848,
-       "fpts": 17.4,
-       "mpg": 22.4,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 52.2,
-       "gtd": true
-      }
-     ]
-    },
-    {
-     "league": "Banijska",
-     "mine": 3,
-     "open": 7,
-     "sitting": 0,
-     "planned": [],
-     "picks": [
-      {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "pos": "SG",
-       "espnId": 4433144,
-       "fpts": 17.1,
-       "mpg": 20.7,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 51.3,
-       "gtd": false
-      },
-      {
-       "player": "Marvin Bagley III",
+       "player": "Spencer Jones",
        "team": "DEN",
-       "pos": "PF/C",
-       "espnId": 4277848,
-       "fpts": 23.3,
-       "mpg": 20.1,
+       "pos": "SF/PF",
+       "espnId": 4592427,
+       "fpts": 15.1,
+       "mpg": 22.2,
        "basis": "prošla sezona",
        "matchup": "DEN @ OKC",
        "dates": [
         "2026-10-22",
         "2026-10-24"
        ],
-       "value": 46.6,
-       "gtd": false
-      },
+       "value": 30.2,
+       "gtd": true
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 4,
+     "open": 6,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
       {
-       "player": "Dean Wade",
+       "player": "Caleb Love",
        "team": "PHI",
-       "pos": "PF",
-       "espnId": 3912848,
-       "fpts": 17.4,
-       "mpg": 22.4,
+       "pos": "SG",
+       "espnId": 4433144,
+       "fpts": 17.1,
+       "mpg": 20.7,
        "basis": "prošla sezona",
        "matchup": "CLE @ PHI",
        "dates": [
@@ -467,7 +449,23 @@
         "2026-10-24",
         "2026-10-25"
        ],
-       "value": 52.2,
+       "value": 51.3,
+       "gtd": false
+      },
+      {
+       "player": "Spencer Jones",
+       "team": "DEN",
+       "pos": "SF/PF",
+       "espnId": 4592427,
+       "fpts": 15.1,
+       "mpg": 22.2,
+       "basis": "prošla sezona",
+       "matchup": "DEN @ OKC",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24"
+       ],
+       "value": 30.2,
        "gtd": true
       }
      ]
@@ -480,19 +478,68 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 11,
-     "open": 0,
-     "sitting": 1,
-     "planned": [],
-     "picks": []
-    },
-    {
-     "league": "Banijska",
      "mine": 10,
      "open": 0,
      "sitting": 0,
      "planned": [],
      "picks": []
+    },
+    {
+     "league": "Banijska",
+     "mine": 9,
+     "open": 1,
+     "sitting": 0,
+     "planned": [],
+     "picks": [
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "pos": "PG",
+       "espnId": 4395626,
+       "fpts": 31.6,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "CHI @ MIL",
+       "dates": [
+        "2026-10-23",
+        "2026-10-24"
+       ],
+       "value": 63.2,
+       "gtd": false
+      },
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 28.7,
+       "mpg": 25.7,
+       "basis": "prošla sezona",
+       "matchup": "NOP @ UTA",
+       "dates": [
+        "2026-10-23",
+        "2026-10-25"
+       ],
+       "value": 57.4,
+       "gtd": false
+      },
+      {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "pos": "PF",
+       "espnId": 4683742,
+       "fpts": 28.5,
+       "mpg": 30.9,
+       "basis": "prošla sezona",
+       "matchup": "NOP @ UTA",
+       "dates": [
+        "2026-10-23",
+        "2026-10-24"
+       ],
+       "value": 57.0,
+       "gtd": false
+      }
+     ]
     }
    ]
   },
@@ -502,8 +549,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 7,
-     "open": 2,
+     "mine": 8,
+     "open": 1,
      "sitting": 0,
      "planned": [
       {
@@ -566,65 +613,21 @@
     {
      "league": "Banijska",
      "mine": 8,
-     "open": 1,
+     "open": 0,
      "sitting": 0,
      "planned": [
       {
        "player": "Caleb Love",
        "team": "PHI",
        "from": "2026-10-22"
+      },
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "from": "2026-10-23"
       }
      ],
-     "picks": [
-      {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 24.0,
-       "mpg": 30.2,
-       "basis": "projekcija",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 48.0,
-       "gtd": false
-      },
-      {
-       "player": "Noah Clowney",
-       "team": "BKN",
-       "pos": "PF",
-       "espnId": 4712896,
-       "fpts": 21.6,
-       "mpg": 27.0,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 43.2,
-       "gtd": false
-      },
-      {
-       "player": "Chaney Johnson",
-       "team": "BKN",
-       "pos": "SF",
-       "espnId": 5174655,
-       "fpts": 20.9,
-       "mpg": 20.3,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 41.8,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -634,8 +637,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 7,
-     "open": 1,
+     "mine": 6,
+     "open": 2,
      "sitting": 0,
      "planned": [
       {
@@ -700,18 +703,13 @@
     {
      "league": "Banijska",
      "mine": 6,
-     "open": 2,
+     "open": 3,
      "sitting": 0,
      "planned": [
       {
        "player": "Caleb Love",
        "team": "PHI",
        "from": "2026-10-22"
-      },
-      {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "from": "2026-10-24"
       }
      ],
      "picks": [
@@ -770,8 +768,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 6,
-     "open": 4,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
      "planned": [],
      "picks": [
@@ -810,20 +808,20 @@
        "gtd": false
       },
       {
-       "player": "Sam Merrill",
-       "team": "CLE",
-       "pos": "SG",
-       "espnId": 4066757,
-       "fpts": 23.7,
-       "mpg": 26.5,
+       "player": "Jock Landale",
+       "team": "ATL",
+       "pos": "C",
+       "espnId": 3146557,
+       "fpts": 22.7,
+       "mpg": 22.2,
        "basis": "prošla sezona",
-       "matchup": "MIN @ CLE",
+       "matchup": "ATL @ HOU",
        "dates": [
         "2026-10-26",
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 71.1,
+       "value": 68.1,
        "gtd": false
       }
      ]
@@ -897,8 +895,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 4,
-     "open": 6,
+     "mine": 3,
+     "open": 7,
      "sitting": 0,
      "planned": [],
      "picks": [

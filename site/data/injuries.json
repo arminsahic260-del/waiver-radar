@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:21:19Z",
+ "updated": "2026-10-22T23:27:44Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -44,23 +44,13 @@
   },
   {
    "team": "CHA",
-   "player": "Kylan Boswell",
-   "pos": "PG",
-   "updated": "2026-10-20",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "CHA",
    "player": "Coby White",
    "pos": "PG",
    "updated": "2026-10-22",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
   },
   {
    "team": "CHA",
@@ -68,19 +58,29 @@
    "pos": "PF",
    "updated": "2026-10-22",
    "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
   },
   {
    "team": "CHA",
    "player": "Kon Knueppel",
    "pos": "SF",
-   "updated": "2026-10-21",
+   "updated": "2026-10-22",
    "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "CHA",
+   "player": "Kylan Boswell",
+   "pos": "PG",
+   "updated": "2026-10-20",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "CHI",
@@ -151,16 +151,6 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
-  },
-  {
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "pos": "C",
-   "updated": "2026-10-21",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -294,6 +284,16 @@
   },
   {
    "team": "HOU",
+   "player": "Reed Sheppard",
+   "pos": "SG",
+   "updated": "2026-10-22",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-10-21",
@@ -314,6 +314,16 @@
   },
   {
    "team": "IND",
+   "player": "T.J. McConnell",
+   "pos": "PG",
+   "updated": "2026-10-22",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
+  },
+  {
+   "team": "IND",
    "player": "Aaron Nesmith",
    "pos": "SF",
    "updated": "2026-10-21",
@@ -324,10 +334,10 @@
   },
   {
    "team": "IND",
-   "player": "T.J. McConnell",
-   "pos": "PG",
-   "updated": "2026-10-21",
-   "injury": "Hamstring",
+   "player": "Ben Sheppard",
+   "pos": "SG",
+   "updated": "2026-10-22",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -524,6 +534,16 @@
   },
   {
    "team": "PHI",
+   "player": "Dean Wade",
+   "pos": "PF",
+   "updated": "2026-10-22",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -541,16 +561,6 @@
    "status": "Expected return: at least Oct 24",
    "kind": "out",
    "ret": "2026-10-24"
-  },
-  {
-   "team": "PHI",
-   "player": "Dean Wade",
-   "pos": "PF",
-   "updated": "2026-10-20",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "PHX",
@@ -666,8 +676,28 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-21",
+   "updated": "2026-10-22",
    "injury": "Calf",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "SAS",
+   "player": "De'Aaron Fox",
+   "pos": "PG",
+   "updated": "2026-10-22",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "SAS",
+   "player": "Keldon Johnson",
+   "pos": "SF",
+   "updated": "2026-10-22",
+   "injury": "Mouth",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -741,6 +771,16 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "WAS",
+   "player": "Felix Okpara",
+   "pos": "PF",
+   "updated": "2026-10-22",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   }
  ]
 }

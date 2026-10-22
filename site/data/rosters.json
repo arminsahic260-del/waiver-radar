@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:21:57Z",
+ "updated": "2026-10-22T23:28:24Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-22T21:21:57Z",
+   "updated": "2026-10-22T23:28:24Z",
    "players": [
     {
      "name": "Trae Young",
@@ -18,25 +18,25 @@
      "espnId": 4277905
     },
     {
+     "name": "Sam Merrill",
+     "team": "CLE",
+     "pos": "SG",
+     "slot": "SG",
+     "espnId": 4066757
+    },
+    {
      "name": "Kentavious Caldwell-Pope",
      "team": "PHI",
      "pos": "SG/SF",
-     "slot": "SG",
+     "slot": "SF",
      "espnId": 2581018
     },
     {
      "name": "Cooper Flagg",
      "team": "DAL",
      "pos": "SF/PF",
-     "slot": "SF",
-     "espnId": 5041939
-    },
-    {
-     "name": "Paolo Banchero",
-     "team": "ORL",
-     "pos": "SF/PF",
      "slot": "PF",
-     "espnId": 4432573
+     "espnId": 5041939
     },
     {
      "name": "Donovan Clingan",
@@ -53,11 +53,11 @@
      "espnId": 6442
     },
     {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
+     "name": "Paolo Banchero",
+     "team": "ORL",
      "pos": "SF/PF",
      "slot": "F",
-     "espnId": 5175737
+     "espnId": 4432573
     },
     {
      "name": "Ivica Zubac",
@@ -81,6 +81,13 @@
      "espnId": 5142620
     },
     {
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
+     "slot": "BE",
+     "espnId": 5175737
+    },
+    {
      "name": "Jalen Suggs",
      "team": "ORL",
      "pos": "PG/SG",
@@ -93,13 +100,6 @@
      "pos": "C",
      "slot": "BE",
      "espnId": 4432194
-    },
-    {
-     "name": "Andre Drummond",
-     "team": "NYK",
-     "pos": "C",
-     "slot": "BE",
-     "espnId": 6585
     }
    ]
   },
@@ -110,7 +110,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-22T21:21:57Z",
+   "updated": "2026-10-22T23:28:24Z",
    "players": [
     {
      "name": "Stephon Castle",
@@ -134,11 +134,11 @@
      "espnId": 4576087
     },
     {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
+     "name": "Marvin Bagley III",
+     "team": "DEN",
+     "pos": "PF/C",
      "slot": "PF",
-     "espnId": 5041939
+     "espnId": 4277848
     },
     {
      "name": "Alperen Sengun",
@@ -155,11 +155,11 @@
      "espnId": 5124612
     },
     {
-     "name": "Jaden McDaniels",
-     "team": "MIN",
+     "name": "Cooper Flagg",
+     "team": "DAL",
      "pos": "SF/PF",
      "slot": "F",
-     "espnId": 4431671
+     "espnId": 5041939
     },
     {
      "name": "Keyonte George",
@@ -176,10 +176,17 @@
      "espnId": 5105623
     },
     {
+     "name": "Jaden McDaniels",
+     "team": "MIN",
+     "pos": "SF/PF",
+     "slot": "UTIL",
+     "espnId": 4431671
+    },
+    {
      "name": "Neemias Queta",
      "team": "BOS",
      "pos": "C",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 4397424
     },
     {
@@ -195,13 +202,6 @@
      "pos": "PG/SG",
      "slot": "BE",
      "espnId": 5254165
-    },
-    {
-     "name": "Tre Jones",
-     "team": "CHI",
-     "pos": "PG",
-     "slot": "BE",
-     "espnId": 4395626
     }
    ]
   }
