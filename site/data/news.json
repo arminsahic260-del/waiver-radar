@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-22T15:24:58Z",
+ "updated": "2026-10-22T16:21:56Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "WAS",
+   "player": "Will Riley",
+   "headline": "Inactive in opener",
+   "note": "Riley (coach's decision) did not play in Wednesday's 128-116 win over Milwaukee.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/will-riley-news-inactive-in-opener-535509"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MIL",
+   "player": "Nate Ament",
+   "headline": "NBA debut will have to wait",
+   "note": "Ament (coach's decision) did not play in Wednesday's 128-116 loss to Washington.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nate-ament-news-nba-debut-will-have-to-wait-535508"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MIL",
+   "player": "Caris LeVert",
+   "headline": "Doesn't enter season opener",
+   "note": "LeVert (coach's decision) did not play in Wednesday's 128-116 loss to Washington.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caris-levert-news-doesnt-enter-season-opener-535507"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MIL",
+   "player": "Gary Trent",
+   "headline": "Left out of rotation",
+   "note": "Trent (coach's decision) did not play in Wednesday's 128-116 loss to Washington.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gary-trent-news-left-out-of-rotation-535506"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "ORL",
+   "player": "Jevon Carter",
+   "headline": "Out of early rotation",
+   "note": "Carter (coach's decision) did not play in Wednesday's 132-125 loss to Atlanta.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jevon-carter-news-out-of-early-rotation-535505"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "ATL",
+   "player": "Corey Kispert",
+   "headline": "Currently outside rotation",
+   "note": "Kispert (coach's decision) did not play in Wednesday's 132-125 win over Orlando.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/corey-kispert-news-currently-outside-rotation-535504"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "ATL",
+   "player": "Dorian Finney-Smith",
+   "headline": "Sits out opener",
+   "note": "Finney-Smith (coach's decision) did not play in Atlanta's 132-125 win over Orlando on Wednesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dorian-finney-smith-news-sits-out-opener-535503"
+  },
   {
    "date": "2026-10-22",
    "team": "LAC",
@@ -183,56 +253,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "UTA",
-   "player": "Jaxson Hayes",
-   "headline": "Swats six shots in loss",
-   "note": "Hayes closed Wednesday's 123-103 loss to the Grizzlies with five points (2-3 FG, 0-1 3Pt, 1-4 FT), five rebounds, three assists, six blocks and two steals across 26 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-swats-six-shots-in-loss-535484"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "UTA",
-   "player": "Jaren Jackson",
-   "headline": "Fouls out against Memphis",
-   "note": "Jackson provided 15 points (6-10 FG, 2-4 3Pt, 1-2 FT), five rebounds, two assists, two blocks and one steal across 28 minutes before fouling out of Wednesday's 123-103 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaren-jackson-news-fouls-out-against-memphis-535483"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHX",
-   "player": "Collin Gillespie",
-   "headline": "Makes impact on defense Wednesday",
-   "note": "Gillespie finished with zero points (0-8 FG, 0-8 3Pt, 0-1 FT), one rebound, two assists and four steals over 21 minutes during Wednesday's 124-83 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-makes-impact-on-defense-wednesday-535482"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "UTA",
-   "player": "Darryn Peterson",
-   "headline": "Scores nine in debut",
-   "note": "Peterson amassed nine points (3-7 FG, 0-1 3Pt, 3-4 FT), four rebounds and three assists across 31 minutes during Wednesday's 123-103 loss to Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-scores-nine-in-debut-535481"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHX",
-   "player": "Devin Booker",
-   "headline": "Drops team-high 23 in Portland",
-   "note": "Booker closed Wednesday's 124-83 loss to the Trail Blazers with 23 points (7-13 FG, 9-9 FT), four rebounds, two assists, one block and one steal in 29 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-drops-team-high-23-in-portland-535480"
-  },
-  {
-   "date": "2026-10-22",
    "team": "GSW",
    "player": "Gui Santos",
    "headline": "Scores 12 points, hauls in five boards",
@@ -290,6 +310,56 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-leads-lakers-to-win-535474"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHX",
+   "player": "Collin Gillespie",
+   "headline": "Makes impact on defense Wednesday",
+   "note": "Gillespie finished with zero points (0-8 FG, 0-8 3Pt, 0-1 FT), one rebound, two assists and four steals over 21 minutes during Wednesday's 124-83 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-makes-impact-on-defense-wednesday-535482"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Drops team-high 23 in Portland",
+   "note": "Booker closed Wednesday's 124-83 loss to the Trail Blazers with 23 points (7-13 FG, 9-9 FT), four rebounds, two assists, one block and one steal in 29 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-drops-team-high-23-in-portland-535480"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "headline": "Swats six shots in loss",
+   "note": "Hayes closed Wednesday's 123-103 loss to the Grizzlies with five points (2-3 FG, 0-1 3Pt, 1-4 FT), five rebounds, three assists, six blocks and two steals across 26 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-swats-six-shots-in-loss-535484"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "UTA",
+   "player": "Jaren Jackson",
+   "headline": "Fouls out against Memphis",
+   "note": "Jackson provided 15 points (6-10 FG, 2-4 3Pt, 1-2 FT), five rebounds, two assists, two blocks and one steal across 28 minutes before fouling out of Wednesday's 123-103 loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaren-jackson-news-fouls-out-against-memphis-535483"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "UTA",
+   "player": "Darryn Peterson",
+   "headline": "Scores nine in debut",
+   "note": "Peterson amassed nine points (3-7 FG, 0-1 3Pt, 3-4 FT), four rebounds and three assists across 31 minutes during Wednesday's 123-103 loss to Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-scores-nine-in-debut-535481"
   },
   {
    "date": "2026-10-21",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-double-doubles-in-victory-535435"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Drops 16 points in opener",
-   "note": "Wiggins closed with 16 points (5-9 FG, 3-5 3Pt, 3-3 FT), three rebounds and two steals over 32 minutes during Wednesday's 132-125 win over Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-drops-16-points-in-opener-535434"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Dominates season opener",
-   "note": "Daniels closed with 20 points (8-13 FG, 0-2 3Pt, 4-6 FT), four rebounds, three assists and five steals in 35 minutes during Wednesday's 132-125 victory over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-dominates-season-opener-535431"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Erupts for 31 points in win",
-   "note": "Alexander-Walker finished Wednesday's 132-125 win over the Magic with 31 points (8-15 FG, 5-8 3Pt, 10-13 FT), four rebounds, three assists, one steal and one block across 30 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-erupts-for-31-points-in-win-535419"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "BOS",
-   "player": "Mike Conley",
-   "headline": "Outside of rotation",
-   "note": "Conley (coach's decision) didn't play during Tuesday's 121-113 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mike-conley-news-outside-of-rotation-535353"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "BOS",
-   "player": "Luka Garza",
-   "headline": "Limited to eight minutes",
-   "note": "Garza recorded two points (1-3 FG, 0-2 3Pt) and two rebounds in eight minutes during Tuesday's 121-113 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-garza-news-limited-to-eight-minutes-535349"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "BOS",
-   "player": "Hugo Gonzalez",
-   "headline": "Scoreless in 10 minutes",
-   "note": "Gonzalez accumulated zero points (0-1 FG, 0-1 3Pt) and three rebounds over 10 minutes during Tuesday's 121-113 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-scoreless-in-10-minutes-535347"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "BOS",
-   "player": "Baylor Scheierman",
-   "headline": "Perfect from deep",
-   "note": "Scheierman produced eight points (3-4 FG, 2-2 3Pt), three rebounds and one steal across 18 minutes during Tuesday's 121-113 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-perfect-from-deep-535346"
   }
  ]
 }
