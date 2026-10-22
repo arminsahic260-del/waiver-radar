@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:21:59Z",
+ "updated": "2026-10-22T12:21:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -728,18 +728,18 @@
        "gtd": false
       },
       {
-       "player": "Jalen Slawson",
-       "team": "IND",
-       "pos": "SF",
-       "espnId": 4398207,
-       "fpts": 25.2,
-       "mpg": 23.9,
+       "player": "Kyle Filipowski",
+       "team": "UTA",
+       "pos": "PF/C",
+       "espnId": 4684793,
+       "fpts": 26.4,
+       "mpg": 23.4,
        "basis": "prošla sezona",
-       "matchup": "IND @ BKN",
+       "matchup": "LAL @ UTA",
        "dates": [
         "2026-10-25"
        ],
-       "value": 25.2,
+       "value": 26.4,
        "gtd": false
       }
      ]
