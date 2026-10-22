@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:21:58Z",
+ "updated": "2026-10-22T10:19:43Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -217,7 +217,7 @@
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u četvrtak",
@@ -420,22 +420,6 @@
        "gtd": false
       },
       {
-       "player": "Sam Merrill",
-       "team": "CLE",
-       "pos": "SG",
-       "espnId": 4066757,
-       "fpts": 23.7,
-       "mpg": 26.5,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24"
-       ],
-       "value": 47.4,
-       "gtd": false
-      },
-      {
        "player": "Marvin Bagley III",
        "team": "DEN",
        "pos": "PF/C",
@@ -450,6 +434,23 @@
        ],
        "value": 46.6,
        "gtd": false
+      },
+      {
+       "player": "Dean Wade",
+       "team": "PHI",
+       "pos": "PF",
+       "espnId": 3912848,
+       "fpts": 17.4,
+       "mpg": 22.4,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ PHI",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 52.2,
+       "gtd": true
       }
      ]
     }
