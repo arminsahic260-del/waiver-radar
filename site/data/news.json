@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-22T15:21:56Z",
+ "updated": "2026-10-22T15:24:58Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "LAC",
+   "player": "Kris Dunn",
+   "headline": "Busy on defense against Sacramento",
+   "note": "Dunn logged seven points (2-5 FG, 2-5 3Pt, 1-2 FT), five rebounds, seven assists, two blocks and three steals over 27 minutes during Wednesday's 121-96 victory over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kris-dunn-news-busy-on-defense-against-sacramento-535502"
+  },
   {
    "date": "2026-10-22",
    "team": "LAC",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-perfect-from-deep-535346"
-  },
-  {
-   "date": "2026-10-21",
-   "team": "BOS",
-   "player": "Sam Hauser",
-   "headline": "Scores 11 off bench",
-   "note": "Hauser chipped in 11 points (4-7 FG, 3-5 3Pt), four rebounds and one assist across 18 minutes during Tuesday's 121-113 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-scores-11-off-bench-535344"
   }
  ]
 }

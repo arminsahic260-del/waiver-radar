@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:22:01Z",
+ "updated": "2026-10-22T15:25:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -179,7 +179,7 @@
    "team": "LAC",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11. — nova ozljeda; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
    "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
    "horizon": "Do ~8.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Bradley Beal",
