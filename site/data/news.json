@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-22T19:21:49Z",
+ "updated": "2026-10-22T20:13:18Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Remains out Friday",
+   "note": "Biberovic (heel) is out for Friday's game against Indiana.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-remains-out-friday-535578"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Questionable with illness",
+   "note": "Swain (illness) is questionable for Friday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-questionable-with-illness-535577"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Dereck Lively",
+   "headline": "Remains without return timetable",
+   "note": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dereck-lively-injury-remains-without-return-timetable-535576"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "headline": "Iffy for Friday",
+   "note": "Hawkins (illness) is questionable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-iffy-for-friday-535575"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Zach Collins",
+   "headline": "Likely to play Friday",
+   "note": "Collins (quadriceps) is probable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-likely-to-play-friday-535574"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Tobe Awaka",
+   "headline": "Probable for Friday",
+   "note": "Awaka (knee) is probable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-friday-535573"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Josh Giddey",
+   "headline": "Expected to play Friday",
+   "note": "Giddey (wrist) is probable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-injury-expected-to-play-friday-535572"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Full stat line in start",
+   "note": "Oubre accumulated four points (2-5 FG, 0-3 3Pt), two rebounds, three assists, one block and one steal across 28 minutes during Wednesday's 123-120 win over New Orleans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-news-full-stat-line-in-start-535571"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Strong Opening Night showing",
+   "note": "Nembhard posted 18 points (6-10 FG, 0-3 3Pt, 6-7 FT), two rebounds, nine assists and one steal in 34 minutes during Wednesday's 123-120 win over the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-strong-opening-night-showing-535570"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Dishes out six dimes Wednesday",
+   "note": "Marshall notched 16 points (7-13 FG, 2-6 3Pt), six assists, two rebounds and one steal across 29 minutes during Wednesday's 128-110 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-dishes-out-six-dimes-wednesday-535569"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Marcus Sasser",
+   "headline": "Offers spark in loss",
+   "note": "Sasser supplied 17 points (6-8 FG, 4-5 3Pt, 1-1 FT), one rebound, one assist and one steal across 24 minutes during Wednesday's 128-110 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-sasser-news-offers-spark-in-loss-535568"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Provides spark in win",
+   "note": "Smart recorded 10 points (4-6 FG, 2-4 3Pt), two rebounds, two assists and one steal across 26 minutes during Wednesday's 128-110 victory over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-provides-spark-in-win-535567"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Tre Jones",
+   "headline": "Tallies 13 points in blowout loss",
+   "note": "Jones chipped in 13 points (5-8 FG, 0-1 3Pt, 3-4 FT) and three rebounds over 13 minutes during Wednesday's 135-92 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-jones-news-tallies-13-points-in-blowout-loss-535566"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "HOU",
+   "player": "Amen Thompson",
+   "headline": "Double-doubles in victory",
+   "note": "Thompson produced 16 points (6-12 FG, 1-2 3Pt, 3-5 FT), 10 rebounds, four assists and one steal over 33 minutes during Wednesday's 128-110 win over the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-double-doubles-in-victory-535565"
+  },
   {
    "date": "2026-10-22",
    "team": "HOU",
@@ -110,146 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/justin-champagnie-news-solid-off-the-bench-in-season-opener-535554"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "BKN",
-   "player": "Keon Ellis",
-   "headline": "Big workload in opener",
-   "note": "Ellis accumulated seven points (3-7 FG, 1-3 3Pt), two rebounds, four assists, one block and two steals across 34 minutes during Wednesday's 110-103 loss to the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keon-ellis-news-big-workload-in-opener-535553"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHA",
-   "player": "Ryan Kalkbrenner",
-   "headline": "Works as backup center",
-   "note": "Kalkbrenner ended with four points (2-3 FG), five rebounds, three assists and two blocks in 14 minutes during Wednesday's 110-103 victory over Brooklyn.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-works-as-backup-center-535552"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Effective as starter",
-   "note": "Schroder finished Wednesday's 110-103 victory over the Nets with 19 points (7-13 FG, 0-3 3Pt, 5-5 FT), four rebounds and six assists in 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-effective-as-starter-535551"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Dishes out team-high eight assists",
-   "note": "Green closed Wednesday's 127-105 loss to the Lakers with two points (1-4 FG, 0-1 3Pt), four rebounds, eight assists, one block and one steal over 21 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-dishes-out-team-high-eight-assists-535550"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "GSW",
-   "player": "Brandon Williams",
-   "headline": "Busy off bench in opener",
-   "note": "Williams ended with 14 points (3-12 FG, 1-3 3Pt, 7-7 FT), four rebounds, three assists and three steals over 18 minutes during Wednesday's 127-105 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-busy-off-bench-in-opener-535549"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "WAS",
-   "player": "Alex Sarr",
-   "headline": "Quiet in season-opening victory",
-   "note": "Sarr contributed six points (3-9 FG, 0-3 3Pt), nine rebounds and two assists across 24 minutes during Wednesday's 128-116 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-quiet-in-season-opening-victory-535548"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAL",
-   "player": "Matisse Thybulle",
-   "headline": "Full stat line in team debut",
-   "note": "Thybulle accumulated three points (1-4 FG, 1-2 3Pt), three rebounds, one assist, one block and one steal over 23 minutes during Wednesday's 127-105 victory over Golden State.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-full-stat-line-in-team-debut-535547"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Starts over Grimes",
-   "note": "Williams contributed nine points (4-7 FG, 1-2 3Pt), three rebounds, four assists and one steal over 24 minutes during Wednesday's 127-105 win over the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-starts-over-grimes-535546"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHX",
-   "player": "Dillon Brooks",
-   "headline": "Chips in 10 points Wednesday",
-   "note": "Brooks recorded 10 points (4-11 FG, 1-2 3Pt, 1-2 FT) and four rebounds in 27 minutes during Wednesday's 124-83 loss to Portland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dillon-brooks-news-chips-in-10-points-wednesday-535545"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MIL",
-   "player": "Kel'el Ware",
-   "headline": "Fouls out in limited run",
-   "note": "Ware ended with seven points (3-6 FG, 0-2 3Pt, 1-3 FT), three rebounds, one assist and one steal over 14 minutes before fouling out of Wednesday's 128-116 loss to Washington.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kelel-ware-news-fouls-out-in-limited-run-535544"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MIL",
-   "player": "Brayden Burries",
-   "headline": "Scores 12 in NBA debut",
-   "note": "Burries ended Wednesday's 128-116 loss to the Wizards with 12 points (3-6 FG, 2-2 3Pt, 4-5 FT) and five rebounds over 16 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brayden-burries-news-scores-12-in-nba-debut-535543"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHX",
-   "player": "Jalen Green",
-   "headline": "Decent output in rout",
-   "note": "Green registered 10 points (4-12 FG, 2-6 3Pt), two rebounds, three assists and one block in 25 minutes during Wednesday's 124-83 loss to Portland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-green-news-decent-output-in-rout-535542"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHX",
-   "player": "Miles Bridges",
-   "headline": "Subdued team debut",
-   "note": "Bridges amassed eight points (3-11 FG, 0-5 3Pt, 2-2 FT), four rebounds, one block and one steal over 29 minutes during Wednesday's 124-83 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/miles-bridges-news-subdued-team-debut-535541"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MIL",
-   "player": "Kasparas Jakucionis",
-   "headline": "Impresses off bench",
-   "note": "Jakucionis had 15 points (4-7 FG, 1-3 3Pt, 6-6 FT), three rebounds, three assists and one block across 26 minutes during Wednesday's 128-116 loss to the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kasparas-jakucionis-news-impresses-off-bench-535540"
   },
   {
    "date": "2026-10-22",
@@ -364,6 +364,16 @@
   {
    "date": "2026-10-22",
    "team": "BKN",
+   "player": "Keon Ellis",
+   "headline": "Big workload in opener",
+   "note": "Ellis accumulated seven points (3-7 FG, 1-3 3Pt), two rebounds, four assists, one block and two steals across 34 minutes during Wednesday's 110-103 loss to the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keon-ellis-news-big-workload-in-opener-535553"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "BKN",
    "player": "Terance Mann",
    "headline": "Doesn't enter opener",
    "note": "Mann (coach's decision) did not play in Wednesday's 110-103 loss to Charlotte.",
@@ -404,6 +414,26 @@
   {
    "date": "2026-10-22",
    "team": "CHA",
+   "player": "Ryan Kalkbrenner",
+   "headline": "Works as backup center",
+   "note": "Kalkbrenner ended with four points (2-3 FG), five rebounds, three assists and two blocks in 14 minutes during Wednesday's 110-103 victory over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-works-as-backup-center-535552"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Effective as starter",
+   "note": "Schroder finished Wednesday's 110-103 victory over the Nets with 19 points (7-13 FG, 0-3 3Pt, 5-5 FT), four rebounds and six assists in 35 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-effective-as-starter-535551"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHA",
    "player": "Hannes Steinbach",
    "headline": "Doesn't make NBA debut",
    "note": "Steinbach (coach's decision) did not play in Wednesday's 110-103 win over Brooklyn.",
@@ -420,6 +450,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-outside-initial-rotation-535516"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Dishes out team-high eight assists",
+   "note": "Green closed Wednesday's 127-105 loss to the Lakers with two points (1-4 FG, 0-1 3Pt), four rebounds, eight assists, one block and one steal over 21 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-dishes-out-team-high-eight-assists-535550"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Busy off bench in opener",
+   "note": "Williams ended with 14 points (3-12 FG, 1-3 3Pt, 7-7 FT), four rebounds, three assists and three steals over 18 minutes during Wednesday's 127-105 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-busy-off-bench-in-opener-535549"
   },
   {
    "date": "2026-10-22",
@@ -534,72 +584,22 @@
   {
    "date": "2026-10-22",
    "team": "LAL",
-   "player": "Austin Reaves",
-   "headline": "Scores 23 points Wednesday",
-   "note": "Reaves delivered 23 points (6-11 FG, 1-3 3Pt, 10-10 FT), four rebounds, six assists, two steals and a block across 32 minutes in Wednesday's 127-105 win over the Warriors.",
+   "player": "Matisse Thybulle",
+   "headline": "Full stat line in team debut",
+   "note": "Thybulle accumulated three points (1-4 FG, 1-2 3Pt), three rebounds, one assist, one block and one steal over 23 minutes during Wednesday's 127-105 victory over Golden State.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-scores-23-points-wednesday-535476"
+   "url": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-full-stat-line-in-team-debut-535547"
   },
   {
    "date": "2026-10-22",
    "team": "LAL",
-   "player": "Walker Kessler",
-   "headline": "Perfect shooting in Lakers debut",
-   "note": "Kessler delivered 26 points (12-12 FG, 0-0 3Pt, 2-4 FT), nine rebounds, an assist and two blocks across 30 minutes in Wednesday's 127-105 win over the Warriors.",
+   "player": "Ziaire Williams",
+   "headline": "Starts over Grimes",
+   "note": "Williams contributed nine points (4-7 FG, 1-2 3Pt), three rebounds, four assists and one steal over 24 minutes during Wednesday's 127-105 win over the Warriors.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-perfect-shooting-in-lakers-debut-535475"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAL",
-   "player": "Luka Doncic",
-   "headline": "Leads Lakers to win",
-   "note": "Doncic produced 28 points (7-18 FG, 5-12 3Pt, 9-9 FT), eight rebounds, seven assists and three steals across 30 minutes in Wednesday's 127-105 win over the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-leads-lakers-to-win-535474"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Olivier-Maxence Prosper",
-   "headline": "Not involved Wednesday",
-   "note": "Prosper (coach's decision) did not play in Wednesday's 123-103 win over Utah.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/olivier-maxence-prosper-news-not-involved-wednesday-535519"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Taylor Hendricks",
-   "headline": "Remains on bench in victory",
-   "note": "Hendricks (coach's decision) did not play in Wednesday's 123-103 win over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/taylor-hendricks-news-remains-on-bench-in-victory-535518"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Jaylen Wells",
-   "headline": "Snags four steals in win",
-   "note": "Wells posted 12 points (5-10 FG, 1-4 3Pt, 1-3 FT), five rebounds and four steals across 28 minutes during Wednesday's 123-103 win over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-wells-news-snags-four-steals-in-win-535491"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Zach Edey",
-   "headline": "Collects nine boards in win",
-   "note": "Edey posted six points (3-5 FG), nine rebounds and two blocks across 21 minutes during Wednesday's 123-103 victory over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-collects-nine-boards-in-win-535490"
+   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-starts-over-grimes-535546"
   }
  ]
 }
