@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:42:03Z",
+ "updated": "2026-10-22T07:22:05Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-22T05:42:02Z",
+   "updated": "2026-10-22T07:22:04Z",
    "players": [
     {
      "name": "Trae Young",
@@ -18,11 +18,11 @@
      "espnId": 4277905
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
-     "pos": "PG/SG",
+     "name": "Kentavious Caldwell-Pope",
+     "team": "PHI",
+     "pos": "SG/SF",
      "slot": "SG",
-     "espnId": 2991230
+     "espnId": 2581018
     },
     {
      "name": "Cooper Flagg",
@@ -39,11 +39,11 @@
      "espnId": 4432573
     },
     {
-     "name": "Ivica Zubac",
-     "team": "IND",
+     "name": "Donovan Clingan",
+     "team": "POR",
      "pos": "C",
      "slot": "C",
-     "espnId": 4017837
+     "espnId": 5105565
     },
     {
      "name": "Kyrie Irving",
@@ -60,11 +60,18 @@
      "espnId": 5175737
     },
     {
-     "name": "Donovan Clingan",
-     "team": "POR",
+     "name": "Ivica Zubac",
+     "team": "IND",
      "pos": "C",
      "slot": "UTIL",
-     "espnId": 5105565
+     "espnId": 4017837
+    },
+    {
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
+     "slot": "UTIL",
+     "espnId": 2991230
     },
     {
      "name": "Darius Acuff Jr.",
@@ -74,13 +81,6 @@
      "espnId": 5142620
     },
     {
-     "name": "Day'Ron Sharpe",
-     "team": "BKN",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 4432194
-    },
-    {
      "name": "Jalen Suggs",
      "team": "ORL",
      "pos": "PG/SG",
@@ -88,11 +88,11 @@
      "espnId": 4432165
     },
     {
-     "name": "Kentavious Caldwell-Pope",
-     "team": "PHI",
-     "pos": "SG/SF",
+     "name": "Day'Ron Sharpe",
+     "team": "BKN",
+     "pos": "C",
      "slot": "BE",
-     "espnId": 2581018
+     "espnId": 4432194
     },
     {
      "name": "Andre Drummond",
@@ -110,98 +110,98 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-22T05:42:03Z",
+   "updated": "2026-10-22T07:22:05Z",
    "players": [
     {
-     "name": "Tre Jones",
-     "team": "CHI",
-     "pos": "PG",
+     "name": "Stephon Castle",
+     "team": "SAS",
+     "pos": "PG/SG",
      "slot": "PG",
-     "espnId": 4395626
-    },
-    {
-     "name": "Keaton Wagler",
-     "team": "LAC",
-     "pos": "PG/SG",
-     "slot": "SG",
-     "espnId": 5254165
-    },
-    {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
-     "slot": "SF",
-     "espnId": 5041939
-    },
-    {
-     "name": "Jaden McDaniels",
-     "team": "MIN",
-     "pos": "SF/PF",
-     "slot": "PF",
-     "espnId": 4431671
-    },
-    {
-     "name": "Kel'el Ware",
-     "team": "MIL",
-     "pos": "C",
-     "slot": "C",
-     "espnId": 5105623
-    },
-    {
-     "name": "Keyonte George",
-     "team": "UTA",
-     "pos": "PG/SG",
-     "slot": "G",
-     "espnId": 4433627
+     "espnId": 4845367
     },
     {
      "name": "Jaylen Brown",
      "team": "PHI",
      "pos": "SG/SF",
-     "slot": "F",
+     "slot": "SG",
      "espnId": 3917376
-    },
-    {
-     "name": "Alperen Sengun",
-     "team": "HOU",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 4871144
-    },
-    {
-     "name": "Stephon Castle",
-     "team": "SAS",
-     "pos": "PG/SG",
-     "slot": "UTIL",
-     "espnId": 4845367
-    },
-    {
-     "name": "Brook Lopez",
-     "team": "LAC",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 3448
-    },
-    {
-     "name": "VJ Edgecombe",
-     "team": "PHI",
-     "pos": "SG",
-     "slot": "BE",
-     "espnId": 5124612
     },
     {
      "name": "Peyton Watson",
      "team": "CLE",
      "pos": "SF/PF",
-     "slot": "BE",
+     "slot": "SF",
      "espnId": 4576087
+    },
+    {
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "PF",
+     "espnId": 5041939
+    },
+    {
+     "name": "Alperen Sengun",
+     "team": "HOU",
+     "pos": "C",
+     "slot": "C",
+     "espnId": 4871144
+    },
+    {
+     "name": "VJ Edgecombe",
+     "team": "PHI",
+     "pos": "SG",
+     "slot": "G",
+     "espnId": 5124612
+    },
+    {
+     "name": "Jaden McDaniels",
+     "team": "MIN",
+     "pos": "SF/PF",
+     "slot": "F",
+     "espnId": 4431671
+    },
+    {
+     "name": "Keyonte George",
+     "team": "UTA",
+     "pos": "PG/SG",
+     "slot": "UTIL",
+     "espnId": 4433627
+    },
+    {
+     "name": "Kel'el Ware",
+     "team": "MIL",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 5105623
     },
     {
      "name": "Neemias Queta",
      "team": "BOS",
      "pos": "C",
-     "slot": "BE",
+     "slot": "UTIL",
      "espnId": 4397424
+    },
+    {
+     "name": "Brook Lopez",
+     "team": "LAC",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 3448
+    },
+    {
+     "name": "Keaton Wagler",
+     "team": "LAC",
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 5254165
+    },
+    {
+     "name": "Tre Jones",
+     "team": "CHI",
+     "pos": "PG",
+     "slot": "BE",
+     "espnId": 4395626
     }
    ]
   }

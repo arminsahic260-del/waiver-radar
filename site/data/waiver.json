@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:42:03Z",
+ "updated": "2026-10-22T07:22:05Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -63,7 +63,7 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/max-christie-news-starting-wednesday-535401",
@@ -510,19 +510,19 @@
        "gtd": false
       },
       {
-       "player": "Terance Mann",
+       "player": "Danny Wolf",
        "team": "BKN",
-       "pos": "SG/SF",
-       "espnId": 3907823,
-       "fpts": 17.9,
-       "mpg": 24.3,
+       "pos": "PF/C",
+       "espnId": 5107173,
+       "fpts": 19.4,
+       "mpg": 20.9,
        "basis": "prošla sezona",
        "matchup": "BKN @ CLE",
        "dates": [
         "2026-10-24",
         "2026-10-25"
        ],
-       "value": 35.8,
+       "value": 38.8,
        "gtd": false
       }
      ]
@@ -645,18 +645,18 @@
        "gtd": false
       },
       {
-       "player": "Jalen Slawson",
-       "team": "IND",
-       "pos": "SF",
-       "espnId": 4398207,
-       "fpts": 25.2,
-       "mpg": 23.9,
+       "player": "Kyle Filipowski",
+       "team": "UTA",
+       "pos": "PF/C",
+       "espnId": 4684793,
+       "fpts": 26.4,
+       "mpg": 23.4,
        "basis": "prošla sezona",
-       "matchup": "IND @ BKN",
+       "matchup": "LAL @ UTA",
        "dates": [
         "2026-10-25"
        ],
-       "value": 25.2,
+       "value": 26.4,
        "gtd": false
       }
      ]
@@ -710,18 +710,18 @@
        "gtd": false
       },
       {
-       "player": "Wendell Carter Jr.",
-       "team": "ORL",
-       "pos": "C",
-       "espnId": 4277847,
-       "fpts": 26.6,
-       "mpg": 29.4,
+       "player": "Jalen Slawson",
+       "team": "IND",
+       "pos": "SF",
+       "espnId": 4398207,
+       "fpts": 25.2,
+       "mpg": 23.9,
        "basis": "prošla sezona",
-       "matchup": "ORL @ NYK",
+       "matchup": "IND @ BKN",
        "dates": [
         "2026-10-25"
        ],
-       "value": 26.6,
+       "value": 25.2,
        "gtd": false
       }
      ]
