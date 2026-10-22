@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:21:20Z",
+ "updated": "2026-10-22T17:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -684,6 +684,16 @@
   },
   {
    "team": "WAS",
+   "player": "AJ Dybantsa",
+   "pos": "SF",
+   "updated": "2026-10-22",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -701,16 +711,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "pos": "SF",
-   "updated": "2026-10-21",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }
