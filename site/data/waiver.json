@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:21:56Z",
+ "updated": "2026-10-22T18:22:09Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -7,7 +7,7 @@
    "team": "WAS",
    "pos": "SG/SF",
    "priority": 1,
-   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.5 FP po utakmici (prošle sezone, 26 min). AJ Dybantsa (gležanj) je out najmanje do 24.10. — nova ozljeda. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.5 FP po utakmici (prošle sezone, 26 min).",
+   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.5 FP po utakmici (prošle sezone, 26 min). AJ Dybantsa (gležanj) je out najmanje do 24.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.5 FP po utakmici (prošle sezone, 26 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -268,7 +268,7 @@
    "team": "WAS",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 24.10. — nova ozljeda. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~21.7 FP po utakmici (prošle sezone, 20 min).",
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 24.10. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~21.7 FP po utakmici (prošle sezone, 20 min).",
    "role": "Veća minutaža dok je out AJ Dybantsa",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati AJ Dybantsa",

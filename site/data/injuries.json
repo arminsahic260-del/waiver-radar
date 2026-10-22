@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:21:17Z",
+ "updated": "2026-10-22T18:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -35,7 +35,7 @@
   {
    "team": "BOS",
    "player": "Devin Carter",
-   "pos": "SG",
+   "pos": "PG",
    "updated": "2026-10-19",
    "injury": "Illness",
    "status": "Expected return: at least Nov 8",
@@ -388,6 +388,16 @@
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "pos": "SF",
+   "updated": "2026-10-22",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
