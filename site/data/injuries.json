@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:21:19Z",
+ "updated": "2026-10-22T15:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -25,7 +25,7 @@
   {
    "team": "BKN",
    "player": "Tyler Bilodeau",
-   "pos": "PF",
+   "pos": "SF",
    "updated": "2026-10-21",
    "injury": "Shoulder",
    "status": "GTD",
@@ -44,26 +44,6 @@
   },
   {
    "team": "CHA",
-   "player": "Coby White",
-   "pos": "PG",
-   "updated": "2026-10-20",
-   "injury": "Calf",
-   "status": "Expected return: at least Oct 23",
-   "kind": "out",
-   "ret": "2026-10-23"
-  },
-  {
-   "team": "CHA",
-   "player": "Grant Williams",
-   "pos": "PF",
-   "updated": "2026-10-20",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Oct 23",
-   "kind": "out",
-   "ret": "2026-10-23"
-  },
-  {
-   "team": "CHA",
    "player": "Kylan Boswell",
    "pos": "PG",
    "updated": "2026-10-20",
@@ -71,6 +51,26 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "CHA",
+   "player": "Coby White",
+   "pos": "PG",
+   "updated": "2026-10-22",
+   "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHA",
+   "player": "Grant Williams",
+   "pos": "PF",
+   "updated": "2026-10-22",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -96,7 +96,7 @@
    "team": "CHI",
    "player": "Dailyn Swain",
    "pos": "SF",
-   "updated": "2026-10-21",
+   "updated": "2026-10-22",
    "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
@@ -106,7 +106,7 @@
    "team": "CHI",
    "player": "Jordan Hawkins",
    "pos": "SG",
-   "updated": "2026-10-21",
+   "updated": "2026-10-22",
    "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
@@ -144,20 +144,20 @@
   },
   {
    "team": "DAL",
-   "player": "Dereck Lively II",
-   "pos": "C",
-   "updated": "2026-10-20",
-   "injury": "Foot",
-   "status": "Expected return: at least Oct 23",
-   "kind": "out",
-   "ret": "2026-10-23"
-  },
-  {
-   "team": "DAL",
    "player": "Caleb Martin",
    "pos": "SF",
    "updated": "2026-10-21",
    "injury": "Thumb",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
+   "player": "Dereck Lively II",
+   "pos": "C",
+   "updated": "2026-10-22",
+   "injury": "Foot",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -314,6 +314,16 @@
   },
   {
    "team": "LAC",
+   "player": "Bradley Beal",
+   "pos": "SG",
+   "updated": "2026-10-22",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
+  },
+  {
+   "team": "LAC",
    "player": "Brandon Ingram",
    "pos": "SF",
    "updated": "2026-10-15",
@@ -351,16 +361,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "LAC",
-   "player": "Bradley Beal",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "LAL",
@@ -554,16 +554,6 @@
   },
   {
    "team": "POR",
-   "player": "Branden Carlson",
-   "pos": "C",
-   "updated": "2026-10-20",
-   "injury": "Concussion",
-   "status": "Expected return: at least Oct 23",
-   "kind": "out",
-   "ret": "2026-10-23"
-  },
-  {
-   "team": "POR",
    "player": "Shaedon Sharpe",
    "pos": "SG",
    "updated": "2026-09-28",
@@ -571,6 +561,16 @@
    "status": "Expected return: at least Mar 2",
    "kind": "out",
    "ret": "2027-03-02"
+  },
+  {
+   "team": "POR",
+   "player": "Branden Carlson",
+   "pos": "C",
+   "updated": "2026-10-22",
+   "injury": "Concussion",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "POR",

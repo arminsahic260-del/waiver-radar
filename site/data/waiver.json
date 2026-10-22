@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:21:56Z",
+ "updated": "2026-10-22T15:22:01Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -122,23 +122,6 @@
    "fpts": 20.3
   },
   {
-   "player": "Sion James",
-   "team": "CHA",
-   "pos": "SF",
-   "priority": 1,
-   "reason": "Coby White (list) je out najmanje do 23.10. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn.",
-   "role": "Starter dok je out Coby White",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
-   "espnId": 4602025,
-   "fpts": 14.4
-  },
-  {
    "player": "Draymond Green",
    "team": "GSW",
    "pos": "PF/C",
@@ -154,40 +137,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6589,
    "fpts": 25.6
-  },
-  {
-   "player": "Bradley Beal",
-   "team": "LAC",
-   "pos": "SG/SF",
-   "priority": 2,
-   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Bradley Beal je prvi SG/SF u rotaciji LAC-a za te minute; ~25.6 FP po utakmici (ESPN projekcija, 25 min).",
-   "role": "Veća minutaža dok su out Brandon Ingram i Max Strus",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Brandon Ingram",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 6580,
-   "fpts": 25.6
-  },
-  {
-   "player": "Royce O'Neale",
-   "team": "CHA",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 23.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~24.5 FP po utakmici (prošle sezone, 28 min).",
-   "role": "Veća minutaža dok je out Coby White",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2583632,
-   "fpts": 24.5
   },
   {
    "player": "Precious Achiuwa",
@@ -226,23 +175,21 @@
    "expires": "2026-10-22"
   },
   {
-   "player": "Marvin Bagley III",
-   "team": "DEN",
-   "pos": "PF/C",
+   "player": "Derrick Jones Jr.",
+   "team": "LAC",
+   "pos": "SF/PF",
    "priority": 2,
-   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 1). Marvin Bagley III je rotacijski PF/C, ~23.3 FP po utakmici (prošle sezone, 20 min). Liga: Legendi.",
-   "role": "Streamer (20 min)",
-   "horizon": "22.10.",
-   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11. — nova ozljeda; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Bradley Beal",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
-   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
-   "note": "igra u četvrtak",
-   "espnId": 4277848,
-   "fpts": 23.3,
-   "expires": "2026-10-22"
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3936099,
+   "fpts": 22.9
   },
   {
    "player": "Dean Wade",
@@ -264,6 +211,42 @@
    "expires": "2026-10-22"
   },
   {
+   "player": "Spencer Jones",
+   "team": "DEN",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 1). Spencer Jones je rotacijski SF/PF, ~15.1 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
+   "role": "Streamer (22 min)",
+   "horizon": "22.10.",
+   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 4592427,
+   "fpts": 15.1,
+   "expires": "2026-10-22"
+  },
+  {
+   "player": "Sion James",
+   "team": "CHA",
+   "pos": "SF",
+   "priority": 2,
+   "reason": "RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn. ~14.4 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~14 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
+   "espnId": 4602025,
+   "fpts": 14.4
+  },
+  {
    "player": "Al Horford",
    "team": "GSW",
    "pos": "PF/C",
@@ -279,23 +262,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3213,
    "fpts": 24.1
-  },
-  {
-   "player": "Derrick Jones Jr.",
-   "team": "LAC",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je sljedeći SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Veća minutaža dok su out Brandon Ingram i Max Strus",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Brandon Ingram",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3936099,
-   "fpts": 22.9
   },
   {
    "player": "Bones Hyland",
@@ -378,20 +344,21 @@
        "gtd": false
       },
       {
-       "player": "Marvin Bagley III",
-       "team": "DEN",
-       "pos": "PF/C",
-       "espnId": 4277848,
-       "fpts": 23.3,
-       "mpg": 20.1,
+       "player": "Dean Wade",
+       "team": "PHI",
+       "pos": "PF",
+       "espnId": 3912848,
+       "fpts": 17.4,
+       "mpg": 22.4,
        "basis": "prošla sezona",
-       "matchup": "DEN @ OKC",
+       "matchup": "CLE @ PHI",
        "dates": [
         "2026-10-22",
-        "2026-10-24"
+        "2026-10-24",
+        "2026-10-25"
        ],
-       "value": 46.6,
-       "gtd": false
+       "value": 52.2,
+       "gtd": true
       }
      ]
     },
@@ -648,6 +615,21 @@
        "gtd": false
       },
       {
+       "player": "Jerami Grant",
+       "team": "MEM",
+       "pos": "PF",
+       "espnId": 2991070,
+       "fpts": 27.8,
+       "mpg": 29.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ SAC",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 27.8,
+       "gtd": false
+      },
+      {
        "player": "Cam Spencer",
        "team": "MEM",
        "pos": "PG/SG",
@@ -660,21 +642,6 @@
         "2026-10-25"
        ],
        "value": 27.2,
-       "gtd": false
-      },
-      {
-       "player": "Wendell Carter Jr.",
-       "team": "ORL",
-       "pos": "C",
-       "espnId": 4277847,
-       "fpts": 26.6,
-       "mpg": 29.4,
-       "basis": "prošla sezona",
-       "matchup": "ORL @ NYK",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 26.6,
        "gtd": false
       }
      ]
@@ -758,6 +725,23 @@
      "planned": [],
      "picks": [
       {
+       "player": "Jerami Grant",
+       "team": "MEM",
+       "pos": "PF",
+       "espnId": 2991070,
+       "fpts": 27.8,
+       "mpg": 29.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ UTA",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 83.4,
+       "gtd": false
+      },
+      {
        "player": "Cam Spencer",
        "team": "MEM",
        "pos": "PG/SG",
@@ -789,23 +773,6 @@
         "2026-10-31"
        ],
        "value": 71.1,
-       "gtd": false
-      },
-      {
-       "player": "Jock Landale",
-       "team": "ATL",
-       "pos": "C",
-       "espnId": 3146557,
-       "fpts": 22.7,
-       "mpg": 22.2,
-       "basis": "prošla sezona",
-       "matchup": "ATL @ HOU",
-       "dates": [
-        "2026-10-26",
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 68.1,
        "gtd": false
       }
      ]
