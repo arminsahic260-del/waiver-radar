@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:03:23Z",
+ "updated": "2026-10-22T05:42:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -24,7 +24,7 @@
    "team": "GSW",
    "pos": "PG/SG",
    "priority": 1,
-   "reason": "RotoWire 21.10.: Starting Wednesday. Melton will start Wednesday's game against the Lakers, Trevor Lane of LakersNation.com reports. ~23.9 FP po utakmici (prošle sezone, 23 min). Brandin Podziemski (leđa) je out najmanje do 23.10. De'Anthony Melton je prvi PG/SG u rotaciji GSW-a za te minute; ~23.9 FP po utakmici (prošle sezone, 23 min).",
+   "reason": "RotoWire 21.10.: Starting Wednesday. Melton will start Wednesday's game against the Lakers, Trevor Lane of LakersNation.com reports. ~23.9 FP po utakmici (prošle sezone, 23 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -139,23 +139,21 @@
    "fpts": 14.4
   },
   {
-   "player": "Jaylon Tyson",
-   "team": "CLE",
+   "player": "Bradley Beal",
+   "team": "LAC",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 1). Jaylon Tyson je rotacijski SG/SF, ~26.2 FP po utakmici (prošle sezone, 27 min). Liga: Legendi.",
-   "role": "Streamer (27 min)",
-   "horizon": "22.10.",
-   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Bradley Beal je prvi SG/SF u rotaciji LAC-a za te minute; ~25.6 FP po utakmici (ESPN projekcija, 25 min).",
+   "role": "Veća minutaža dok su out Brandon Ingram i Max Strus",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Brandon Ingram",
    "avail": {
     "Legendi": true,
-    "Banijska": false
+    "Banijska": true
    },
-   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
-   "note": "igra u četvrtak",
-   "espnId": 4683747,
-   "fpts": 26.2,
-   "expires": "2026-10-22"
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 6580,
+   "fpts": 25.6
   },
   {
    "player": "Royce O'Neale",
@@ -173,24 +171,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 2583632,
    "fpts": 24.5
-  },
-  {
-   "player": "Keaton Wagler",
-   "team": "LAC",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.4 FP po utakmici (ESPN projekcija, 28 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "note": "na tvom rosteru (Banijska)",
-   "espnId": 5254165,
-   "fpts": 24.4
   },
   {
    "player": "Al Horford",
@@ -227,6 +207,25 @@
    "fpts": 24.1
   },
   {
+   "player": "Sam Merrill",
+   "team": "CLE",
+   "pos": "SG",
+   "priority": 2,
+   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 1). Sam Merrill je rotacijski SG, ~23.7 FP po utakmici (prošle sezone, 26 min). Liga: Legendi.",
+   "role": "Streamer (26 min)",
+   "horizon": "22.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 4066757,
+   "fpts": 23.7,
+   "expires": "2026-10-22"
+  },
+  {
    "player": "Marvin Bagley III",
    "team": "DEN",
    "pos": "PF/C",
@@ -244,23 +243,6 @@
    "espnId": 4277848,
    "fpts": 23.3,
    "expires": "2026-10-22"
-  },
-  {
-   "player": "Derrick Jones Jr.",
-   "team": "LAC",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3936099,
-   "fpts": 22.9
   },
   {
    "player": "Dean Wade",
@@ -282,21 +264,21 @@
    "expires": "2026-10-22"
   },
   {
-   "player": "Brandon Williams",
-   "team": "GSW",
-   "pos": "PG/SG",
+   "player": "Derrick Jones Jr.",
+   "team": "LAC",
+   "pos": "SF/PF",
    "priority": 3,
-   "reason": "Brandin Podziemski (leđa) je out najmanje do 23.10. Brandon Williams je sljedeći PG/SG u rotaciji GSW-a za te minute; ~23.9 FP po utakmici (prošle sezone, 22 min).",
-   "role": "Veća minutaža dok je out Brandin Podziemski",
-   "horizon": "Do ~23.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Brandin Podziemski",
+   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je sljedeći SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Veća minutaža dok su out Brandon Ingram i Max Strus",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Brandon Ingram",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397040,
-   "fpts": 23.9
+   "espnId": 3936099,
+   "fpts": 22.9
   },
   {
    "player": "Bones Hyland",
@@ -346,22 +328,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Jaylon Tyson",
-       "team": "CLE",
-       "pos": "SG/SF",
-       "espnId": 4683747,
-       "fpts": 26.2,
-       "mpg": 27.0,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24"
-       ],
-       "value": 52.4,
-       "gtd": false
-      },
-      {
        "player": "Caleb Love",
        "team": "PHI",
        "pos": "SG",
@@ -392,6 +358,22 @@
         "2026-10-24"
        ],
        "value": 47.4,
+       "gtd": false
+      },
+      {
+       "player": "Marvin Bagley III",
+       "team": "DEN",
+       "pos": "PF/C",
+       "espnId": 4277848,
+       "fpts": 23.3,
+       "mpg": 20.1,
+       "basis": "prošla sezona",
+       "matchup": "DEN @ OKC",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24"
+       ],
+       "value": 46.6,
        "gtd": false
       }
      ]
@@ -404,23 +386,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Kentavious Caldwell-Pope",
-       "team": "PHI",
-       "pos": "SG/SF",
-       "espnId": 2581018,
-       "fpts": 17.5,
-       "mpg": 21.3,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 52.5,
-       "gtd": false
-      },
-      {
        "player": "Caleb Love",
        "team": "PHI",
        "pos": "SG",
@@ -451,6 +416,22 @@
         "2026-10-24"
        ],
        "value": 47.4,
+       "gtd": false
+      },
+      {
+       "player": "Marvin Bagley III",
+       "team": "DEN",
+       "pos": "PF/C",
+       "espnId": 4277848,
+       "fpts": 23.3,
+       "mpg": 20.1,
+       "basis": "prošla sezona",
+       "matchup": "DEN @ OKC",
+       "dates": [
+        "2026-10-22",
+        "2026-10-24"
+       ],
+       "value": 46.6,
        "gtd": false
       }
      ]
@@ -490,8 +471,8 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Jaylon Tyson",
-       "team": "CLE",
+       "player": "Caleb Love",
+       "team": "PHI",
        "from": "2026-10-22"
       }
      ],
@@ -553,7 +534,7 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Caleb Love",
        "team": "PHI",
        "from": "2026-10-22"
       }
@@ -618,9 +599,14 @@
     {
      "league": "Legendi",
      "mine": 7,
-     "open": 2,
+     "open": 1,
      "sitting": 0,
      "planned": [
+      {
+       "player": "Caleb Love",
+       "team": "PHI",
+       "from": "2026-10-22"
+      },
       {
        "player": "Noah Clowney",
        "team": "BKN",
@@ -682,7 +668,7 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Kentavious Caldwell-Pope",
+       "player": "Caleb Love",
        "team": "PHI",
        "from": "2026-10-22"
       },
@@ -771,23 +757,6 @@
        "gtd": false
       },
       {
-       "player": "Jaylon Tyson",
-       "team": "CLE",
-       "pos": "SG/SF",
-       "espnId": 4683747,
-       "fpts": 26.2,
-       "mpg": 27.0,
-       "basis": "prošla sezona",
-       "matchup": "MIN @ CLE",
-       "dates": [
-        "2026-10-26",
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 78.6,
-       "gtd": false
-      },
-      {
        "player": "Sam Merrill",
        "team": "CLE",
        "pos": "SG",
@@ -802,6 +771,23 @@
         "2026-10-31"
        ],
        "value": 71.1,
+       "gtd": false
+      },
+      {
+       "player": "Jock Landale",
+       "team": "ATL",
+       "pos": "C",
+       "espnId": 3146557,
+       "fpts": 22.7,
+       "mpg": 22.2,
+       "basis": "prošla sezona",
+       "matchup": "ATL @ HOU",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 68.1,
        "gtd": false
       }
      ]
