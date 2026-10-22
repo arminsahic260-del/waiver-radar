@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-22T20:13:18Z",
+ "updated": "2026-10-22T20:21:51Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "ORL",
+   "player": "Jonathan Isaac",
+   "headline": "Won't play Friday",
+   "note": "Isaac (knee) is out for Friday's game against Minnesota.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-wont-play-friday-535583"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Jett Howard",
+   "headline": "Doubtful for Friday",
+   "note": "Howard (calf) is listed as doubtful for Friday's game against the Pacers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-doubtful-for-friday-535582"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Missing second straight game",
+   "note": "Martin (thumb) has been ruled out for Fridays' game against the Pacers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-missing-second-straight-game-535581"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Ruled out for Friday",
+   "note": "Aldama (knee) has been ruled out for Friday's game against the Pacers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-ruled-out-for-friday-535580"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "headline": "Big double-double in opener",
+   "note": "Zubac ended Wednesday's 123-120 victory over the Pelicans with 16 points (7-12 FG, 2-4 FT), 15 rebounds and two blocks across 34 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-news-big-double-double-in-opener-535579"
+  },
   {
    "date": "2026-10-22",
    "team": "DAL",
@@ -203,56 +253,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "WAS",
-   "player": "Deandre Ayton",
-   "headline": "Swats two shots in Wizards' debut",
-   "note": "Ayton accumulated 11 points (5-6 FG, 1-2 FT), four rebounds and two blocks over 15 minutes during Wednesday's 128-116 win over Milwaukee.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deandre-ayton-news-swats-two-shots-in-wizards-debut-535558"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "WAS",
-   "player": "Bub Carrington",
-   "headline": "Plays well in backup role",
-   "note": "Carrington totaled 10 points (3-6 FG, 2-3 3Pt, 2-2 FT), one rebound, four assists and two steals over 18 minutes during Wednesday's 128-116 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bub-carrington-news-plays-well-in-backup-role-535557"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "WAS",
-   "player": "Tre Johnson",
-   "headline": "Modest production in opener",
-   "note": "Johnson logged eight points (3-6 FG, 0-2 3Pt, 2-2 FT), one rebound and one block over 19 minutes during Wednesday's 128-116 win over Milwaukee.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-news-modest-production-in-opener-535556"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Muted NBA debut",
-   "note": "Brown registered six points (2-8 FG, 1-3 3Pt, 1-1 FT), three rebounds and three assists across 20 minutes during Wednesday's 110-103 loss to Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-muted-nba-debut-535555"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "WAS",
-   "player": "Justin Champagnie",
-   "headline": "Solid off the bench in season opener",
-   "note": "Champagnie supplied eight points (3-4 FG, 1-2 3Pt, 1-1 FT), eight rebounds and one assist over 21 minutes during Wednesday's 128-116 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/justin-champagnie-news-solid-off-the-bench-in-season-opener-535554"
-  },
-  {
-   "date": "2026-10-22",
    "team": "LAL",
    "player": "Jake LaRavia",
    "headline": "Suffers ankle injury in opener",
@@ -360,6 +360,16 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dorian-finney-smith-news-sits-out-opener-535503"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Muted NBA debut",
+   "note": "Brown registered six points (2-8 FG, 1-3 3Pt, 1-1 FT), three rebounds and three assists across 20 minutes during Wednesday's 110-103 loss to Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-muted-nba-debut-535555"
   },
   {
    "date": "2026-10-22",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-full-stat-line-in-team-debut-535547"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Starts over Grimes",
-   "note": "Williams contributed nine points (4-7 FG, 1-2 3Pt), three rebounds, four assists and one steal over 24 minutes during Wednesday's 127-105 win over the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-starts-over-grimes-535546"
   }
  ]
 }
