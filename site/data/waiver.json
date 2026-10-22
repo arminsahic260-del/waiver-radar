@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:22:05Z",
+ "updated": "2026-10-22T08:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -47,7 +47,7 @@
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/kris-dunn-news-starting-on-opening-night-535409",
    "espnId": 2991139,
