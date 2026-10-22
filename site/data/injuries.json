@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:21:18Z",
+ "updated": "2026-10-22T21:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,16 +41,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "CHA",
@@ -123,6 +113,26 @@
    "ret": null
   },
   {
+   "team": "CHI",
+   "player": "Josh Giddey",
+   "pos": "PG",
+   "updated": "2026-10-22",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
+   "player": "Zach Collins",
+   "pos": "C",
+   "updated": "2026-10-22",
+   "injury": "Quadriceps",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "CLE",
    "player": "Khalifa Diop",
    "pos": "C",
@@ -156,11 +166,11 @@
    "team": "DAL",
    "player": "Caleb Martin",
    "pos": "SF",
-   "updated": "2026-10-21",
+   "updated": "2026-10-22",
    "injury": "Thumb",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
   },
   {
    "team": "DAL",
@@ -168,9 +178,29 @@
    "pos": "C",
    "updated": "2026-10-22",
    "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "pos": "C",
+   "updated": "2026-10-22",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "pos": "SF",
+   "updated": "2026-10-22",
+   "injury": "Heel",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
   },
   {
    "team": "DAL",
@@ -178,26 +208,6 @@
    "pos": "SG",
    "updated": "2026-10-21",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-10-21",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "pos": "SF",
-   "updated": "2026-10-21",
-   "injury": "Heel",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -464,6 +474,16 @@
   },
   {
    "team": "ORL",
+   "player": "Anthony Black",
+   "pos": "SG",
+   "updated": "2026-10-22",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
+  },
+  {
+   "team": "ORL",
    "player": "Izaiyah Nelson",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -474,6 +494,16 @@
   },
   {
    "team": "ORL",
+   "player": "Jonathan Isaac",
+   "pos": "PF",
+   "updated": "2026-10-22",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
+  },
+  {
+   "team": "ORL",
    "player": "Noah Penda",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -481,26 +511,6 @@
    "status": "Expected return: at least Nov 18",
    "kind": "out",
    "ret": "2026-11-18"
-  },
-  {
-   "team": "ORL",
-   "player": "Anthony Black",
-   "pos": "SG",
-   "updated": "2026-10-21",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "pos": "PF",
-   "updated": "2026-10-21",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "PHI",

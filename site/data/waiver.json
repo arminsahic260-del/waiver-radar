@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:21:56Z",
+ "updated": "2026-10-22T21:21:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -247,6 +247,23 @@
    "fpts": 14.4
   },
   {
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10. — nova ozljeda. Naji Marshall je sljedeći SF/PF u rotaciji DAL-a za te minute; ~28.1 FP po utakmici (prošle sezone, 30 min).",
+   "role": "Veća minutaža dok je out Santi Aldama",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Santi Aldama",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4278594,
+   "fpts": 28.1
+  },
+  {
    "player": "Al Horford",
    "team": "GSW",
    "pos": "PF/C",
@@ -279,6 +296,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4432907,
    "fpts": 21.7
+  },
+  {
+   "player": "Isaac Okoro",
+   "team": "CHI",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Josh Giddey (zapešće) je upitan (GTD). Isaac Okoro je sljedeći SG/SF u rotaciji CHI-a za te minute; ~18.7 FP po utakmici (prošle sezone, 27 min).",
+   "role": "Zamjena ako Josh Giddey ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Josh Giddey",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432822,
+   "fpts": 18.7
   },
   {
    "player": "Bones Hyland",
