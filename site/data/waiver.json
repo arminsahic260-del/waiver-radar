@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:21:54Z",
+ "updated": "2026-10-23T18:22:00Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -173,23 +173,6 @@
    "fpts": 21.7
   },
   {
-   "player": "Tre Jones",
-   "team": "CHI",
-   "pos": "PG",
-   "priority": 3,
-   "reason": "Josh Giddey (zapešće) je upitan (GTD). Tre Jones je sljedeći PG u rotaciji CHI-a za te minute; ~31.6 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Zamjena ako Josh Giddey ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Josh Giddey",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4395626,
-   "fpts": 31.6
-  },
-  {
    "player": "Al Horford",
    "team": "GSW",
    "pos": "PF/C",
@@ -239,23 +222,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6578,
    "fpts": 19.1
-  },
-  {
-   "player": "Isaac Okoro",
-   "team": "CHI",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Josh Giddey (zapešće) je upitan (GTD). Isaac Okoro je sljedeći SG/SF u rotaciji CHI-a za te minute; ~18.7 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Zamjena ako Josh Giddey ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Josh Giddey",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432822,
-   "fpts": 18.7
   },
   {
    "player": "Khris Middleton",

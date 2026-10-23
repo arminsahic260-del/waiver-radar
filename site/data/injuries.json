@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:21:19Z",
+ "updated": "2026-10-23T18:21:24Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,16 +41,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "CHA",
@@ -101,46 +91,6 @@
    "status": "Expected return: at least Nov 4",
    "kind": "out",
    "ret": "2026-11-04"
-  },
-  {
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Josh Giddey",
-   "pos": "PG",
-   "updated": "2026-10-22",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Zach Collins",
-   "pos": "C",
-   "updated": "2026-10-22",
-   "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "CLE",
@@ -238,16 +188,6 @@
    "pos": "SF",
    "updated": "2026-10-23",
    "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DET",
-   "player": "Taurean Prince",
-   "pos": "SF",
-   "updated": "2026-10-21",
-   "injury": "Personal",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -761,16 +701,6 @@
    "status": "Expected return: at least Oct 25",
    "kind": "out",
    "ret": "2026-10-25"
-  },
-  {
-   "team": "UTA",
-   "player": "Tony Bradley",
-   "pos": "C",
-   "updated": "2026-10-21",
-   "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "WAS",
