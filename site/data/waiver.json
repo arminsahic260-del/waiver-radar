@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:26:17Z",
+ "updated": "2026-10-23T23:21:55Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -18,6 +18,23 @@
    "source": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-starting-wednesday-535417",
    "espnId": 4066436,
    "fpts": 23.9
+  },
+  {
+   "player": "Jarace Walker",
+   "team": "IND",
+   "pos": "SF/PF",
+   "priority": 1,
+   "reason": "RotoWire 23.10.: Starting Friday. Walker will start Friday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports. ~22.4 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/jarace-walker-news-starting-friday-535710",
+   "espnId": 5106060,
+   "fpts": 22.4
   },
   {
    "player": "Max Christie",

@@ -1,15 +1,105 @@
 {
- "updated": "2026-10-23T22:26:12Z",
+ "updated": "2026-10-23T23:21:49Z",
  "items": [
+  {
+   "date": "2026-10-23",
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "headline": "Out again Saturday",
+   "note": "Jones (hamstring) is out for Saturday's game against the Pelicans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-out-again-saturday-535716"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Won't play Saturday",
+   "note": "Johnson (ankle) has been ruled out for Saturday's game against New Orleans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-wont-play-saturday-535715"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Questionable for Saturday",
+   "note": "Diallo is questionable for Saturday's game versus the Pelicans due to a right wrist sprain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-questionable-for-saturday-535714"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "MIL",
+   "player": "Tyler Herro",
+   "headline": "Scores 34 points in loss",
+   "note": "Herro recorded 34 points (12-24 FG, 5-10 FG, 5-7 FT), five rebounds, four assists and a steal across 32 minutes in Friday's 132-125 loss to the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-scores-34-points-in-loss-535713"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Caleb Wilson",
+   "headline": "Nets 21 points with full line in win",
+   "note": "Wilson produced 21 points (7-14 FG, 2-6 3Pt, 5-6 FT), six rebounds, one assist, one steal, two blocks and three turnovers across 33 minutes in Friday's 132-125 win over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-nets-21-points-with-full-line-in-win-535712"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "IND",
+   "player": "Ben Sheppard",
+   "headline": "Diagnosed with torn meniscus",
+   "note": "Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetable for a return to game action, Scott Agness of FieldhouseFiles.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ben-sheppard-injury-diagnosed-with-torn-meniscus-535711"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "IND",
+   "player": "Jarace Walker",
+   "headline": "Starting Friday",
+   "note": "Walker will start Friday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarace-walker-news-starting-friday-535710"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Not starting Friday",
+   "note": "Nesmith is not starting Friday against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-not-starting-friday-535709"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Not starting Friday",
+   "note": "Oubre is not in the starting lineup for Friday's matchup with the Mavericks, Grant Afseth of DallasHoopsJournal.com",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-news-not-starting-friday-535708"
+  },
   {
    "date": "2026-10-23",
    "team": "DAL",
    "player": "Jett Howard",
-   "headline": "Ruled out for Friday",
+   "headline": "Ruled out Friday",
    "note": "Howard (calf) is out for Friday's game in Indiana.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-ruled-out-for-friday-535707"
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-ruled-out-friday-535707"
   },
   {
    "date": "2026-10-23",
@@ -163,16 +253,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "SAC",
-   "player": "Malik Monk",
-   "headline": "Will play Friday",
-   "note": "Monk (ankle) is available for Friday's game against Portland.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/malik-monk-news-will-play-friday-535689"
-  },
-  {
-   "date": "2026-10-23",
    "team": "OKC",
    "player": "Otega Oweh",
    "headline": "Parting ways with Thunder",
@@ -180,66 +260,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/otega-oweh-injury-parting-ways-with-thunder-535688"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ATL",
-   "player": "Jock Landale",
-   "headline": "Playing through nasal fracture",
-   "note": "Landale (nose) is available for Friday's game versus Charlotte.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-playing-through-nasal-fracture-535687"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "FA",
-   "player": "Kevin McCullar",
-   "headline": "Parting ways with Knicks",
-   "note": "The Knicks plan to waive McCullar on Friday, per Michael Scotto of HoopsHype.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-mccullar-news-parting-ways-with-knicks-535686"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Restrictions will continue",
-   "note": "Nets coach Jordi Fernandez said Brown will continue to have restrictions going forward, C.J. Holmes of the New York Daily News reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-restrictions-will-continue-535685"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "UTA",
-   "player": "Tony Bradley",
-   "headline": "Listed as available",
-   "note": "Bradley (quadriceps) is available for Friday's game versus the Pelicans.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tony-bradley-news-listed-as-available-535684"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "OKC",
-   "player": "Chet Holmgren",
-   "headline": "Piles up four more blocks",
-   "note": "Holmgren totaled 12 points (5-9 FG, 0-1 3Pt, 2-2 FT), 17 rebounds, two assists, four blocks and one steal over 28 minutes during Thursday's 96-84 win over the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-news-piles-up-four-more-blocks-535683"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Fills stat sheet in win",
-   "note": "Caruso closed with seven points (3-7 FG, 1-5 3Pt), four rebounds, five assists, one block and one steal in 20 minutes during Thursday's 96-84 win over Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-news-fills-stat-sheet-in-win-535682"
   },
   {
    "date": "2026-10-23",
@@ -290,6 +310,26 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-upgraded-to-probable-535661"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Jock Landale",
+   "headline": "Playing through nasal fracture",
+   "note": "Landale (nose) is available for Friday's game versus Charlotte.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-playing-through-nasal-fracture-535687"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Restrictions will continue",
+   "note": "Nets coach Jordi Fernandez said Brown will continue to have restrictions going forward, C.J. Holmes of the New York Daily News reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-restrictions-will-continue-535685"
   },
   {
    "date": "2026-10-23",
@@ -514,6 +554,26 @@
   {
    "date": "2026-10-23",
    "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "Piles up four more blocks",
+   "note": "Holmgren totaled 12 points (5-9 FG, 0-1 3Pt, 2-2 FT), 17 rebounds, two assists, four blocks and one steal over 28 minutes during Thursday's 96-84 win over the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-news-piles-up-four-more-blocks-535683"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "OKC",
+   "player": "Alex Caruso",
+   "headline": "Fills stat sheet in win",
+   "note": "Caruso closed with seven points (3-7 FG, 1-5 3Pt), four rebounds, five assists, one block and one steal in 20 minutes during Thursday's 96-84 win over Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-news-fills-stat-sheet-in-win-535682"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "OKC",
    "player": "Bennett Stirtz",
    "headline": "Buried on depth chart",
    "note": "Stirtz notched zero points (0-1 FG, 0-1 3Pt) across two minutes during Thursday's 96-84 win over the Nuggets.",
@@ -540,66 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-quiet-offensively-in-win-535655"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Sees minimal action",
-   "note": "Walker racked up two points (1-1 FG) and one rebound in four minutes during Thursday's 114-106 win over Cleveland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-news-sees-minimal-action-535654"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "FA",
-   "player": "Micah Peavy",
-   "headline": "Landing with Oklahoma City",
-   "note": "Peavy agreed to a two-way contract with the Thunder on Friday, Shams Charania of ESPN reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/micah-peavy-news-landing-with-oklahoma-city-535703"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Fails to return Thursday",
-   "note": "Johnson (ankle) didn't return to Thursday's game against Oklahoma City. He ended with five points (2-3 FG, 1-1 3Pt), two rebounds and one assist in 11 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-fails-to-return-thursday-535636"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Suffers ankle sprain",
-   "note": "Johnson is questionable to return to Thursday's game against the Thunder due to a right ankle sprain, Katy Winge of Altitude Sports reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-suffers-ankle-sprain-535634"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Doubtful for Friday",
-   "note": "Coward is doubtful for Friday's game against the Warriors due to a left wrist sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-doubtful-for-friday-535630"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Isaiah Stewart",
-   "headline": "Tagged as questionable for Friday",
-   "note": "Stewart (ankle) is questionable for Friday's game against the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-tagged-as-questionable-for-friday-535629"
   }
  ]
 }
