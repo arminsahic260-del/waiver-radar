@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:21:58Z",
+ "updated": "2026-10-23T09:21:52Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -207,23 +207,6 @@
    "fpts": 31.6
   },
   {
-   "player": "Naji Marshall",
-   "team": "DAL",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10. Naji Marshall je sljedeći SF/PF u rotaciji DAL-a za te minute; ~28.1 FP po utakmici (prošle sezone, 30 min).",
-   "role": "Veća minutaža dok je out Santi Aldama",
-   "horizon": "Do ~24.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Santi Aldama",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4278594,
-   "fpts": 28.1
-  },
-  {
    "player": "Al Horford",
    "team": "GSW",
    "pos": "PF/C",
@@ -239,6 +222,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3213,
    "fpts": 24.1
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "team": "DAL",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
+   "role": "Veća minutaža dok je out Santi Aldama",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Santi Aldama",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4873153,
+   "fpts": 23.5
   },
   {
    "player": "Harrison Barnes",
