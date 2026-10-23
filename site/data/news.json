@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-23T16:21:51Z",
+ "updated": "2026-10-23T17:21:49Z",
  "items": [
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Tobe Awaka",
+   "headline": "Available Friday",
+   "note": "Awaka (knee) is available for Friday's game versus the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-news-available-friday-535676"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "headline": "Available Friday",
+   "note": "Hawkins (illness) is available for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-news-available-friday-535675"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Josh Giddey",
+   "headline": "Cleared to play Friday",
+   "note": "Giddey (wrist) is available for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-news-cleared-to-play-friday-535674"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CLE",
+   "player": "Tyrese Proctor",
+   "headline": "Limited to five minutes",
+   "note": "Proctor contributed zero points (0-1 FG) in five minutes during Thursday's 114-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-limited-to-five-minutes-535673"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "headline": "Struggles from field",
+   "note": "Tyson provided three points (1-6 FG, 0-4 3Pt, 1-2 FT), six rebounds, two assists, two blocks and one steal across 24 minutes during Thursday's 114-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-struggles-from-field-535672"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CLE",
+   "player": "Sam Merrill",
+   "headline": "Quiet in opener",
+   "note": "Merrill chipped in five points (2-5 FG, 1-3 3Pt), five rebounds, two assists and one steal over 24 minutes during Thursday's 114-106 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-quiet-in-opener-535671"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "Taurean Prince",
+   "headline": "Upgraded to available",
+   "note": "Prince (personal) is available for Friday's game against the Heat.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-upgraded-to-available-535670"
+  },
   {
    "date": "2026-10-23",
    "team": "ORL",
@@ -190,66 +260,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-news-mild-offensive-effort-535651"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CLE",
-   "player": "James Harden",
-   "headline": "Commits six turnovers",
-   "note": "Harden contributed 16 points (5-12 FG, 3-6 3Pt, 3-4 FT), three rebounds, five assists and a steal across 33 minutes in Thursday's 114-106 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-commits-six-turnovers-535650"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CLE",
-   "player": "Evan Mobley",
-   "headline": "Solid numbers in season-opening loss",
-   "note": "Mobley notched 18 points (7-13 FG, 1-4 3Pt, 3-3 FT), eight rebounds and two assists across 34 minutes in Thursday's 114-106 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-solid-numbers-in-season-opening-loss-535649"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Disappears in second half",
-   "note": "Allen finished with 14 points (6-10 FG, 0-0 3Pt, 2-4 FT), seven rebounds and two blocks across 28 minutes in Thursday's 114-106 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-disappears-in-second-half-535648"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Solid contribution in comeback win",
-   "note": "Brown tallied 21 points (10-20 FG, 1-3 3Pt, 0-0 FT), eight rebounds, four assists and a steal across 38 minutes in Thursday's 114-106 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-solid-contribution-in-comeback-win-535647"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHI",
-   "player": "VJ Edgecombe",
-   "headline": "Scores 11 points with 11 shots",
-   "note": "Edgecombe registered 11 points (4-11 FG, 1-4 3Pt, 2-3 FT), seven rebounds, six assists and three steals across 33 minutes in Thursday's 114-106 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-scores-11-points-with-11-shots-535646"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Posts double-double Thursday",
-   "note": "James posted 17 points (5-14 FG, 1-4 3Pt, 6-7 FT), 10 rebounds, five assists, three steals and a block across 33 minutes in Thursday's 114-106 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-news-posts-double-double-thursday-535645"
   },
   {
    "date": "2026-10-22",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ben-saraf-news-no-minutes-against-charlotte-535513"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "BKN",
-   "player": "Drake Powell",
-   "headline": "Sits out season opener",
-   "note": "Powell (coach's decision) did not play in Wednesday's 110-103 loss to Charlotte.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/drake-powell-news-sits-out-season-opener-535512"
   }
  ]
 }
