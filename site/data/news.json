@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-23T18:21:54Z",
+ "updated": "2026-10-23T19:21:34Z",
  "items": [
+  {
+   "date": "2026-10-23",
+   "team": "OKC",
+   "player": "Otega Oweh",
+   "headline": "Parting ways with Thunder",
+   "note": "The Thunder plan to waive Oweh (Achilles) on Friday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/otega-oweh-injury-parting-ways-with-thunder-535688"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Jock Landale",
+   "headline": "Playing through nasal fracture",
+   "note": "Landale (nose) is available for Friday's game versus Charlotte.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-playing-through-nasal-fracture-535687"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "FA",
+   "player": "Kevin McCullar",
+   "headline": "Parting ways with Knicks",
+   "note": "The Knicks plan to waive McCullar on Friday, per Michael Scotto of HoopsHype.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-mccullar-news-parting-ways-with-knicks-535686"
+  },
   {
    "date": "2026-10-23",
    "team": "BKN",
@@ -223,16 +253,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "OKC",
-   "player": "Brooks Barnhizer",
-   "headline": "Makes brief appearance",
-   "note": "Barnhizer totaled one assist in two minutes during Thursday's 96-84 victory over Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brooks-barnhizer-news-makes-brief-appearance-535663"
-  },
-  {
-   "date": "2026-10-23",
    "team": "CHI",
    "player": "Jordan Hawkins",
    "headline": "Gets probable tag",
@@ -330,6 +350,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-news-starts-second-half-for-denver-535656"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "OKC",
+   "player": "Brooks Barnhizer",
+   "headline": "Makes brief appearance",
+   "note": "Barnhizer totaled one assist in two minutes during Thursday's 96-84 victory over Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brooks-barnhizer-news-makes-brief-appearance-535663"
   },
   {
    "date": "2026-10-23",
@@ -543,16 +573,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "CHA",
-   "player": "Grant Williams",
-   "headline": "Won't play Friday",
-   "note": "Williams (hamstring) is out for Friday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-wont-play-friday-535601"
-  },
-  {
-   "date": "2026-10-22",
    "team": "ATL",
    "player": "Luguentz Dort",
    "headline": "Hits two triples off bench",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kingston-flemings-news-scoreless-in-debut-535523"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ATL",
-   "player": "Onyeka Okongwu",
-   "headline": "Hands out seven dimes",
-   "note": "Okongwu contributed eight points (3-8 FG, 0-4 3Pt, 2-2 FT), five rebounds and seven assists in 29 minutes during Wednesday's 132-125 win over Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-hands-out-seven-dimes-535522"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ATL",
-   "player": "CJ McCollum",
-   "headline": "Efficient in victory",
-   "note": "McCollum amassed 19 points (7-9 FG, 4-6 3Pt, 1-1 FT), two rebounds and three assists over 25 minutes during Wednesday's 132-125 victory over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cj-mccollum-news-efficient-in-victory-535521"
   }
  ]
 }
