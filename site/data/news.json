@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-23T19:21:34Z",
+ "updated": "2026-10-23T20:21:54Z",
  "items": [
+  {
+   "date": "2026-10-23",
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "headline": "Ruled out Friday",
+   "note": "LaRavia (ankle) has been ruled out for Friday's game against the Clippers, Mark Medina of TheSportingTribune.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-injury-ruled-out-friday-535692"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "headline": "Ruled out Friday",
+   "note": "Bassey (knee) is out for Friday's game versus the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-ruled-out-friday-535691"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Upgraded to probable",
+   "note": "Podziemski (back) is probable for Friday's game against the Grizzlies.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-upgraded-to-probable-535690"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "SAC",
+   "player": "Malik Monk",
+   "headline": "Will play Friday",
+   "note": "Monk (ankle) is available for Friday's game against Portland.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/malik-monk-news-will-play-friday-535689"
+  },
   {
    "date": "2026-10-23",
    "team": "OKC",
@@ -213,13 +253,23 @@
   },
   {
    "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Zeke Nnaji",
-   "headline": "Healthy scratch in opener",
-   "note": "Nnaji (coach's decision) did not play in Thursday's 96-84 loss to Oklahoma City.",
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "headline": "Gets probable tag",
+   "note": "Hawkins (illness) is probable for Friday's game against the Hawks.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zeke-nnaji-news-healthy-scratch-in-opener-535667"
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-gets-probable-tag-535662"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Upgraded to probable",
+   "note": "Swain (illness) is now probable for Friday against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-upgraded-to-probable-535661"
   },
   {
    "date": "2026-10-23",
@@ -240,36 +290,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/thomas-bryant-news-outside-rotation-in-opener-535665"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "DaRon Holmes",
-   "headline": "Hits triple in limited run",
-   "note": "Holmes recorded three points (1-2 FG, 1-2 3Pt), one rebound and one assist over two minutes during Thursday's 96-84 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daron-holmes-news-hits-triple-in-limited-run-535664"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "headline": "Gets probable tag",
-   "note": "Hawkins (illness) is probable for Friday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-gets-probable-tag-535662"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Upgraded to probable",
-   "note": "Swain (illness) is now probable for Friday against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-upgraded-to-probable-535661"
   },
   {
    "date": "2026-10-23",
@@ -300,6 +320,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-news-mild-offensive-effort-535651"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DEN",
+   "player": "Zeke Nnaji",
+   "headline": "Healthy scratch in opener",
+   "note": "Nnaji (coach's decision) did not play in Thursday's 96-84 loss to Oklahoma City.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zeke-nnaji-news-healthy-scratch-in-opener-535667"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DEN",
+   "player": "DaRon Holmes",
+   "headline": "Hits triple in limited run",
+   "note": "Holmes recorded three points (1-2 FG, 1-2 3Pt), one rebound and one assist over two minutes during Thursday's 96-84 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daron-holmes-news-hits-triple-in-limited-run-535664"
   },
   {
    "date": "2026-10-23",
@@ -543,36 +583,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "SAS",
-   "player": "Keldon Johnson",
-   "headline": "Iffy for Friday",
-   "note": "Johnson is listed as questionable for Friday's game against the Rockets due to a mouth laceration.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-injury-iffy-for-friday-535613"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "SAS",
-   "player": "Tobias Harris",
-   "headline": "Ruled out for Friday",
-   "note": "Harris (calf) is out for Friday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobias-harris-injury-ruled-out-for-friday-535612"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Remains questionable for Friday",
-   "note": "Adams (calf) is questionable to play in Friday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-remains-questionable-for-friday-535602"
-  },
-  {
-   "date": "2026-10-22",
    "team": "ATL",
    "player": "Luguentz Dort",
    "headline": "Hits two triples off bench",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-productive-in-reserve-role-535524"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ATL",
-   "player": "Kingston Flemings",
-   "headline": "Scoreless in debut",
-   "note": "Flemings totaled zero points (0-5 FG, 0-1 3Pt), four rebounds, three assists and one block over 15 minutes during Wednesday's 132-125 victory over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kingston-flemings-news-scoreless-in-debut-535523"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:21:03Z",
+ "updated": "2026-10-23T20:21:22Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -194,6 +194,16 @@
   },
   {
    "team": "GSW",
+   "player": "Charles Bassey",
+   "pos": "C",
+   "updated": "2026-10-23",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "GSW",
    "player": "Jimmy Butler",
    "pos": "SF",
    "updated": "2026-10-02",
@@ -228,16 +238,6 @@
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "GSW",
-   "player": "Charles Bassey",
-   "pos": "C",
-   "updated": "2026-10-22",
-   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -621,16 +621,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "SAC",
-   "player": "Malik Monk",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "SAS",
