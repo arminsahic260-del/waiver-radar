@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:13:03Z",
+ "updated": "2026-10-23T15:21:56Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -52,23 +52,6 @@
    "source": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-starting-wednesday-535420",
    "espnId": 4065732,
    "fpts": 21.0
-  },
-  {
-   "player": "Jaylen Wells",
-   "team": "MEM",
-   "pos": "SG/SF",
-   "priority": 1,
-   "reason": "RotoWire 21.10.: Starting versus Utah. Wells will start Wednesday's game against the Jazz. ~20.8 FP po utakmici (prošle sezone, 26 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/jaylen-wells-news-starting-versus-utah-535398",
-   "espnId": 5112087,
-   "fpts": 20.8
   },
   {
    "player": "Gui Santos",
@@ -324,6 +307,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3912848,
    "fpts": 17.4
+  },
+  {
+   "player": "Adem Bona",
+   "team": "PHI",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Joel Embiid (odmor) je upitan (GTD). Adem Bona je sljedeći C u rotaciji PHI-a za te minute; ~15.0 FP po utakmici (prošle sezone, 17 min).",
+   "role": "Zamjena ako Joel Embiid ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Joel Embiid; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5105637,
+   "fpts": 15.0
   },
   {
    "player": "Khaman Maluach",
