@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:21:59Z",
+ "updated": "2026-10-23T15:13:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -307,6 +307,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4592492,
    "fpts": 17.8
+  },
+  {
+   "player": "Dean Wade",
+   "team": "PHI",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Joel Embiid (odmor) je upitan (GTD). Dean Wade je sljedeći PF u rotaciji PHI-a za te minute; ~17.4 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Zamjena ako Joel Embiid ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Joel Embiid; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3912848,
+   "fpts": 17.4
   },
   {
    "player": "Khaman Maluach",
