@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-23T20:21:54Z",
+ "updated": "2026-10-23T21:21:51Z",
  "items": [
+  {
+   "date": "2026-10-23",
+   "team": "FA",
+   "player": "Micah Peavy",
+   "headline": "Landing with Oklahoma City",
+   "note": "Peavy agreed to a two-way contract with the Thunder on Friday, Shams Charania of ESPN reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/micah-peavy-news-landing-with-oklahoma-city-535703"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "WAS",
+   "player": "Felix Okpara",
+   "headline": "Available Friday",
+   "note": "Okpara (illness) is available for Friday's game against Toronto.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/felix-okpara-news-available-friday-535702"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "PHI",
+   "player": "Tacko Fall",
+   "headline": "Still sidelined",
+   "note": "Fall (quadriceps) is out for Saturday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tacko-fall-injury-still-sidelined-535701"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CLE",
+   "player": "Khalifa Diop",
+   "headline": "Remains out",
+   "note": "Diop (knee) is out for Saturday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/khalifa-diop-injury-remains-out-535700"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BKN",
+   "player": "Tyler Bilodeau",
+   "headline": "Won't play Saturday",
+   "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-bilodeau-injury-wont-play-saturday-535699"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Questionable for Saturday",
+   "note": "Wade is listed as questionable for Saturday's game against the Bucks due to a left ankle sprain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-questionable-for-saturday-535698"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "PHI",
+   "player": "Joel Embiid",
+   "headline": "Will play Saturday, expected to sit Sunday",
+   "note": "Embiid (rest) is off the injury report for Saturday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-news-will-play-saturday-expected-to-sit-sunday-535697"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "PHI",
+   "player": "LeBron James",
+   "headline": "Questionable for Saturday",
+   "note": "James (back) is questionable for Saturday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-questionable-for-saturday-535696"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "PHX",
+   "player": "Luke Kennard",
+   "headline": "Practices Friday",
+   "note": "Kennard (knee) practiced Friday, Duane Rankin of The Arizona Republic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-injury-practices-friday-535694"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Won't play Saturday",
+   "note": "Ighodaro has been ruled out for Saturday's game against the Warriors due to an oblique strain, Duane Rankin of The Arizona Republic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-wont-play-saturday-535693"
+  },
   {
    "date": "2026-10-23",
    "team": "LAL",
@@ -153,6 +253,36 @@
   },
   {
    "date": "2026-10-23",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Still trending up",
+   "note": "Black (ankle) has been ruled out for Friday's game against Minnesota but participated in shootaround and has experienced no setbacks in his recovery, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-still-trending-up-535669"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "headline": "Gets probable tag",
+   "note": "Hawkins (illness) is probable for Friday's game against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-gets-probable-tag-535662"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Upgraded to probable",
+   "note": "Swain (illness) is now probable for Friday against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-upgraded-to-probable-535661"
+  },
+  {
+   "date": "2026-10-23",
    "team": "CHI",
    "player": "Zach Collins",
    "headline": "Available to play",
@@ -220,56 +350,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-quiet-in-opener-535671"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DET",
-   "player": "Taurean Prince",
-   "headline": "Upgraded to available",
-   "note": "Prince (personal) is available for Friday's game against the Heat.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-upgraded-to-available-535670"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Still trending up",
-   "note": "Black (ankle) has been ruled out for Friday's game against Minnesota but participated in shootaround and has experienced no setbacks in his recovery, Jason Beede of the Orlando Sentinel reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-still-trending-up-535669"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "NYK",
-   "player": "Dalton Knecht",
-   "headline": "To sign with Knicks",
-   "note": "Knecht has agreed to a two-way contract with the Knicks, Shams Charania of ESPN reports.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dalton-knecht-news-to-sign-with-knicks-535668"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "headline": "Gets probable tag",
-   "note": "Hawkins (illness) is probable for Friday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-gets-probable-tag-535662"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Upgraded to probable",
-   "note": "Swain (illness) is now probable for Friday against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-upgraded-to-probable-535661"
   },
   {
    "date": "2026-10-23",
@@ -393,6 +473,26 @@
   },
   {
    "date": "2026-10-23",
+   "team": "DET",
+   "player": "Taurean Prince",
+   "headline": "Upgraded to available",
+   "note": "Prince (personal) is available for Friday's game against the Heat.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-upgraded-to-available-535670"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "NYK",
+   "player": "Dalton Knecht",
+   "headline": "To sign with Knicks",
+   "note": "Knecht has agreed to a two-way contract with the Knicks, Shams Charania of ESPN reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dalton-knecht-news-to-sign-with-knicks-535668"
+  },
+  {
+   "date": "2026-10-23",
    "team": "OKC",
    "player": "Brooks Barnhizer",
    "headline": "Makes brief appearance",
@@ -500,106 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-not-playing-friday-535625"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DEN",
-   "player": "Spencer Jones",
-   "headline": "Downgraded to out",
-   "note": "Jones (hamstring) has been ruled out for Thursday's game against Oklahoma City, Justin Martinez of The Oklahoman reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-downgraded-to-out-535624"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Questionable to play Friday",
-   "note": "Podziemski (back) is questionable for Friday's game against the Grizzlies.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-questionable-to-play-friday-535623"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "SAC",
-   "player": "Malik Monk",
-   "headline": "Listed probable for Friday",
-   "note": "Monk (ankle) is probable for Friday's game against Portland.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/malik-monk-injury-listed-probable-for-friday-535621"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "POR",
-   "player": "Branden Carlson",
-   "headline": "Ruled out for Friday",
-   "note": "Carlson (concussion) has been ruled out for Friday's game against Sacramento.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/branden-carlson-injury-ruled-out-for-friday-535620"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "POR",
-   "player": "Chris Youngblood",
-   "headline": "Not playing Friday",
-   "note": "Youngblood (ankle) is out for Friday's game against the Kings.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-not-playing-friday-535619"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "UTA",
-   "player": "Tony Bradley",
-   "headline": "Questionable for Friday",
-   "note": "Bradley (quadriceps) is questionable for Friday's game against New Orleans.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tony-bradley-injury-questionable-for-friday-535617"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Will miss second straight game Thursday",
-   "note": "Wade (ankle) is out for Thursday's game against the Cavaliers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-will-miss-second-straight-game-thursday-535616"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "SAS",
-   "player": "De'Aaron Fox",
-   "headline": "Questionable for Friday",
-   "note": "Fox (wrist) is questionable to play in Friday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-injury-questionable-for-friday-535614"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ATL",
-   "player": "Luguentz Dort",
-   "headline": "Hits two triples off bench",
-   "note": "Dort notched eight points (2-7 FG, 2-5 3Pt, 2-2 FT), four rebounds and one steal in 28 minutes during Wednesday's 132-125 win over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luguentz-dort-news-hits-two-triples-off-bench-535525"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ATL",
-   "player": "Jock Landale",
-   "headline": "Productive in reserve role",
-   "note": "Landale posted 10 points (4-5 FG, 0-1 3Pt, 2-2 FT), two rebounds, three assists and one block over 19 minutes during Wednesday's 132-125 victory over Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-productive-in-reserve-role-535524"
   }
  ]
 }

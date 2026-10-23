@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T20:21:59Z",
+ "updated": "2026-10-23T21:21:56Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -105,6 +105,23 @@
    "fpts": 25.6
   },
   {
+   "player": "Sandro Mamukelashvili",
+   "team": "LAL",
+   "pos": "PF/C",
+   "priority": 2,
+   "reason": "Jake LaRavia (gležanj) je out najmanje do 25.10. — nova ozljeda. Sandro Mamukelashvili je prvi PF/C u rotaciji LAL-a za te minute; ~24.8 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Veća minutaža dok je out Jake LaRavia",
+   "horizon": "Do ~25.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jake LaRavia",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4278580,
+   "fpts": 24.8
+  },
+  {
    "player": "Royce O'Neale",
    "team": "CHA",
    "pos": "SF/PF",
@@ -171,6 +188,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4432907,
    "fpts": 21.7
+  },
+  {
+   "player": "Collin Sexton",
+   "team": "LAL",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Jake LaRavia (gležanj) je out najmanje do 25.10. — nova ozljeda. Collin Sexton je sljedeći PG/SG u rotaciji LAL-a za te minute; ~26.0 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Veća minutaža dok je out Jake LaRavia",
+   "horizon": "Do ~25.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jake LaRavia",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4277811,
+   "fpts": 26.0
   },
   {
    "player": "Al Horford",
