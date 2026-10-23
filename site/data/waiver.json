@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:28:24Z",
+ "updated": "2026-10-23T05:03:40Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -126,7 +126,7 @@
    "team": "CHA",
    "pos": "SF",
    "priority": 1,
-   "reason": "Coby White (list) je out najmanje do 24.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 24.10. — nova ozljeda. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn.",
+   "reason": "Coby White (list) je out najmanje do 24.10.; Kon Knueppel (stražnja loža) je out najmanje do 24.10. Sion James je sljedeći SF u rotaciji CHA-a za te minute; ~14.4 FP po utakmici (prošle sezone, 22 min). RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn.",
    "role": "Starter dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
@@ -160,7 +160,7 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 24.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 24.10. — nova ozljeda. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~24.5 FP po utakmici (prošle sezone, 28 min).",
+   "reason": "Coby White (list) je out najmanje do 24.10.; Kon Knueppel (stražnja loža) je out najmanje do 24.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~24.5 FP po utakmici (prošle sezone, 28 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White",
@@ -194,7 +194,7 @@
    "team": "LAC",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (peta) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Derrick Jones Jr. je prvi SF/PF u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (prošle sezone, 27 min).",
    "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
    "horizon": "Do ~8.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Bradley Beal",
@@ -205,44 +205,6 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3936099,
    "fpts": 22.9
-  },
-  {
-   "player": "Caleb Love",
-   "team": "PHI",
-   "pos": "SG",
-   "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ PHI, tvojih igrača: 2). Caleb Love je rotacijski SG, ~17.1 FP po utakmici (prošle sezone, 21 min); PHI ima 4 utakmice ovaj tjedan. Liga: Legendi.",
-   "role": "Streamer (21 min)",
-   "horizon": "22.10.",
-   "risk": "Nizak plafon, čisti kratkoročni stream",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
-   "note": "igra u četvrtak",
-   "espnId": 4433144,
-   "fpts": 17.1,
-   "expires": "2026-10-22"
-  },
-  {
-   "player": "Spencer Jones",
-   "team": "DEN",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Stream za četvrtak (DEN @ OKC, tvojih igrača: 2). Spencer Jones je rotacijski SF/PF, ~15.1 FP po utakmici (prošle sezone, 22 min). Liga: Legendi.",
-   "role": "Streamer (22 min)",
-   "horizon": "22.10.",
-   "risk": "Upitan (GTD) — provjeri status prije utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
-   "note": "igra u četvrtak",
-   "espnId": 4592427,
-   "fpts": 15.1,
-   "expires": "2026-10-22"
   },
   {
    "player": "Tre Jones",
@@ -317,7 +279,7 @@
    "team": "SAS",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 24.10. — nova ozljeda; De'Aaron Fox (zapešće) je upitan (GTD). Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
+   "reason": "Tobias Harris (list) je out najmanje do 24.10.; De'Aaron Fox (zapešće) je upitan (GTD). Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
    "role": "Veća minutaža dok su out Tobias Harris i De'Aaron Fox",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris",
@@ -382,96 +344,6 @@
   }
  ],
  "days": [
-  {
-   "date": "2026-10-22",
-   "games": 2,
-   "leagues": [
-    {
-     "league": "Legendi",
-     "mine": 2,
-     "open": 8,
-     "sitting": 0,
-     "planned": [],
-     "picks": [
-      {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "pos": "SG",
-       "espnId": 4433144,
-       "fpts": 17.1,
-       "mpg": 20.7,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 51.3,
-       "gtd": false
-      },
-      {
-       "player": "Spencer Jones",
-       "team": "DEN",
-       "pos": "SF/PF",
-       "espnId": 4592427,
-       "fpts": 15.1,
-       "mpg": 22.2,
-       "basis": "prošla sezona",
-       "matchup": "DEN @ OKC",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24"
-       ],
-       "value": 30.2,
-       "gtd": true
-      }
-     ]
-    },
-    {
-     "league": "Banijska",
-     "mine": 4,
-     "open": 6,
-     "sitting": 0,
-     "planned": [],
-     "picks": [
-      {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "pos": "SG",
-       "espnId": 4433144,
-       "fpts": 17.1,
-       "mpg": 20.7,
-       "basis": "prošla sezona",
-       "matchup": "CLE @ PHI",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 51.3,
-       "gtd": false
-      },
-      {
-       "player": "Spencer Jones",
-       "team": "DEN",
-       "pos": "SF/PF",
-       "espnId": 4592427,
-       "fpts": 15.1,
-       "mpg": 22.2,
-       "basis": "prošla sezona",
-       "matchup": "DEN @ OKC",
-       "dates": [
-        "2026-10-22",
-        "2026-10-24"
-       ],
-       "value": 30.2,
-       "gtd": true
-      }
-     ]
-    }
-   ]
-  },
   {
    "date": "2026-10-23",
    "games": 12,
@@ -550,15 +422,9 @@
     {
      "league": "Legendi",
      "mine": 8,
-     "open": 1,
+     "open": 2,
      "sitting": 0,
-     "planned": [
-      {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "from": "2026-10-22"
-      }
-     ],
+     "planned": [],
      "picks": [
       {
        "player": "Noah Clowney",
@@ -613,21 +479,65 @@
     {
      "league": "Banijska",
      "mine": 8,
-     "open": 0,
+     "open": 1,
      "sitting": 0,
      "planned": [
-      {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "from": "2026-10-22"
-      },
       {
        "player": "Tre Jones",
        "team": "CHI",
        "from": "2026-10-23"
       }
      ],
-     "picks": []
+     "picks": [
+      {
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "pos": "PG",
+       "espnId": 5101761,
+       "fpts": 24.0,
+       "mpg": 30.2,
+       "basis": "projekcija",
+       "matchup": "BKN @ CLE",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 48.0,
+       "gtd": false
+      },
+      {
+       "player": "Noah Clowney",
+       "team": "BKN",
+       "pos": "PF",
+       "espnId": 4712896,
+       "fpts": 21.6,
+       "mpg": 27.0,
+       "basis": "prošla sezona",
+       "matchup": "BKN @ CLE",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 43.2,
+       "gtd": false
+      },
+      {
+       "player": "Chaney Johnson",
+       "team": "BKN",
+       "pos": "SF",
+       "espnId": 5174655,
+       "fpts": 20.9,
+       "mpg": 20.3,
+       "basis": "prošla sezona",
+       "matchup": "BKN @ CLE",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 41.8,
+       "gtd": false
+      }
+     ]
     }
    ]
   },
@@ -638,14 +548,9 @@
     {
      "league": "Legendi",
      "mine": 6,
-     "open": 2,
+     "open": 3,
      "sitting": 0,
      "planned": [
-      {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "from": "2026-10-22"
-      },
       {
        "player": "Noah Clowney",
        "team": "BKN",
@@ -707,9 +612,9 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Caleb Love",
-       "team": "PHI",
-       "from": "2026-10-22"
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "from": "2026-10-24"
       }
      ],
      "picks": [
@@ -961,6 +866,23 @@
      "planned": [],
      "picks": [
       {
+       "player": "Collin Sexton",
+       "team": "LAL",
+       "pos": "PG/SG",
+       "espnId": 4277811,
+       "fpts": 26.0,
+       "mpg": 23.7,
+       "basis": "prošla sezona",
+       "matchup": "POR @ LAL",
+       "dates": [
+        "2026-10-27",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 78.0,
+       "gtd": false
+      },
+      {
        "player": "Sandro Mamukelashvili",
        "team": "LAL",
        "pos": "PF/C",
@@ -993,23 +915,6 @@
        ],
        "value": 72.3,
        "gtd": false
-      },
-      {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 24.0,
-       "mpg": 30.2,
-       "basis": "projekcija",
-       "matchup": "BKN @ BOS",
-       "dates": [
-        "2026-10-27",
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 72.0,
-       "gtd": false
       }
      ]
     }
@@ -1034,12 +939,149 @@
      "sitting": 2,
      "planned": [
       {
-       "player": "Sandro Mamukelashvili",
+       "player": "Collin Sexton",
        "team": "LAL",
        "from": "2026-10-27"
       }
      ],
      "picks": []
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "games": 3,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 3,
+     "open": 5,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Jerami Grant",
+       "team": "MEM",
+       "from": "2026-10-26"
+      },
+      {
+       "player": "De'Andre Hunter",
+       "team": "SAC",
+       "from": "2026-10-27"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "pos": "PF",
+       "espnId": 4683742,
+       "fpts": 28.5,
+       "mpg": 30.9,
+       "basis": "prošla sezona",
+       "matchup": "SAC @ NOP",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 57.0,
+       "gtd": false
+      },
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 27.2,
+       "mpg": 23.8,
+       "basis": "prošla sezona",
+       "matchup": "MEM @ POR",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 54.4,
+       "gtd": false
+      },
+      {
+       "player": "Jock Landale",
+       "team": "ATL",
+       "pos": "C",
+       "espnId": 3146557,
+       "fpts": 22.7,
+       "mpg": 22.2,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ ATL",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 45.4,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 1,
+     "open": 8,
+     "sitting": 0,
+     "planned": [
+      {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "from": "2026-10-26"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "pos": "PF",
+       "espnId": 4683742,
+       "fpts": 28.5,
+       "mpg": 30.9,
+       "basis": "prošla sezona",
+       "matchup": "SAC @ NOP",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 57.0,
+       "gtd": false
+      },
+      {
+       "player": "Precious Achiuwa",
+       "team": "SAC",
+       "pos": "PF/C",
+       "espnId": 4431679,
+       "fpts": 24.1,
+       "mpg": 24.0,
+       "basis": "prošla sezona",
+       "matchup": "SAC @ NOP",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 48.2,
+       "gtd": false
+      },
+      {
+       "player": "Jock Landale",
+       "team": "ATL",
+       "pos": "C",
+       "espnId": 3146557,
+       "fpts": 22.7,
+       "mpg": 22.2,
+       "basis": "prošla sezona",
+       "matchup": "CLE @ ATL",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 45.4,
+       "gtd": false
+      }
+     ]
     }
    ]
   }

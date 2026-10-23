@@ -1,6 +1,206 @@
 {
- "updated": "2026-10-22T23:28:19Z",
+ "updated": "2026-10-23T05:03:35Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Aaron Gordon",
+   "headline": "Drills three triples in loss",
+   "note": "Gordon totaled 20 points (6-9 FG, 3-4 3Pt, 5-6 FT), six rebounds, one assist, two steals and one block in 29 minutes during Thursday's 96-84 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-gordon-news-drills-three-triples-in-loss-535638"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "OKC",
+   "player": "Jalen Williams",
+   "headline": "Cruises to 21-point night",
+   "note": "Williams tallied 21 points (7-15 FG, 2-6 3Pt, 5-6 FT), five rebounds and three assists in 33 minutes during Thursday's 96-84 win over the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-williams-news-cruises-to-21-point-night-535637"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Fails to return Thursday",
+   "note": "Johnson (ankle) didn't return to Thursday's game against Oklahoma City. He ended with five points (2-3 FG, 1-1 3Pt), two rebounds and one assist in 11 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-fails-to-return-thursday-535636"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHI",
+   "player": "Joel Embiid",
+   "headline": "Strong contributor in comeback win",
+   "note": "Embiid recorded 24 points (8-16 FG, 1-4 3Pt, 7-9 FT), seven rebounds and one assist in 34 minutes during Thursday's 114-106 win over the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-news-strong-contributor-in-comeback-win-535635"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Suffers ankle sprain",
+   "note": "Johnson is questionable to return to Thursday's game against the Thunder due to a right ankle sprain, Katy Winge of Altitude Sports reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-suffers-ankle-sprain-535634"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CLE",
+   "player": "Donovan Mitchell",
+   "headline": "Erupts for 32 points in loss",
+   "note": "Mitchell finished with 32 points (11-19 FG, 2-4 3Pt, 8-11 FT), 10 rebounds, three assists, two steals and one block in 35 minutes during Thursday's 114-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/donovan-mitchell-news-erupts-for-32-points-in-loss-535633"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHI",
+   "player": "Tyrese Maxey",
+   "headline": "Well-rounded effort in comeback win",
+   "note": "Maxey tallied 32 points (12-23 FG, 2-7 3Pt, 6-8 FT), six assists, three rebounds and two steals across 42 minutes in Thursday's 114-106 win over the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-maxey-news-well-rounded-effort-in-comeback-win-535632"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Trevon Brazile",
+   "headline": "Not starting Thursday",
+   "note": "Brazile won't start Thursday's game against the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trevon-brazile-news-not-starting-thursday-535631"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MEM",
+   "player": "Cedric Coward",
+   "headline": "Doubtful for Friday",
+   "note": "Coward is doubtful for Friday's game against the Warriors due to a left wrist sprain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-doubtful-for-friday-535630"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "headline": "Tagged as questionable for Friday",
+   "note": "Stewart (ankle) is questionable for Friday's game against the Warriors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-tagged-as-questionable-for-friday-535629"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "headline": "Questionable to face Memphis",
+   "note": "Bassey (knee) is listed as questionable for Friday's game against Memphis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-questionable-to-face-memphis-535628"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAL",
+   "player": "Cameron Carr",
+   "headline": "Ruled out for Friday",
+   "note": "Carr (oblique) is out for Friday's game against the Clippers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-ruled-out-for-friday-535627"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "headline": "Iffy for Friday",
+   "note": "LaRavia (ankle) is listed as questionable for Friday's game against the Clippers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-injury-iffy-for-friday-535626"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "headline": "Not playing Friday",
+   "note": "Thiero (knee) is out for Friday's game against the Clippers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-not-playing-friday-535625"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "headline": "Downgraded to out",
+   "note": "Jones (hamstring) has been ruled out for Thursday's game against Oklahoma City, Justin Martinez of The Oklahoman reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-downgraded-to-out-535624"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Questionable to play Friday",
+   "note": "Podziemski (back) is questionable for Friday's game against the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-questionable-to-play-friday-535623"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "LAL",
+   "player": "Collin Sexton",
+   "headline": "Left off injury report",
+   "note": "Sexton (calf) isn't listed on the injury report for Friday's game against the Clippers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-left-off-injury-report-535622"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "SAC",
+   "player": "Malik Monk",
+   "headline": "Listed probable for Friday",
+   "note": "Monk (ankle) is probable for Friday's game against Portland.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/malik-monk-injury-listed-probable-for-friday-535621"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "POR",
+   "player": "Branden Carlson",
+   "headline": "Ruled out for Friday",
+   "note": "Carlson (concussion) has been ruled out for Friday's game against Sacramento.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/branden-carlson-injury-ruled-out-for-friday-535620"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "POR",
+   "player": "Chris Youngblood",
+   "headline": "Not playing Friday",
+   "note": "Youngblood (ankle) is out for Friday's game against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-not-playing-friday-535619"
+  },
   {
    "date": "2026-10-22",
    "team": "UTA",
@@ -63,76 +263,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "headline": "Swats two shots in loss",
-   "note": "Gafford totaled two points (0-1 FG, 2-4 FT), three rebounds, two blocks, one assist and one steal across 22 minutes during Wednesday's 128-110 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-swats-two-shots-in-loss-535609"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "FA",
-   "player": "John Konchar",
-   "headline": "Heading overseas",
-   "note": "Konchar signed a contract Thursday with Olympiacos BC in Greece, NBA reporter Marc Stein reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/john-konchar-news-heading-overseas-535608"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Chips in 10 points Wednesday",
-   "note": "Washington ended with 10 points (4-9 FG, 2-6 3Pt, 0-2 FT), four rebounds, two assists and one block over 31 minutes during Wednesday's 128-110 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-chips-in-10-points-wednesday-535607"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "TOR",
-   "player": "Collin Murray-Boyles",
-   "headline": "Stuffs stat sheet in opener",
-   "note": "Murray-Boyles racked up six points (2-7 FG, 0-1 3Pt, 2-2 FT), eight rebounds, three assists, one block and one steal in 20 minutes during Wednesday's 135-92 win over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-stuffs-stat-sheet-in-opener-535606"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Adds 15 points in loss",
-   "note": "Irving registered 15 points (6-9 FG, 1-4 3Pt, 2-2 FT), four rebounds, two assists and one steal in 24 minutes during Wednesday's 128-110 loss to Houston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-adds-15-points-in-loss-535605"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "TOR",
-   "player": "Ja'Kobe Walter",
-   "headline": "Posts full line in opener",
-   "note": "Walter closed with 10 points (4-8 FG, 1-5 3Pt, 1-2 FT), three rebounds, four assists and three steals across 23 minutes during Wednesday's 135-92 victory over Chicago.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakobe-walter-news-posts-full-line-in-opener-535604"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "TOR",
-   "player": "RJ Barrett",
-   "headline": "Drops 20 points in opener",
-   "note": "Barrett closed Wednesday's 135-92 victory over Chicago with 20 points (8-14 FG, 0-3 3Pt, 4-7 FT), four rebounds and three assists across 26 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-drops-20-points-in-opener-535603"
-  },
-  {
-   "date": "2026-10-22",
    "team": "HOU",
    "player": "Steven Adams",
    "headline": "Remains questionable for Friday",
@@ -183,36 +313,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "UTA",
-   "player": "Ace Bailey",
-   "headline": "Productive in reserve role",
-   "note": "Bailey closed with 12 points (5-11 FG, 2-5 3Pt), five rebounds, three assists and three blocks in 24 minutes during Wednesday's 123-103 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-productive-in-reserve-role-535597"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "UTA",
-   "player": "Svi Mykhailiuk",
-   "headline": "Team-high three steals",
-   "note": "Mykhailiuk amassed 10 points (4-5 FG, 2-3 3Pt), one rebound, two assists and three steals across 19 minutes during Wednesday's 123-103 loss to Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/svi-mykhailiuk-news-team-high-three-steals-535596"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Jerami Grant",
-   "headline": "Pops for 15 points",
-   "note": "Grant finished Wednesday's 123-103 win over the Jazz with 15 points (4-9 FG, 2-4 3Pt, 5-6 FT), two rebounds, three assists and one block in 24 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-news-pops-for-15-points-535595"
-  },
-  {
-   "date": "2026-10-22",
    "team": "IND",
    "player": "Ben Sheppard",
    "headline": "Questionable for Friday",
@@ -223,26 +323,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "MEM",
-   "player": "GG Jackson",
-   "headline": "Collects eight rebounds",
-   "note": "Jackson logged 12 points (4-8 FG, 2-2 3Pt, 2-2 FT), eight rebounds and two blocks across 19 minutes during Wednesday's 123-103 win over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-collects-eight-rebounds-535593"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "MEM",
-   "player": "Scotty Pippen",
-   "headline": "Five dimes off bench",
-   "note": "Pippen supplied nine points (2-7 FG, 0-3 3Pt, 5-6 FT), two rebounds, five assists and three steals in 20 minutes during Wednesday's 123-103 win over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scotty-pippen-news-five-dimes-off-bench-535592"
-  },
-  {
-   "date": "2026-10-22",
    "team": "IND",
    "player": "Aaron Nesmith",
    "headline": "Iffy for Friday",
@@ -250,136 +330,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-iffy-for-friday-535591"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Out with hamstring strain",
-   "note": "McConnell (hamstring) is out for Friday's game against Dallas.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-out-with-hamstring-strain-535590"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "WAS",
-   "player": "Felix Okpara",
-   "headline": "Iffy for Friday",
-   "note": "Okpara (illness) is questionable for Friday's game against Toronto.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/felix-okpara-injury-iffy-for-friday-535589"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Won't suit up Friday",
-   "note": "Black (ankle) has been ruled out for Friday's game against the Timberwolves.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-wont-suit-up-friday-535584"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "headline": "Won't play Friday",
-   "note": "Isaac (knee) is out for Friday's game against Minnesota.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-wont-play-friday-535583"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Jett Howard",
-   "headline": "Doubtful for Friday",
-   "note": "Howard (calf) is listed as doubtful for Friday's game against the Pacers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-doubtful-for-friday-535582"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Caleb Martin",
-   "headline": "Missing second straight game",
-   "note": "Martin (thumb) has been ruled out for Friday's game against the Pacers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-missing-second-straight-game-535581"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Ruled out for Friday",
-   "note": "Aldama (knee) has been ruled out for Friday's game against the Pacers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-ruled-out-for-friday-535580"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Remains out for Friday",
-   "note": "Biberovic (heel) is out for Friday's game against Indiana.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-remains-out-for-friday-535578"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Questionable with illness",
-   "note": "Swain (illness) is questionable for Friday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-questionable-with-illness-535577"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Dereck Lively",
-   "headline": "Remains without return timetable",
-   "note": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dereck-lively-injury-remains-without-return-timetable-535576"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "headline": "Iffy for Friday",
-   "note": "Hawkins (illness) is questionable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-iffy-for-friday-535575"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Zach Collins",
-   "headline": "Likely to play Friday",
-   "note": "Collins (quadriceps) is probable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-likely-to-play-friday-535574"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Tobe Awaka",
-   "headline": "Probable for Friday",
-   "note": "Awaka (knee) is probable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-friday-535573"
   },
   {
    "date": "2026-10-22",
@@ -544,6 +494,46 @@
   {
    "date": "2026-10-22",
    "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Questionable with illness",
+   "note": "Swain (illness) is questionable for Friday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-questionable-with-illness-535577"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Jordan Hawkins",
+   "headline": "Iffy for Friday",
+   "note": "Hawkins (illness) is questionable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-iffy-for-friday-535575"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Zach Collins",
+   "headline": "Likely to play Friday",
+   "note": "Collins (quadriceps) is probable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-likely-to-play-friday-535574"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
+   "player": "Tobe Awaka",
+   "headline": "Probable for Friday",
+   "note": "Awaka (knee) is probable for Friday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-friday-535573"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CHI",
    "player": "Josh Giddey",
    "headline": "Expected to play Friday",
    "note": "Giddey (wrist) is probable for Friday's game against the Bucks.",
@@ -584,22 +574,32 @@
   {
    "date": "2026-10-22",
    "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Dishes out six dimes Wednesday",
-   "note": "Marshall notched 16 points (7-13 FG, 2-6 3Pt), six assists, two rebounds and one steal across 29 minutes during Wednesday's 128-110 loss to the Rockets.",
+   "player": "Daniel Gafford",
+   "headline": "Swats two shots in loss",
+   "note": "Gafford totaled two points (0-1 FG, 2-4 FT), three rebounds, two blocks, one assist and one steal across 22 minutes during Wednesday's 128-110 loss to the Rockets.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-dishes-out-six-dimes-wednesday-535569"
+   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-swats-two-shots-in-loss-535609"
   },
   {
    "date": "2026-10-22",
    "team": "DAL",
-   "player": "Marcus Sasser",
-   "headline": "Offers spark in loss",
-   "note": "Sasser supplied 17 points (6-8 FG, 4-5 3Pt, 1-1 FT), one rebound, one assist and one steal across 24 minutes during Wednesday's 128-110 loss to the Rockets.",
+   "player": "P.J. Washington",
+   "headline": "Chips in 10 points Wednesday",
+   "note": "Washington ended with 10 points (4-9 FG, 2-6 3Pt, 0-2 FT), four rebounds, two assists and one block over 31 minutes during Wednesday's 128-110 loss to the Rockets.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-sasser-news-offers-spark-in-loss-535568"
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-chips-in-10-points-wednesday-535607"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Adds 15 points in loss",
+   "note": "Irving registered 15 points (6-9 FG, 1-4 3Pt, 2-2 FT), four rebounds, two assists and one steal in 24 minutes during Wednesday's 128-110 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-adds-15-points-in-loss-535605"
   }
  ]
 }

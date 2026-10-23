@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:27:44Z",
+ "updated": "2026-10-23T05:03:03Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -216,8 +216,18 @@
    "team": "DEN",
    "player": "Spencer Jones",
    "pos": "SF",
-   "updated": "2026-10-13",
+   "updated": "2026-10-22",
    "injury": "Hamstring",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -225,7 +235,7 @@
   {
    "team": "DET",
    "player": "Taurean Prince",
-   "pos": "SG",
+   "pos": "SF",
    "updated": "2026-10-21",
    "injury": "Personal",
    "status": "GTD",
@@ -356,8 +366,8 @@
    "team": "LAC",
    "player": "Brandon Ingram",
    "pos": "SF",
-   "updated": "2026-10-15",
-   "injury": "Achilles",
+   "updated": "2026-10-22",
+   "injury": "Heel",
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
@@ -398,9 +408,9 @@
    "pos": "SF",
    "updated": "2026-10-22",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
   },
   {
    "team": "LAL",
@@ -408,19 +418,9 @@
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Oblique",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
-   "player": "Collin Sexton",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
   },
   {
    "team": "LAL",
@@ -428,6 +428,16 @@
    "pos": "SF",
    "updated": "2026-10-22",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "MEM",
+   "player": "Cedric Coward",
+   "pos": "SG",
+   "updated": "2026-10-22",
+   "injury": "Wrist",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -528,9 +538,9 @@
    "pos": "C",
    "updated": "2026-10-07",
    "injury": "Achilles",
-   "status": "Expected return: at least Oct 1",
-   "kind": "out",
-   "ret": "2026-10-01"
+   "status": "Out for season",
+   "kind": "out_season",
+   "ret": null
   },
   {
    "team": "PHI",
@@ -594,23 +604,13 @@
   },
   {
    "team": "POR",
-   "player": "Shaedon Sharpe",
-   "pos": "SG",
-   "updated": "2026-09-28",
-   "injury": "Knee",
-   "status": "Expected return: at least Mar 2",
-   "kind": "out",
-   "ret": "2027-03-02"
-  },
-  {
-   "team": "POR",
    "player": "Branden Carlson",
    "pos": "C",
    "updated": "2026-10-22",
    "injury": "Concussion",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
   },
   {
    "team": "POR",
@@ -618,9 +618,19 @@
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
+  },
+  {
+   "team": "POR",
+   "player": "Shaedon Sharpe",
+   "pos": "SG",
+   "updated": "2026-09-28",
+   "injury": "Knee",
+   "status": "Expected return: at least Mar 2",
+   "kind": "out",
+   "ret": "2027-03-02"
   },
   {
    "team": "SAC",
@@ -724,20 +734,20 @@
   },
   {
    "team": "UTA",
+   "player": "Trey Alexander",
+   "pos": "SG",
+   "updated": "2026-10-22",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
+  },
+  {
+   "team": "UTA",
    "player": "Tony Bradley",
    "pos": "C",
    "updated": "2026-10-21",
    "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "UTA",
-   "player": "Trey Alexander",
-   "pos": "SG",
-   "updated": "2026-10-21",
-   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
