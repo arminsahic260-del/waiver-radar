@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:03:03Z",
+ "updated": "2026-10-23T08:13:57Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,6 +41,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -134,16 +144,6 @@
   },
   {
    "team": "CLE",
-   "player": "Khalifa Diop",
-   "pos": "C",
-   "updated": "2026-10-21",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "CLE",
    "player": "Nae'Qwan Tomlin",
    "pos": "PF",
    "updated": "2026-10-20",
@@ -151,6 +151,16 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
+  },
+  {
+   "team": "CLE",
+   "player": "Khalifa Diop",
+   "pos": "C",
+   "updated": "2026-10-23",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
@@ -214,20 +224,20 @@
   },
   {
    "team": "DEN",
-   "player": "Spencer Jones",
-   "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "DEN",
    "player": "Cameron Johnson",
    "pos": "SF",
    "updated": "2026-10-23",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -544,16 +554,6 @@
   },
   {
    "team": "PHI",
-   "player": "Dean Wade",
-   "pos": "PF",
-   "updated": "2026-10-22",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -564,13 +564,23 @@
   },
   {
    "team": "PHI",
+   "player": "Dean Wade",
+   "pos": "PF",
+   "updated": "2026-10-23",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHI",
    "player": "Tacko Fall",
    "pos": "C",
-   "updated": "2026-10-21",
+   "updated": "2026-10-23",
    "injury": "Quadriceps",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHX",

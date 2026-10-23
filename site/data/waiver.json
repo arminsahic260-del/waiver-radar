@@ -1,24 +1,7 @@
 {
- "updated": "2026-10-23T05:03:40Z",
+ "updated": "2026-10-23T08:14:33Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Bilal Coulibaly",
-   "team": "WAS",
-   "pos": "SG/SF",
-   "priority": 1,
-   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.5 FP po utakmici (prošle sezone, 26 min). AJ Dybantsa (gležanj) je out najmanje do 24.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.5 FP po utakmici (prošle sezone, 26 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-starting-sans-dybantsa-535381",
-   "espnId": 5104155,
-   "fpts": 26.5
-  },
   {
    "player": "De'Anthony Melton",
    "team": "GSW",
@@ -35,23 +18,6 @@
    "source": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-starting-wednesday-535417",
    "espnId": 4066436,
    "fpts": 23.9
-  },
-  {
-   "player": "Kris Dunn",
-   "team": "LAC",
-   "pos": "PG/SG",
-   "priority": 1,
-   "reason": "RotoWire 21.10.: Starting on Opening Night. Dunn will start in Wednesday's game against Sacramento, Tomer Azarly of ClutchPoints.com reports. ~22.6 FP po utakmici (prošle sezone, 27 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/kris-dunn-news-starting-on-opening-night-535409",
-   "espnId": 2991139,
-   "fpts": 22.6
   },
   {
    "player": "Max Christie",
@@ -207,6 +173,23 @@
    "fpts": 22.9
   },
   {
+   "player": "Justin Champagnie",
+   "team": "WAS",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 24.10. Justin Champagnie je prvi SF/PF u rotaciji WAS-a za te minute; ~21.7 FP po utakmici (prošle sezone, 20 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432907,
+   "fpts": 21.7
+  },
+  {
    "player": "Tre Jones",
    "team": "CHI",
    "pos": "PG",
@@ -258,23 +241,6 @@
    "fpts": 24.1
   },
   {
-   "player": "Justin Champagnie",
-   "team": "WAS",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 24.10. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~21.7 FP po utakmici (prošle sezone, 20 min).",
-   "role": "Veća minutaža dok je out AJ Dybantsa",
-   "horizon": "Do ~24.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati AJ Dybantsa",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432907,
-   "fpts": 21.7
-  },
-  {
    "player": "Harrison Barnes",
    "team": "SAS",
    "pos": "SF/PF",
@@ -307,6 +273,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4432822,
    "fpts": 18.7
+  },
+  {
+   "player": "Khris Middleton",
+   "team": "WAS",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 24.10. Khris Middleton je sljedeći SF/PF u rotaciji WAS-a za te minute; ~18.6 FP po utakmici (prošle sezone, 23 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 6609,
+   "fpts": 18.6
   },
   {
    "player": "Bones Hyland",
@@ -358,60 +341,11 @@
     },
     {
      "league": "Banijska",
-     "mine": 9,
-     "open": 1,
+     "mine": 10,
+     "open": 0,
      "sitting": 0,
      "planned": [],
-     "picks": [
-      {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 31.6,
-       "mpg": 27.0,
-       "basis": "prošla sezona",
-       "matchup": "CHI @ MIL",
-       "dates": [
-        "2026-10-23",
-        "2026-10-24"
-       ],
-       "value": 63.2,
-       "gtd": false
-      },
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 28.7,
-       "mpg": 25.7,
-       "basis": "prošla sezona",
-       "matchup": "NOP @ UTA",
-       "dates": [
-        "2026-10-23",
-        "2026-10-25"
-       ],
-       "value": 57.4,
-       "gtd": false
-      },
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 28.5,
-       "mpg": 30.9,
-       "basis": "prošla sezona",
-       "matchup": "NOP @ UTA",
-       "dates": [
-        "2026-10-23",
-        "2026-10-24"
-       ],
-       "value": 57.0,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -426,6 +360,22 @@
      "sitting": 0,
      "planned": [],
      "picks": [
+      {
+       "player": "Anfernee Simons",
+       "team": "PHI",
+       "pos": "PG/SG",
+       "espnId": 4351851,
+       "fpts": 22.8,
+       "mpg": 24.9,
+       "basis": "prošla sezona",
+       "matchup": "MIL @ PHI",
+       "dates": [
+        "2026-10-24",
+        "2026-10-25"
+       ],
+       "value": 45.6,
+       "gtd": false
+      },
       {
        "player": "Noah Clowney",
        "team": "BKN",
@@ -457,37 +407,15 @@
        ],
        "value": 41.8,
        "gtd": false
-      },
-      {
-       "player": "Danny Wolf",
-       "team": "BKN",
-       "pos": "PF/C",
-       "espnId": 5107173,
-       "fpts": 19.4,
-       "mpg": 20.9,
-       "basis": "prošla sezona",
-       "matchup": "BKN @ CLE",
-       "dates": [
-        "2026-10-24",
-        "2026-10-25"
-       ],
-       "value": 38.8,
-       "gtd": false
       }
      ]
     },
     {
      "league": "Banijska",
-     "mine": 8,
-     "open": 1,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
-     "planned": [
-      {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "from": "2026-10-23"
-      }
-     ],
+     "planned": [],
      "picks": [
       {
        "player": "Mikel Brown Jr.",
@@ -552,12 +480,27 @@
      "sitting": 0,
      "planned": [
       {
-       "player": "Noah Clowney",
-       "team": "BKN",
+       "player": "Anfernee Simons",
+       "team": "PHI",
        "from": "2026-10-24"
       }
      ],
      "picks": [
+      {
+       "player": "Isaiah Hartenstein",
+       "team": "OKC",
+       "pos": "C",
+       "espnId": 4222252,
+       "fpts": 30.0,
+       "mpg": 24.3,
+       "basis": "prošla sezona",
+       "matchup": "LAC @ OKC",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 30.0,
+       "gtd": false
+      },
       {
        "player": "Isaiah Collier",
        "team": "UTA",
@@ -587,28 +530,13 @@
        ],
        "value": 27.8,
        "gtd": false
-      },
-      {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 27.2,
-       "mpg": 23.8,
-       "basis": "prošla sezona",
-       "matchup": "MEM @ SAC",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 27.2,
-       "gtd": false
       }
      ]
     },
     {
      "league": "Banijska",
-     "mine": 6,
-     "open": 3,
+     "mine": 7,
+     "open": 2,
      "sitting": 0,
      "planned": [
       {

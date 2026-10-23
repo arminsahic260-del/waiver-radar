@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-23T05:03:35Z",
+ "updated": "2026-10-23T08:14:28Z",
  "items": [
+  {
+   "date": "2026-10-22",
+   "team": "CLE",
+   "player": "James Harden",
+   "headline": "Commits six turnovers",
+   "note": "Harden contributed 16 points (5-12 FG, 3-6 3Pt, 3-4 FT), three rebounds, five assists and a steal across 33 minutes in Thursday's 114-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-commits-six-turnovers-535650"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CLE",
+   "player": "Evan Mobley",
+   "headline": "Solid numbers in season-opening loss",
+   "note": "Mobley notched 18 points (7-13 FG, 1-4 3Pt, 3-3 FT), eight rebounds and two assists across 34 minutes in Thursday's 114-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-solid-numbers-in-season-opening-loss-535649"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Disappears in second half",
+   "note": "Allen finished with 14 points (6-10 FG, 0-0 3Pt, 2-4 FT), seven rebounds and two blocks across 28 minutes in Thursday's 114-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-disappears-in-second-half-535648"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHI",
+   "player": "Jaylen Brown",
+   "headline": "Solid contribution in comeback win",
+   "note": "Brown tallied 21 points (10-20 FG, 1-3 3Pt, 0-0 FT), eight rebounds, four assists and a steal across 38 minutes in Thursday's 114-106 win over the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-solid-contribution-in-comeback-win-535647"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Scores 11 points with 11 shots",
+   "note": "Edgecombe registered 11 points (4-11 FG, 1-4 3Pt, 2-3 FT), seven rebounds, six assists and three steals across 33 minutes in Thursday's 114-106 win over the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-scores-11-points-with-11-shots-535646"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "PHI",
+   "player": "LeBron James",
+   "headline": "Posts double-double Thursday",
+   "note": "James posted 17 points (5-14 FG, 1-4 3Pt, 6-7 FT), 10 rebounds, five assists, three steals and a block across 33 minutes in Thursday's 114-106 win over the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-news-posts-double-double-thursday-535645"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "OKC",
+   "player": "Jared McCain",
+   "headline": "Cools off in victory Thursday",
+   "note": "McCain finished with four points (1-6 FG, 0-3 3Pt, 2-2 FT) and one assist in 18 minutes during Thursday's 96-84 victory over Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-cools-off-in-victory-thursday-535644"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "OKC",
+   "player": "Ajay Mitchell",
+   "headline": "Career-high five steals",
+   "note": "Mitchell recorded 12 points (5-11 FG, 0-4 3Pt, 2-2 FT), one block and five steals in 23 minutes during Thursday's 96-84 win over Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-career-high-five-steals-535643"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "OKC",
+   "player": "Shai Gilgeous-Alexander",
+   "headline": "Scoring streak comes to an end",
+   "note": "Gilgeous-Alexander closed Thursday's 96-84 win over Denver with 17 points (6-19 FG, 3-11 3Pt, 2-2 FT), two rebounds, three assists and one block across 35 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-scoring-streak-comes-to-an-end-535642"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "DeMar DeRozan",
+   "headline": "Quiet night off bench",
+   "note": "DeRozan racked up 13 points (5-9 FG, 0-1 3Pt, 3-6 FT) and two rebounds across 28 minutes during Thursday's 96-84 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/demar-derozan-news-quiet-night-off-bench-535641"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Jamal Murray",
+   "headline": "Struggles offensively in loss",
+   "note": "Murray accumulated six points (2-11 FG, 0-1 3Pt, 2-4 FT), 10 rebounds, three assists and one steal in 37 minutes during Thursday's 96-84 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-struggles-offensively-in-loss-535640"
+  },
+  {
+   "date": "2026-10-22",
+   "team": "DEN",
+   "player": "Nikola Jokic",
+   "headline": "Modest performance in loss",
+   "note": "Jokic contributed 13 points (5-19 FG, 1-7 3Pt, 2-4 FT), seven rebounds, five assists, one block and one steal across 35 minutes during Thursday's 96-84 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-modest-performance-in-loss-535639"
+  },
   {
    "date": "2026-10-22",
    "team": "DEN",
@@ -163,16 +283,6 @@
   },
   {
    "date": "2026-10-22",
-   "team": "LAL",
-   "player": "Collin Sexton",
-   "headline": "Left off injury report",
-   "note": "Sexton (calf) isn't listed on the injury report for Friday's game against the Clippers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-left-off-injury-report-535622"
-  },
-  {
-   "date": "2026-10-22",
    "team": "SAC",
    "player": "Malik Monk",
    "headline": "Listed probable for Friday",
@@ -220,16 +330,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-will-miss-second-straight-game-thursday-535616"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Good to go for season opener",
-   "note": "Allen (knee) is active for Thursday's game against the 76ers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-good-to-go-for-season-opener-535615"
   },
   {
    "date": "2026-10-22",
@@ -500,106 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-questionable-with-illness-535577"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "headline": "Iffy for Friday",
-   "note": "Hawkins (illness) is questionable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-iffy-for-friday-535575"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Zach Collins",
-   "headline": "Likely to play Friday",
-   "note": "Collins (quadriceps) is probable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-likely-to-play-friday-535574"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Tobe Awaka",
-   "headline": "Probable for Friday",
-   "note": "Awaka (knee) is probable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-friday-535573"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Josh Giddey",
-   "headline": "Expected to play Friday",
-   "note": "Giddey (wrist) is probable for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-injury-expected-to-play-friday-535572"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Tre Jones",
-   "headline": "Tallies 13 points in blowout loss",
-   "note": "Jones chipped in 13 points (5-8 FG, 0-1 3Pt, 3-4 FT) and three rebounds over 13 minutes during Wednesday's 135-92 loss to Toronto.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-jones-news-tallies-13-points-in-blowout-loss-535566"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Outside initial rotation",
-   "note": "Williams (coach's decision) did not play in Wednesday's 135-92 loss to Toronto.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-outside-initial-rotation-535516"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Expects to play Thursday",
-   "note": "Allen (knee) said he expects to play Thursday against the 76ers, Chris Fedor of The Cleveland Plain Dealer reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-expects-to-play-thursday-535498"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "headline": "Swats two shots in loss",
-   "note": "Gafford totaled two points (0-1 FG, 2-4 FT), three rebounds, two blocks, one assist and one steal across 22 minutes during Wednesday's 128-110 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-swats-two-shots-in-loss-535609"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Chips in 10 points Wednesday",
-   "note": "Washington ended with 10 points (4-9 FG, 2-6 3Pt, 0-2 FT), four rebounds, two assists and one block over 31 minutes during Wednesday's 128-110 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-chips-in-10-points-wednesday-535607"
-  },
-  {
-   "date": "2026-10-22",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Adds 15 points in loss",
-   "note": "Irving registered 15 points (6-9 FG, 1-4 3Pt, 2-2 FT), four rebounds, two assists and one steal in 24 minutes during Wednesday's 128-110 loss to Houston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-adds-15-points-in-loss-535605"
   }
  ]
 }
