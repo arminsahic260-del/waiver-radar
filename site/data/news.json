@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-24T18:21:45Z",
+ "updated": "2026-10-24T19:21:51Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Yves Missi",
+   "headline": "Ruled out Saturday",
+   "note": "Missi (knee) has been ruled out for Saturday's game against the Nuggets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-ruled-out-saturday-535868"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAS",
+   "player": "Tobias Harris",
+   "headline": "Out vs. Dallas",
+   "note": "Harris (calf) is out for Saturday's game against the Mavericks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobias-harris-injury-out-vs-dallas-535867"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Questionable for Saturday",
+   "note": "Risacher is questionable for Saturday's game against the Spurs due to right hip soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-injury-questionable-for-saturday-535866"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Morez Johnson",
+   "headline": "Questionable to face San Antonio",
+   "note": "Johnson (shin) is listed as questionable for Saturday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/morez-johnson-injury-questionable-to-face-san-antonio-535865"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Missing third consecutive game",
+   "note": "Martin (thumb) has been ruled out against San Antonio on Saturday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-missing-third-consecutive-game-535864"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Jett Howard",
+   "headline": "Unlikely to play Saturday",
+   "note": "Howard (calf) is listed as doubtful against the Spurs on Saturday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-unlikely-to-play-saturday-535863"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Iffy to play Saturday",
+   "note": "Irving (knee) is listed as questionable for Saturday's game against San Antonio.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-iffy-to-play-saturday-535862"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Max Christie",
+   "headline": "Dealing with shin injury",
+   "note": "Christie (shin) is questionable for Saturday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/max-christie-injury-dealing-with-shin-injury-535861"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Won't play vs. San Antonio",
+   "note": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-wont-play-vs-san-antonio-535860"
+  },
   {
    "date": "2026-10-24",
    "team": "DAL",
@@ -173,86 +263,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "MEM",
-   "player": "Zach Edey",
-   "headline": "Just misses double-double Friday",
-   "note": "Edey posted eight points (4-6 FG, 0-1 FT), 10 rebounds, three assists, two blocks and one steal over 22 minutes during Friday's 111-108 victory over the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-just-misses-double-double-friday-535842"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "MEM",
-   "player": "Cameron Boozer",
-   "headline": "Big double-double in win over Warriors",
-   "note": "Boozer contributed 25 points (6-13 FG, 4-7 3Pt, 9-9 FT), 13 rebounds, six assists and two steals in 37 minutes during Friday's 111-108 victory over the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-big-double-double-in-win-over-warriors-535841"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Will likely rest Saturday",
-   "note": "Adams (rest) will likely be sidelined for Saturday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-will-likely-rest-saturday-535840"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "MEM",
-   "player": "Ty Jerome",
-   "headline": "Pops for game-high 28 in Friday's win",
-   "note": "Jerome racked up 28 points (11-22 FG, 3-5 3Pt, 3-5 FT), two rebounds, five assists and one steal over 32 minutes during Friday's 111-108 win over Golden State.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-news-pops-for-game-high-28-in-fridays-win-535839"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Fred VanVleet",
-   "headline": "Unlikey to play Saturday",
-   "note": "VanVleet (rest) is unlikely to play in the second leg of the Rockets' back-to-back set Saturday against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-unlikey-to-play-saturday-535838"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "UTA",
-   "player": "Jaxson Hayes",
-   "headline": "Hits for 17 off bench Friday",
-   "note": "Hayes supplied 17 points (7-8 FG, 3-3 FT), five rebounds, two assists and one block across 26 minutes off the bench during Friday's 120-119 victory over the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-hits-for-17-off-bench-friday-535837"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "headline": "Drains four treys in Friday's win",
-   "note": "Markkanen ended Friday's 120-119 victory over the Pelicans with 16 points (6-13 FG, 4-9 3Pt), six rebounds, three assists and one steal in 34 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-drains-four-treys-in-fridays-win-535836"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "UTA",
-   "player": "Jaren Jackson",
-   "headline": "Big double-double in comeback win",
-   "note": "Jackson ended with 24 points (7-15 FG, 2-4 3Pt, 8-10 FT), 10 rebounds, three assists and three blocks across 33 minutes during Friday's 120-119 victory over the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaren-jackson-news-big-double-double-in-comeback-win-535835"
-  },
-  {
-   "date": "2026-10-24",
    "team": "GSW",
    "player": "Brandin Podziemski",
    "headline": "Won't play Saturday",
@@ -270,6 +280,26 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-unlikely-to-play-against-phoenix-535830"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Steven Adams",
+   "headline": "Will likely rest Saturday",
+   "note": "Adams (rest) will likely be sidelined for Saturday's game against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-will-likely-rest-saturday-535840"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Fred VanVleet",
+   "headline": "Unlikey to play Saturday",
+   "note": "VanVleet (rest) is unlikely to play in the second leg of the Rockets' back-to-back set Saturday against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-unlikey-to-play-saturday-535838"
   },
   {
    "date": "2026-10-24",
@@ -350,6 +380,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-coughs-up-ball-11-times-535814"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MEM",
+   "player": "Zach Edey",
+   "headline": "Just misses double-double Friday",
+   "note": "Edey posted eight points (4-6 FG, 0-1 FT), 10 rebounds, three assists, two blocks and one steal over 22 minutes during Friday's 111-108 victory over the Warriors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-just-misses-double-double-friday-535842"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MEM",
+   "player": "Cameron Boozer",
+   "headline": "Big double-double in win over Warriors",
+   "note": "Boozer contributed 25 points (6-13 FG, 4-7 3Pt, 9-9 FT), 13 rebounds, six assists and two steals in 37 minutes during Friday's 111-108 victory over the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-big-double-double-in-win-over-warriors-535841"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MEM",
+   "player": "Ty Jerome",
+   "headline": "Pops for game-high 28 in Friday's win",
+   "note": "Jerome racked up 28 points (11-22 FG, 3-5 3Pt, 3-5 FT), two rebounds, five assists and one steal over 32 minutes during Friday's 111-108 win over Golden State.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-news-pops-for-game-high-28-in-fridays-win-535839"
   },
   {
    "date": "2026-10-24",
@@ -463,6 +523,36 @@
   },
   {
    "date": "2026-10-24",
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "headline": "Hits for 17 off bench Friday",
+   "note": "Hayes supplied 17 points (7-8 FG, 3-3 FT), five rebounds, two assists and one block across 26 minutes off the bench during Friday's 120-119 victory over the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-hits-for-17-off-bench-friday-535837"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "UTA",
+   "player": "Lauri Markkanen",
+   "headline": "Drains four treys in Friday's win",
+   "note": "Markkanen ended Friday's 120-119 victory over the Pelicans with 16 points (6-13 FG, 4-9 3Pt), six rebounds, three assists and one steal in 34 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-drains-four-treys-in-fridays-win-535836"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "UTA",
+   "player": "Jaren Jackson",
+   "headline": "Big double-double in comeback win",
+   "note": "Jackson ended with 24 points (7-15 FG, 2-4 3Pt, 8-10 FT), 10 rebounds, three assists and three blocks across 33 minutes during Friday's 120-119 victory over the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaren-jackson-news-big-double-double-in-comeback-win-535835"
+  },
+  {
+   "date": "2026-10-24",
    "team": "MEM",
    "player": "Cameron Boozer",
    "headline": "Big double-double in win over Golden State",
@@ -480,56 +570,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-provides-spark-off-the-bench-535821"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Doesn't return Friday",
-   "note": "Thompson exited Friday's 128-111 win over the Heat with an undisclosed injury and did not return, finishing with four points (2-5 FG, 0-1 3Pt), three rebounds, four assists, one steal, one block and three turnovers across 19 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-doesnt-return-friday-535779"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "NOP",
-   "player": "Yves Missi",
-   "headline": "Won't return Friday",
-   "note": "Missi won't return to Friday's game against the Jazz due to a left knee injury.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-wont-return-friday-535762"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "Doesn't return Friday",
-   "note": "Duren (thigh) exited Friday's 128-111 win over the Heat in the second quarter and did not return, finishing with four points (2-4 FG), six rebounds, three assists, one steal and one block across 10 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-doesnt-return-friday-535759"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "NOP",
-   "player": "Yves Missi",
-   "headline": "Helped to locker room Friday",
-   "note": "Missi was helped to the locker room in the second quarter of Friday's game against the Jazz due to an apparent left leg injury, Shreyas Laddha of The Salt Lake Tribune reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-helped-to-locker-room-friday-535757"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Headed for further evaluation",
-   "note": "Head coach Dusty May said Flagg (shoulder) will be evaluated in the next couple of days, Mike Curtis of The Dallas Morning News reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-headed-for-further-evaluation-535754"
   },
   {
    "date": "2026-10-23",
@@ -560,46 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-solid-contribution-in-blowout-win-535799"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "headline": "Loaded stat line Friday",
-   "note": "Johnson posted 19 points (9-16 FG, 0-3 3Pt, 1-1 FT), seven rebounds, eight assists, three steals and a block across 29 minutes in Friday's 128-81 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-loaded-stat-line-friday-535741"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ATL",
-   "player": "Jock Landale",
-   "headline": "Playing through nasal fracture",
-   "note": "Landale (nose) is available for Friday's game versus Charlotte.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-news-playing-through-nasal-fracture-535687"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "BOS",
-   "player": "Neemias Queta",
-   "headline": "Impressive off bench",
-   "note": "Queta closed with 15 points (4-8 FG, 1-1 3Pt, 6-9 FT), six rebounds, one assist and three blocks over 22 minutes during Friday's 107-103 victory over New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-impressive-off-bench-535780"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Pulls down four boards",
-   "note": "Robinson accumulated four points (2-4 FG), four rebounds, two assists and one block across 22 minutes during Friday's 107-103 victory over the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-pulls-down-four-boards-535778"
   }
  ]
 }

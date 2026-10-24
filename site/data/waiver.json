@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:21:51Z",
+ "updated": "2026-10-24T19:21:56Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -66,25 +66,6 @@
    "cur": 21.0
   },
   {
-   "player": "Max Christie",
-   "team": "DAL",
-   "pos": "SG",
-   "priority": 1,
-   "reason": "RotoWire 21.10.: Starting Wednesday. Christie will start Wednesday's game against the Rockets. ~20.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 21.8; 31 min). Kyrie Irving (odmor) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 21.8; 31 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/max-christie-news-starting-wednesday-535401",
-   "espnId": 4432582,
-   "fpts": 20.4,
-   "gp": 2,
-   "cur": 17.5
-  },
-  {
    "player": "De'Anthony Melton",
    "team": "GSW",
    "pos": "PG/SG",
@@ -145,23 +126,6 @@
    "cur": 10.5
   },
   {
-   "player": "Santi Aldama",
-   "team": "DAL",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Cooper Flagg (rame) je out najmanje do 2.11. Santi Aldama je prvi SF/PF u rotaciji DAL-a za te minute; ~30.5 FP po utakmici (prošle sezone, 28 min).",
-   "role": "Veća minutaža dok je out Cooper Flagg",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Cooper Flagg",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4593125,
-   "fpts": 30.5
-  },
-  {
    "player": "Precious Achiuwa",
    "team": "SAC",
    "pos": "PF/C",
@@ -204,7 +168,7 @@
    "team": "WAS",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 26.10. — nova ozljeda. Justin Champagnie je prvi SF/PF u rotaciji WAS-a za te minute; ~22.5 FP po utakmici (ove sezone 24.0 u 2 utk., prošle sezone 21.7; 21 min).",
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 26.10. Justin Champagnie je prvi SF/PF u rotaciji WAS-a za te minute; ~22.5 FP po utakmici (ove sezone 24.0 u 2 utk., prošle sezone 21.7; 21 min).",
    "role": "Veća minutaža dok je out AJ Dybantsa",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati AJ Dybantsa",
@@ -242,7 +206,7 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 26.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 26.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~21.7 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 24.5; 25 min).",
+   "reason": "Coby White (list) je out najmanje do 26.10.; Kon Knueppel (stražnja loža) je out najmanje do 26.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~21.7 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 24.5; 25 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White",
@@ -276,11 +240,30 @@
    "cur": 16.0
   },
   {
+   "player": "Morez Johnson Jr.",
+   "team": "DAL",
+   "pos": "PF/C",
+   "priority": 2,
+   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10. — nova ozljeda; Cooper Flagg (rame) je out najmanje do 2.11. Morez Johnson Jr. je prvi PF/C u rotaciji DAL-a za te minute; ~19.1 FP po utakmici (ove sezone 10.5 u 2 utk., ESPN projekcija 23.5; 22 min).",
+   "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Santi Aldama",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4873153,
+   "fpts": 19.1,
+   "gp": 2,
+   "cur": 10.5
+  },
+  {
    "player": "Marcus Smart",
    "team": "HOU",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. — nova ozljeda. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~18.7 FP po utakmici (ove sezone 12.5 u 2 utk., prošle sezone 21.8; 27 min).",
+   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~18.7 FP po utakmici (ove sezone 12.5 u 2 utk., prošle sezone 21.8; 27 min).",
    "role": "Veća minutaža dok je out Fred VanVleet",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Fred VanVleet",
@@ -356,7 +339,7 @@
    "team": "HOU",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. — nova ozljeda. Tari Eason je sljedeći SF/PF u rotaciji HOU-a za te minute; ~21.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 23.3; 22 min).",
+   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. Tari Eason je sljedeći SF/PF u rotaciji HOU-a za te minute; ~21.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 23.3; 22 min).",
    "role": "Veća minutaža dok je out Fred VanVleet",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Fred VanVleet",
@@ -368,6 +351,25 @@
    "note": "na tvom rosteru (Legendi)",
    "espnId": 4433192,
    "fpts": 21.4,
+   "gp": 2,
+   "cur": 17.5
+  },
+  {
+   "player": "Max Christie",
+   "team": "DAL",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10. — nova ozljeda; Cooper Flagg (rame) je out najmanje do 2.11.; Kyrie Irving (koljeno) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 21.8; 31 min).",
+   "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Santi Aldama",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432582,
+   "fpts": 20.4,
    "gp": 2,
    "cur": 17.5
   },
@@ -395,7 +397,7 @@
    "team": "WAS",
    "pos": "PG/SG",
    "priority": 3,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 26.10. — nova ozljeda. Bub Carrington je sljedeći PG/SG u rotaciji WAS-a za te minute; ~19.9 FP po utakmici (ove sezone 15.0 u 2 utk., prošle sezone 22.4; 24 min).",
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 26.10. Bub Carrington je sljedeći PG/SG u rotaciji WAS-a za te minute; ~19.9 FP po utakmici (ove sezone 15.0 u 2 utk., prošle sezone 22.4; 24 min).",
    "role": "Veća minutaža dok je out AJ Dybantsa",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati AJ Dybantsa",
@@ -408,25 +410,6 @@
    "fpts": 19.9,
    "gp": 2,
    "cur": 15.0
-  },
-  {
-   "player": "Morez Johnson Jr.",
-   "team": "DAL",
-   "pos": "PF/C",
-   "priority": 3,
-   "reason": "Cooper Flagg (rame) je out najmanje do 2.11. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~19.1 FP po utakmici (ove sezone 10.5 u 2 utk., ESPN projekcija 23.5; 22 min).",
-   "role": "Veća minutaža dok je out Cooper Flagg",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Cooper Flagg",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4873153,
-   "fpts": 19.1,
-   "gp": 2,
-   "cur": 10.5
   },
   {
    "player": "Marvin Bagley III",
@@ -446,6 +429,25 @@
    "fpts": 19.0,
    "gp": 1,
    "cur": 2.0
+  },
+  {
+   "player": "Luke Kornet",
+   "team": "SAS",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Tobias Harris (list) je out najmanje do 27.10. — nova ozljeda. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~18.7 FP po utakmici (ove sezone 12.0 u 2 utk., prošle sezone 22.1; 19 min).",
+   "role": "Veća minutaža dok je out Tobias Harris",
+   "horizon": "Do ~27.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Tobias Harris",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3064560,
+   "fpts": 18.7,
+   "gp": 2,
+   "cur": 12.0
   },
   {
    "player": "Ronald Holland II",
@@ -490,7 +492,7 @@
    "team": "DAL",
    "pos": "PG",
    "priority": 3,
-   "reason": "Kyrie Irving (odmor) je upitan (GTD). Marcus Sasser je sljedeći PG u rotaciji DAL-a za te minute; ~15.2 FP po utakmici (ove sezone 23.5 u 2 utk., prošle sezone 11.1; 16 min).",
+   "reason": "Kyrie Irving (koljeno) je upitan (GTD). Marcus Sasser je sljedeći PG u rotaciji DAL-a za te minute; ~15.2 FP po utakmici (ove sezone 23.5 u 2 utk., prošle sezone 11.1; 16 min).",
    "role": "Zamjena ako Kyrie Irving ne igra",
    "horizon": "Dan-dva, ovisi o statusu",
    "risk": "Uloga pada kad se vrati Kyrie Irving; nizak bodovni plafon",

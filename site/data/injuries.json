@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:21:16Z",
+ "updated": "2026-10-24T19:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -58,9 +58,9 @@
    "pos": "PF",
    "updated": "2026-10-24",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 26",
+   "status": "Expected return: at least Oct 30",
    "kind": "out",
-   "ret": "2026-10-26"
+   "ret": "2026-10-30"
   },
   {
    "team": "CHA",
@@ -134,6 +134,16 @@
   },
   {
    "team": "DAL",
+   "player": "Caleb Martin",
+   "pos": "SF",
+   "updated": "2026-10-24",
+   "injury": "Thumb",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "DAL",
    "player": "Cooper Flagg",
    "pos": "SF",
    "updated": "2026-10-24",
@@ -146,21 +156,31 @@
    "team": "DAL",
    "player": "Dereck Lively II",
    "pos": "C",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "injury": "Foot",
-   "status": "Expected return: at least Oct 26",
+   "status": "Expected return: at least Oct 28",
    "kind": "out",
-   "ret": "2026-10-26"
+   "ret": "2026-10-28"
   },
   {
    "team": "DAL",
-   "player": "Caleb Martin",
+   "player": "Santi Aldama",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "DAL",
+   "player": "Tarik Biberovic",
    "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Thumb",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "updated": "2026-10-24",
+   "injury": "Heel",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "DAL",
@@ -177,16 +197,6 @@
    "player": "Kyrie Irving",
    "pos": "PG",
    "updated": "2026-10-24",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-10-23",
    "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
@@ -194,10 +204,30 @@
   },
   {
    "team": "DAL",
-   "player": "Tarik Biberovic",
+   "player": "Max Christie",
+   "pos": "SG",
+   "updated": "2026-10-24",
+   "injury": "Leg",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
+   "player": "Morez Johnson Jr.",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Lower Leg",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
    "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Heel",
+   "updated": "2026-10-24",
+   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -496,11 +526,11 @@
    "team": "NOP",
    "player": "Yves Missi",
    "pos": "C",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "OKC",
@@ -738,9 +768,9 @@
    "pos": "PF",
    "updated": "2026-10-24",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
   },
   {
    "team": "TOR",
