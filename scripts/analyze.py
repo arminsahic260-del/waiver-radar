@@ -112,6 +112,20 @@ class Ctx:
                 out[lc["short"]] = None
         return out
 
+    def waiver_until(self, league_id, espn_id):
+        """Day ESPN processes claims for a player on waivers in this league, if that is after today. He can't be
+        added before then and plays for you from that day."""
+        d = (self.pools.get(league_id) or {}).get("waivers", {}).get(str(espn_id))
+        return d if d and d > self.today.isoformat() else None
+
+    def waivers(self, espn_id):
+        out = {}
+        for lc in self.leagues:
+            d = self.waiver_until(lc["id"], espn_id)
+            if d:
+                out[lc["short"]] = d
+        return out
+
     def my_leagues(self, name):
         n = norm_name(name)
         return [lc["short"] for lc in self.leagues if n in self.mine.get(lc["id"], set())]
@@ -158,16 +172,31 @@ def make_pick(ctx, p, name, team, pos, priority, reason, role, horizon, risk, so
         pick["note"] = note
     if espn_id:
         pick["espnId"] = espn_id
+        if ctx.waivers(espn_id):
+            pick["waivers"] = ctx.waivers(espn_id)
     if p and p.get("fpts"):
         pick["fpts"] = p["fpts"]
+        if p.get("gp"):
+            pick["gp"], pick["cur"] = p["gp"], p["cur"]
     return pick
 
 
+PRIOR_HR = {"prošla sezona": "prošle sezone", "projekcija": "ESPN projekcija"}
+
+
 def fp_text(p):
+    """'~25.1 FP po utakmici (ove sezone 28.0 u 2 utk., prošle sezone 23.0; 27 min)'"""
     if not p or not p.get("fpts"):
         return ""
-    basis = {"sezona": "ove sezone", "prošla sezona": "prošle sezone", "projekcija": "ESPN projekcija"}.get(p["basis"], "")
-    return f"~{p['fpts']:.1f} FP po utakmici ({basis}, {p['mpg']:.0f} min)"
+    basis = p.get("basis") or ""
+    if basis.startswith("sezona+"):
+        prior = PRIOR_HR.get(basis[len("sezona+"):], "prije")
+        src = f"ove sezone {p['cur']:.1f} u {p['gp']} utk., {prior} {p['prior']:.1f};"
+    elif basis == "sezona":
+        src = f"ove sezone{', ' + str(p['gp']) + ' utk.' if p.get('gp') else ''},"
+    else:
+        src = PRIOR_HR.get(basis, "") + ","
+    return f"~{p['fpts']:.1f} FP po utakmici ({src} {p['mpg']:.0f} min)"
 
 
 # ---------------------------------------------------------------- rule 1: injuries open a role
@@ -330,7 +359,10 @@ def stream_picks(ctx):
                     continue
                 if ctx.is_out(p) or p["mpg"] < ctx.cfg.get("streamMinMinutes", 20) or p["fpts"] <= 0:
                     continue
-                other = sum(1 for x in thin if x != day and x in ctx.team_dates(p["team"]))
+                wd = ctx.waiver_until(lc["id"], p["espnId"]) or ""
+                if wd > day:
+                    continue  # still on waivers that day
+                other = sum(1 for x in thin if x != day and x >= wd and x in ctx.team_dates(p["team"]))
                 score = p["fpts"] * (1 + 0.5 * other) * (1.15 if ctx.team_games(p["team"]) >= 4 else 1)
                 cands.append((score, p))
             cands.sort(key=lambda x: -x[0])
@@ -343,7 +375,7 @@ def stream_picks(ctx):
                 c = chosen.setdefault(p["espnId"], {"p": p, "days": set(), "leagues": set(), "counts": {}})
                 c["leagues"].add(lc["short"])
                 for x in thin:  # every thin day this player covers, not only the one that picked him
-                    if x in ctx.team_dates(p["team"]):
+                    if x in ctx.team_dates(p["team"]) and x >= (ctx.waiver_until(lc["id"], p["espnId"]) or ""):
                         c["days"].add(x)
                         c["counts"][x] = min(c["counts"].get(x, 99), count[x])
     picks = []
@@ -374,8 +406,10 @@ def day_plan(ctx):
 
     A day has room for a streamer when fewer of my healthy players play than there are active lineup slots
     (PG, SG, SF, PF, C, G, F, 3 UTIL = 10). Candidates are free in that league, play that day and are ranked by
-    expected points until the end of that H2H week, counting only their games on days with an open slot. Each day's
-    first choice joins the plan: it fills a slot on its later game days and is not suggested again."""
+    expected points until the end of that H2H week, counting only their games on days with an open slot. A player on
+    waivers only counts from the day his claim is processed. Each day's first choice joins the plan: it fills a slot
+    on its later game days, is not suggested again and uses one of the week's adds (`weeklyAdds`, minus what ESPN
+    says is already used this week); with none left the day gets no candidates."""
     weeks = ctx.schedule.get("weeks") or []
     plays = {(d, team) for w in weeks for team, x in w["teams"].items() for d in x["dates"]}
     game_days = sorted({d for d, _ in plays})
@@ -394,16 +428,20 @@ def day_plan(ctx):
         horizon = [d for d in game_days if first <= d <= max(week_end.get(x, x) for x in days or [first])]
         count = {d: sum(1 for p in active if (d, p["team"]) in plays) for d in horizon}
         open_ = {d: max(0, slots - count[d]) for d in horizon}
-        planned, plan_week = {}, None  # espnId -> (day added, player); streamers are dropped when the week ends
+        limit = lc.get("weeklyAdds", ctx.cfg.get("weeklyAdds", 7))
+        used = (roster.get("adds") or {}).get("used", 0)  # ESPN's count for the week we're in
+        planned, plan_week, adds = {}, None, limit  # espnId -> (day added, player); streamers go when the week ends
         for d in days:
             if week_end[d] != plan_week:
                 planned, plan_week = {}, week_end[d]
+                adds = max(0, limit - used) if ctx.week and plan_week == ctx.week["end"] else limit
             entry = {"league": lc["short"], "mine": count[d], "open": open_[d], "sitting": max(0, count[d] - slots),
+                     "adds": adds, "addsLimit": limit,
                      "planned": [{"player": p["name"], "team": p["team"], "from": since}
                                  for since, p in planned.values() if (d, p["team"]) in plays],
                      "picks": []}
             out[d]["leagues"].append(entry)
-            if not open_[d]:
+            if not open_[d] or not adds:
                 continue
             cands = []
             for k, p in pool["players"].items():
@@ -413,18 +451,26 @@ def day_plan(ctx):
                     continue
                 if p["mpg"] < ctx.cfg.get("streamMinMinutes", 20):
                     continue
+                wd = ctx.waiver_until(lc["id"], p["espnId"])
+                if wd and wd > d:
+                    continue  # on waivers until a later day
                 rest = [x for x in horizon if d <= x <= week_end[d] and (x, p["team"]) in plays and open_[x]]
                 gtd = bool(ctx.is_gtd(p))
-                cands.append((round(p["fpts"] * len(rest), 1), gtd, p, rest))
+                cands.append((round(p["fpts"] * len(rest), 1), gtd, p, rest, wd))
             # a questionable (GTD) player may not suit up: rank him as if worth a quarter less
             cands.sort(key=lambda c: (-c[0] * (0.75 if c[1] else 1), -c[2]["fpts"]))
-            for value, gtd, p, rest in cands[:per_day]:
-                entry["picks"].append({"player": p["name"], "team": p["team"], "pos": p["pos"], "espnId": p["espnId"],
-                                       "fpts": p["fpts"], "mpg": p["mpg"], "basis": p["basis"],
-                                       "matchup": ctx.matchup(p["team"], d), "dates": rest, "value": value, "gtd": gtd})
+            for value, gtd, p, rest, wd in cands[:per_day]:
+                pick = {"player": p["name"], "team": p["team"], "pos": p["pos"], "espnId": p["espnId"],
+                        "fpts": p["fpts"], "mpg": p["mpg"], "basis": p["basis"], "gp": p.get("gp", 0),
+                        "cur": p.get("cur"), "matchup": ctx.matchup(p["team"], d), "dates": rest, "value": value,
+                        "gtd": gtd}
+                if wd:
+                    pick["waiver"] = wd
+                entry["picks"].append(pick)
             if cands:
-                _, _, top, rest = cands[0]
+                top, rest = cands[0][2], cands[0][3]
                 planned[top["espnId"]] = (d, top)
+                adds -= 1
                 for x in rest[1:]:
                     open_[x] = max(0, open_[x] - 1)
     return [out[d] for d in days]
@@ -494,6 +540,11 @@ Iz priloženih podataka (ozljede CBS, vijesti RotoWire, raspored, moji rosteri, 
 fantasy bodova po utakmici, heuristički prijedlozi) sastavi konačnu listu waiver preporuka.
 Pravila:
 - Predlaži samo igrače iz `freeAgents`, `heuristic` ili vijesti; espnId prepiši iz podataka (0 ako ga nema).
+- `fpts` je procjena koja miješa ovu sezonu (`fptsThisSeason` u `gamesThisSeason` utakmica) s prošlom sezonom ili \
+ESPN projekcijom (`fptsPrior`); što više utakmica, to više vrijedi ova sezona. Nagli skok ili pad minuta ove sezone \
+je važan signal uloge.
+- `waivers` {liga: datum}: igrač je u toj ligi na waiversu, može se samo claimati i igra za mene tek od tog datuma — \
+to napiši u risk. Svaka liga ima `weeklyAdds` preuzimanja po H2H tjednu, `addsUsed` je već iskorišteno.
 - priority 1 = uzmi odmah (novi starter, velika uloga zbog ozljede), 2 = stream/stash (kratkoročno ili prazni dani \
 u tjednu), 3 = špekulacija.
 - Streameri: dani kad imam ≤ 2 igrača u akciji (`thinDays`) — prednost igračima čiji timovi igraju više takvih dana \
@@ -510,18 +561,22 @@ def claude_context(ctx, heur, thin):
         if p["team"] == "FA" or p["fpts"] < 12 or not ctx.free_somewhere(p):
             continue
         fa.append({"espnId": p["espnId"], "name": p["name"], "team": p["team"], "pos": p["pos"], "fpts": p["fpts"],
-                   "mpg": p["mpg"], "basis": p["basis"], "espnInjury": p["injury"],
+                   "mpg": p["mpg"], "basis": p["basis"], "gamesThisSeason": p.get("gp", 0),
+                   "fptsThisSeason": p.get("cur"), "fptsPrior": p.get("prior"), "espnInjury": p["injury"],
                    "gamesThisWeek": ctx.team_games(p["team"]), "dates": ctx.team_dates(p["team"]),
-                   "avail": ctx.avail(p["name"], p["espnId"])})
+                   "avail": ctx.avail(p["name"], p["espnId"]), "waivers": ctx.waivers(p["espnId"])})
         if len(fa) >= 90:
             break
     return {
         "today": ctx.today.isoformat(),
         "week": {k: (ctx.week or {}).get(k) for k in ("label", "start", "end")},
         "thinDays": thin,
-        "myRosters": [{"league": L["name"], "players": [
-            dict(p, injury=(ctx.injury(p["name"]) or {}).get("status")) for p in L.get("players", [])]}
-            for L in ctx.rosters],
+        "myRosters": [{"league": L["name"], "addsUsed": (L.get("adds") or {}).get("used"),
+                       "weeklyAdds": next((lc.get("weeklyAdds") for lc in ctx.leagues if lc["id"] == L["id"]), None)
+                       or ctx.cfg.get("weeklyAdds", 7),
+                       "players": [dict(p, injury=(ctx.injury(p["name"]) or {}).get("status"))
+                                   for p in L.get("players", [])]}
+                      for L in ctx.rosters],
         "injuries": [i for i in ctx.injuries if i["kind"] != "gtd" or (i.get("updated") or "") >= cut],
         "news": [{k: n.get(k) for k in ("date", "team", "player", "headline", "note", "kind")}
                  for n in ctx.news if (n.get("date") or "") >= cut][:120],

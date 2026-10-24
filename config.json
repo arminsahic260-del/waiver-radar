@@ -10,6 +10,8 @@
   "streamersPerDay": 3,
   "streamMinMinutes": 20,
   "activeSlots": 10,
+  "weeklyAdds": 7,
+  "blendGames": 4,
   "planDays": 7,
   "planPerDay": 3,
   "maxPicks": 30,

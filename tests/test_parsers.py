@@ -150,6 +150,8 @@ def test_espn_build_league():
     assert (flagg["fpts"], flagg["basis"]) == (39.7, "prošla sezona")
     fa = pool["players"]["6430"]  # Jimmy Butler III, on waivers
     assert "6430" not in pool["rostered"] and fa["team"] == "GSW" and fa["injury"] == "OUT"
+    assert pool["waivers"]["6430"] == "2026-10-20"  # preseason snapshot: everyone clears on opening day
+    assert entry["adds"] == {"period": 1, "used": 0}
 
 
 def test_espn_finds_my_team_by_name():
@@ -158,13 +160,27 @@ def test_espn_finds_my_team_by_name():
     assert entry["espnTeamId"] == 1 and pool["myTeamId"] == 1
 
 
-def test_espn_estimate_fallbacks():
+def test_espn_estimate_blends_this_season_with_prior():
     proj = {"id": "102027", "appliedAverage": 22.04, "averageStats": {"40": 28.0}}
     short = {"id": "002027", "appliedAverage": 50.0, "averageStats": {"42": 2, "40": 30.0}}
-    assert espn.estimate([proj, short], 2027) == (22.0, 28.0, "projekcija")
-    full = dict(short, averageStats={"42": 6, "40": 31.0})
-    assert espn.estimate([proj, full], 2027) == (50.0, 31.0, "sezona")
-    assert espn.estimate([], 2027) == (0.0, 0.0, None)
+    # 2 games -> this season weighs 2 / (2 + 4) = 1/3
+    assert espn.estimate([proj, short], 2027) == {"fpts": 31.4, "mpg": 28.7, "basis": "sezona+projekcija", "gp": 2,
+                                                  "cur": 50.0, "prior": 22.0}
+    last = {"id": "002026", "appliedAverage": 30.0, "averageStats": {"42": 60, "40": 32.0}}
+    full = dict(short, averageStats={"42": 12, "40": 30.0})   # 12 games -> 3/4
+    e = espn.estimate([proj, last, full], 2027)
+    assert (e["fpts"], e["mpg"], e["basis"], e["prior"]) == (45.0, 30.5, "sezona+prošla sezona", 30.0)
+    thin_last = dict(last, averageStats={"42": 6, "40": 32.0})  # under 10 games: projection is the prior
+    assert espn.estimate([proj, thin_last], 2027)["basis"] == "projekcija"
+    assert espn.estimate([short], 2027)["basis"] == "sezona" and espn.estimate([short], 2027)["fpts"] == 50.0
+    assert espn.estimate([proj, short], 2027, blend_games=0)["fpts"] == 50.0
+    assert espn.estimate([], 2027) == {"fpts": 0.0, "mpg": 0.0, "basis": None, "gp": 0, "cur": None, "prior": None}
+
+
+def test_espn_waiver_date_is_the_et_claim_day():
+    assert espn.waiver_date({"status": "WAIVERS", "waiverProcessDate": 1792911600000}) == "2026-10-25"  # 07:00Z
+    assert espn.waiver_date({"status": "FREEAGENT", "waiverProcessDate": 1792911600000}) is None
+    assert espn.waiver_date({"status": "WAIVERS"}) is None
 
 
 def test_espn_private_league_falls_back_with_error(monkeypatch):

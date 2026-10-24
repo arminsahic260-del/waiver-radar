@@ -177,6 +177,38 @@ def test_day_plan_ranks_by_points_left_this_week_and_carries_the_plan():
     assert "Stream Two" not in [p["player"] for p in thu["picks"]] and thu["open"] == 9
 
 
+def test_waiver_players_only_count_from_their_claim_day():
+    pool = dict(POOL, waivers={"11": "2026-10-22", "10": "2026-10-20"})  # Stream Star's claim ran this morning
+    c = analyze.Ctx(CFG, {"items": []}, {"items": []}, {"items": []}, [], SCHEDULE, ROSTERS, {"L": pool}, TODAY)
+    days = {d["date"]: d["leagues"][0] for d in analyze.day_plan(c)}
+    assert "Stream Two" not in [p["player"] for p in days["2026-10-20"]["picks"]]
+    star = days["2026-10-20"]["picks"][0]
+    assert star["player"] == "Stream Star" and "waiver" not in star
+    two = next(p for p in days["2026-10-22"]["picks"] if p["player"] == "Stream Two")
+    assert two["waiver"] == "2026-10-22" and two["dates"] == ["2026-10-22", "2026-10-24", "2026-10-25"]
+    streams = by_name(analyze.stream_picks(c)[0])
+    assert "utorak" not in streams.get("Stream Two", {}).get("note", "")
+    pick = analyze.make_pick(c, POOL["players"]["11"], "Stream Two", "PHI", "PG", 2, "", "", "", "", "")
+    assert pick["waivers"] == {"Legendi": "2026-10-22"} and pick["avail"]["Legendi"] is True
+
+
+def test_day_plan_stops_when_the_weeks_adds_are_used():
+    rosters = {"leagues": [dict(ROSTERS["leagues"][0], adds={"period": 1, "used": 5})]}
+    c = analyze.Ctx(dict(CFG, weeklyAdds=7), {"items": []}, {"items": []}, {"items": []}, [], SCHEDULE, rosters,
+                    {"L": POOL}, TODAY)
+    plan = [(d["date"], d["leagues"][0]) for d in analyze.day_plan(c)]
+    assert [L["adds"] for _, L in plan] == [2, 1, 0, 0, 0, 0]
+    assert all(L["picks"] == [] for _, L in plan[2:])
+    assert [x["player"] for x in plan[2][1]["planned"]] == ["Stream Two"]   # planned adds still play
+
+
+def test_fp_text_shows_both_seasons():
+    p = {"fpts": 25.1, "mpg": 27.4, "basis": "sezona+prošla sezona", "gp": 2, "cur": 28.0, "prior": 23.0}
+    assert analyze.fp_text(p) == "~25.1 FP po utakmici (ove sezone 28.0 u 2 utk., prošle sezone 23.0; 27 min)"
+    assert analyze.fp_text(dict(p, basis="prošla sezona", gp=0)) == "~25.1 FP po utakmici (prošle sezone, 27 min)"
+    assert analyze.fp_text(dict(p, basis="sezona")) == "~25.1 FP po utakmici (ove sezone, 2 utk., 27 min)"
+
+
 def test_day_plan_skips_full_days():
     full = analyze.Ctx(dict(CFG, activeSlots=1), {"items": []}, {"items": []}, {"items": []}, [], SCHEDULE, ROSTERS,
                        {"L": POOL}, TODAY)

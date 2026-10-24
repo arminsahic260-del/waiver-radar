@@ -106,6 +106,7 @@ section[role="tabpanel"]{display:block}
 .avail span.yes{border-style:solid;border-color:var(--ok);color:var(--ok)}
 .avail span.no{border-style:solid;border-color:var(--out);color:var(--out);text-decoration:line-through}
 .avail span.note{border-style:solid;border-color:var(--info);color:var(--info)}
+.avail span.wv{border-style:solid;border-color:var(--gtd);color:var(--gtd)}
 
 .teamblock{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .teamblock summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:10px 14px;font-family:var(--display);font-size:18px;font-weight:600}
@@ -309,6 +310,10 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
     return true;
   }
   const activePicks=()=>((S.waiver&&S.waiver.picks)||[]).filter(p=>!p.expires||p.expires>=todayISO());
+  // free in a league, but on waivers there until ESPN processes claims (he plays for you from that day)
+  const waiverTill=(p,k)=>p.waivers&&p.waivers[k]&&p.waivers[k]>todayISO()?p.waivers[k]:null;
+  const availText=(p,k,v)=>v===true?(waiverTill(p,k)?"waiver do "+fmtD(waiverTill(p,k)):"slobodan"):v===false?"zauzet":null;
+  const seasonText=p=>p.gp?`ove sezone ${p.cur} FP u ${p.gp} ${plural(p.gp,"utakmici","utakmice","utakmica")}`:"";
 
   const DAY_FULL=["Nedjelja","Ponedjeljak","Utorak","Srijeda","Četvrtak","Petak","Subota"];
   const dayOf=iso=>new Date(iso+"T12:00:00").getDay();
@@ -324,20 +329,23 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
 
   function nowRow(p){
     const mine=/^na tvom rosteru/.test(p.note||"")?((p.note.match(/\(([^)]*)\)/)||[])[1]||Object.keys(p.avail||{}).join(", ")).split(", "):[];
-    const av=p.avail?Object.entries(p.avail).map(([k,v])=>`${esc(k)}: ${mine.includes(k)?"tvoj":v===true?"slobodan":v===false?"zauzet":"?"}`).join(" · "):"";
+    const av=p.avail?Object.entries(p.avail).map(([k,v])=>`${esc(k)}: ${mine.includes(k)?"tvoj":availText(p,k,v)||"?"}`).join(" · "):"";
     return `<div class="dl-row top"><span class="rk">!</span><span class="name">${esc(p.player)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos||"")}</span></span><span class="fp num">${p.fpts?`~${esc(p.fpts)}<span class="pos"> FP</span>`:""}</span>
       <span class="meta">${esc(p.role||"")}${av?" · "+av:""}</span></div>`;
   }
 
   function leagueBlock(d,L){
-    const head=`<div class="dl-head"><span>${esc(L.league)}</span><span class="meta num">igra ${L.mine} ${plural(L.mine,"tvoj","tvoja","tvojih")} · ${L.open?`<span class="open">prazno ${L.open}</span>`:"prazno 0"}</span></div>`;
+    const adds=L.adds==null?"":` · još ${L.adds} ${plural(L.adds,"preuzimanje","preuzimanja","preuzimanja")}`;
+    const head=`<div class="dl-head"><span>${esc(L.league)}</span><span class="meta num">igra ${L.mine} ${plural(L.mine,"tvoj","tvoja","tvojih")} · ${L.open?`<span class="open">prazno ${L.open}</span>`:"prazno 0"}${adds}</span></div>`;
     const planned=L.planned.length?`<div class="dl-note">Iz plana igra i danas: ${L.planned.map(x=>`${esc(x.player)} (uzet ${dayShort(x.from)})`).join(", ")}</div>`:"";
     if(!L.open)return `<div class="dl">${head}${planned}<div class="dl-note">${L.sitting?`${L.sitting} ${plural(L.sitting,"tvoj igrač sjedi","tvoja igrača sjede","tvojih igrača sjedi")} na klupi — `:""}svi slotovi su puni, streamer ne treba.</div></div>`;
+    if(L.adds===0)return `<div class="dl">${head}${planned}<div class="dl-note">Iskorišteno je svih ${L.addsLimit} preuzimanja ovaj tjedan — novi igrač tek od idućeg H2H tjedna.</div></div>`;
     const rows=L.picks.filter(p=>matches(p.player,p.team)).map((p,i)=>{
       const inj=injuryFor(p.player);
-      const flag=inj?" "+statusPill(inj):p.gtd?` <span class="pill gtd">GTD</span>`:"";
+      const flag=(inj?" "+statusPill(inj):p.gtd?` <span class="pill gtd">GTD</span>`:"")+(p.waiver?` <span class="pill gtd" title="Na waiversu: samo claim, igra za tebe od tog dana">waiver do ${fmtD(p.waiver)}</span>`:"");
+      const st=seasonText(p);
       return `<div class="dl-row${i===0?" top":""}"><span class="rk num">${i+1}</span><span class="name">${esc(p.player)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span>${flag}</span><span class="fp num" title="Očekivani bodovi do kraja H2H tjedna">~${Math.round(p.value)}<span class="pos"> FP</span></span>
-        <span class="meta">${esc(p.matchup)} · ~${esc(p.fpts)} FP po utakmici · ${Math.round(p.mpg)} min · igra ${p.dates.map(x=>x===d.date?`<b>${dayShort(x)}</b>`:dayShort(x)).join(", ")}</span></div>`;}).join("");
+        <span class="meta">${esc(p.matchup)} · ~${esc(p.fpts)} FP po utakmici${st?` (${esc(st)})`:""} · ${Math.round(p.mpg)} min · igra ${p.dates.map(x=>x===d.date?`<b>${dayShort(x)}</b>`:dayShort(x)).join(", ")}</span></div>`;}).join("");
     return `<div class="dl">${head}${planned}${rows||`<div class="dl-note">${L.picks.length?"Nema kandidata za ovaj filter.":"Nema slobodnih igrača koji taj dan igraju."}</div>`}</div>`;
   }
 
@@ -351,7 +359,7 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
       const ls=d.leagues.map(L=>leagueBlock(d,L)).join("");
       return `<div class="day"><h2>${esc(dayName(d.date))} ${fmtD(d.date)}<small>${d.games} ${plural(d.games,"utakmica","utakmice","utakmica")}</small></h2>${ls?`<div class="daygrid">${ls}</div>`:`<div class="empty">Nema ESPN podataka o slobodnim igračima.</div>`}</div>`;}).join("");
     if(!days.length)html+=`<div class="empty">Nema NBA utakmica u idućih 7 dana.</div>`;
-    else html+=`<p class="meta">Prazno = aktivna mjesta (PG, SG, SF, PF, C, G, F, 3× UTIL) koja taj dan ostaju prazna jer igra manje od 10 tvojih zdravih igrača. Kandidati su slobodni u toj ligi i poredani po očekivanim bodovima do kraja H2H tjedna: FP po utakmici × utakmice na dane s praznim mjestom. Prvi s liste ulazi u plan i u idućim danima zauzima mjesto. Za svakog dodanog igrača moraš nekoga otpustiti.</p>`;
+    else html+=`<p class="meta">Prazno = aktivna mjesta (PG, SG, SF, PF, C, G, F, 3× UTIL) koja taj dan ostaju prazna jer igra manje od 10 tvojih zdravih igrača. Kandidati su slobodni u toj ligi i poredani po očekivanim bodovima do kraja H2H tjedna: FP po utakmici × utakmice na dane s praznim mjestom. FP po utakmici miješa ovu sezonu s prošlom (ili ESPN projekcijom); svaka nova utakmica daje ovoj sezoni veću težinu. Igrač na waiversu ulazi u plan tek od dana kad prolazi claim. Prvi s liste ulazi u plan, u idućim danima zauzima mjesto i troši jedno od tjednih preuzimanja. Za svakog dodanog igrača moraš nekoga otpustiti.</p>`;
     el.innerHTML=html;
   }
 
@@ -364,12 +372,13 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
     const PRI={1:"Uzmi odmah",2:"Stream / stash",3:"Špekulacija"};
     el.innerHTML=list.map(p=>{
       const inj=injuryFor(p.player);
-      const av=(p.avail?Object.entries(p.avail).map(([k,v])=>`<span class="${v===true?"yes":v===false?"no":""}">${esc(k)}: ${v===true?"slobodan":v===false?"zauzet":"nepoznato"}</span>`).join(""):"")+(p.note?`<span class="note">${esc(p.note)}</span>`:"");
+      const av=(p.avail?Object.entries(p.avail).map(([k,v])=>`<span class="${v===true?(waiverTill(p,k)?"wv":"yes"):v===false?"no":""}">${esc(k)}: ${availText(p,k,v)||"nepoznato"}</span>`).join(""):"")+(p.note?`<span class="note">${esc(p.note)}</span>`:"");
+      const st=seasonText(p);
       return `<article class="card pri${p.priority}">
         <div class="row between"><div class="row"><span class="name">${esc(p.player)}</span><span class="team">${esc(p.team)}</span><span class="pos">${esc(p.pos||"")}</span></div><span class="pill p${p.priority}">${PRI[p.priority]||""}</span></div>
         <div class="row" style="margin-top:6px">${statusPill(inj)}${gamesBadge(p.team)}</div>
         <p class="why">${esc(p.reason||"")}</p>
-        <dl class="kv">${p.role?`<dt>Uloga</dt><dd>${esc(p.role)}</dd>`:""}${p.horizon?`<dt>Horizont</dt><dd>${esc(p.horizon)}</dd>`:""}${p.risk?`<dt>Rizik</dt><dd>${esc(p.risk)}</dd>`:""}${p.fpts?`<dt>Procjena</dt><dd class="num">~${esc(p.fpts)} FP po utakmici</dd>`:""}</dl>
+        <dl class="kv">${p.role?`<dt>Uloga</dt><dd>${esc(p.role)}</dd>`:""}${p.horizon?`<dt>Horizont</dt><dd>${esc(p.horizon)}</dd>`:""}${p.risk?`<dt>Rizik</dt><dd>${esc(p.risk)}</dd>`:""}${p.fpts?`<dt>Procjena</dt><dd class="num">~${esc(p.fpts)} FP po utakmici${st?` · ${esc(st)}`:""}</dd>`:""}</dl>
         ${av?`<div class="avail">${av}</div>`:""}
         ${p.source?`<p class="meta" style="margin:8px 0 0"><a href="${esc(p.source)}" target="_blank" rel="noopener">Izvor</a></p>`:""}
       </article>`;}).join("");
@@ -412,7 +421,8 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
           ${inj||nw.length?`<span class="meta">${inj?esc(inj.injury||"")+(inj.kind==="out"&&inj.status?" · "+esc(inj.status):"")+(nw.length?" · ":""):""}${nw.map(n=>fmtD(n.date)+" "+esc(n.headline)).join(" · ")}</span>`:""}
         </div>`;}).join("");
       const manual=L.updated?null:(L.espnLeagueId?"ručni roster":"ručni roster — dodaj ESPN League ID");
-      const sub=[L.team,manual,L.updated?"ažur. "+fmtDT(L.updated):null].filter(Boolean).join(" · ");
+      const adds=L.adds&&L.adds.limit?`preuzimanja ${L.adds.used}/${L.adds.limit} ovaj tjedan`:null;
+      const sub=[L.team,manual,adds,L.updated?"ažur. "+fmtDT(L.updated):null].filter(Boolean).join(" · ");
       return `<div class="league"><h2>${esc(L.name)}<small>${esc(sub)}${L.error?` · <span class="warn">${esc(L.error)}</span>`:""}</small></h2><div class="ros">${rows||`<div class="ros-row"><span class="meta">Nema igrača za ovaj filter.</span></div>`}</div></div>`;
     }).join("");
   }
