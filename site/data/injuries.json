@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:21:17Z",
+ "updated": "2026-10-24T15:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -154,6 +154,16 @@
   },
   {
    "team": "DAL",
+   "player": "Kyrie Irving",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
    "updated": "2026-10-23",
@@ -294,10 +304,30 @@
   },
   {
    "team": "HOU",
+   "player": "Fred VanVleet",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
    "player": "Reed Sheppard",
    "pos": "SG",
    "updated": "2026-10-24",
    "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
+   "player": "Steven Adams",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Rest",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
