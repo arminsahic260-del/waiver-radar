@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:21:55Z",
+ "updated": "2026-10-24T01:42:49Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -18,6 +18,23 @@
    "source": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-starting-wednesday-535417",
    "espnId": 4066436,
    "fpts": 23.9
+  },
+  {
+   "player": "GG Jackson",
+   "team": "MEM",
+   "pos": "PF",
+   "priority": 1,
+   "reason": "RotoWire 23.10.: Starting Friday. Jackson will start Friday against the Warriors, Damichael Cole of The Memphis Commercial Appeal reports. ~22.4 FP po utakmici (prošle sezone, 21 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-starting-friday-535737",
+   "espnId": 5105550,
+   "fpts": 22.4
   },
   {
    "player": "Jarace Walker",
@@ -120,6 +137,23 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6589,
    "fpts": 25.6
+  },
+  {
+   "player": "Christian Braun",
+   "team": "DEN",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Cameron Johnson (gležanj) je out najmanje do 26.10. — nova ozljeda. Christian Braun je prvi SG/SF u rotaciji DEN-a za te minute; ~24.9 FP po utakmici (prošle sezone, 32 min).",
+   "role": "Veća minutaža dok je out Cameron Johnson",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Cameron Johnson",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4431767,
+   "fpts": 24.9
   },
   {
    "player": "Sandro Mamukelashvili",
@@ -245,8 +279,8 @@
    "team": "DAL",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
-   "role": "Veća minutaža dok je out Santi Aldama",
+   "reason": "Santi Aldama (koljeno) je out najmanje do 24.10.; Cooper Flagg (rame) je upitan (GTD). Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
+   "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Santi Aldama",
    "avail": {
@@ -258,12 +292,63 @@
    "fpts": 23.5
   },
   {
+   "player": "Marvin Bagley III",
+   "team": "DEN",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Cameron Johnson (gležanj) je out najmanje do 26.10. — nova ozljeda. Marvin Bagley III je sljedeći PF/C u rotaciji DEN-a za te minute; ~23.3 FP po utakmici (prošle sezone, 20 min).",
+   "role": "Veća minutaža dok je out Cameron Johnson",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Cameron Johnson",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4277848,
+   "fpts": 23.3
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Reed Sheppard (koljeno) je out najmanje do 24.10. — nova ozljeda. Marcus Smart je sljedeći PG/SG u rotaciji HOU-a za te minute; ~21.8 FP po utakmici (prošle sezone, 28 min).",
+   "role": "Veća minutaža dok je out Reed Sheppard",
+   "horizon": "Do ~24.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Reed Sheppard",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2990992,
+   "fpts": 21.8
+  },
+  {
+   "player": "Zaccharie Risacher",
+   "team": "DAL",
+   "pos": "SF",
+   "priority": 3,
+   "reason": "Cooper Flagg (rame) je upitan (GTD). Zaccharie Risacher je sljedeći SF u rotaciji DAL-a za te minute; ~19.8 FP po utakmici (prošle sezone, 22 min).",
+   "role": "Zamjena ako Cooper Flagg ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Cooper Flagg",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5211175,
+   "fpts": 19.8
+  },
+  {
    "player": "Harrison Barnes",
    "team": "SAS",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 24.10.; De'Aaron Fox (zapešće) je upitan (GTD). Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
-   "role": "Veća minutaža dok su out Tobias Harris i De'Aaron Fox",
+   "reason": "Tobias Harris (list) je out najmanje do 24.10. Harrison Barnes je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.1 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Veća minutaža dok je out Tobias Harris",
    "horizon": "Do ~24.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris",
    "avail": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:21:18Z",
+ "updated": "2026-10-24T01:42:12Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -163,6 +163,26 @@
    "ret": "2026-10-24"
   },
   {
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
    "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
@@ -174,20 +194,20 @@
   },
   {
    "team": "DEN",
-   "player": "Cameron Johnson",
-   "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DEN",
    "player": "Spencer Jones",
    "pos": "SF",
    "updated": "2026-10-23",
    "injury": "Hamstring",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Wrist",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -233,34 +253,14 @@
    "ret": "2026-12-01"
   },
   {
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "HOU",
    "player": "Reed Sheppard",
    "pos": "SG",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "HOU",
-   "player": "Steven Adams",
-   "pos": "C",
-   "updated": "2026-10-21",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
   },
   {
    "team": "IND",
@@ -534,20 +534,20 @@
   },
   {
    "team": "PHX",
-   "player": "Oso Ighodaro",
-   "pos": "C",
-   "updated": "2026-10-23",
-   "injury": "Oblique",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "PHX",
    "player": "Luke Kennard",
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "pos": "C",
+   "updated": "2026-10-23",
+   "injury": "Oblique",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -631,26 +631,6 @@
    "status": "Expected return: at least Oct 24",
    "kind": "out",
    "ret": "2026-10-24"
-  },
-  {
-   "team": "SAS",
-   "player": "De'Aaron Fox",
-   "pos": "PG",
-   "updated": "2026-10-22",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "SAS",
-   "player": "Keldon Johnson",
-   "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Mouth",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "TOR",
