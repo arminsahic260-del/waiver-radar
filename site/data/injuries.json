@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:21:17Z",
+ "updated": "2026-10-24T14:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -234,13 +234,13 @@
   },
   {
    "team": "GSW",
-   "player": "Charles Bassey",
-   "pos": "C",
-   "updated": "2026-10-23",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 24",
+   "player": "Brandin Podziemski",
+   "pos": "SG",
+   "updated": "2026-10-24",
+   "injury": "Back",
+   "status": "Expected return: at least Oct 26",
    "kind": "out",
-   "ret": "2026-10-24"
+   "ret": "2026-10-26"
   },
   {
    "team": "GSW",
@@ -273,14 +273,34 @@
    "ret": "2026-12-01"
   },
   {
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "HOU",
    "player": "Reed Sheppard",
    "pos": "SG",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "IND",
@@ -366,41 +386,41 @@
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "LAL",
    "player": "Cameron Carr",
    "pos": "SG",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "injury": "Oblique",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "LAL",
    "player": "Jake LaRavia",
    "pos": "SF",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "injury": "Ankle",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MEM",
    "player": "Cedric Coward",
    "pos": "SG",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "injury": "Wrist",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MIN",
@@ -584,26 +604,6 @@
   },
   {
    "team": "POR",
-   "player": "Branden Carlson",
-   "pos": "C",
-   "updated": "2026-10-22",
-   "injury": "Concussion",
-   "status": "Expected return: at least Oct 27",
-   "kind": "out",
-   "ret": "2026-10-27"
-  },
-  {
-   "team": "POR",
-   "player": "Chris Youngblood",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 27",
-   "kind": "out",
-   "ret": "2026-10-27"
-  },
-  {
-   "team": "POR",
    "player": "Shaedon Sharpe",
    "pos": "SG",
    "updated": "2026-09-28",
@@ -611,6 +611,26 @@
    "status": "Expected return: at least Mar 2",
    "kind": "out",
    "ret": "2027-03-02"
+  },
+  {
+   "team": "POR",
+   "player": "Branden Carlson",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Concussion",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "POR",
+   "player": "Chris Youngblood",
+   "pos": "SG",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "SAC",
@@ -656,11 +676,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "TOR",
@@ -696,11 +716,11 @@
    "team": "UTA",
    "player": "Trey Alexander",
    "pos": "SG",
-   "updated": "2026-10-22",
+   "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "WAS",

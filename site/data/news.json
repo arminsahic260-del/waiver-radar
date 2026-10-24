@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-24T13:21:47Z",
+ "updated": "2026-10-24T14:21:47Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Won't play Saturday",
+   "note": "Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-wont-play-saturday-535831"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Unlikely to play against Phoenix",
+   "note": "Curry told reporters after Friday's loss to the Grizzlies that he will \"probably not\" play against the Suns on Saturday, Nick Friedell of The Athletic reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-unlikely-to-play-against-phoenix-535830"
+  },
   {
    "date": "2026-10-24",
    "team": "SAC",
@@ -230,26 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/julian-champagnie-news-lands-two-triples-off-bench-535807"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHA",
-   "player": "Tidjane Salaun",
-   "headline": "Solid production off bench",
-   "note": "Salaun contributed 11 points (5-9 FG, 1-5 3Pt, 0-0 FT), five rebounds, an assist and two steals across 23 minutes off the bench in Friday's 128-81 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-solid-production-off-bench-535806"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHA",
-   "player": "Moussa Diabate",
-   "headline": "Limited minutes in blowout loss",
-   "note": "Diabate registered five points (2-2 FG, 0-0 3Pt, 1-2 FT), eight rebounds, an assist, a steal and a block across 21 minutes in Friday's 128-81 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-limited-minutes-in-blowout-loss-535805"
   },
   {
    "date": "2026-10-23",
@@ -483,26 +483,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "IND",
-   "player": "Ben Sheppard",
-   "headline": "Out Friday, no timetable for return",
-   "note": "Head coach Rick Carlisle said Friday that Sheppard is without a timetable to return due to a left meniscus injury, Tony East of Forbes.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ben-sheppard-injury-out-friday-no-timetable-for-return-535704"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHI",
-   "player": "Tacko Fall",
-   "headline": "Still sidelined",
-   "note": "Fall (quadriceps) is out for Saturday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tacko-fall-injury-still-sidelined-535701"
-  },
-  {
-   "date": "2026-10-23",
    "team": "ATL",
    "player": "Aaron Wiggins",
    "headline": "Efficient scoring off bench",
@@ -600,6 +580,26 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyler-bilodeau-injury-wont-play-saturday-535699"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Restrictions will continue",
+   "note": "Nets coach Jordi Fernandez said Brown will continue to have restrictions going forward, C.J. Holmes of the New York Daily News reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-restrictions-will-continue-535685"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHA",
+   "player": "Tidjane Salaun",
+   "headline": "Solid production off bench",
+   "note": "Salaun contributed 11 points (5-9 FG, 1-5 3Pt, 0-0 FT), five rebounds, an assist and two steals across 23 minutes off the bench in Friday's 128-81 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-solid-production-off-bench-535806"
   }
  ]
 }
