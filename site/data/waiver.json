@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:21:53Z",
+ "updated": "2026-10-24T11:21:54Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -76,7 +76,7 @@
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/max-christie-news-starting-wednesday-535401",
    "espnId": 4432582,
