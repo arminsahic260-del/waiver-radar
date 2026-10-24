@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:21:50Z",
+ "updated": "2026-10-24T08:46:41Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,12 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-24T08:21:50Z",
+   "updated": "2026-10-24T08:46:40Z",
+   "adds": {
+    "period": 1,
+    "used": 2,
+    "limit": 7
+   },
    "players": [
     {
      "name": "Trae Young",
@@ -32,11 +37,11 @@
      "espnId": 2581018
     },
     {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
+     "name": "Tari Eason",
+     "team": "HOU",
      "pos": "SF/PF",
      "slot": "PF",
-     "espnId": 5175737
+     "espnId": 4433192
     },
     {
      "name": "Day'Ron Sharpe",
@@ -53,18 +58,18 @@
      "espnId": 6442
     },
     {
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
+     "slot": "F",
+     "espnId": 5175737
+    },
+    {
      "name": "Paolo Banchero",
      "team": "ORL",
      "pos": "SF/PF",
-     "slot": "F",
-     "espnId": 4432573
-    },
-    {
-     "name": "Ivica Zubac",
-     "team": "IND",
-     "pos": "C",
      "slot": "UTIL",
-     "espnId": 4017837
+     "espnId": 4432573
     },
     {
      "name": "Donovan Clingan",
@@ -79,6 +84,13 @@
      "pos": "PG/SG",
      "slot": "UTIL",
      "espnId": 2991230
+    },
+    {
+     "name": "Ivica Zubac",
+     "team": "IND",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 4017837
     },
     {
      "name": "Darius Acuff Jr.",
@@ -110,7 +122,12 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-24T08:21:50Z",
+   "updated": "2026-10-24T08:46:41Z",
+   "adds": {
+    "period": 1,
+    "used": 4,
+    "limit": 7
+   },
    "players": [
     {
      "name": "Stephon Castle",
@@ -127,18 +144,18 @@
      "espnId": 3917376
     },
     {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
-     "slot": "SF",
-     "espnId": 5041939
-    },
-    {
      "name": "Peyton Watson",
      "team": "CLE",
      "pos": "SF/PF",
-     "slot": "PF",
+     "slot": "SF",
      "espnId": 4576087
+    },
+    {
+     "name": "Jaden McDaniels",
+     "team": "MIN",
+     "pos": "SF/PF",
+     "slot": "PF",
+     "espnId": 4431671
     },
     {
      "name": "Kel'el Ware",
@@ -155,11 +172,11 @@
      "espnId": 5124612
     },
     {
-     "name": "Jaden McDaniels",
-     "team": "MIN",
-     "pos": "SF/PF",
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
      "slot": "F",
-     "espnId": 4431671
+     "espnId": 4278355
     },
     {
      "name": "Alperen Sengun",
@@ -176,10 +193,17 @@
      "espnId": 4433627
     },
     {
+     "name": "Tre Jones",
+     "team": "CHI",
+     "pos": "PG",
+     "slot": "UTIL",
+     "espnId": 4395626
+    },
+    {
      "name": "Neemias Queta",
      "team": "BOS",
      "pos": "C",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 4397424
     },
     {
@@ -197,11 +221,11 @@
      "espnId": 5254165
     },
     {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "BE",
-     "espnId": 4278355
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "IR",
+     "espnId": 5041939
     }
    ]
   }
