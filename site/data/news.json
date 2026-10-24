@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-24T08:46:36Z",
+ "updated": "2026-10-24T09:21:46Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Keegan Murray",
+   "headline": "Bounces back in defeat",
+   "note": "Murray notched 12 points (4-9 FG, 0-3 3Pt, 4-4 FT), two rebounds, one assist and one steal over 26 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-news-bounces-back-in-defeat-535829"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Precious Achiuwa",
+   "headline": "Posts diverse line off bench",
+   "note": "Achiuwa chipped in 14 points (7-11 FG, 0-1 3Pt), six rebounds, one assist and two steals in 25 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-posts-diverse-line-off-bench-535828"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Zach LaVine",
+   "headline": "Solid showing in loss",
+   "note": "LaVine accumulated 22 points (6-15 FG, 3-9 3Pt, 7-7 FT), five rebounds, one assist, one block and two steals in 39 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-solid-showing-in-loss-535827"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Darius Acuff",
+   "headline": "Logs massive total in defeat",
+   "note": "Acuff notched 33 points (10-26 FG, 2-11 3Pt, 11-12 FT), two rebounds and four assists across 37 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-logs-massive-total-in-defeat-535826"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Donovan Clingan",
+   "headline": "Grabs 10 rebounds in win",
+   "note": "Clingan ended Friday's 128-120 victory over the Kings with eight points (3-5 FG, 2-2 FT), 10 rebounds, three assists and three blocks across 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-grabs-10-rebounds-in-win-535825"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Ja Morant",
+   "headline": "Collects seven assists in victory",
+   "note": "Morant closed with 12 points (5-13 FG, 1-5 3Pt, 1-2 FT), three rebounds, seven assists and one steal over 27 minutes during Friday's 128-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-news-collects-seven-assists-in-victory-535824"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Damian Lillard",
+   "headline": "Cools off beyond the arc",
+   "note": "Lillard racked up 19 points (7-18 FG, 2-10 3Pt, 3-3 FT), five rebounds, two assists and two steals in 33 minutes during Friday's 128-120 victory over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-cools-off-beyond-the-arc-535823"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Superb in team's second win",
+   "note": "Avdija finished with 26 points (8-16 FG, 1-5 3Pt, 9-12 FT), seven rebounds, six assists and one steal across 39 minutes during Friday's 128-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-superb-in-teams-second-win-535822"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "LAC",
+   "player": "Brook Lopez",
+   "headline": "Provides spark off the bench",
+   "note": "Lopez finished with 22 points (8-9 FG, 2-2 3Pt, 4-5 FT), four rebounds and three blocks across 20 minutes during Friday's 125-117 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-provides-spark-off-the-bench-535821"
+  },
   {
    "date": "2026-10-24",
    "team": "LAC",
@@ -160,96 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-limited-minutes-in-blowout-loss-535805"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "SAS",
-   "player": "De'Aaron Fox",
-   "headline": "Flirts with double-double in loss",
-   "note": "Fox chipped in 19 points (6-11 FG, 2-5 3Pt, 5-5 FT), four rebounds, nine assists and two steals in 34 minutes during Friday's 114-110 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-flirts-with-double-double-in-loss-535804"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHA",
-   "player": "Brandon Miller",
-   "headline": "Endures disastrous shooting night",
-   "note": "Miller managed six points (2-14 FG, 1-11 3Pt, 1-1 FT), two rebounds, two steals and a block across 23 minutes in Friday's 128-81 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-endures-disastrous-shooting-night-535803"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "SAS",
-   "player": "Dylan Harper",
-   "headline": "Goes for 20 points in loss",
-   "note": "Harper ended with 20 points (8-15 FG, 1-4 3Pt, 3-4 FT), three rebounds and two assists in 36 minutes during Friday's 114-110 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-goes-for-20-points-in-loss-535802"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Efficient scoring off bench",
-   "note": "Wiggins notched 19 points (7-9 FG, 3-5 3Pt, 2-4 FT), a rebound, an assist and two steals across 22 minutes off the bench in Friday's 128-81 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-efficient-scoring-off-bench-535801"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Excellent all-around showing",
-   "note": "Daniels delivered 11 points (5-10 FG, 0-1 3Pt, 1-3 FT), nine rebounds, four assists, seven steals and a block across 23 minutes in Friday's 128-81 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-excellent-all-around-showing-535800"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Solid contribution in blowout win",
-   "note": "Alexander-Walker posted 14 points (5-12 FG, 2-7 3Pt, 2-2 FT), three rebounds, five assists and two steals across 27 minutes in Friday's 128-81 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-solid-contribution-in-blowout-win-535799"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "HOU",
-   "player": "Bogdan Bogdanovic",
-   "headline": "Muted effort Friday",
-   "note": "Bogdanovic amassed three points (1-2 FG, 1-1 3Pt) and one rebound over 11 minutes during Friday's 114-110 victory over San Antonio.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bogdan-bogdanovic-news-muted-effort-friday-535798"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "HOU",
-   "player": "Tari Eason",
-   "headline": "Drops 12 points, adds three steals",
-   "note": "Eason closed with 12 points (4-8 FG, 0-2 3Pt, 4-4 FT), six rebounds and four steals across 27 minutes during Friday's 114-110 victory over San Antonio.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-drops-12-points-adds-three-steals-535797"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "HOU",
-   "player": "Amen Thompson",
-   "headline": "Heroic performance Friday",
-   "note": "Thompson closed Friday's 114-110 victory over the Spurs with 20 points (9-15 FG, 1-2 3Pt, 1-1 FT), 10 rebounds, four assists, two blocks and two steals over 36 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-heroic-performance-friday-535796"
   },
   {
    "date": "2026-10-23",
@@ -504,6 +504,36 @@
   {
    "date": "2026-10-23",
    "team": "ATL",
+   "player": "Aaron Wiggins",
+   "headline": "Efficient scoring off bench",
+   "note": "Wiggins notched 19 points (7-9 FG, 3-5 3Pt, 2-4 FT), a rebound, an assist and two steals across 22 minutes off the bench in Friday's 128-81 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-efficient-scoring-off-bench-535801"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Excellent all-around showing",
+   "note": "Daniels delivered 11 points (5-10 FG, 0-1 3Pt, 1-3 FT), nine rebounds, four assists, seven steals and a block across 23 minutes in Friday's 128-81 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-excellent-all-around-showing-535800"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Solid contribution in blowout win",
+   "note": "Alexander-Walker posted 14 points (5-12 FG, 2-7 3Pt, 2-2 FT), three rebounds, five assists and two steals across 27 minutes in Friday's 128-81 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-solid-contribution-in-blowout-win-535799"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
    "player": "Jalen Johnson",
    "headline": "Loaded stat line Friday",
    "note": "Johnson posted 19 points (9-16 FG, 0-3 3Pt, 1-1 FT), seven rebounds, eight assists, three steals and a block across 29 minutes in Friday's 128-81 win over the Hornets.",
@@ -570,36 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyler-bilodeau-injury-wont-play-saturday-535699"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Restrictions will continue",
-   "note": "Nets coach Jordi Fernandez said Brown will continue to have restrictions going forward, C.J. Holmes of the New York Daily News reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-restrictions-will-continue-535685"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHA",
-   "player": "Naz Reid",
-   "headline": "Paces Charlotte in blowout loss",
-   "note": "Reid recorded 17 points (7-16 FG, 3-8 3Pt), six rebounds, two assists and one steal across 25 minutes in Friday's 128-81 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-paces-charlotte-in-blowout-loss-535747"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Zach Collins",
-   "headline": "Expected to be in rotation Saturday",
-   "note": "Head coach Tiago Splitter said he expects Collins to play Saturday against the Wizards, K.C. Johnson of Chicago Sports Network reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-news-expected-to-be-in-rotation-saturday-535781"
   }
  ]
 }
