@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:34:30Z",
+ "updated": "2026-10-24T23:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -98,9 +98,9 @@
    "pos": "PF",
    "updated": "2026-10-24",
    "injury": "Head",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "CHI",
@@ -108,9 +108,9 @@
    "pos": "PF",
    "updated": "2026-10-24",
    "injury": "Groin",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "CLE",
@@ -164,6 +164,16 @@
   },
   {
    "team": "DAL",
+   "player": "Kyrie Irving",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
    "updated": "2026-10-24",
@@ -194,40 +204,10 @@
   },
   {
    "team": "DAL",
-   "player": "Kyrie Irving",
-   "pos": "PG",
-   "updated": "2026-10-24",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
    "player": "Max Christie",
    "pos": "SG",
    "updated": "2026-10-24",
    "injury": "Leg",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Morez Johnson Jr.",
-   "pos": "PF",
-   "updated": "2026-10-24",
-   "injury": "Lower Leg",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -504,20 +484,20 @@
   },
   {
    "team": "LAL",
-   "player": "Adou Thiero",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
    "player": "Cameron Carr",
    "pos": "SG",
    "updated": "2026-10-24",
    "injury": "Oblique",
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
+  },
+  {
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "pos": "SF",
+   "updated": "2026-10-24",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -558,9 +538,9 @@
    "pos": "C",
    "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2026-11-02"
   },
   {
    "team": "NYK",
@@ -691,16 +671,6 @@
    "status": "Expected return: at least Oct 25",
    "kind": "out",
    "ret": "2026-10-25"
-  },
-  {
-   "team": "PHI",
-   "player": "Dean Wade",
-   "pos": "PF",
-   "updated": "2026-10-23",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "PHX",
