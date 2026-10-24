@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:21:58Z",
+ "updated": "2026-10-24T21:21:51Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -70,7 +70,7 @@
    "team": "GSW",
    "pos": "PG/SG",
    "priority": 1,
-   "reason": "RotoWire 21.10.: Starting Wednesday. Melton will start Wednesday's game against the Lakers, Trevor Lane of LakersNation.com reports. ~20.4 FP po utakmici (ove sezone 13.5 u 2 utk., prošle sezone 23.9; 22 min). Stephen Curry (odmor) je out najmanje do 26.10. — nova ozljeda. De'Anthony Melton je sljedeći PG/SG u rotaciji GSW-a za te minute; ~20.4 FP po utakmici (ove sezone 13.5 u 2 utk., prošle sezone 23.9; 22 min).",
+   "reason": "RotoWire 21.10.: Starting Wednesday. Melton will start Wednesday's game against the Lakers, Trevor Lane of LakersNation.com reports. ~20.4 FP po utakmici (ove sezone 13.5 u 2 utk., prošle sezone 23.9; 22 min). Stephen Curry (odmor) je out najmanje do 26.10. De'Anthony Melton je sljedeći PG/SG u rotaciji GSW-a za te minute; ~20.4 FP po utakmici (ove sezone 13.5 u 2 utk., prošle sezone 23.9; 22 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -168,7 +168,7 @@
    "team": "DET",
    "pos": "PF/C",
    "priority": 2,
-   "reason": "Jalen Duren (stražnja loža) je out najmanje do 27.10. — nova ozljeda. Paul Reed je prvi PF/C u rotaciji DET-a za te minute; ~24.3 FP po utakmici (ove sezone 31.0 u 2 utk., prošle sezone 21.0; 16 min).",
+   "reason": "Jalen Duren (stražnja loža) je out najmanje do 27.10. Paul Reed je prvi PF/C u rotaciji DET-a za te minute; ~24.3 FP po utakmici (ove sezone 31.0 u 2 utk., prošle sezone 21.0; 16 min).",
    "role": "Veća minutaža dok je out Jalen Duren",
    "horizon": "Do ~27.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jalen Duren",
@@ -244,7 +244,7 @@
    "team": "GSW",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Brandin Podziemski (leđa) je out najmanje do 26.10.; Stephen Curry (odmor) je out najmanje do 26.10. — nova ozljeda. Brandon Williams je prvi PG/SG u rotaciji GSW-a za te minute; ~21.3 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 23.9; 19 min).",
+   "reason": "Brandin Podziemski (leđa) je out najmanje do 26.10.; Stephen Curry (odmor) je out najmanje do 26.10. Brandon Williams je prvi PG/SG u rotaciji GSW-a za te minute; ~21.3 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 23.9; 19 min).",
    "role": "Veća minutaža dok su out Brandin Podziemski i Stephen Curry",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Brandin Podziemski",
@@ -454,7 +454,7 @@
    "team": "DET",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Jalen Duren (stražnja loža) je out najmanje do 27.10. — nova ozljeda. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~16.6 FP po utakmici (ove sezone 14.5 u 2 utk., prošle sezone 17.6; 17 min).",
+   "reason": "Jalen Duren (stražnja loža) je out najmanje do 27.10. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~16.6 FP po utakmici (ove sezone 14.5 u 2 utk., prošle sezone 17.6; 17 min).",
    "role": "Veća minutaža dok je out Jalen Duren",
    "horizon": "Do ~27.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jalen Duren; nizak bodovni plafon",

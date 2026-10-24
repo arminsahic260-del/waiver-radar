@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:21:21Z",
+ "updated": "2026-10-24T21:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -81,16 +81,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "CHA",
-   "player": "Christian Anderson",
-   "pos": "PG",
-   "updated": "2026-10-24",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "CHI",
@@ -286,11 +276,21 @@
    "team": "DET",
    "player": "Ausar Thompson",
    "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Undisclosed",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Al Horford",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Back",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "GSW",
@@ -348,6 +348,16 @@
    "pos": "C",
    "updated": "2026-10-24",
    "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Draymond Green",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -416,7 +426,17 @@
    "team": "IND",
    "player": "T.J. McConnell",
    "pos": "PG",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "pos": "SF",
+   "updated": "2026-10-24",
    "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
@@ -684,20 +704,20 @@
   },
   {
    "team": "PHX",
+   "player": "Oso Ighodaro",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Oblique",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "PHX",
    "player": "Luke Kennard",
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "pos": "C",
-   "updated": "2026-10-23",
-   "injury": "Oblique",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-24T20:21:53Z",
+ "updated": "2026-10-24T21:21:46Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "CHI",
+   "player": "Noa Essengue",
+   "headline": "Downgraded to questionable",
+   "note": "Essengue (head) has been downgraded to questionable for Saturday's game against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-downgraded-to-questionable-535881"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Now questionable for Saturday",
+   "note": "Williams (groin) is listed as questionable for Saturday's game against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-now-questionable-for-saturday-535880"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Probable for Sunday",
+   "note": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-for-sunday-535879"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Remains out Sunday",
+   "note": "McConnell (hamstring) is out for Sunday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-remains-out-sunday-535878"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHA",
+   "player": "Christian Anderson",
+   "headline": "Available Saturday",
+   "note": "Anderson (ankle) is available for Saturday's game against the Heat.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/christian-anderson-news-available-saturday-535877"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Won't play Saturday",
+   "note": "Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-wont-play-saturday-535876"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "headline": "Iffy to face Phoenix",
+   "note": "Bassey (knee) is listed as questionable for Saturday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-iffy-to-face-phoenix-535875"
+  },
   {
    "date": "2026-10-24",
    "team": "GSW",
@@ -193,16 +263,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Iffy for Sunday",
-   "note": "Black (ankle) is listed as questionable for Sunday's game against the Knicks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-iffy-for-sunday-535855"
-  },
-  {
-   "date": "2026-10-24",
    "team": "CHA",
    "player": "Grant Williams",
    "headline": "Not available Saturday",
@@ -230,26 +290,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-out-saturday-535852"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Out Saturday",
-   "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-out-saturday-535851"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Questionable to play Saturday",
-   "note": "Sheppard (knee) is listed as questionable for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-questionable-to-play-saturday-535850"
   },
   {
    "date": "2026-10-24",
@@ -300,6 +340,26 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-unlikely-to-play-against-phoenix-535830"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Steven Adams",
+   "headline": "Out Saturday",
+   "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-out-saturday-535851"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Questionable to play Saturday",
+   "note": "Sheppard (knee) is listed as questionable for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-questionable-to-play-saturday-535850"
   },
   {
    "date": "2026-10-24",
@@ -484,6 +544,16 @@
   {
    "date": "2026-10-24",
    "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Iffy for Sunday",
+   "note": "Black (ankle) is listed as questionable for Sunday's game against the Knicks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-iffy-for-sunday-535855"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "ORL",
    "player": "Paolo Banchero",
    "headline": "Diagnosed with high-ankle sprain",
    "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-cools-off-beyond-the-arc-535823"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Deni Avdija",
-   "headline": "Superb in team's second win",
-   "note": "Avdija finished with 26 points (8-16 FG, 1-5 3Pt, 9-12 FT), seven rebounds, six assists and one steal across 39 minutes during Friday's 128-120 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-superb-in-teams-second-win-535822"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Keegan Murray",
-   "headline": "Bounces back in defeat",
-   "note": "Murray notched 12 points (4-9 FG, 0-3 3Pt, 4-4 FT), two rebounds, one assist and one steal over 26 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-news-bounces-back-in-defeat-535829"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Precious Achiuwa",
-   "headline": "Posts diverse line off bench",
-   "note": "Achiuwa chipped in 14 points (7-11 FG, 0-1 3Pt), six rebounds, one assist and two steals in 25 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-posts-diverse-line-off-bench-535828"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Solid showing in loss",
-   "note": "LaVine accumulated 22 points (6-15 FG, 3-9 3Pt, 7-7 FT), five rebounds, one assist, one block and two steals in 39 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-solid-showing-in-loss-535827"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Logs massive total in defeat",
-   "note": "Acuff notched 33 points (10-26 FG, 2-11 3Pt, 11-12 FT), two rebounds and four assists across 37 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-logs-massive-total-in-defeat-535826"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "UTA",
-   "player": "Jaxson Hayes",
-   "headline": "Hits for 17 off bench Friday",
-   "note": "Hayes supplied 17 points (7-8 FG, 3-3 FT), five rebounds, two assists and one block across 26 minutes off the bench during Friday's 120-119 victory over the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-hits-for-17-off-bench-friday-535837"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "headline": "Drains four treys in Friday's win",
-   "note": "Markkanen ended Friday's 120-119 victory over the Pelicans with 16 points (6-13 FG, 4-9 3Pt), six rebounds, three assists and one steal in 34 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-drains-four-treys-in-fridays-win-535836"
   }
  ]
 }
