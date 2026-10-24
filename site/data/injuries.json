@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:46:31Z",
+ "updated": "2026-10-24T13:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,16 +41,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "CHA",
