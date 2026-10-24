@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:21:18Z",
+ "updated": "2026-10-24T18:21:16Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -44,13 +44,23 @@
   },
   {
    "team": "CHA",
+   "player": "Coby White",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Calf",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "CHA",
    "player": "Grant Williams",
    "pos": "PF",
    "updated": "2026-10-24",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 24",
+   "status": "Expected return: at least Oct 26",
    "kind": "out",
-   "ret": "2026-10-24"
+   "ret": "2026-10-26"
   },
   {
    "team": "CHA",
@@ -74,10 +84,10 @@
   },
   {
    "team": "CHA",
-   "player": "Coby White",
+   "player": "Christian Anderson",
    "pos": "PG",
-   "updated": "2026-10-23",
-   "injury": "Calf",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -126,11 +136,11 @@
    "team": "DAL",
    "player": "Cooper Flagg",
    "pos": "SF",
-   "updated": "2026-10-23",
+   "updated": "2026-10-24",
    "injury": "Shoulder",
-   "status": "Expected return: at least Oct 26",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-26"
+   "ret": "2026-11-02"
   },
   {
    "team": "DAL",
@@ -317,10 +327,20 @@
    "player": "Fred VanVleet",
    "pos": "PG",
    "updated": "2026-10-24",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "HOU",
+   "player": "Steven Adams",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "HOU",
@@ -328,16 +348,6 @@
    "pos": "SG",
    "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "HOU",
-   "player": "Steven Adams",
-   "pos": "C",
-   "updated": "2026-10-24",
-   "injury": "Rest",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -534,6 +544,16 @@
   },
   {
    "team": "ORL",
+   "player": "Jonathan Isaac",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "ORL",
    "player": "Noah Penda",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -558,16 +578,6 @@
    "pos": "SG",
    "updated": "2026-10-23",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "pos": "PF",
-   "updated": "2026-10-23",
-   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -774,6 +784,16 @@
   },
   {
    "team": "WAS",
+   "player": "AJ Dybantsa",
+   "pos": "SF",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -791,16 +811,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }

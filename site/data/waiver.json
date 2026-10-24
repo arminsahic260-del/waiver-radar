@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:21:53Z",
+ "updated": "2026-10-24T18:21:51Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -149,9 +149,9 @@
    "team": "DAL",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Cooper Flagg (rame) je out najmanje do 26.10. Santi Aldama je prvi SF/PF u rotaciji DAL-a za te minute; ~30.5 FP po utakmici (prošle sezone, 28 min).",
+   "reason": "Cooper Flagg (rame) je out najmanje do 2.11. Santi Aldama je prvi SF/PF u rotaciji DAL-a za te minute; ~30.5 FP po utakmici (prošle sezone, 28 min).",
    "role": "Veća minutaža dok je out Cooper Flagg",
-   "horizon": "Do ~26.10. (najraniji povratak)",
+   "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Cooper Flagg",
    "avail": {
     "Legendi": true,
@@ -200,6 +200,25 @@
    "cur": 29.5
   },
   {
+   "player": "Justin Champagnie",
+   "team": "WAS",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 26.10. — nova ozljeda. Justin Champagnie je prvi SF/PF u rotaciji WAS-a za te minute; ~22.5 FP po utakmici (ove sezone 24.0 u 2 utk., prošle sezone 21.7; 21 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432907,
+   "fpts": 22.5,
+   "gp": 2,
+   "cur": 24.0
+  },
+  {
    "player": "Christian Braun",
    "team": "DEN",
    "pos": "SG/SF",
@@ -223,10 +242,10 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 26.10. — nova ozljeda. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~21.7 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 24.5; 25 min).",
-   "role": "Veća minutaža dok je out Kon Knueppel",
+   "reason": "Coby White (list) je out najmanje do 26.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 26.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~21.7 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 24.5; 25 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~26.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Kon Knueppel",
+   "risk": "Uloga pada kad se vrati Coby White",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -255,6 +274,25 @@
    "fpts": 21.3,
    "gp": 2,
    "cur": 16.0
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. — nova ozljeda. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~18.7 FP po utakmici (ove sezone 12.5 u 2 utk., prošle sezone 21.8; 27 min).",
+   "role": "Veća minutaža dok je out Fred VanVleet",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Fred VanVleet",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2990992,
+   "fpts": 18.7,
+   "gp": 2,
+   "cur": 12.5
   },
   {
    "player": "Jarace Walker",
@@ -318,9 +356,9 @@
    "team": "HOU",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Fred VanVleet (odmor) je upitan (GTD). Tari Eason je sljedeći SF/PF u rotaciji HOU-a za te minute; ~21.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 23.3; 22 min).",
-   "role": "Zamjena ako Fred VanVleet ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
+   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. — nova ozljeda. Tari Eason je sljedeći SF/PF u rotaciji HOU-a za te minute; ~21.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 23.3; 22 min).",
+   "role": "Veća minutaža dok je out Fred VanVleet",
+   "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Fred VanVleet",
    "avail": {
     "Legendi": false,
@@ -338,7 +376,7 @@
    "team": "ORL",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. — nova ozljeda. Tristan da Silva je sljedeći SF/PF u rotaciji ORL-a za te minute; ~20.1 FP po utakmici (ove sezone 19.5 u 2 utk., prošle sezone 20.5; 26 min).",
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Tristan da Silva je sljedeći SF/PF u rotaciji ORL-a za te minute; ~20.1 FP po utakmici (ove sezone 19.5 u 2 utk., prošle sezone 20.5; 26 min).",
    "role": "Veća minutaža dok je out Paolo Banchero",
    "horizon": "Do ~22.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Paolo Banchero",
@@ -353,13 +391,32 @@
    "cur": 19.5
   },
   {
+   "player": "Bub Carrington",
+   "team": "WAS",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 26.10. — nova ozljeda. Bub Carrington je sljedeći PG/SG u rotaciji WAS-a za te minute; ~19.9 FP po utakmici (ove sezone 15.0 u 2 utk., prošle sezone 22.4; 24 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4845374,
+   "fpts": 19.9,
+   "gp": 2,
+   "cur": 15.0
+  },
+  {
    "player": "Morez Johnson Jr.",
    "team": "DAL",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Cooper Flagg (rame) je out najmanje do 26.10. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~19.1 FP po utakmici (ove sezone 10.5 u 2 utk., ESPN projekcija 23.5; 22 min).",
+   "reason": "Cooper Flagg (rame) je out najmanje do 2.11. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~19.1 FP po utakmici (ove sezone 10.5 u 2 utk., ESPN projekcija 23.5; 22 min).",
    "role": "Veća minutaža dok je out Cooper Flagg",
-   "horizon": "Do ~26.10. (najraniji povratak)",
+   "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Cooper Flagg",
    "avail": {
     "Legendi": true,
@@ -391,25 +448,6 @@
    "cur": 2.0
   },
   {
-   "player": "Marcus Smart",
-   "team": "HOU",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Fred VanVleet (odmor) je upitan (GTD). Marcus Smart je sljedeći PG/SG u rotaciji HOU-a za te minute; ~18.7 FP po utakmici (ove sezone 12.5 u 2 utk., prošle sezone 21.8; 27 min).",
-   "role": "Zamjena ako Fred VanVleet ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Fred VanVleet",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2990992,
-   "fpts": 18.7,
-   "gp": 2,
-   "cur": 12.5
-  },
-  {
    "player": "Ronald Holland II",
    "team": "DET",
    "pos": "SF/PF",
@@ -433,7 +471,7 @@
    "team": "CHA",
    "pos": "PF",
    "priority": 3,
-   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 26.10. — nova ozljeda. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 26.10. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
    "role": "Veća minutaža dok je out Kon Knueppel",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kon Knueppel; nizak bodovni plafon",
@@ -531,8 +569,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
-     "open": 2,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -809,8 +847,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 7,
-     "open": 3,
+     "mine": 6,
+     "open": 4,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
@@ -963,60 +1001,63 @@
      "planned": [],
      "picks": [
       {
-       "player": "Leaky Black",
-       "team": "SAC",
-       "pos": "SF",
-       "espnId": 4395650,
-       "fpts": 19.7,
-       "mpg": 28.8,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ SAS",
+       "player": "Sandro Mamukelashvili",
+       "team": "LAL",
+       "pos": "PF/C",
+       "espnId": 4278580,
+       "fpts": 22.8,
+       "mpg": 22.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 2,
+       "cur": 19.0,
+       "matchup": "POR @ LAL",
        "dates": [
         "2026-10-27",
-        "2026-10-29",
-        "2026-10-31"
+        "2026-10-28",
+        "2026-10-30",
+        "2026-11-01"
        ],
-       "value": 59.1,
+       "value": 91.2,
+       "gtd": false,
+       "waiver": "2026-10-25"
+      },
+      {
+       "player": "Ziaire Williams",
+       "team": "LAL",
+       "pos": "SG/SF",
+       "espnId": 4433137,
+       "fpts": 22.6,
+       "mpg": 24.4,
+       "basis": "sezona+prošla sezona",
+       "gp": 2,
+       "cur": 28.5,
+       "matchup": "POR @ LAL",
+       "dates": [
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 90.4,
        "gtd": false
       },
       {
-       "player": "De'Andre Hunter",
-       "team": "SAC",
-       "pos": "SF/PF",
-       "espnId": 4065732,
-       "fpts": 17.5,
+       "player": "Miles McBride",
+       "team": "NYK",
+       "pos": "PG/SG",
+       "espnId": 4431823,
+       "fpts": 22.7,
        "mpg": 24.9,
        "basis": "sezona+prošla sezona",
        "gp": 2,
-       "cur": 10.5,
-       "matchup": "SAC @ SAS",
+       "cur": 21.5,
+       "matchup": "DET @ NYK",
        "dates": [
         "2026-10-27",
-        "2026-10-29",
-        "2026-10-31"
+        "2026-10-28",
+        "2026-10-30"
        ],
-       "value": 52.5,
-       "gtd": false
-      },
-      {
-       "player": "Daeqwon Plowden",
-       "team": "SAC",
-       "pos": "SG",
-       "espnId": 4279318,
-       "fpts": 16.1,
-       "mpg": 23.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 10.5,
-       "matchup": "SAC @ SAS",
-       "dates": [
-        "2026-10-27",
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 48.3,
+       "value": 68.1,
        "gtd": false
       }
      ]
@@ -1098,7 +1139,7 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 9,
+     "mine": 8,
      "open": 0,
      "sitting": 0,
      "adds": 5,
@@ -1108,6 +1149,11 @@
        "player": "Jalen Slawson",
        "team": "IND",
        "from": "2026-10-26"
+      },
+      {
+       "player": "Sandro Mamukelashvili",
+       "team": "LAL",
+       "from": "2026-10-27"
       }
      ],
      "picks": []
@@ -1137,17 +1183,11 @@
     {
      "league": "Legendi",
      "mine": 3,
-     "open": 6,
+     "open": 7,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
-     "planned": [
-      {
-       "player": "Leaky Black",
-       "team": "SAC",
-       "from": "2026-10-27"
-      }
-     ],
+     "planned": [],
      "picks": [
       {
        "player": "Julian Reese",
@@ -1284,7 +1324,7 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 9,
+     "mine": 8,
      "open": 0,
      "sitting": 0,
      "adds": 4,
@@ -1294,6 +1334,11 @@
        "player": "Jalen Slawson",
        "team": "IND",
        "from": "2026-10-26"
+      },
+      {
+       "player": "Sandro Mamukelashvili",
+       "team": "LAL",
+       "from": "2026-10-27"
       }
      ],
      "picks": []

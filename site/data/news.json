@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-24T17:21:48Z",
+ "updated": "2026-10-24T18:21:45Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Won't play Saturday",
+   "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-wont-play-saturday-535859"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "Ruled out Saturday",
+   "note": "Dybantsa (ankle) has been ruled out for Saturday's game against the Bulls.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-ruled-out-saturday-535858"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Diagnosed with left shoulder sprain",
+   "note": "The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forward will be re-evaluated by medical staff next week, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-diagnosed-with-left-shoulder-sprain-535857"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "ORL",
+   "player": "Jonathan Isaac",
+   "headline": "Remaining out Sunday",
+   "note": "Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-remaining-out-sunday-535856"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Iffy for Sunday",
+   "note": "Black (ankle) is listed as questionable for Sunday's game against the Knicks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-iffy-for-sunday-535855"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHA",
+   "player": "Grant Williams",
+   "headline": "Not available Saturday",
+   "note": "Williams (hamstring) has been ruled out for Saturday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-not-available-saturday-535854"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHA",
+   "player": "Christian Anderson",
+   "headline": "Nursing ankle injury",
+   "note": "Anderson (ankle) is probable for Saturday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/christian-anderson-injury-nursing-ankle-injury-535853"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Out Saturday",
+   "note": "White (calf) has been ruled out for Saturday's game against Miami.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-out-saturday-535852"
+  },
   {
    "date": "2026-10-24",
    "team": "HOU",
@@ -173,36 +253,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Productive in loss to Jazz",
-   "note": "Murray amassed 16 points (7-15 FG, 0-2 3Pt, 2-2 FT), six rebounds, six assists and three steals over 30 minutes during Friday's 120-119 loss to Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-productive-in-loss-to-jazz-535834"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "NOP",
-   "player": "Saddiq Bey",
-   "headline": "Strong showing off bench in Friday's loss",
-   "note": "Bey finished Friday's 120-119 loss to Utah with 20 points (8-12 FG, 3-5 3Pt, 1-1 FT), three rebounds, one assist and one block over 22 minutes off the bench.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-strong-showing-off-bench-in-fridays-loss-535833"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "NOP",
-   "player": "Zion Williamson",
-   "headline": "Hits for team-high 23 in Utah",
-   "note": "Williamson provided 23 points (8-12 FG, 0-1 3Pt, 7-8 FT), five rebounds, two assists and three steals across 33 minutes during Friday's 120-119 loss to the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-hits-for-team-high-23-in-utah-535832"
-  },
-  {
-   "date": "2026-10-24",
    "team": "GSW",
    "player": "Brandin Podziemski",
    "headline": "Won't play Saturday",
@@ -220,36 +270,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-unlikely-to-play-against-phoenix-535830"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Keegan Murray",
-   "headline": "Bounces back in defeat",
-   "note": "Murray notched 12 points (4-9 FG, 0-3 3Pt, 4-4 FT), two rebounds, one assist and one steal over 26 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-news-bounces-back-in-defeat-535829"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Precious Achiuwa",
-   "headline": "Posts diverse line off bench",
-   "note": "Achiuwa chipped in 14 points (7-11 FG, 0-1 3Pt), six rebounds, one assist and two steals in 25 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-posts-diverse-line-off-bench-535828"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Solid showing in loss",
-   "note": "LaVine accumulated 22 points (6-15 FG, 3-9 3Pt, 7-7 FT), five rebounds, one assist, one block and two steals in 39 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-solid-showing-in-loss-535827"
   },
   {
    "date": "2026-10-24",
@@ -333,6 +353,36 @@
   },
   {
    "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Productive in loss to Jazz",
+   "note": "Murray amassed 16 points (7-15 FG, 0-2 3Pt, 2-2 FT), six rebounds, six assists and three steals over 30 minutes during Friday's 120-119 loss to Utah.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-productive-in-loss-to-jazz-535834"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Saddiq Bey",
+   "headline": "Strong showing off bench in Friday's loss",
+   "note": "Bey finished Friday's 120-119 loss to Utah with 20 points (8-12 FG, 3-5 3Pt, 1-1 FT), three rebounds, one assist and one block over 22 minutes off the bench.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-strong-showing-off-bench-in-fridays-loss-535833"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Zion Williamson",
+   "headline": "Hits for team-high 23 in Utah",
+   "note": "Williamson provided 23 points (8-12 FG, 0-1 3Pt, 7-8 FT), five rebounds, two assists and three steals across 33 minutes during Friday's 120-119 loss to the Jazz.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-hits-for-team-high-23-in-utah-535832"
+  },
+  {
+   "date": "2026-10-24",
    "team": "POR",
    "player": "Donovan Clingan",
    "headline": "Grabs 10 rebounds in win",
@@ -370,6 +420,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-superb-in-teams-second-win-535822"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Keegan Murray",
+   "headline": "Bounces back in defeat",
+   "note": "Murray notched 12 points (4-9 FG, 0-3 3Pt, 4-4 FT), two rebounds, one assist and one steal over 26 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-news-bounces-back-in-defeat-535829"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Precious Achiuwa",
+   "headline": "Posts diverse line off bench",
+   "note": "Achiuwa chipped in 14 points (7-11 FG, 0-1 3Pt), six rebounds, one assist and two steals in 25 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-posts-diverse-line-off-bench-535828"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Zach LaVine",
+   "headline": "Solid showing in loss",
+   "note": "LaVine accumulated 22 points (6-15 FG, 3-9 3Pt, 7-7 FT), five rebounds, one assist, one block and two steals in 39 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-solid-showing-in-loss-535827"
   },
   {
    "date": "2026-10-24",
@@ -450,86 +530,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-headed-for-further-evaluation-535754"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ORL",
-   "player": "Paolo Banchero",
-   "headline": "Exits Friday's loss early",
-   "note": "Banchero didn't check back in during the fourth quarter of Friday's 115-93 loss to the Timberwolves after being deemed doubtful to return. He finished with 14 points (5-11 FG, 0-2 3Pt, 2-4 FT), six rebounds, five assists and one steal across 26 minutes.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-exits-fridays-loss-early-535742"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Exits to locker room Friday",
-   "note": "Thompson (undisclosed) exited to the locker room in the third quarter of Friday's game against the Heat, Zachary Weinberger of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-exits-to-locker-room-friday-535740"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Won't play Friday",
-   "note": "Coward (wrist) has been ruled out for Friday's game against the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-wont-play-friday-535736"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ORL",
-   "player": "Paolo Banchero",
-   "headline": "Doubtful to return Friday",
-   "note": "Banchero is doubtful to return to Friday's game against the Timberwolves due to a sore right ankle, NBA reporter Marc Stein reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-doubtful-to-return-friday-535734"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "Questionable to return Friday",
-   "note": "Duren is questionable to return to Friday's game in Miami due to a right thigh injury.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-questionable-to-return-friday-535731"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Won't return Friday",
-   "note": "Flagg won't return to Friday's game against the Pacers due to left shoulder soreness, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-wont-return-friday-535730"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "Leaves for locker room",
-   "note": "Duren exited to the locker room in the second quarter of Friday's game against the Heat due to an apparent right knee injury, Omari Sankofa II of the Detroit Free Press reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-leaves-for-locker-room-535729"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ORL",
-   "player": "Paolo Banchero",
-   "headline": "Goes to locker room Friday",
-   "note": "Banchero exited Friday's game against the Timberwolves and went to the locker room after appearing to have tweaked his ankle, Philip Rossman-Reich of OrlandoMagicDaily.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-goes-to-locker-room-friday-535726"
   },
   {
    "date": "2026-10-23",
