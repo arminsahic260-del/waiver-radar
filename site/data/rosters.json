@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:13:35Z",
+ "updated": "2026-10-24T08:21:50Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-24T08:13:34Z",
+   "updated": "2026-10-24T08:21:50Z",
    "players": [
     {
      "name": "Trae Young",
@@ -18,11 +18,11 @@
      "espnId": 4277905
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
-     "pos": "PG/SG",
+     "name": "Sam Merrill",
+     "team": "CLE",
+     "pos": "SG",
      "slot": "SG",
-     "espnId": 2991230
+     "espnId": 4066757
     },
     {
      "name": "Kentavious Caldwell-Pope",
@@ -56,7 +56,7 @@
      "name": "Paolo Banchero",
      "team": "ORL",
      "pos": "SF/PF",
-     "slot": "UTIL",
+     "slot": "F",
      "espnId": 4432573
     },
     {
@@ -74,6 +74,13 @@
      "espnId": 5105565
     },
     {
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
+     "slot": "UTIL",
+     "espnId": 2991230
+    },
+    {
      "name": "Darius Acuff Jr.",
      "team": "SAC",
      "pos": "PG",
@@ -86,13 +93,6 @@
      "pos": "PG/SG",
      "slot": "BE",
      "espnId": 4432165
-    },
-    {
-     "name": "Sam Merrill",
-     "team": "CLE",
-     "pos": "SG",
-     "slot": "BE",
-     "espnId": 4066757
     },
     {
      "name": "Cooper Flagg",
@@ -110,7 +110,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-24T08:13:35Z",
+   "updated": "2026-10-24T08:21:50Z",
    "players": [
     {
      "name": "Stephon Castle",
