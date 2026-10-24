@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:21:51Z",
+ "updated": "2026-10-24T22:21:54Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -173,7 +173,7 @@
    "horizon": "Do ~27.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jalen Duren",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
@@ -530,19 +530,19 @@
    "team": "CHA",
    "pos": "SF",
    "priority": 3,
-   "reason": "RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn. ~11.8 FP po utakmici (ove sezone 6.5 u 2 utk., prošle sezone 14.4; 24 min).",
+   "reason": "RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn. ~10.5 FP po utakmici (ove sezone 5.3 u 3 utk., prošle sezone 14.4; 21 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~12 FP)",
+   "risk": "I kao starter nizak plafon (~10 FP)",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
    "espnId": 4602025,
-   "fpts": 11.8,
-   "gp": 2,
-   "cur": 6.5
+   "fpts": 10.5,
+   "gp": 3,
+   "cur": 5.3
   },
   {
    "player": "Khaman Maluach",
@@ -574,7 +574,7 @@
      "mine": 7,
      "open": 3,
      "sitting": 0,
-     "adds": 5,
+     "adds": 2,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -710,7 +710,7 @@
      "mine": 5,
      "open": 4,
      "sitting": 0,
-     "adds": 4,
+     "adds": 1,
      "addsLimit": 7,
      "planned": [
       {
@@ -877,26 +877,6 @@
        "gtd": false
       },
       {
-       "player": "Obi Toppin",
-       "team": "IND",
-       "pos": "PF",
-       "espnId": 4278355,
-       "fpts": 24.6,
-       "mpg": 20.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 30.0,
-       "matchup": "IND @ MIL",
-       "dates": [
-        "2026-10-26",
-        "2026-10-28",
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 98.4,
-       "gtd": false
-      },
-      {
        "player": "Royce O'Neale",
        "team": "CHA",
        "pos": "SF/PF",
@@ -914,6 +894,26 @@
         "2026-10-31"
        ],
        "value": 86.8,
+       "gtd": false
+      },
+      {
+       "player": "Gui Santos",
+       "team": "GSW",
+       "pos": "SF",
+       "espnId": 4997536,
+       "fpts": 20.5,
+       "mpg": 21.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 2,
+       "cur": 21.0,
+       "matchup": "GSW @ DEN",
+       "dates": [
+        "2026-10-26",
+        "2026-10-28",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 82.0,
        "gtd": false
       }
      ]
@@ -1024,26 +1024,6 @@
        "waiver": "2026-10-25"
       },
       {
-       "player": "Ziaire Williams",
-       "team": "LAL",
-       "pos": "SG/SF",
-       "espnId": 4433137,
-       "fpts": 22.6,
-       "mpg": 24.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 28.5,
-       "matchup": "POR @ LAL",
-       "dates": [
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 90.4,
-       "gtd": false
-      },
-      {
        "player": "Miles McBride",
        "team": "NYK",
        "pos": "PG/SG",
@@ -1060,6 +1040,25 @@
         "2026-10-30"
        ],
        "value": 68.1,
+       "gtd": false
+      },
+      {
+       "player": "Noah Clowney",
+       "team": "BKN",
+       "pos": "PF",
+       "espnId": 4712896,
+       "fpts": 21.7,
+       "mpg": 26.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 1,
+       "cur": 22.0,
+       "matchup": "BKN @ BOS",
+       "dates": [
+        "2026-10-27",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 65.1,
        "gtd": false
       }
      ]

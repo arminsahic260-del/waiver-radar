@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:21:17Z",
+ "updated": "2026-10-24T22:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -98,6 +98,16 @@
    "pos": "PF",
    "updated": "2026-10-24",
    "injury": "Head",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Groin",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -533,16 +543,6 @@
    "ret": null
   },
   {
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Finger",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "MIN",
    "player": "Donte DiVincenzo",
    "pos": "SG",
@@ -561,6 +561,16 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
+  },
+  {
+   "team": "NYK",
+   "player": "Jose Alvarado",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "OKC",

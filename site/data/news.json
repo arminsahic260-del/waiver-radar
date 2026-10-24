@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-24T21:21:46Z",
+ "updated": "2026-10-24T22:21:49Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Out due to rest",
+   "note": "Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-out-due-to-rest-535889"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHI",
+   "player": "Noa Essengue",
+   "headline": "Ruled out for Saturday",
+   "note": "Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-ruled-out-for-saturday-535888"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Yves Missi",
+   "headline": "Diagnosed with knee bone bruise",
+   "note": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-diagnosed-with-knee-bone-bruise-535887"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Morez Johnson",
+   "headline": "Upgraded to probable",
+   "note": "Johnson (shin) is listed as probable for Saturday's game against the Spurs.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/morez-johnson-injury-upgraded-to-probable-535886"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Trending toward playing Saturday",
+   "note": "Risacher (hip) has been upgraded from questionable to probable ahead of Saturday's game against San Antonio.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-injury-trending-toward-playing-saturday-535885"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Downgraded to doubtful",
+   "note": "Irving (knee) has been downgraded from questionable to doubtful ahead of Saturday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-downgraded-to-doubtful-535884"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NYK",
+   "player": "Jose Alvarado",
+   "headline": "Dealing with ankle sprain",
+   "note": "Alvarado is questionable for Sunday's game against Orlando due to a left ankle sprain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-dealing-with-ankle-sprain-535883"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Cleared to play Saturday",
+   "note": "Larsson (finger) is available for Saturday's game against the Hornets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-cleared-to-play-saturday-535882"
+  },
   {
    "date": "2026-10-24",
    "team": "CHI",
@@ -193,76 +273,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Iffy to play Saturday",
-   "note": "Irving (knee) is listed as questionable for Saturday's game against San Antonio.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-iffy-to-play-saturday-535862"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Max Christie",
-   "headline": "Dealing with shin injury",
-   "note": "Christie (shin) is questionable for Saturday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/max-christie-injury-dealing-with-shin-injury-535861"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Won't play vs. San Antonio",
-   "note": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-wont-play-vs-san-antonio-535860"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Won't play Saturday",
-   "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-wont-play-saturday-535859"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "headline": "Ruled out Saturday",
-   "note": "Dybantsa (ankle) has been ruled out for Saturday's game against the Bulls.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-ruled-out-saturday-535858"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Diagnosed with left shoulder sprain",
-   "note": "The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forward will be re-evaluated by medical staff next week, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-diagnosed-with-left-shoulder-sprain-535857"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "headline": "Remaining out Sunday",
-   "note": "Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-remaining-out-sunday-535856"
-  },
-  {
-   "date": "2026-10-24",
    "team": "CHA",
    "player": "Grant Williams",
    "headline": "Not available Saturday",
@@ -310,6 +320,56 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-nursing-head-injury-535845"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Iffy to play Saturday",
+   "note": "Irving (knee) is listed as questionable for Saturday's game against San Antonio.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-iffy-to-play-saturday-535862"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Max Christie",
+   "headline": "Dealing with shin injury",
+   "note": "Christie (shin) is questionable for Saturday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/max-christie-injury-dealing-with-shin-injury-535861"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Won't play vs. San Antonio",
+   "note": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-wont-play-vs-san-antonio-535860"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Won't play Saturday",
+   "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-wont-play-saturday-535859"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Diagnosed with left shoulder sprain",
+   "note": "The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forward will be re-evaluated by medical staff next week, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-diagnosed-with-left-shoulder-sprain-535857"
   },
   {
    "date": "2026-10-24",
@@ -540,66 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-hits-for-team-high-23-in-utah-535832"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Iffy for Sunday",
-   "note": "Black (ankle) is listed as questionable for Sunday's game against the Knicks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-iffy-for-sunday-535855"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "ORL",
-   "player": "Paolo Banchero",
-   "headline": "Diagnosed with high-ankle sprain",
-   "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-diagnosed-with-high-ankle-sprain-535844"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Ruled out Saturday",
-   "note": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-ruled-out-saturday-535846"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Donovan Clingan",
-   "headline": "Grabs 10 rebounds in win",
-   "note": "Clingan ended Friday's 128-120 victory over the Kings with eight points (3-5 FG, 2-2 FT), 10 rebounds, three assists and three blocks across 19 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-grabs-10-rebounds-in-win-535825"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Ja Morant",
-   "headline": "Collects seven assists in victory",
-   "note": "Morant closed with 12 points (5-13 FG, 1-5 3Pt, 1-2 FT), three rebounds, seven assists and one steal over 27 minutes during Friday's 128-120 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-news-collects-seven-assists-in-victory-535824"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Damian Lillard",
-   "headline": "Cools off beyond the arc",
-   "note": "Lillard racked up 19 points (7-18 FG, 2-10 3Pt, 3-3 FT), five rebounds, two assists and two steals in 33 minutes during Friday's 128-120 victory over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-cools-off-beyond-the-arc-535823"
   }
  ]
 }
