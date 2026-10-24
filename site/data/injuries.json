@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:34:03Z",
+ "updated": "2026-10-24T20:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -274,20 +274,20 @@
   },
   {
    "team": "DET",
+   "player": "Jalen Duren",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
+  },
+  {
+   "team": "DET",
    "player": "Ausar Thompson",
    "pos": "SF",
    "updated": "2026-10-23",
    "injury": "Undisclosed",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DET",
-   "player": "Jalen Duren",
-   "pos": "C",
-   "updated": "2026-10-23",
-   "injury": "Thigh",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -334,20 +334,20 @@
   },
   {
    "team": "GSW",
-   "player": "Charles Bassey",
-   "pos": "C",
-   "updated": "2026-10-24",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "GSW",
    "player": "Stephen Curry",
    "pos": "PG",
    "updated": "2026-10-24",
    "injury": "Rest",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "pos": "C",
+   "updated": "2026-10-24",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -371,6 +371,16 @@
    "status": "Expected return: at least Oct 26",
    "kind": "out",
    "ret": "2026-10-26"
+  },
+  {
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Forearm",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "HOU",
