@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:42:29Z",
+ "updated": "2026-10-24T17:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -44,6 +44,26 @@
   },
   {
    "team": "CHA",
+   "player": "Grant Williams",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 24",
+   "kind": "out",
+   "ret": "2026-10-24"
+  },
+  {
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "pos": "SF",
+   "updated": "2026-10-24",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "CHA",
    "player": "Kylan Boswell",
    "pos": "PG",
    "updated": "2026-10-20",
@@ -63,26 +83,6 @@
    "ret": null
   },
   {
-   "team": "CHA",
-   "player": "Grant Williams",
-   "pos": "PF",
-   "updated": "2026-10-23",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "CHI",
    "player": "Nicolas Claxton",
    "pos": "C",
@@ -91,6 +91,16 @@
    "status": "Expected return: at least Nov 4",
    "kind": "out",
    "ret": "2026-11-04"
+  },
+  {
+   "team": "CHI",
+   "player": "Noa Essengue",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Head",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CLE",
@@ -453,6 +463,16 @@
    "ret": null
   },
   {
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "pos": "SF",
+   "updated": "2026-10-24",
+   "injury": "Finger",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "MIN",
    "player": "Donte DiVincenzo",
    "pos": "SG",
@@ -524,6 +544,16 @@
   },
   {
    "team": "ORL",
+   "player": "Paolo Banchero",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 22",
+   "kind": "out",
+   "ret": "2026-11-22"
+  },
+  {
+   "team": "ORL",
    "player": "Anthony Black",
    "pos": "SG",
    "updated": "2026-10-23",
@@ -538,16 +568,6 @@
    "pos": "PF",
    "updated": "2026-10-23",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "ORL",
-   "player": "Paolo Banchero",
-   "pos": "PF",
-   "updated": "2026-10-23",
-   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -574,6 +594,16 @@
   },
   {
    "team": "PHI",
+   "player": "LeBron James",
+   "pos": "PF",
+   "updated": "2026-10-24",
+   "injury": "Back",
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
+  },
+  {
+   "team": "PHI",
    "player": "Tacko Fall",
    "pos": "C",
    "updated": "2026-10-23",
@@ -588,16 +618,6 @@
    "pos": "PF",
    "updated": "2026-10-23",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHI",
-   "player": "LeBron James",
-   "pos": "PF",
-   "updated": "2026-10-23",
-   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

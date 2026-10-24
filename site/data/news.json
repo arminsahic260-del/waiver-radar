@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-24T16:42:59Z",
+ "updated": "2026-10-24T17:21:48Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Steven Adams",
+   "headline": "Out Saturday",
+   "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-out-saturday-535851"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Questionable to play Saturday",
+   "note": "Sheppard (knee) is listed as questionable for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-questionable-to-play-saturday-535850"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Fred VanVleet",
+   "headline": "Officially ruled out Saturday",
+   "note": "VanVleet (knee) has been ruled out for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-officially-ruled-out-saturday-535849"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Listed as probable",
+   "note": "Larsson (finger) is listed as probable for Saturday's game against Charlotte.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-listed-as-probable-535848"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Remains out Saturday",
+   "note": "Knueppel (hamstring) has been ruled out for Saturday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-remains-out-saturday-535847"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHI",
+   "player": "LeBron James",
+   "headline": "Ruled out Saturday",
+   "note": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-ruled-out-saturday-535846"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHI",
+   "player": "Noa Essengue",
+   "headline": "Nursing head injury",
+   "note": "Essengue (head) is probable for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-nursing-head-injury-535845"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "ORL",
+   "player": "Paolo Banchero",
+   "headline": "Diagnosed with high-ankle sprain",
+   "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-diagnosed-with-high-ankle-sprain-535844"
+  },
   {
    "date": "2026-10-24",
    "team": "GSW",
@@ -173,56 +253,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Logs massive total in defeat",
-   "note": "Acuff notched 33 points (10-26 FG, 2-11 3Pt, 11-12 FT), two rebounds and four assists across 37 minutes during Friday's 128-120 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-logs-massive-total-in-defeat-535826"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Donovan Clingan",
-   "headline": "Grabs 10 rebounds in win",
-   "note": "Clingan ended Friday's 128-120 victory over the Kings with eight points (3-5 FG, 2-2 FT), 10 rebounds, three assists and three blocks across 19 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-grabs-10-rebounds-in-win-535825"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Ja Morant",
-   "headline": "Collects seven assists in victory",
-   "note": "Morant closed with 12 points (5-13 FG, 1-5 3Pt, 1-2 FT), three rebounds, seven assists and one steal over 27 minutes during Friday's 128-120 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-news-collects-seven-assists-in-victory-535824"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Damian Lillard",
-   "headline": "Cools off beyond the arc",
-   "note": "Lillard racked up 19 points (7-18 FG, 2-10 3Pt, 3-3 FT), five rebounds, two assists and two steals in 33 minutes during Friday's 128-120 victory over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-cools-off-beyond-the-arc-535823"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "POR",
-   "player": "Deni Avdija",
-   "headline": "Superb in team's second win",
-   "note": "Avdija finished with 26 points (8-16 FG, 1-5 3Pt, 9-12 FT), seven rebounds, six assists and one steal across 39 minutes during Friday's 128-120 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-superb-in-teams-second-win-535822"
-  },
-  {
-   "date": "2026-10-24",
    "team": "LAC",
    "player": "Brook Lopez",
    "headline": "Provides spark off bench",
@@ -300,6 +330,56 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-coughs-up-ball-11-times-535814"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Donovan Clingan",
+   "headline": "Grabs 10 rebounds in win",
+   "note": "Clingan ended Friday's 128-120 victory over the Kings with eight points (3-5 FG, 2-2 FT), 10 rebounds, three assists and three blocks across 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-grabs-10-rebounds-in-win-535825"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Ja Morant",
+   "headline": "Collects seven assists in victory",
+   "note": "Morant closed with 12 points (5-13 FG, 1-5 3Pt, 1-2 FT), three rebounds, seven assists and one steal over 27 minutes during Friday's 128-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-news-collects-seven-assists-in-victory-535824"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Damian Lillard",
+   "headline": "Cools off beyond the arc",
+   "note": "Lillard racked up 19 points (7-18 FG, 2-10 3Pt, 3-3 FT), five rebounds, two assists and two steals in 33 minutes during Friday's 128-120 victory over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-cools-off-beyond-the-arc-535823"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Superb in team's second win",
+   "note": "Avdija finished with 26 points (8-16 FG, 1-5 3Pt, 9-12 FT), seven rebounds, six assists and one steal across 39 minutes during Friday's 128-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-superb-in-teams-second-win-535822"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Darius Acuff",
+   "headline": "Logs massive total in defeat",
+   "note": "Acuff notched 33 points (10-26 FG, 2-11 3Pt, 11-12 FT), two rebounds and four assists across 37 minutes during Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-logs-massive-total-in-defeat-535826"
   },
   {
    "date": "2026-10-24",
@@ -450,86 +530,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-goes-to-locker-room-friday-535726"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Exits to locker room",
-   "note": "Flagg exited to the locker room in the second quarter of Friday's game against Indiana due to an apparent left shoulder injury, Grant Afseth of DallasHoopsJournal.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-exits-to-locker-room-535725"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHX",
-   "player": "Luke Kennard",
-   "headline": "Questionable to play Saturday",
-   "note": "Kennard (knee) is questionable to play Saturday against the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-injury-questionable-to-play-saturday-535723"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Officially doubtful for Saturday",
-   "note": "Ighodaro (oblique) is listed as doubtful for Saturday's game against Golden State.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-officially-doubtful-for-saturday-535721"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Won't play Friday",
-   "note": "Sheppard (knee) is out for Friday's game in San Antonio.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-wont-play-friday-535720"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Not expected to play Friday",
-   "note": "Head coach Ime Udoka said Sheppard (knee) is unlikely to play in Friday's game against the Spurs, Will Guillory of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-not-expected-to-play-friday-535719"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Spencer Jones",
-   "headline": "Out again Saturday",
-   "note": "Jones (hamstring) is out for Saturday's game against the Pelicans.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-out-again-saturday-535716"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Won't play Saturday",
-   "note": "Johnson (ankle) has been ruled out for Saturday's game against New Orleans.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-wont-play-saturday-535715"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "headline": "Questionable for Saturday",
-   "note": "Diallo is questionable for Saturday's game versus the Pelicans due to a right wrist sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-questionable-for-saturday-535714"
   },
   {
    "date": "2026-10-23",
