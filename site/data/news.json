@@ -1,15 +1,325 @@
 {
- "updated": "2026-10-24T01:42:44Z",
+ "updated": "2026-10-24T07:25:29Z",
  "items": [
   {
    "date": "2026-10-23",
-   "team": "MEM",
-   "player": "GG Jackson",
-   "headline": "Starting Friday",
-   "note": "Jackson will start Friday against the Warriors, Damichael Cole of The Memphis Commercial Appeal reports.",
+   "team": "MIA",
+   "player": "Bam Adebayo",
+   "headline": "Low-scoring effort Friday",
+   "note": "Adebayo finished with four points (2-6 FG, 0-2 3Pt, 0-2 FT), six rebounds, three assists and two steals across 23 minutes in Friday's 128-111 loss to the Pistons.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-starting-friday-535737"
+   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-low-scoring-effort-friday-535813"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "MIA",
+   "player": "Bobby Portis",
+   "headline": "Comes close to double-double",
+   "note": "Portis contributed 11 points (4-10 FG, 3-6 3Pt, 0-0 FT), eight rebounds, two assists and a steal across 21 minutes off the bench in Friday's 128-111 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bobby-portis-news-comes-close-to-double-double-535812"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "MIA",
+   "player": "Davion Mitchell",
+   "headline": "Scores 18 points in defeat",
+   "note": "Mitchell finished with 18 points (6-14 FG, 3-9 3Pt, 3-5 FT), two rebounds, five assists and two blocks across 33 minutes in Friday's 128-111 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-scores-18-points-in-defeat-535811"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "Paul Reed",
+   "headline": "Takes advantage of extended minutes",
+   "note": "Reed notched 19 points (8-11 FG, 2-2 3Pt, 1-1 FT), 11 rebounds and four assists across 26 minutes in Friday's 128-111 win over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-takes-advantage-of-extended-minutes-535810"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "John Collins",
+   "headline": "Leads Detroit in scoring",
+   "note": "Collins delivered 23 points (9-15 FG, 5-6 3Pt, 0-0 FT), seven rebounds and an assist across 29 minutes in Friday's 128-111 win over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/john-collins-news-leads-detroit-in-scoring-535809"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "Duncan Robinson",
+   "headline": "Drains five threes vs. former team",
+   "note": "Robinson posted 17 points (5-12 FG, 5-10 3Pt, 2-2 FT), a rebound, two assists and two steals across 28 minutes in Friday's 128-111 win over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-drains-five-threes-vs-former-team-535808"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "SAS",
+   "player": "Julian Champagnie",
+   "headline": "Lands two triples off bench",
+   "note": "Champagnie finished with six points (2-5 FG, 2-5 3Pt) and three steals in 25 minutes during Friday's 114-110 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/julian-champagnie-news-lands-two-triples-off-bench-535807"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHA",
+   "player": "Tidjane Salaun",
+   "headline": "Solid production off bench",
+   "note": "Salaun contributed 11 points (5-9 FG, 1-5 3Pt, 0-0 FT), five rebounds, an assist and two steals across 23 minutes off the bench in Friday's 128-81 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-solid-production-off-bench-535806"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHA",
+   "player": "Moussa Diabate",
+   "headline": "Limited minutes in blowout loss",
+   "note": "Diabate registered five points (2-2 FG, 0-0 3Pt, 1-2 FT), eight rebounds, an assist, a steal and a block across 21 minutes in Friday's 128-81 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-limited-minutes-in-blowout-loss-535805"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "SAS",
+   "player": "De'Aaron Fox",
+   "headline": "Flirts with double-double in loss",
+   "note": "Fox chipped in 19 points (6-11 FG, 2-5 3Pt, 5-5 FT), four rebounds, nine assists and two steals in 34 minutes during Friday's 114-110 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-flirts-with-double-double-in-loss-535804"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "CHA",
+   "player": "Brandon Miller",
+   "headline": "Endures disastrous shooting night",
+   "note": "Miller managed six points (2-14 FG, 1-11 3Pt, 1-1 FT), two rebounds, two steals and a block across 23 minutes in Friday's 128-81 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-endures-disastrous-shooting-night-535803"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "SAS",
+   "player": "Dylan Harper",
+   "headline": "Goes for 20 points in loss",
+   "note": "Harper ended with 20 points (8-15 FG, 1-4 3Pt, 3-4 FT), three rebounds and two assists in 36 minutes during Friday's 114-110 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-goes-for-20-points-in-loss-535802"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Aaron Wiggins",
+   "headline": "Efficient scoring off bench",
+   "note": "Wiggins notched 19 points (7-9 FG, 3-5 3Pt, 2-4 FT), a rebound, an assist and two steals across 22 minutes off the bench in Friday's 128-81 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-efficient-scoring-off-bench-535801"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Excellent all-around showing",
+   "note": "Daniels delivered 11 points (5-10 FG, 0-1 3Pt, 1-3 FT), nine rebounds, four assists, seven steals and a block across 23 minutes in Friday's 128-81 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-excellent-all-around-showing-535800"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Solid contribution in blowout win",
+   "note": "Alexander-Walker posted 14 points (5-12 FG, 2-7 3Pt, 2-2 FT), three rebounds, five assists and two steals across 27 minutes in Friday's 128-81 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-solid-contribution-in-blowout-win-535799"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "HOU",
+   "player": "Bogdan Bogdanovic",
+   "headline": "Muted effort Friday",
+   "note": "Bogdanovic amassed three points (1-2 FG, 1-1 3Pt) and one rebound over 11 minutes during Friday's 114-110 victory over San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bogdan-bogdanovic-news-muted-effort-friday-535798"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "HOU",
+   "player": "Tari Eason",
+   "headline": "Drops 12 points, adds three steals",
+   "note": "Eason closed with 12 points (4-8 FG, 0-2 3Pt, 4-4 FT), six rebounds and four steals across 27 minutes during Friday's 114-110 victory over San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-drops-12-points-adds-three-steals-535797"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "HOU",
+   "player": "Amen Thompson",
+   "headline": "Heroic performance Friday",
+   "note": "Thompson closed Friday's 114-110 victory over the Spurs with 20 points (9-15 FG, 1-2 3Pt, 1-1 FT), 10 rebounds, four assists, two blocks and two steals over 36 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-heroic-performance-friday-535796"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "SAC",
+   "player": "Domantas Sabonis",
+   "headline": "Triple-doubles in loss",
+   "note": "Sabonis totaled 27 points (10-13 FG, 1-1 3Pt, 6-7 FT), 19 rebounds, 10 assists and five turnovers across 39 minutes in Friday's 128-120 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-triple-doubles-in-loss-535795"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "POR",
+   "player": "Toumani Camara",
+   "headline": "Nets 19 points with five triples",
+   "note": "Camara registered 19 points (7-12 FG, 5-10 3Pt), three rebounds, one assist and two steals over 27 minutes in Friday's 128-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/toumani-camara-news-nets-19-points-with-five-triples-535794"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Double-doubles with two blocks",
+   "note": "Wembanyama produced 25 points (9-21 FG, 2-6 3Pt, 5-8 FT), 13 rebounds, two assists and two blocks over 32 minutes during Friday's 114-110 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-double-doubles-with-two-blocks-535793"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Flirts with triple-double in win",
+   "note": "Sengun logged 29 points (10-20 FG, 2-4 3Pt, 7-8 FT), seven rebounds, seven assists and one block over 36 minutes during Friday's 114-110 win over the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-flirts-with-triple-double-in-win-535792"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "NOP",
+   "player": "Derik Queen",
+   "headline": "Scores 12 points with full line",
+   "note": "Queen closed Friday's 120-119 loss to Utah with 12 points (4-9 FG, 1-2 3Pt, 3-4 FT), seven rebounds, two assists, two blocks and two steals over 29 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-scores-12-points-with-full-line-535791"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "UTA",
+   "player": "Keyonte George",
+   "headline": "Double-doubles in win",
+   "note": "George accumulated 19 points (6-12 FG, 3-7 3Pt, 4-6 FT), one rebound, 10 assists and one steal over 32 minutes during Friday's 120-119 win over New Orleans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keyonte-george-news-double-doubles-in-win-535790"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "WAS",
+   "player": "Alex Sarr",
+   "headline": "Another quiet night",
+   "note": "Sarr totaled seven points (2-4 FG, 1-2 3Pt, 2-2 FT), four rebounds, five assists and two steals over 25 minutes during Friday's 112-102 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-another-quiet-night-535789"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Doesn't return Friday",
+   "note": "Thompson exited Friday's 128-111 win over the Heat with an undisclosed injury and did not return, finishing with four points (2-5 FG, 0-1 3Pt), three rebounds, four assists, one steal, one block and three turnovers across 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-doesnt-return-friday-535779"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "NOP",
+   "player": "Yves Missi",
+   "headline": "Won't return Friday",
+   "note": "Missi won't return to Friday's game against the Jazz due to a left knee injury.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-wont-return-friday-535762"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "Jalen Duren",
+   "headline": "Doesn't return Friday",
+   "note": "Duren (thigh) exited Friday's 128-111 win over the Heat in the second quarter and did not return, finishing with four points (2-4 FG), six rebounds, three assists, one steal and one block across 10 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-doesnt-return-friday-535759"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "NOP",
+   "player": "Yves Missi",
+   "headline": "Helped to locker room Friday",
+   "note": "Missi was helped to the locker room in the second quarter of Friday's game against the Jazz due to an apparent left leg injury, Shreyas Laddha of The Salt Lake Tribune reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-helped-to-locker-room-friday-535757"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Headed for further evaluation",
+   "note": "Head coach Dusty May said Flagg (shoulder) will be evaluated in the next couple of days, Mike Curtis of The Dallas Morning News reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-headed-for-further-evaluation-535754"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "ORL",
+   "player": "Paolo Banchero",
+   "headline": "Exits Friday's loss early",
+   "note": "Banchero didn't check back in during the fourth quarter of Friday's 115-93 loss to the Timberwolves after being deemed doubtful to return. He finished with 14 points (5-11 FG, 0-2 3Pt, 2-4 FT), six rebounds, five assists and one steal across 26 minutes.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-exits-fridays-loss-early-535742"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Exits to locker room Friday",
+   "note": "Thompson (undisclosed) exited to the locker room in the third quarter of Friday's game against the Heat, Zachary Weinberger of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-exits-to-locker-room-friday-535740"
   },
   {
    "date": "2026-10-23",
@@ -23,16 +333,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "MEM",
-   "player": "Isaiah Stewart",
-   "headline": "Available to play",
-   "note": "Stewart (ankle) is available for Friday's game against the Warriors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-news-available-to-play-535735"
-  },
-  {
-   "date": "2026-10-23",
    "team": "ORL",
    "player": "Paolo Banchero",
    "headline": "Doubtful to return Friday",
@@ -40,26 +340,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-injury-doubtful-to-return-friday-535734"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "UTA",
-   "player": "Jaxson Hayes",
-   "headline": "Not starting Friday",
-   "note": "Hayes won't start Friday's game against New Orleans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-not-starting-friday-535733"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "UTA",
-   "player": "Ace Bailey",
-   "headline": "Moving to starting role",
-   "note": "Bailey is in the starting lineup for Friday's game against the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-moving-to-starting-role-535732"
   },
   {
    "date": "2026-10-23",
@@ -93,26 +373,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Cleared to play Friday",
-   "note": "Adams (calf) is available for Friday's game against San Antonio.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-news-cleared-to-play-friday-535728"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "ORL",
-   "player": "Paolo Banchero",
-   "headline": "Returns to Friday's game",
-   "note": "Banchero (ankle) has checked back into Friday's game against the Timberwolves, Jason Beede of the Orlando Sentinel reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paolo-banchero-news-returns-to-fridays-game-535727"
-  },
-  {
-   "date": "2026-10-23",
    "team": "ORL",
    "player": "Paolo Banchero",
    "headline": "Goes to locker room Friday",
@@ -133,16 +393,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "GSW",
-   "player": "De'Anthony Melton",
-   "headline": "Headed to bench",
-   "note": "Melton will come off the bench in Friday's matchup with Memphis, Danny Emerman of SFStandard.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-headed-to-bench-535724"
-  },
-  {
-   "date": "2026-10-23",
    "team": "PHX",
    "player": "Luke Kennard",
    "headline": "Questionable to play Saturday",
@@ -150,16 +400,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-injury-questionable-to-play-saturday-535723"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Will play Friday",
-   "note": "Podziemski (back) is good to go for Friday's game against the Grizzlies, Nick Friedell of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-will-play-friday-535722"
   },
   {
    "date": "2026-10-23",
@@ -193,26 +433,6 @@
   },
   {
    "date": "2026-10-23",
-   "team": "SAS",
-   "player": "Keldon Johnson",
-   "headline": "Will play vs. Houston",
-   "note": "Johnson (mouth) is available for Friday's game against the Rockets, Matt Guzman of SI.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-news-will-play-vs-houston-535718"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "SAS",
-   "player": "De'Aaron Fox",
-   "headline": "Available to play",
-   "note": "Fox (wrist) is available for Friday's game against the Rockets, Matt Guzman of SI.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-available-to-play-535717"
-  },
-  {
-   "date": "2026-10-23",
    "team": "DEN",
    "player": "Spencer Jones",
    "headline": "Out again Saturday",
@@ -240,16 +460,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-questionable-for-saturday-535714"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "MIL",
-   "player": "Tyler Herro",
-   "headline": "Scores 34 points in loss",
-   "note": "Herro recorded 34 points (12-24 FG, 5-10 3Pt, 5-7 FT), five rebounds, four assists and a steal across 32 minutes in Friday's 132-125 loss to the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-scores-34-points-in-loss-535713"
   },
   {
    "date": "2026-10-23",
@@ -293,73 +503,13 @@
   },
   {
    "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Khalifa Diop",
-   "headline": "Remains out",
-   "note": "Diop (knee) is out for Saturday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/khalifa-diop-injury-remains-out-535700"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "BKN",
-   "player": "Tyler Bilodeau",
-   "headline": "Won't play Saturday",
-   "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyler-bilodeau-injury-wont-play-saturday-535699"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Questionable for Saturday",
-   "note": "Wade is listed as questionable for Saturday's game against the Bucks due to a left ankle sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-injury-questionable-for-saturday-535698"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Questionable for Saturday",
-   "note": "James (back) is questionable for Saturday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-questionable-for-saturday-535696"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHX",
-   "player": "Luke Kennard",
-   "headline": "Practices Friday",
-   "note": "Kennard (knee) practiced Friday, Duane Rankin of The Arizona Republic reports.",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Loaded stat line Friday",
+   "note": "Johnson posted 19 points (9-16 FG, 0-3 3Pt, 1-1 FT), seven rebounds, eight assists, three steals and a block across 29 minutes in Friday's 128-81 win over the Hornets.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-injury-practices-friday-535694"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Won't play Saturday",
-   "note": "Ighodaro has been ruled out for Saturday's game against the Warriors due to an oblique strain, Duane Rankin of The Arizona Republic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-wont-play-saturday-535693"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "LAL",
-   "player": "Jake LaRavia",
-   "headline": "Ruled out Friday",
-   "note": "LaRavia (ankle) has been ruled out for Friday's game against the Clippers, Mark Medina of TheSportingTribune.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-injury-ruled-out-friday-535692"
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-loaded-stat-line-friday-535741"
   },
   {
    "date": "2026-10-23",
@@ -373,6 +523,56 @@
   },
   {
    "date": "2026-10-23",
+   "team": "BOS",
+   "player": "Neemias Queta",
+   "headline": "Impressive off bench",
+   "note": "Queta closed with 15 points (4-8 FG, 1-1 3Pt, 6-9 FT), six rebounds, one assist and three blocks over 22 minutes during Friday's 107-103 victory over New York.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-impressive-off-bench-535780"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Pulls down four boards",
+   "note": "Robinson accumulated four points (2-4 FG), four rebounds, two assists and one block across 22 minutes during Friday's 107-103 victory over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-pulls-down-four-boards-535778"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "Strong effort in victory",
+   "note": "George had 15 points (6-15 FG, 3-7 3Pt), seven rebounds, two assists and two steals across 34 minutes during Friday's 107-103 victory over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-strong-effort-in-victory-535770"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Stuffs stat sheet in win",
+   "note": "Tatum tallied 36 points (14-26 FG, 3-10 3Pt, 5-5 FT), nine rebounds, seven assists and three steals across 37 minutes in Friday's 107-103 win over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-stuffs-stat-sheet-in-win-535756"
+  },
+  {
+   "date": "2026-10-23",
+   "team": "BKN",
+   "player": "Tyler Bilodeau",
+   "headline": "Won't play Saturday",
+   "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-bilodeau-injury-wont-play-saturday-535699"
+  },
+  {
+   "date": "2026-10-23",
    "team": "BKN",
    "player": "Mikel Brown",
    "headline": "Restrictions will continue",
@@ -383,223 +583,23 @@
   },
   {
    "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Caleb Wilson",
-   "headline": "Nets 21 points with full line in win",
-   "note": "Wilson produced 21 points (7-14 FG, 2-6 3Pt, 5-6 FT), six rebounds, one assist, one steal, two blocks and three turnovers across 33 minutes in Friday's 132-125 win over the Bucks.",
+   "team": "CHA",
+   "player": "Naz Reid",
+   "headline": "Paces Charlotte in blowout loss",
+   "note": "Reid recorded 17 points (7-16 FG, 3-8 3Pt), six rebounds, two assists and one steal across 25 minutes in Friday's 128-81 loss to the Hawks.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-nets-21-points-with-full-line-in-win-535712"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Upgraded to available",
-   "note": "Swain (illness) is available for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-news-upgraded-to-available-535678"
+   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-paces-charlotte-in-blowout-loss-535747"
   },
   {
    "date": "2026-10-23",
    "team": "CHI",
    "player": "Zach Collins",
-   "headline": "Available to play",
-   "note": "Collins (quadriceps) is available for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-news-available-to-play-535677"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Tobe Awaka",
-   "headline": "Available Friday",
-   "note": "Awaka (knee) is available for Friday's game versus the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-news-available-friday-535676"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "headline": "Available Friday",
-   "note": "Hawkins (illness) is available for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-news-available-friday-535675"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Josh Giddey",
-   "headline": "Cleared to play Friday",
-   "note": "Giddey (wrist) is available for Friday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-news-cleared-to-play-friday-535674"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Jordan Hawkins",
-   "headline": "Gets probable tag",
-   "note": "Hawkins (illness) is probable for Friday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-hawkins-injury-gets-probable-tag-535662"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Upgraded to probable",
-   "note": "Swain (illness) is now probable for Friday against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-upgraded-to-probable-535661"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Tyrese Proctor",
-   "headline": "Limited to five minutes",
-   "note": "Proctor contributed zero points (0-1 FG) in five minutes during Thursday's 114-106 loss to the 76ers.",
+   "headline": "Expected to be in rotation Saturday",
+   "note": "Head coach Tiago Splitter said he expects Collins to play Saturday against the Wizards, K.C. Johnson of Chicago Sports Network reports.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-limited-to-five-minutes-535673"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "Struggles from field",
-   "note": "Tyson provided three points (1-6 FG, 0-4 3Pt, 1-2 FT), six rebounds, two assists, two blocks and one steal across 24 minutes during Thursday's 114-106 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-struggles-from-field-535672"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "headline": "Quiet in opener",
-   "note": "Merrill chipped in five points (2-5 FG, 1-3 3Pt), five rebounds, two assists and one steal over 24 minutes during Thursday's 114-106 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-quiet-in-opener-535671"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Not in initial rotation",
-   "note": "Thomas (coach's decision) did not play in Thursday's 114-106 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-news-not-in-initial-rotation-535666"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Thomas Bryant",
-   "headline": "Outside rotation in opener",
-   "note": "Bryant (coach's decision) did not play in Thursday's 114-106 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/thomas-bryant-news-outside-rotation-in-opener-535665"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Craig Porter",
-   "headline": "Goes scoreless in opener",
-   "note": "Porter finished Thursday's 114-106 loss to the 76ers with zero points (0-1 FG), three rebounds and one steal in seven minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/craig-porter-news-goes-scoreless-in-opener-535653"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Mario Hezonja",
-   "headline": "Scores 10 off bench",
-   "note": "Hezonja produced 10 points (5-13 FG, 0-5 3Pt), three rebounds, two assists, one block and two steals in 19 minutes during Thursday's 114-106 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mario-hezonja-news-scores-10-off-bench-535652"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "CLE",
-   "player": "Peyton Watson",
-   "headline": "Mild offensive effort",
-   "note": "Watson amassed eight points (2-7 FG, 0-3 3Pt, 4-4 FT), one rebound, two assists, one block and two steals over 30 minutes during Thursday's 114-106 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-news-mild-offensive-effort-535651"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Will be on minutes restriction Friday",
-   "note": "Irving (knee) will be on a minutes restriction in Friday's game against the Pacers, Tony East of Forbes.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-will-be-on-minutes-restriction-friday-535706"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Zeke Nnaji",
-   "headline": "Healthy scratch in opener",
-   "note": "Nnaji (coach's decision) did not play in Thursday's 96-84 loss to Oklahoma City.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zeke-nnaji-news-healthy-scratch-in-opener-535667"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "DaRon Holmes",
-   "headline": "Hits triple in limited run",
-   "note": "Holmes recorded three points (1-2 FG, 1-2 3Pt), one rebound and one assist over two minutes during Thursday's 96-84 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daron-holmes-news-hits-triple-in-limited-run-535664"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Tyus Jones",
-   "headline": "Sees limited run",
-   "note": "Jones ended Thursday's 96-84 loss to the Thunder with two points (1-3 FG, 0-1 3Pt) and one steal in 10 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyus-jones-news-sees-limited-run-535660"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Marvin Bagley",
-   "headline": "Limited output off bench",
-   "note": "Bagley contributed two points (1-3 FG), three rebounds and one assist across 11 minutes during Thursday's 96-84 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marvin-bagley-news-limited-output-off-bench-535659"
-  },
-  {
-   "date": "2026-10-23",
-   "team": "DEN",
-   "player": "Christian Braun",
-   "headline": "Struggles with shot",
-   "note": "Braun recorded seven points (3-10 FG, 1-6 3Pt), six rebounds, one assist and one steal over 33 minutes during Thursday's 96-84 loss to Oklahoma City.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-struggles-with-shot-535658"
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-news-expected-to-be-in-rotation-saturday-535781"
   }
  ]
 }

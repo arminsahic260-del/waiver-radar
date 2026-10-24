@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:42:12Z",
+ "updated": "2026-10-24T07:24:58Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -43,34 +43,14 @@
    "ret": "2026-11-08"
   },
   {
-   "team": "CHA",
-   "player": "Coby White",
-   "pos": "PG",
-   "updated": "2026-10-22",
-   "injury": "Calf",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "CHA",
-   "player": "Grant Williams",
-   "pos": "PF",
-   "updated": "2026-10-22",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "CHA",
-   "player": "Kon Knueppel",
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
    "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Oct 24",
+   "updated": "2026-10-24",
+   "injury": "Not Injury Related",
+   "status": "—",
    "kind": "out",
-   "ret": "2026-10-24"
+   "ret": null
   },
   {
    "team": "CHA",
@@ -81,6 +61,36 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "CHA",
+   "player": "Coby White",
+   "pos": "PG",
+   "updated": "2026-10-23",
+   "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHA",
+   "player": "Grant Williams",
+   "pos": "PF",
+   "updated": "2026-10-23",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
@@ -114,13 +124,13 @@
   },
   {
    "team": "DAL",
-   "player": "Caleb Martin",
+   "player": "Cooper Flagg",
    "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Thumb",
-   "status": "Expected return: at least Oct 24",
+   "updated": "2026-10-23",
+   "injury": "Shoulder",
+   "status": "Expected return: at least Oct 26",
    "kind": "out",
-   "ret": "2026-10-24"
+   "ret": "2026-10-26"
   },
   {
    "team": "DAL",
@@ -134,40 +144,40 @@
   },
   {
    "team": "DAL",
+   "player": "Caleb Martin",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Thumb",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
    "player": "Jett Howard",
    "pos": "SG",
    "updated": "2026-10-23",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
    "player": "Tarik Biberovic",
    "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Heel",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "pos": "SF",
    "updated": "2026-10-23",
-   "injury": "Shoulder",
+   "injury": "Heel",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -208,6 +218,26 @@
    "pos": "SF",
    "updated": "2026-10-23",
    "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Undisclosed",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DET",
+   "player": "Jalen Duren",
+   "pos": "C",
+   "updated": "2026-10-23",
+   "injury": "Thigh",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -286,11 +316,11 @@
    "team": "IND",
    "player": "T.J. McConnell",
    "pos": "PG",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "LAC",
@@ -376,21 +406,11 @@
    "team": "MEM",
    "player": "Cedric Coward",
    "pos": "SG",
-   "updated": "2026-10-22",
+   "updated": "2026-10-23",
    "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "MEM",
-   "player": "Isaiah Stewart",
-   "pos": "PF",
-   "updated": "2026-10-21",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 25",
+   "kind": "out",
+   "ret": "2026-10-25"
   },
   {
    "team": "MIN",
@@ -401,6 +421,16 @@
    "status": "Expected return: at least Apr 2",
    "kind": "out",
    "ret": "2027-04-02"
+  },
+  {
+   "team": "NOP",
+   "player": "Yves Missi",
+   "pos": "C",
+   "updated": "2026-10-23",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "OKC",
@@ -434,16 +464,6 @@
   },
   {
    "team": "ORL",
-   "player": "Anthony Black",
-   "pos": "SG",
-   "updated": "2026-10-22",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
-  },
-  {
-   "team": "ORL",
    "player": "Izaiyah Nelson",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -454,16 +474,6 @@
   },
   {
    "team": "ORL",
-   "player": "Jonathan Isaac",
-   "pos": "PF",
-   "updated": "2026-10-22",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
-  },
-  {
-   "team": "ORL",
    "player": "Noah Penda",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -471,6 +481,36 @@
    "status": "Expected return: at least Nov 18",
    "kind": "out",
    "ret": "2026-11-18"
+  },
+  {
+   "team": "ORL",
+   "player": "Anthony Black",
+   "pos": "SG",
+   "updated": "2026-10-23",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "ORL",
+   "player": "Jonathan Isaac",
+   "pos": "PF",
+   "updated": "2026-10-23",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "ORL",
+   "player": "Paolo Banchero",
+   "pos": "PF",
+   "updated": "2026-10-23",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHI",
@@ -644,6 +684,16 @@
   },
   {
    "team": "UTA",
+   "player": "Blake Hinson",
+   "pos": "SF",
+   "updated": "2026-10-21",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Nov 6",
+   "kind": "out",
+   "ret": "2026-11-06"
+  },
+  {
+   "team": "UTA",
    "player": "Jusuf Nurkic",
    "pos": "C",
    "updated": "2026-10-07",
@@ -664,16 +714,6 @@
   },
   {
    "team": "WAS",
-   "player": "AJ Dybantsa",
-   "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 24",
-   "kind": "out",
-   "ret": "2026-10-24"
-  },
-  {
-   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -691,6 +731,16 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "pos": "SF",
+   "updated": "2026-10-23",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   }
  ]
 }
