@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:21:54Z",
+ "updated": "2026-10-24T22:35:06Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -221,25 +221,6 @@
    "cur": 12.0
   },
   {
-   "player": "Royce O'Neale",
-   "team": "CHA",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 26.10.; Kon Knueppel (stražnja loža) je out najmanje do 26.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~21.7 FP po utakmici (ove sezone 16.0 u 2 utk., prošle sezone 24.5; 25 min).",
-   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
-   "horizon": "Do ~26.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2583632,
-   "fpts": 21.7,
-   "gp": 2,
-   "cur": 16.0
-  },
-  {
    "player": "Brandon Williams",
    "team": "GSW",
    "pos": "PG/SG",
@@ -295,6 +276,25 @@
    "fpts": 18.7,
    "gp": 2,
    "cur": 12.5
+  },
+  {
+   "player": "Royce O'Neale",
+   "team": "CHA",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Coby White (list) je out najmanje do 26.10.; Kon Knueppel (stražnja loža) je out najmanje do 26.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~18.6 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 24.5; 21 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2583632,
+   "fpts": 18.6,
+   "gp": 3,
+   "cur": 10.7
   },
   {
    "player": "Jarace Walker",
@@ -639,7 +639,7 @@
      "mine": 7,
      "open": 3,
      "sitting": 0,
-     "adds": 3,
+     "adds": 2,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -778,7 +778,7 @@
      "mine": 7,
      "open": 2,
      "sitting": 0,
-     "adds": 2,
+     "adds": 1,
      "addsLimit": 7,
      "planned": [
       {
@@ -877,26 +877,6 @@
        "gtd": false
       },
       {
-       "player": "Royce O'Neale",
-       "team": "CHA",
-       "pos": "SF/PF",
-       "espnId": 2583632,
-       "fpts": 21.7,
-       "mpg": 24.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 16.0,
-       "matchup": "WAS @ CHA",
-       "dates": [
-        "2026-10-26",
-        "2026-10-28",
-        "2026-10-30",
-        "2026-10-31"
-       ],
-       "value": 86.8,
-       "gtd": false
-      },
-      {
        "player": "Gui Santos",
        "team": "GSW",
        "pos": "SF",
@@ -914,6 +894,26 @@
         "2026-11-01"
        ],
        "value": 82.0,
+       "gtd": false
+      },
+      {
+       "player": "De'Anthony Melton",
+       "team": "GSW",
+       "pos": "PG/SG",
+       "espnId": 4066436,
+       "fpts": 20.4,
+       "mpg": 22.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 2,
+       "cur": 13.5,
+       "matchup": "GSW @ DEN",
+       "dates": [
+        "2026-10-26",
+        "2026-10-28",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 81.6,
        "gtd": false
       }
      ]

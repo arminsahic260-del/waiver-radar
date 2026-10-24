@@ -1,15 +1,35 @@
 {
- "updated": "2026-10-24T22:21:49Z",
+ "updated": "2026-10-24T22:35:00Z",
  "items": [
   {
    "date": "2026-10-24",
    "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Out due to rest",
-   "note": "Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The Athletic reports.",
+   "player": "Morez Johnson",
+   "headline": "Available with restrictions",
+   "note": "Johnson (lower leg) is available for Saturday's game against the Spurs but will play on a minutes restriction, Ron Harrod Jr. of DLLS Sports reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/morez-johnson-news-available-with-restrictions-535891"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Won't play Saturday",
+   "note": "Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athletic reports.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-out-due-to-rest-535889"
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-wont-play-saturday-535890"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Resting Saturday",
+   "note": "Irving is out for Saturday's game against the Spurs due to left knee injury management, Christian Clark of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-resting-saturday-535889"
   },
   {
    "date": "2026-10-24",
@@ -25,11 +45,11 @@
    "date": "2026-10-24",
    "team": "NOP",
    "player": "Yves Missi",
-   "headline": "Diagnosed with knee bone bruise",
-   "note": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports.",
+   "headline": "Without timetable for return",
+   "note": "Missi has been diagnosed with a left knee bone bruise and will miss an extended period of time, Brett Siegel of ClutchPoints.com reports.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-diagnosed-with-knee-bone-bruise-535887"
+   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-without-timetable-for-return-535887"
   },
   {
    "date": "2026-10-24",
@@ -263,16 +283,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Jett Howard",
-   "headline": "Unlikely to play Saturday",
-   "note": "Howard (calf) is listed as doubtful against the Spurs on Saturday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-unlikely-to-play-saturday-535863"
-  },
-  {
-   "date": "2026-10-24",
    "team": "CHA",
    "player": "Grant Williams",
    "headline": "Not available Saturday",
@@ -320,6 +330,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-nursing-head-injury-535845"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Jett Howard",
+   "headline": "Unlikely to play Saturday",
+   "note": "Howard (calf) is listed as doubtful against the Spurs on Saturday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-unlikely-to-play-saturday-535863"
   },
   {
    "date": "2026-10-24",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-productive-in-loss-to-jazz-535834"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "NOP",
-   "player": "Saddiq Bey",
-   "headline": "Strong showing off bench in Friday's loss",
-   "note": "Bey finished Friday's 120-119 loss to Utah with 20 points (8-12 FG, 3-5 3Pt, 1-1 FT), three rebounds, one assist and one block over 22 minutes off the bench.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-strong-showing-off-bench-in-fridays-loss-535833"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "NOP",
-   "player": "Zion Williamson",
-   "headline": "Hits for team-high 23 in Utah",
-   "note": "Williamson provided 23 points (8-12 FG, 0-1 3Pt, 7-8 FT), five rebounds, two assists and three steals across 33 minutes during Friday's 120-119 loss to the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-hits-for-team-high-23-in-utah-535832"
   }
  ]
 }
