@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:21:54Z",
+ "updated": "2026-10-24T12:21:50Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -797,25 +797,6 @@
        "gtd": false
       },
       {
-       "player": "Jock Landale",
-       "team": "ATL",
-       "pos": "C",
-       "espnId": 3146557,
-       "fpts": 24.0,
-       "mpg": 21.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 26.5,
-       "matchup": "ATL @ HOU",
-       "dates": [
-        "2026-10-26",
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 72.0,
-       "gtd": false
-      },
-      {
        "player": "Cam Spencer",
        "team": "MEM",
        "pos": "PG/SG",
@@ -832,6 +813,25 @@
         "2026-10-31"
        ],
        "value": 67.2,
+       "gtd": false
+      },
+      {
+       "player": "Javon Small",
+       "team": "MEM",
+       "pos": "PG",
+       "espnId": 4781746,
+       "fpts": 22.2,
+       "mpg": 20.2,
+       "basis": "prošla sezona",
+       "gp": 0,
+       "cur": null,
+       "matchup": "MEM @ UTA",
+       "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 66.6,
        "gtd": false
       }
      ]
@@ -1125,24 +1125,6 @@
        "gtd": false
       },
       {
-       "player": "Jock Landale",
-       "team": "ATL",
-       "pos": "C",
-       "espnId": 3146557,
-       "fpts": 24.0,
-       "mpg": 21.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 26.5,
-       "matchup": "CLE @ ATL",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 48.0,
-       "gtd": false
-      },
-      {
        "player": "Cam Spencer",
        "team": "MEM",
        "pos": "PG/SG",
@@ -1158,6 +1140,24 @@
         "2026-10-31"
        ],
        "value": 44.8,
+       "gtd": false
+      },
+      {
+       "player": "Javon Small",
+       "team": "MEM",
+       "pos": "PG",
+       "espnId": 4781746,
+       "fpts": 22.2,
+       "mpg": 20.2,
+       "basis": "prošla sezona",
+       "gp": 0,
+       "cur": null,
+       "matchup": "MEM @ POR",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 44.4,
        "gtd": false
       }
      ]
