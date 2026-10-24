@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:25:34Z",
+ "updated": "2026-10-24T08:13:35Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -143,7 +143,7 @@
    "team": "DAL",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Cooper Flagg (rame) je out najmanje do 26.10. — nova ozljeda. Santi Aldama je prvi SF/PF u rotaciji DAL-a za te minute; ~30.5 FP po utakmici (prošle sezone, 28 min).",
+   "reason": "Cooper Flagg (rame) je out najmanje do 26.10. Santi Aldama je prvi SF/PF u rotaciji DAL-a za te minute; ~30.5 FP po utakmici (prošle sezone, 28 min).",
    "role": "Veća minutaža dok je out Cooper Flagg",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Cooper Flagg",
@@ -160,7 +160,7 @@
    "team": "MEM",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Cedric Coward (zapešće) je out najmanje do 25.10. — nova ozljeda. Cam Spencer je prvi PG/SG u rotaciji MEM-a za te minute; ~27.2 FP po utakmici (prošle sezone, 24 min).",
+   "reason": "Cedric Coward (zapešće) je out najmanje do 25.10. Cam Spencer je prvi PG/SG u rotaciji MEM-a za te minute; ~27.2 FP po utakmici (prošle sezone, 24 min).",
    "role": "Veća minutaža dok je out Cedric Coward",
    "horizon": "Do ~25.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Cedric Coward",
@@ -279,7 +279,7 @@
    "team": "MEM",
    "pos": "PF",
    "priority": 3,
-   "reason": "Cedric Coward (zapešće) je out najmanje do 25.10. — nova ozljeda. Jerami Grant je sljedeći PF u rotaciji MEM-a za te minute; ~27.8 FP po utakmici (prošle sezone, 30 min).",
+   "reason": "Cedric Coward (zapešće) je out najmanje do 25.10. Jerami Grant je sljedeći PF u rotaciji MEM-a za te minute; ~27.8 FP po utakmici (prošle sezone, 30 min).",
    "role": "Veća minutaža dok je out Cedric Coward",
    "horizon": "Do ~25.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Cedric Coward",
@@ -330,7 +330,7 @@
    "team": "DAL",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Cooper Flagg (rame) je out najmanje do 26.10. — nova ozljeda. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
+   "reason": "Cooper Flagg (rame) je out najmanje do 26.10. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~23.5 FP po utakmici (ESPN projekcija, 25 min).",
    "role": "Veća minutaža dok je out Cooper Flagg",
    "horizon": "Do ~26.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Cooper Flagg",
@@ -1129,19 +1129,19 @@
        "gtd": false
       },
       {
-       "player": "Isaiah Stewart",
-       "team": "MEM",
-       "pos": "PF/C",
-       "espnId": 4432810,
-       "fpts": 23.3,
-       "mpg": 22.7,
+       "player": "Scoot Henderson",
+       "team": "POR",
+       "pos": "PG/SG",
+       "espnId": 4683678,
+       "fpts": 23.8,
+       "mpg": 24.9,
        "basis": "prošla sezona",
        "matchup": "MEM @ POR",
        "dates": [
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 46.6,
+       "value": 47.6,
        "gtd": false
       }
      ]

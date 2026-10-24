@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:25:34Z",
+ "updated": "2026-10-24T08:13:35Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-24T07:25:34Z",
+   "updated": "2026-10-24T08:13:34Z",
    "players": [
     {
      "name": "Trae Young",
@@ -53,13 +53,6 @@
      "espnId": 6442
     },
     {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
-     "slot": "F",
-     "espnId": 5041939
-    },
-    {
      "name": "Paolo Banchero",
      "team": "ORL",
      "pos": "SF/PF",
@@ -100,6 +93,13 @@
      "pos": "SG",
      "slot": "BE",
      "espnId": 4066757
+    },
+    {
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "IR",
+     "espnId": 5041939
     }
    ]
   },
@@ -110,7 +110,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-24T07:25:34Z",
+   "updated": "2026-10-24T08:13:35Z",
    "players": [
     {
      "name": "Stephon Castle",
