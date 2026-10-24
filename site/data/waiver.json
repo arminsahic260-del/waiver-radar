@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:21:56Z",
+ "updated": "2026-10-24T19:34:38Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -244,7 +244,7 @@
    "team": "DAL",
    "pos": "PF/C",
    "priority": 2,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10. — nova ozljeda; Cooper Flagg (rame) je out najmanje do 2.11. Morez Johnson Jr. je prvi PF/C u rotaciji DAL-a za te minute; ~19.1 FP po utakmici (ove sezone 10.5 u 2 utk., ESPN projekcija 23.5; 22 min).",
+   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je out najmanje do 2.11. Morez Johnson Jr. je prvi PF/C u rotaciji DAL-a za te minute; ~19.1 FP po utakmici (ove sezone 10.5 u 2 utk., ESPN projekcija 23.5; 22 min).",
    "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Santi Aldama",
@@ -266,7 +266,7 @@
    "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~18.7 FP po utakmici (ove sezone 12.5 u 2 utk., prošle sezone 21.8; 27 min).",
    "role": "Veća minutaža dok je out Fred VanVleet",
    "horizon": "Do ~26.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Fred VanVleet",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Fred VanVleet",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -359,7 +359,7 @@
    "team": "DAL",
    "pos": "SG",
    "priority": 3,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10. — nova ozljeda; Cooper Flagg (rame) je out najmanje do 2.11.; Kyrie Irving (koljeno) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 21.8; 31 min).",
+   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je out najmanje do 2.11.; Kyrie Irving (koljeno) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.4 FP po utakmici (ove sezone 17.5 u 2 utk., prošle sezone 21.8; 31 min).",
    "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Santi Aldama",
@@ -435,7 +435,7 @@
    "team": "SAS",
    "pos": "C",
    "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 27.10. — nova ozljeda. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~18.7 FP po utakmici (ove sezone 12.0 u 2 utk., prošle sezone 22.1; 19 min).",
+   "reason": "Tobias Harris (list) je out najmanje do 27.10. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~18.7 FP po utakmici (ove sezone 12.0 u 2 utk., prošle sezone 22.1; 19 min).",
    "role": "Veća minutaža dok je out Tobias Harris",
    "horizon": "Do ~27.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris",
