@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:21:57Z",
+ "updated": "2026-10-25T11:47:41Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -388,25 +388,6 @@
    "cur": 23.0
   },
   {
-   "player": "Dean Wade",
-   "team": "PHI",
-   "pos": "PF",
-   "priority": 3,
-   "reason": "Joel Embiid (odmor) je upitan (GTD). Dean Wade je sljedeći PF u rotaciji PHI-a za te minute; ~19.1 FP po utakmici (ove sezone 26.0 u 1 utk., prošle sezone 17.4; 24 min).",
-   "role": "Zamjena ako Joel Embiid ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Joel Embiid",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3912848,
-   "fpts": 19.1,
-   "gp": 1,
-   "cur": 26.0
-  },
-  {
    "player": "Charles Bassey",
    "team": "GSW",
    "pos": "C",
@@ -574,6 +555,25 @@
    "fpts": 13.5,
    "gp": 2,
    "cur": 5.0
+  },
+  {
+   "player": "Bogdan Bogdanovic",
+   "team": "HOU",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Fred VanVleet (koljeno) je out najmanje do 26.10.; Marcus Smart (forearm) je out najmanje do 26.10. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.3 FP po utakmici (ove sezone 10.0 u 3 utk., prošle sezone 14.1; 17 min).",
+   "role": "Veća minutaža dok su out Fred VanVleet i Marcus Smart",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Fred VanVleet; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3037789,
+   "fpts": 12.3,
+   "gp": 3,
+   "cur": 10.0
   }
  ],
  "days": [
