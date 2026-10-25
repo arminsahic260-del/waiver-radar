@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T19:46:15Z",
+ "updated": "2026-10-25T20:21:50Z",
  "items": [
+  {
+   "date": "2026-10-25",
+   "team": "MEM",
+   "player": "Karim Lopez",
+   "headline": "Late addition to injury report",
+   "note": "Lopez (knee) is listed as questionable for Sunday's game against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karim-lopez-injury-late-addition-to-injury-report-536017"
+  },
   {
    "date": "2026-10-25",
    "team": "SAC",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-25",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Solid numbers in Saturday's loss",
-   "note": "Daniels ended with 18 points (8-11 FG, 1-1 3Pt, 1-2 FT), eight rebounds, three assists and one steal over 29 minutes before fouling out of Saturday's 121-114 loss to Houston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-solid-numbers-in-saturdays-loss-535990"
-  },
-  {
-   "date": "2026-10-25",
    "team": "DET",
    "player": "Ausar Thompson",
    "headline": "Not active at shootaround",
@@ -270,6 +270,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-to-be-re-evaluated-in-two-weeks-535976"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Solid numbers in Saturday's loss",
+   "note": "Daniels ended with 18 points (8-11 FG, 1-1 3Pt, 1-2 FT), eight rebounds, three assists and one steal over 29 minutes before fouling out of Saturday's 121-114 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-solid-numbers-in-saturdays-loss-535990"
   },
   {
    "date": "2026-10-25",
@@ -590,16 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-injury-questionable-to-play-sunday-535911"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Questionable for Sunday",
-   "note": "Coward (wrist) is questionable for Sunday's game in Sacramento.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-questionable-for-sunday-535909"
   }
  ]
 }
