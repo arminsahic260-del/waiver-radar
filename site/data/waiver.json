@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:21:55Z",
+ "updated": "2026-10-25T21:21:54Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -157,25 +157,6 @@
    "fpts": 17.9
   },
   {
-   "player": "Morez Johnson Jr.",
-   "team": "DAL",
-   "pos": "PF/C",
-   "priority": 2,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je out najmanje do 2.11. Morez Johnson Jr. je prvi PF/C u rotaciji DAL-a za te minute; ~17.1 FP po utakmici (ove sezone 8.7 u 3 utk., ESPN projekcija 23.5; 20 min).",
-   "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Santi Aldama; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4873153,
-   "fpts": 17.1,
-   "gp": 3,
-   "cur": 8.7
-  },
-  {
    "player": "Will Richard",
    "team": "GSW",
    "pos": "SG/SF",
@@ -233,6 +214,28 @@
    "cur": 22.0
   },
   {
+   "player": "P.J. Washington",
+   "team": "DAL",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Naji Marshall (bolest) je out najmanje do 28.10. — nova ozljeda; Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je upitan (GTD). P.J. Washington je sljedeći SF/PF u rotaciji DAL-a za te minute; ~27.0 FP po utakmici (ove sezone 24.7 u 3 utk., prošle sezone 28.7; 32 min).",
+   "role": "Veća minutaža dok su out Naji Marshall i Santi Aldama",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Naji Marshall",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4278078,
+   "waivers": {
+    "Legendi": "2026-10-27"
+   },
+   "fpts": 27.0,
+   "gp": 3,
+   "cur": 24.7
+  },
+  {
    "player": "De'Anthony Melton",
    "team": "GSW",
    "pos": "PG/SG",
@@ -250,25 +253,6 @@
    "fpts": 25.1,
    "gp": 3,
    "cur": 26.7
-  },
-  {
-   "player": "Jerami Grant",
-   "team": "MEM",
-   "pos": "PF",
-   "priority": 3,
-   "reason": "Zach Edey (gležanj) je out najmanje do 26.10. Jerami Grant je sljedeći PF u rotaciji MEM-a za te minute; ~24.7 FP po utakmici (ove sezone 18.5 u 2 utk., prošle sezone 27.8; 28 min).",
-   "role": "Veća minutaža dok je out Zach Edey",
-   "horizon": "Do ~26.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Zach Edey",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2991070,
-   "fpts": 24.7,
-   "gp": 2,
-   "cur": 18.5
   },
   {
    "player": "Draymond Green",
@@ -313,10 +297,10 @@
    "team": "DAL",
    "pos": "SG",
    "priority": 3,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je out najmanje do 2.11.; Kyrie Irving (koljeno) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.0 FP po utakmici (ove sezone 17.7 u 3 utk., prošle sezone 21.8; 30 min).",
-   "role": "Veća minutaža dok su out Santi Aldama i Cooper Flagg",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Santi Aldama",
+   "reason": "Kyrie Irving (koljeno) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.0 FP po utakmici (ove sezone 17.7 u 3 utk., prošle sezone 21.8; 30 min).",
+   "role": "Zamjena ako Kyrie Irving ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Kyrie Irving",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -326,6 +310,23 @@
    "fpts": 20.0,
    "gp": 3,
    "cur": 17.7
+  },
+  {
+   "player": "Olivier-Maxence Prosper",
+   "team": "MEM",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Zach Edey (gležanj) je out najmanje do 26.10. Olivier-Maxence Prosper je sljedeći PF u rotaciji MEM-a za te minute; ~18.9 FP po utakmici (prošle sezone, 18 min).",
+   "role": "Veća minutaža dok je out Zach Edey",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Zach Edey",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4595400,
+   "fpts": 18.9
   },
   {
    "player": "Marcus Smart",
@@ -345,6 +346,25 @@
    "fpts": 18.7,
    "gp": 2,
    "cur": 12.5
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "team": "DAL",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Cooper Flagg (rame) je upitan (GTD). Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~17.1 FP po utakmici (ove sezone 8.7 u 3 utk., ESPN projekcija 23.5; 20 min).",
+   "role": "Zamjena ako Cooper Flagg ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Cooper Flagg; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4873153,
+   "fpts": 17.1,
+   "gp": 3,
+   "cur": 8.7
   },
   {
    "player": "Ronald Holland II",
@@ -476,25 +496,6 @@
    "fpts": 12.3,
    "gp": 2,
    "cur": 15.5
-  },
-  {
-   "player": "Sion James",
-   "team": "CHA",
-   "pos": "SF",
-   "priority": 3,
-   "reason": "RotoWire 21.10.: Starting versus Brooklyn. James will start in Wednesday's game against Brooklyn. ~11.5 FP po utakmici (ove sezone 7.7 u 3 utk., prošle sezone 14.4; 24 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~12 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/sion-james-news-starting-versus-brooklyn-535384",
-   "espnId": 4602025,
-   "fpts": 11.5,
-   "gp": 3,
-   "cur": 7.7
   }
  ],
  "days": [
@@ -546,20 +547,20 @@
        "gtd": false
       },
       {
-       "player": "Jerami Grant",
-       "team": "MEM",
-       "pos": "PF",
-       "espnId": 2991070,
-       "fpts": 24.7,
-       "mpg": 28.2,
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 24.2,
+       "mpg": 22.8,
        "basis": "sezona+prošla sezona",
        "gp": 2,
-       "cur": 18.5,
-       "matchup": "MEM @ SAC",
+       "cur": 15.0,
+       "matchup": "LAL @ UTA",
        "dates": [
         "2026-10-25"
        ],
-       "value": 24.7,
+       "value": 24.2,
        "gtd": false
       }
      ]
@@ -1017,21 +1018,21 @@
        "waiver": "2026-10-27"
       },
       {
-       "player": "Jerami Grant",
+       "player": "Cam Spencer",
        "team": "MEM",
-       "pos": "PF",
-       "espnId": 2991070,
-       "fpts": 24.7,
-       "mpg": 28.2,
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 22.4,
+       "mpg": 21.4,
        "basis": "sezona+prošla sezona",
        "gp": 2,
-       "cur": 18.5,
+       "cur": 13.0,
        "matchup": "MEM @ POR",
        "dates": [
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 49.4,
+       "value": 44.8,
        "gtd": false
       }
      ]
@@ -1206,20 +1207,20 @@
        "gtd": false
       },
       {
-       "player": "Jerami Grant",
-       "team": "MEM",
-       "pos": "PF",
-       "espnId": 2991070,
-       "fpts": 24.7,
-       "mpg": 28.2,
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 24.2,
+       "mpg": 22.8,
        "basis": "sezona+prošla sezona",
        "gp": 2,
-       "cur": 18.5,
-       "matchup": "SAC @ MEM",
+       "cur": 15.0,
+       "matchup": "POR @ UTA",
        "dates": [
         "2026-10-31"
        ],
-       "value": 24.7,
+       "value": 24.2,
        "gtd": false
       }
      ]

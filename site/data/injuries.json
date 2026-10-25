@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:21:20Z",
+ "updated": "2026-10-25T21:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -51,6 +51,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -144,30 +154,20 @@
   },
   {
    "team": "DAL",
-   "player": "Caleb Martin",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Thumb",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Shoulder",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
    "player": "Dereck Lively II",
    "pos": "C",
    "updated": "2026-10-24",
    "injury": "Foot",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "pos": "SG",
+   "updated": "2026-10-25",
+   "injury": "Illness",
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
@@ -191,6 +191,26 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Thumb",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
@@ -498,6 +518,16 @@
    "pos": "SG",
    "updated": "2026-10-24",
    "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "MEM",
+   "player": "Karim Lopez",
+   "pos": "PF",
+   "updated": "2026-10-25",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

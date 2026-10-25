@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-25T20:21:50Z",
+ "updated": "2026-10-25T21:21:48Z",
  "items": [
+  {
+   "date": "2026-10-25",
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Ruled out for Monday",
+   "note": "Knueppel (hamstring) has been ruled out for Monday's game against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-ruled-out-for-monday-536031"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Probable against Denver",
+   "note": "Williams is probable for Monday's game against the Nuggets due to left lower back soreness.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-injury-probable-against-denver-536030"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Absent from report",
+   "note": "Podziemski (back) is no longer listed on the injury report ahead of Monday's game against the Nuggets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-absent-from-report-536029"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "GSW",
+   "player": "Al Horford",
+   "headline": "Left off injury report",
+   "note": "Horford (back) isn't listed on the injury report for Monday's game against the Nuggets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/al-horford-news-left-off-injury-report-536028"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "headline": "Likely to play Monday",
+   "note": "Bassey is probable for Monday's game against the Nuggets due to right patellar tendinopathy.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-likely-to-play-monday-536027"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Off injury report for Monday",
+   "note": "Green (back) isn't listed on the injury report for Monday's game against Denver.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-off-injury-report-for-monday-536026"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Not listed on report anymore",
+   "note": "Curry (rest) is not listed on the injury report and is available to play Monday against the Nuggets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-not-listed-on-report-anymore-536025"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Questionable Sunday",
+   "note": "Edgecombe has been downgraded to questionable ahead of Sunday's game against the Pistons due to an abdominal contusion.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-injury-questionable-sunday-536024"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Sidelined once again",
+   "note": "White (calf) is out for Monday's game against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-sidelined-once-again-536023"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "Ruled out for Monday",
+   "note": "Dybantsa (ankle) has been ruled out for Monday's game against the Hornets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-ruled-out-for-monday-536022"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Doubtful for Monday",
+   "note": "Martin (thumb) is listed as doubtful for Monday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-doubtful-for-monday-536021"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Questionable to play Monday",
+   "note": "Flagg (shoulder) is questionable to play Monday against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-questionable-to-play-monday-536020"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Out for Monday",
+   "note": "Marshall (illness) has been ruled out for Monday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-out-for-monday-536019"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Omitted from injury report",
+   "note": "Irving (knee) isn't listed on the injury report for Monday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-omitted-from-injury-report-536018"
+  },
   {
    "date": "2026-10-25",
    "team": "MEM",
@@ -133,43 +273,53 @@
   },
   {
    "date": "2026-10-25",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Off injury report",
-   "note": "James (back) isn't listed on the injury report for Sunday's game against Detroit.",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Not active at shootaround",
+   "note": "Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-not-active-at-shootaround-535988"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DET",
+   "player": "Jalen Duren",
+   "headline": "To be re-evaluated in two weeks",
+   "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-news-off-injury-report-536002"
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-to-be-re-evaluated-in-two-weeks-535976"
   },
   {
    "date": "2026-10-25",
-   "team": "SAS",
-   "player": "Tarris Reed",
-   "headline": "Logs seven minutes in win",
-   "note": "Reed provided two points (1-2 FG) and three rebounds in seven minutes during Saturday's 122-106 win over the Mavericks.",
+   "team": "ATL",
+   "player": "Aaron Wiggins",
+   "headline": "Big night from beyond arc",
+   "note": "Wiggins posted 16 points (6-13 FG, 4-9 3Pt), five rebounds, two assists, one block and one steal across 28 minutes during Saturday's 121-114 loss to the Rockets.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarris-reed-news-logs-seven-minutes-in-win-536001"
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-big-night-from-beyond-arc-535991"
   },
   {
    "date": "2026-10-25",
-   "team": "SAS",
-   "player": "Luke Kornet",
-   "headline": "Grabs four boards in win",
-   "note": "Kornet produced zero points (0-2 FG), four rebounds and one assist in 14 minutes during Saturday's 122-106 victory over Dallas.",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Solid numbers in Saturday's loss",
+   "note": "Daniels ended with 18 points (8-11 FG, 1-1 3Pt, 1-2 FT), eight rebounds, three assists and one steal over 29 minutes before fouling out of Saturday's 121-114 loss to Houston.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luke-kornet-news-grabs-four-boards-in-win-536000"
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-solid-numbers-in-saturdays-loss-535990"
   },
   {
    "date": "2026-10-25",
-   "team": "SAS",
-   "player": "Carter Bryant",
-   "headline": "Plays 10 minutes in win",
-   "note": "Bryant totaled four points (2-4 FG, 0-2 3Pt) and one rebound over 10 minutes during Saturday's 122-106 win over the Mavericks.",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Drains four treys in Saturday's loss",
+   "note": "Alexander-Walker closed Saturday's 121-114 loss to the Rockets with 18 points (7-16 FG, 4-12 3Pt, 0-1 FT), five rebounds, four assists and three steals in 32 minutes.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/carter-bryant-news-plays-10-minutes-in-win-535999"
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-drains-four-treys-in-saturdays-loss-535989"
   },
   {
    "date": "2026-10-25",
@@ -203,96 +353,6 @@
   },
   {
    "date": "2026-10-25",
-   "team": "MIL",
-   "player": "AJ Green",
-   "headline": "Hits three triples in loss",
-   "note": "Green finished Saturday's 127-116 loss to the 76ers with 11 points (4-7 FG, 3-6 3Pt) and three rebounds across 19 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-hits-three-triples-in-loss-535995"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "CHA",
-   "player": "Royce O'Neale",
-   "headline": "Held scoreless Saturday",
-   "note": "O'Neale closed with zero points (0-1 FG, 0-1 3Pt) and one rebound over 11 minutes during Saturday's 115-110 victory over the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/royce-oneale-news-held-scoreless-saturday-535994"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "MIA",
-   "player": "Ryan Conwell",
-   "headline": "Adds three points in loss",
-   "note": "Conwell notched three points (1-2 FG, 1-1 3Pt) and one rebound in four minutes during Saturday's 115-110 loss to Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ryan-conwell-news-adds-three-points-in-loss-535993"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "MIA",
-   "player": "Tim Hardaway",
-   "headline": "Swats two shots in loss",
-   "note": "Hardaway logged five points (1-6 FG, 0-5 3Pt, 3-3 FT), two blocks and one steal in 21 minutes during Saturday's 115-110 loss to the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-news-swats-two-shots-in-loss-535992"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Big night from beyond arc",
-   "note": "Wiggins posted 16 points (6-13 FG, 4-9 3Pt), five rebounds, two assists, one block and one steal across 28 minutes during Saturday's 121-114 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-big-night-from-beyond-arc-535991"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Not active at shootaround",
-   "note": "Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-not-active-at-shootaround-535988"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "To be re-evaluated in two weeks",
-   "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-to-be-re-evaluated-in-two-weeks-535976"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Solid numbers in Saturday's loss",
-   "note": "Daniels ended with 18 points (8-11 FG, 1-1 3Pt, 1-2 FT), eight rebounds, three assists and one steal over 29 minutes before fouling out of Saturday's 121-114 loss to Houston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-solid-numbers-in-saturdays-loss-535990"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Drains four treys in Saturday's loss",
-   "note": "Alexander-Walker closed Saturday's 121-114 loss to the Rockets with 18 points (7-16 FG, 4-12 3Pt, 0-1 FT), five rebounds, four assists and three steals in 32 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-drains-four-treys-in-saturdays-loss-535989"
-  },
-  {
-   "date": "2026-10-25",
    "team": "BKN",
    "player": "Chaney Johnson",
    "headline": "Scores 10 points Saturday",
@@ -320,6 +380,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/egor-demin-news-bounces-back-with-22-point-effort-535964"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "CHA",
+   "player": "Royce O'Neale",
+   "headline": "Held scoreless Saturday",
+   "note": "O'Neale closed with zero points (0-1 FG, 0-1 3Pt) and one rebound over 11 minutes during Saturday's 115-110 victory over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/royce-oneale-news-held-scoreless-saturday-535994"
   },
   {
    "date": "2026-10-25",
@@ -423,6 +493,36 @@
   },
   {
    "date": "2026-10-25",
+   "team": "MIA",
+   "player": "Ryan Conwell",
+   "headline": "Adds three points in loss",
+   "note": "Conwell notched three points (1-2 FG, 1-1 3Pt) and one rebound in four minutes during Saturday's 115-110 loss to Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-conwell-news-adds-three-points-in-loss-535993"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "MIA",
+   "player": "Tim Hardaway",
+   "headline": "Swats two shots in loss",
+   "note": "Hardaway logged five points (1-6 FG, 0-5 3Pt, 3-3 FT), two blocks and one steal in 21 minutes during Saturday's 115-110 loss to the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-news-swats-two-shots-in-loss-535992"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "MIL",
+   "player": "AJ Green",
+   "headline": "Hits three triples in loss",
+   "note": "Green finished Saturday's 127-116 loss to the 76ers with 11 points (4-7 FG, 3-6 3Pt) and three rebounds across 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-hits-three-triples-in-loss-535995"
+  },
+  {
+   "date": "2026-10-25",
    "team": "MIL",
    "player": "Kel'el Ware",
    "headline": "Bounces back with double-double",
@@ -450,6 +550,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kyle-kuzma-news-posts-double-double-saturday-535970"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "PHI",
+   "player": "LeBron James",
+   "headline": "Off injury report",
+   "note": "James (back) isn't listed on the injury report for Sunday's game against Detroit.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-news-off-injury-report-536002"
   },
   {
    "date": "2026-10-25",
@@ -483,123 +593,13 @@
   },
   {
    "date": "2026-10-25",
-   "team": "WAS",
-   "player": "Alex Sarr",
-   "headline": "Three rejections in Saturday's win",
-   "note": "Sarr amassed 10 points (5-7 FG, 0-1 3Pt), two rebounds, three assists and three blocks over 23 minutes during Saturday's 124-120 victory over the Bulls.",
+   "team": "SAS",
+   "player": "Tarris Reed",
+   "headline": "Logs seven minutes in win",
+   "note": "Reed provided two points (1-2 FG) and three rebounds in seven minutes during Saturday's 122-106 win over the Mavericks.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-three-rejections-in-saturdays-win-535980"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "WAS",
-   "player": "Justin Champagnie",
-   "headline": "Double-double off bench Saturday",
-   "note": "Champagnie had 11 points (4-8 FG, 1-3 3Pt, 2-2 FT), 14 rebounds, four assists and one steal in 26 minutes off the bench during Saturday's 124-120 win over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/justin-champagnie-news-double-double-off-bench-saturday-535979"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "WAS",
-   "player": "Anthony Davis",
-   "headline": "Scores 19 in win over Bulls",
-   "note": "Davis supplied 19 points (8-21 FG, 0-1 3Pt, 3-5 FT), six rebounds, four assists and one steal in 31 minutes during Saturday's 124-120 win over Chicago.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-davis-news-scores-19-in-win-over-bulls-535978"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "WAS",
-   "player": "Trae Young",
-   "headline": "Pops for team-high 25 in Saturday's win",
-   "note": "Young totaled 25 points (6-13 FG, 4-10 3Pt, 9-9 FT), four rebounds and nine assists in 34 minutes during Saturday's 124-120 win over Chicago.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trae-young-news-pops-for-team-high-25-in-saturdays-win-535977"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Scores 27 points",
-   "note": "Brown tallied 27 points (9-19 FG, 3-6 3Pt, 6-6 FT), three rebounds, five assists and three steals across 35 minutes in Saturday's 127-116 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-scores-27-points-535973"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Doesn't return Saturday",
-   "note": "Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not return, Anthony Slater of ESPN.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-doesnt-return-saturday-535951"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Won't play Sunday",
-   "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-535933"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "PHI",
-   "player": "Joel Embiid",
-   "headline": "Triple-doubles in win",
-   "note": "Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal and four turnovers across 36 minutes in Saturday's 127-116 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-injury-triple-doubles-in-win-535930"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Doesn't return Saturday",
-   "note": "Walker exited Saturday's 127-116 win over the Bucks in the third quarter and did not return due to a right knee injury, Noah Levick of NBC Sports Philadelphia reports. He finished with six points (2-3 FG, 2-3 FT), three rebounds, one assist and one steal across 12 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-doesnt-return-saturday-535929"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Leaves for locker room",
-   "note": "Walker exited to the locker room in the third quarter of Saturday's game against the Bucks due to an apparent ankle injury, Tony Jones of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-leaves-for-locker-room-535917"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Ruled out for Saturday",
-   "note": "Green (back) won't play Saturday in Phoenix.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-ruled-out-for-saturday-535913"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "SAC",
-   "player": "Keegan Murray",
-   "headline": "Questionable to play Sunday",
-   "note": "Murray is questionable to play Sunday against the Grizzlies due to left ankle capsulitis.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-injury-questionable-to-play-sunday-535911"
+   "url": "https://www.rotowire.com/basketball/headlines/tarris-reed-news-logs-seven-minutes-in-win-536001"
   }
  ]
 }
