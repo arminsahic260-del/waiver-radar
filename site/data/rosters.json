@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:21:54Z",
+ "updated": "2026-10-25T11:21:57Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-25T10:21:54Z",
+   "updated": "2026-10-25T11:21:57Z",
    "adds": {
     "period": 1,
     "used": 5,
@@ -37,11 +37,11 @@
      "espnId": 4433137
     },
     {
-     "name": "Paolo Banchero",
-     "team": "ORL",
-     "pos": "SF/PF",
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
      "slot": "PF",
-     "espnId": 4432573
+     "espnId": 4278355
     },
     {
      "name": "Ivica Zubac",
@@ -58,11 +58,18 @@
      "espnId": 4277905
     },
     {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
-     "pos": "SF/PF",
+     "name": "Paul Reed",
+     "team": "DET",
+     "pos": "PF/C",
      "slot": "F",
-     "espnId": 5175737
+     "espnId": 4278562
+    },
+    {
+     "name": "Paolo Banchero",
+     "team": "ORL",
+     "pos": "SF/PF",
+     "slot": "UTIL",
+     "espnId": 4432573
     },
     {
      "name": "Kyrie Irving",
@@ -72,18 +79,18 @@
      "espnId": 6442
     },
     {
-     "name": "Donovan Clingan",
-     "team": "POR",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 5105565
-    },
-    {
      "name": "Day'Ron Sharpe",
      "team": "BKN",
      "pos": "C",
      "slot": "UTIL",
      "espnId": 4432194
+    },
+    {
+     "name": "Donovan Clingan",
+     "team": "POR",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 5105565
     },
     {
      "name": "Fred VanVleet",
@@ -93,18 +100,11 @@
      "espnId": 2991230
     },
     {
-     "name": "Paul Reed",
-     "team": "DET",
-     "pos": "PF/C",
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
      "slot": "BE",
-     "espnId": 4278562
-    },
-    {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "BE",
-     "espnId": 4278355
+     "espnId": 5175737
     },
     {
      "name": "Cooper Flagg",
@@ -122,7 +122,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-25T10:21:54Z",
+   "updated": "2026-10-25T11:21:57Z",
    "adds": {
     "period": 1,
     "used": 5,
