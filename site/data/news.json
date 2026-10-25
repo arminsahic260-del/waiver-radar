@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T16:30:02Z",
+ "updated": "2026-10-25T16:34:55Z",
  "items": [
+  {
+   "date": "2026-10-25",
+   "team": "CHA",
+   "player": "Royce O'Neale",
+   "headline": "Held scoreless Saturday",
+   "note": "O'Neale closed with zero points (0-1 FG, 0-1 3Pt) and one rebound over 11 minutes during Saturday's 115-110 victory over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/royce-oneale-news-held-scoreless-saturday-535994"
+  },
   {
    "date": "2026-10-25",
    "team": "MIA",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-25",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Nearly perfect from field",
-   "note": "Allen produced 21 points (7-8 FG, 1-1 3Pt, 6-8 FT), eight rebounds, two steals and a block across 27 minutes in Saturday's 125-121 win over the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-nearly-perfect-from-field-535969"
-  },
-  {
-   "date": "2026-10-25",
    "team": "BKN",
    "player": "Chaney Johnson",
    "headline": "Scores 10 points Saturday",
@@ -280,6 +280,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/egor-demin-news-bounces-back-with-22-point-effort-535964"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Nearly perfect from field",
+   "note": "Allen produced 21 points (7-8 FG, 1-1 3Pt, 6-8 FT), eight rebounds, two steals and a block across 27 minutes in Saturday's 125-121 win over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-nearly-perfect-from-field-535969"
   },
   {
    "date": "2026-10-25",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-34-points-with-full-line-535921"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "CHA",
-   "player": "Christian Anderson",
-   "headline": "Available Saturday",
-   "note": "Anderson (ankle) is available for Saturday's game against the Heat.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/christian-anderson-news-available-saturday-535877"
   }
  ]
 }
