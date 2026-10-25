@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:21:18Z",
+ "updated": "2026-10-25T00:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -193,24 +193,14 @@
    "ret": "2026-11-02"
   },
   {
-   "team": "DAL",
-   "player": "Jett Howard",
-   "pos": "SG",
-   "updated": "2026-10-23",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Max Christie",
-   "pos": "SG",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "pos": "SF",
    "updated": "2026-10-24",
-   "injury": "Leg",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "injury": "Wrist",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "DEN",
@@ -241,16 +231,6 @@
    "status": "Expected return: at least Oct 26",
    "kind": "out",
    "ret": "2026-10-26"
-  },
-  {
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DET",
@@ -364,6 +344,16 @@
   },
   {
    "team": "HOU",
+   "player": "Marcus Smart",
+   "pos": "PG",
+   "updated": "2026-10-24",
+   "injury": "Forearm",
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
+  },
+  {
+   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-10-24",
@@ -371,26 +361,6 @@
    "status": "Expected return: at least Oct 26",
    "kind": "out",
    "ret": "2026-10-26"
-  },
-  {
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "pos": "PG",
-   "updated": "2026-10-24",
-   "injury": "Forearm",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "pos": "SG",
-   "updated": "2026-10-24",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "IND",
@@ -484,6 +454,16 @@
   },
   {
    "team": "LAL",
+   "player": "Adou Thiero",
+   "pos": "SF",
+   "updated": "2026-10-24",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
+  },
+  {
+   "team": "LAL",
    "player": "Cameron Carr",
    "pos": "SG",
    "updated": "2026-10-24",
@@ -493,24 +473,14 @@
    "ret": "2026-10-27"
   },
   {
-   "team": "LAL",
-   "player": "Adou Thiero",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
-   "player": "Jake LaRavia",
-   "pos": "SF",
+   "team": "MEM",
+   "player": "Zach Edey",
+   "pos": "C",
    "updated": "2026-10-24",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "MEM",
@@ -673,6 +643,16 @@
    "ret": "2026-10-25"
   },
   {
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "pos": "SG",
+   "updated": "2026-10-24",
+   "injury": "Groin",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "PHX",
    "player": "Mark Williams",
    "pos": "C",
@@ -818,9 +798,9 @@
    "pos": "SG",
    "updated": "2026-10-24",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 26",
+   "kind": "out",
+   "ret": "2026-10-26"
   },
   {
    "team": "WAS",

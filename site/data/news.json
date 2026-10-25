@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-24T23:21:48Z",
+ "updated": "2026-10-25T00:21:50Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "SAC",
+   "player": "Keegan Murray",
+   "headline": "Questionable to play Sunday",
+   "note": "Murray is questionable to play Sunday against the Grizzlies due to left ankle capsulitis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-injury-questionable-to-play-sunday-535911"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Returns Saturday",
+   "note": "Edgecombe (groin) started the second quarter of Saturday's game against the Bucks, per the broadcast.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-returns-saturday-535910"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MEM",
+   "player": "Cedric Coward",
+   "headline": "Questionable for Sunday",
+   "note": "Coward (wrist) is questionable for Sunday's game in Sacramento.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-questionable-for-sunday-535909"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "MEM",
+   "player": "Zach Edey",
+   "headline": "Resting Sunday",
+   "note": "Edey has been ruled out for Sunday's game against Sacramento due to left ankle injury management.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-injury-resting-sunday-535908"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Starting vs. Atlanta",
+   "note": "Sheppard is in the starting lineup for Saturday's game against the Hawks, Will Guillory of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-news-starting-vs-atlanta-535907"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Ruled out for Saturday",
+   "note": "Diallo (wrist) won't play Saturday against the Pelicans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-ruled-out-for-saturday-535906"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Exits to locker room",
+   "note": "Edgecombe exited to the locker room in the first quarter of Saturday's game against the Bucks due to an apparent groin injury, Tony Jones of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-injury-exits-to-locker-room-535905"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Day-to-day with ankle sprain",
+   "note": "Head coach David Aldeman said that Johnson is \"day-to-day\" due to his sprained right ankle, Vinny Benedetto of The Denver Gazette reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-day-to-day-with-ankle-sprain-535904"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Starting Saturday",
+   "note": "Risacher will be in the starting lineup for Saturday's matchup with the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-starting-saturday-535903"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Starting Saturday",
+   "note": "Marshall will start Saturday's game against the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-starting-saturday-535902"
+  },
   {
    "date": "2026-10-24",
    "team": "LAL",
@@ -193,16 +293,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Cleared to play Saturday",
-   "note": "Larsson (finger) is available for Saturday's game against the Hornets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-cleared-to-play-saturday-535882"
-  },
-  {
-   "date": "2026-10-24",
    "team": "CHI",
    "player": "Noa Essengue",
    "headline": "Downgraded to questionable",
@@ -243,16 +333,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "CHA",
-   "player": "Christian Anderson",
-   "headline": "Available Saturday",
-   "note": "Anderson (ankle) is available for Saturday's game against the Heat.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/christian-anderson-news-available-saturday-535877"
-  },
-  {
-   "date": "2026-10-24",
    "team": "PHX",
    "player": "Oso Ighodaro",
    "headline": "Won't play Saturday",
@@ -283,63 +363,13 @@
   },
   {
    "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Doubtful to play Saturday",
-   "note": "Green is doubtful to play Saturday against the Suns due to bilateral low back soreness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-doubtful-to-play-saturday-535873"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Questionable for Sunday",
-   "note": "Thompson (ankle) is listed as questionable for Sunday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-questionable-for-sunday-535872"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "Ruled out for Sunday",
-   "note": "Duren has been ruled out for Sunday's game against the 76ers due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-ruled-out-for-sunday-535871"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Not playing Saturday",
-   "note": "Curry (rest) won't play Saturday against the Suns.",
+   "team": "CHA",
+   "player": "Christian Anderson",
+   "headline": "Available Saturday",
+   "note": "Anderson (ankle) is available for Saturday's game against the Heat.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-not-playing-saturday-535870"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Late addition to injury report",
-   "note": "Smart (forearm) is listed as questionable for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-late-addition-to-injury-report-535869"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "NOP",
-   "player": "Yves Missi",
-   "headline": "Ruled out Saturday",
-   "note": "Missi (knee) has been ruled out for Saturday's game against the Nuggets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-ruled-out-saturday-535868"
+   "url": "https://www.rotowire.com/basketball/headlines/christian-anderson-news-available-saturday-535877"
   },
   {
    "date": "2026-10-24",
@@ -483,6 +513,46 @@
   },
   {
    "date": "2026-10-24",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Questionable for Sunday",
+   "note": "Thompson (ankle) is listed as questionable for Sunday's game against Philadelphia.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-questionable-for-sunday-535872"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DET",
+   "player": "Jalen Duren",
+   "headline": "Ruled out for Sunday",
+   "note": "Duren has been ruled out for Sunday's game against the 76ers due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-ruled-out-for-sunday-535871"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Doubtful to play Saturday",
+   "note": "Green is doubtful to play Saturday against the Suns due to bilateral low back soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-doubtful-to-play-saturday-535873"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Not playing Saturday",
+   "note": "Curry (rest) won't play Saturday against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-not-playing-saturday-535870"
+  },
+  {
+   "date": "2026-10-24",
    "team": "GSW",
    "player": "Yaxel Lendeborg",
    "headline": "Impressive double-double in Friday's loss",
@@ -514,92 +584,22 @@
   {
    "date": "2026-10-24",
    "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Late addition to injury report",
+   "note": "Smart (forearm) is listed as questionable for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-late-addition-to-injury-report-535869"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
    "player": "Steven Adams",
    "headline": "Out Saturday",
    "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-out-saturday-535851"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Questionable to play Saturday",
-   "note": "Sheppard (knee) is listed as questionable for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-questionable-to-play-saturday-535850"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Fred VanVleet",
-   "headline": "Officially ruled out Saturday",
-   "note": "VanVleet (knee) has been ruled out for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-officially-ruled-out-saturday-535849"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Will likely rest Saturday",
-   "note": "Adams (rest) will likely be sidelined for Saturday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-will-likely-rest-saturday-535840"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Fred VanVleet",
-   "headline": "Unlikey to play Saturday",
-   "note": "VanVleet (rest) is unlikely to play in the second leg of the Rockets' back-to-back set Saturday against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-unlikey-to-play-saturday-535838"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "LAC",
-   "player": "Brook Lopez",
-   "headline": "Provides spark off bench",
-   "note": "Lopez finished with 22 points (8-9 FG, 2-2 3Pt, 4-5 FT), four rebounds and three blocks across 20 minutes during Friday's 125-117 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-provides-spark-off-bench-535821"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "LAC",
-   "player": "Derrick Jones",
-   "headline": "Adequate producution in loss",
-   "note": "Jones closed Friday's 125-117 loss to the Lakers with 16 points (6-13 FG, 3-8 3Pt, 1-2 FT), four rebounds, one assist and two steals in 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-adequate-producution-in-loss-535820"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Efficient in loss against former team",
-   "note": "Hachimura totaled 16 points (5-14 FG, 3-6 3Pt, 3-4 FT), six rebounds, one assist and two steals over 33 minutes during Friday's 125-117 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-efficient-in-loss-against-former-team-535819"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "LAC",
-   "player": "Darius Garland",
-   "headline": "Logs team-high in loss",
-   "note": "Garland amassed 26 points (9-19 FG, 4-10 3Pt, 4-5 FT), six assists and one steal across 37 minutes during Friday's 125-117 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-garland-news-logs-team-high-in-loss-535818"
   }
  ]
 }
