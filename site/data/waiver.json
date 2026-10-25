@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:21:54Z",
+ "updated": "2026-10-25T22:21:55Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -7,7 +7,7 @@
    "team": "WAS",
    "pos": "SG/SF",
    "priority": 1,
-   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min).",
+   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min). AJ Dybantsa (gležanj) je out najmanje do 28.10. — nova ozljeda. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -140,6 +140,25 @@
    "cur": 7.0
   },
   {
+   "player": "Royce O'Neale",
+   "team": "CHA",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Coby White (list) je out najmanje do 28.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 28.10. — nova ozljeda. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~18.6 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 24.5; 23 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2583632,
+   "fpts": 18.6,
+   "gp": 3,
+   "cur": 10.7
+  },
+  {
    "player": "Terance Mann",
    "team": "BKN",
    "pos": "SG/SF",
@@ -155,6 +174,25 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3907823,
    "fpts": 17.9
+  },
+  {
+   "player": "Aaron Nesmith",
+   "team": "IND",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "RotoWire 25.10.: Starting Sunday. Nesmith (hamstring) will start Sunday's game against the Nets. ~17.5 FP po utakmici (ove sezone 6.0 u 2 utk., prošle sezone 23.3; 24 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~18 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-starting-sunday-536039",
+   "espnId": 4396909,
+   "fpts": 17.5,
+   "gp": 2,
+   "cur": 6.0
   },
   {
    "player": "Will Richard",
@@ -218,7 +256,7 @@
    "team": "DAL",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Naji Marshall (bolest) je out najmanje do 28.10. — nova ozljeda; Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je upitan (GTD). P.J. Washington je sljedeći SF/PF u rotaciji DAL-a za te minute; ~27.0 FP po utakmici (ove sezone 24.7 u 3 utk., prošle sezone 28.7; 32 min).",
+   "reason": "Naji Marshall (bolest) je out najmanje do 28.10.; Santi Aldama (koljeno) je out najmanje do 28.10.; Cooper Flagg (rame) je upitan (GTD). P.J. Washington je sljedeći SF/PF u rotaciji DAL-a za te minute; ~27.0 FP po utakmici (ove sezone 24.7 u 3 utk., prošle sezone 28.7; 32 min).",
    "role": "Veća minutaža dok su out Naji Marshall i Santi Aldama",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Naji Marshall",
@@ -253,6 +291,25 @@
    "fpts": 25.1,
    "gp": 3,
    "cur": 26.7
+  },
+  {
+   "player": "Justin Champagnie",
+   "team": "WAS",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. — nova ozljeda. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~24.7 FP po utakmici (ove sezone 28.7 u 3 utk., prošle sezone 21.7; 21 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432907,
+   "fpts": 24.7,
+   "gp": 3,
+   "cur": 28.7
   },
   {
    "player": "Draymond Green",
@@ -291,25 +348,6 @@
    "fpts": 22.5,
    "gp": 3,
    "cur": 21.3
-  },
-  {
-   "player": "Max Christie",
-   "team": "DAL",
-   "pos": "SG",
-   "priority": 3,
-   "reason": "Kyrie Irving (koljeno) je upitan (GTD). Max Christie je sljedeći SG u rotaciji DAL-a za te minute; ~20.0 FP po utakmici (ove sezone 17.7 u 3 utk., prošle sezone 21.8; 30 min).",
-   "role": "Zamjena ako Kyrie Irving ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Kyrie Irving",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432582,
-   "fpts": 20.0,
-   "gp": 3,
-   "cur": 17.7
   },
   {
    "player": "Olivier-Maxence Prosper",
@@ -386,6 +424,25 @@
    "cur": 14.5
   },
   {
+   "player": "Hannes Steinbach",
+   "team": "CHA",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 28.10. — nova ozljeda. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
+   "role": "Veća minutaža dok je out Kon Knueppel",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kon Knueppel; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5281370,
+   "fpts": 16.2,
+   "gp": 1,
+   "cur": 11.0
+  },
+  {
    "player": "Goga Bitadze",
    "team": "ORL",
    "pos": "C",
@@ -422,25 +479,6 @@
    "fpts": 15.3,
    "gp": 2,
    "cur": 17.0
-  },
-  {
-   "player": "Walter Clayton Jr.",
-   "team": "DAL",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Kyrie Irving (koljeno) je upitan (GTD). Walter Clayton Jr. je sljedeći PG/SG u rotaciji DAL-a za te minute; ~15.0 FP po utakmici (ove sezone 10.0 u 2 utk., prošle sezone 17.6; 16 min).",
-   "role": "Zamjena ako Kyrie Irving ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Kyrie Irving; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4896372,
-   "fpts": 15.0,
-   "gp": 2,
-   "cur": 10.0
   },
   {
    "player": "Ben Saraf",
@@ -551,16 +589,16 @@
        "team": "UTA",
        "pos": "PG",
        "espnId": 4683766,
-       "fpts": 24.2,
-       "mpg": 22.8,
+       "fpts": 22.9,
+       "mpg": 20.6,
        "basis": "sezona+prošla sezona",
-       "gp": 2,
+       "gp": 3,
        "cur": 15.0,
        "matchup": "LAL @ UTA",
        "dates": [
         "2026-10-25"
        ],
-       "value": 24.2,
+       "value": 22.9,
        "gtd": false
       }
      ]
@@ -592,37 +630,37 @@
        "gtd": false
       },
       {
-       "player": "Collin Sexton",
-       "team": "LAL",
-       "pos": "PG/SG",
-       "espnId": 4277811,
-       "fpts": 24.6,
-       "mpg": 22.2,
-       "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 19.0,
-       "matchup": "LAL @ UTA",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 24.6,
-       "gtd": false
-      },
-      {
        "player": "Isaiah Collier",
        "team": "UTA",
        "pos": "PG",
        "espnId": 4683766,
-       "fpts": 24.2,
-       "mpg": 22.8,
+       "fpts": 22.9,
+       "mpg": 20.6,
        "basis": "sezona+prošla sezona",
-       "gp": 2,
+       "gp": 3,
        "cur": 15.0,
        "matchup": "LAL @ UTA",
        "dates": [
         "2026-10-25"
        ],
-       "value": 24.2,
+       "value": 22.9,
+       "gtd": false
+      },
+      {
+       "player": "Miles McBride",
+       "team": "NYK",
+       "pos": "PG/SG",
+       "espnId": 4431823,
+       "fpts": 22.7,
+       "mpg": 24.9,
+       "basis": "sezona+prošla sezona",
+       "gp": 2,
+       "cur": 21.5,
+       "matchup": "ORL @ NYK",
+       "dates": [
+        "2026-10-25"
+       ],
+       "value": 22.7,
        "gtd": false
       }
      ]
@@ -1211,16 +1249,16 @@
        "team": "UTA",
        "pos": "PG",
        "espnId": 4683766,
-       "fpts": 24.2,
-       "mpg": 22.8,
+       "fpts": 22.9,
+       "mpg": 20.6,
        "basis": "sezona+prošla sezona",
-       "gp": 2,
+       "gp": 3,
        "cur": 15.0,
        "matchup": "POR @ UTA",
        "dates": [
         "2026-10-31"
        ],
-       "value": 24.2,
+       "value": 22.9,
        "gtd": false
       }
      ]

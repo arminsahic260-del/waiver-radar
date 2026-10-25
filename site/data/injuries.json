@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:21:19Z",
+ "updated": "2026-10-25T22:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -53,14 +53,14 @@
    "ret": "2026-11-08"
   },
   {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
+   "team": "CHA",
+   "player": "Coby White",
+   "pos": "PG",
    "updated": "2026-10-25",
-   "injury": "Not Injury Related",
-   "status": "—",
+   "injury": "Calf",
+   "status": "Expected return: at least Oct 28",
    "kind": "out",
-   "ret": null
+   "ret": "2026-10-28"
   },
   {
    "team": "CHA",
@@ -74,6 +74,16 @@
   },
   {
    "team": "CHA",
+   "player": "Kon Knueppel",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "CHA",
    "player": "Kylan Boswell",
    "pos": "PG",
    "updated": "2026-10-20",
@@ -81,26 +91,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "CHA",
-   "player": "Coby White",
-   "pos": "PG",
-   "updated": "2026-10-25",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "pos": "SF",
-   "updated": "2026-10-25",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "CHI",
@@ -208,16 +198,6 @@
    "pos": "SF",
    "updated": "2026-10-25",
    "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "pos": "PG",
-   "updated": "2026-10-25",
-   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -334,6 +314,26 @@
   },
   {
    "team": "GSW",
+   "player": "Brandon Williams",
+   "pos": "PG",
+   "updated": "2026-10-25",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Charles Bassey",
+   "pos": "C",
+   "updated": "2026-10-25",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
    "player": "Draymond Green",
    "pos": "PF",
    "updated": "2026-10-25",
@@ -347,7 +347,7 @@
    "player": "Gui Santos",
    "pos": "SF",
    "updated": "2026-10-25",
-   "injury": "Undisclosed",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -361,6 +361,16 @@
    "status": "GTD",
    "kind": "gtd",
    "ret": null
+  },
+  {
+   "team": "HOU",
+   "player": "Steven Adams",
+   "pos": "C",
+   "updated": "2026-10-25",
+   "injury": "Calf",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "HOU",
@@ -378,16 +388,6 @@
    "pos": "PG",
    "updated": "2026-10-25",
    "injury": "Forearm",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "HOU",
-   "player": "Steven Adams",
-   "pos": "C",
-   "updated": "2026-10-25",
-   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -556,11 +556,11 @@
    "team": "NYK",
    "player": "Jose Alvarado",
    "pos": "PG",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
   },
   {
    "team": "OKC",
@@ -681,6 +681,16 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
+  },
+  {
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "pos": "SG",
+   "updated": "2026-10-25",
+   "injury": "Abdomen",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHX",
@@ -824,6 +834,16 @@
   },
   {
    "team": "WAS",
+   "player": "AJ Dybantsa",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -841,16 +861,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "pos": "SF",
-   "updated": "2026-10-25",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }
