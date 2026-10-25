@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:21:18Z",
+ "updated": "2026-10-25T18:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -51,6 +51,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -534,16 +544,6 @@
   },
   {
    "team": "OKC",
-   "player": "Otega Oweh",
-   "pos": "SG",
-   "updated": "2026-10-14",
-   "injury": "Achilles",
-   "status": "Out for season",
-   "kind": "out_season",
-   "ret": null
-  },
-  {
-   "team": "OKC",
    "player": "Nikola Topic",
    "pos": "PG",
    "updated": "2026-10-21",
@@ -636,31 +636,21 @@
    "team": "PHI",
    "player": "Jabari Walker",
    "pos": "PF",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "PHI",
    "player": "Joel Embiid",
    "pos": "C",
-   "updated": "2026-10-24",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHI",
-   "player": "LeBron James",
-   "pos": "PF",
    "updated": "2026-10-25",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "injury": "Heel",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "PHI",
@@ -791,16 +781,6 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
-  },
-  {
-   "team": "UTA",
-   "player": "Blake Hinson",
-   "pos": "SF",
-   "updated": "2026-10-21",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 6",
-   "kind": "out",
-   "ret": "2026-11-06"
   },
   {
    "team": "UTA",
