@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-25T00:21:50Z",
+ "updated": "2026-10-25T01:18:17Z",
  "items": [
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "DeAndre Jordan",
+   "headline": "Starting Saturday",
+   "note": "Jordan will start Saturday against the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deandre-jordan-news-starting-saturday-535915"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DEN",
+   "player": "Bryce Hopkins",
+   "headline": "Starting sans Johnson",
+   "note": "Hopkins will start Saturday's game against the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bryce-hopkins-news-starting-sans-johnson-535914"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Ruled out for Saturday",
+   "note": "Green (back) won't play Saturday in Phoenix.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-ruled-out-for-saturday-535913"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHX",
+   "player": "Luke Kennard",
+   "headline": "Good to go Saturday",
+   "note": "Kennard (knee) is available for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-news-good-to-go-saturday-535912"
+  },
   {
    "date": "2026-10-24",
    "team": "SAC",
@@ -353,16 +393,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Al Horford",
-   "headline": "Sitting out Saturday's contest",
-   "note": "Horford (back) has been ruled out for Saturday's game against the Suns.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/al-horford-injury-sitting-out-saturdays-contest-535874"
-  },
-  {
-   "date": "2026-10-24",
    "team": "CHA",
    "player": "Christian Anderson",
    "headline": "Available Saturday",
@@ -534,6 +564,16 @@
   {
    "date": "2026-10-24",
    "team": "GSW",
+   "player": "Al Horford",
+   "headline": "Sitting out Saturday's contest",
+   "note": "Horford (back) has been ruled out for Saturday's game against the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/al-horford-injury-sitting-out-saturdays-contest-535874"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
    "player": "Draymond Green",
    "headline": "Doubtful to play Saturday",
    "note": "Green is doubtful to play Saturday against the Suns due to bilateral low back soreness.",
@@ -560,46 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-impressive-double-double-in-fridays-loss-535843"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Won't play Saturday",
-   "note": "Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-wont-play-saturday-535831"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Unlikely to play against Phoenix",
-   "note": "Curry told reporters after Friday's loss to the Grizzlies that he will \"probably not\" play against the Suns on Saturday, Nick Friedell of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-unlikely-to-play-against-phoenix-535830"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Late addition to injury report",
-   "note": "Smart (forearm) is listed as questionable for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-late-addition-to-injury-report-535869"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Out Saturday",
-   "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-out-saturday-535851"
   }
  ]
 }
