@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T18:21:48Z",
+ "updated": "2026-10-25T19:21:49Z",
  "items": [
+  {
+   "date": "2026-10-25",
+   "team": "SAC",
+   "player": "Keegan Murray",
+   "headline": "Downgraded to doubtful",
+   "note": "Murray (ankle) has been downgraded to doubtful for Sunday's game against Memphis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-injury-downgraded-to-doubtful-536015"
+  },
   {
    "date": "2026-10-25",
    "team": "PHX",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-25",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Drains four treys in Saturday's loss",
-   "note": "Alexander-Walker closed Saturday's 121-114 loss to the Rockets with 18 points (7-16 FG, 4-12 3Pt, 0-1 FT), five rebounds, four assists and three steals in 32 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-drains-four-treys-in-saturdays-loss-535989"
-  },
-  {
-   "date": "2026-10-25",
    "team": "DET",
    "player": "Ausar Thompson",
    "headline": "Not active at shootaround",
@@ -270,6 +270,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-to-be-re-evaluated-in-two-weeks-535976"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Drains four treys in Saturday's loss",
+   "note": "Alexander-Walker closed Saturday's 121-114 loss to the Rockets with 18 points (7-16 FG, 4-12 3Pt, 0-1 FT), five rebounds, four assists and three steals in 32 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-drains-four-treys-in-saturdays-loss-535989"
   },
   {
    "date": "2026-10-25",
@@ -590,16 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-injury-questionable-for-sunday-535909"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "MEM",
-   "player": "Zach Edey",
-   "headline": "Resting Sunday",
-   "note": "Edey has been ruled out for Sunday's game against Sacramento due to left ankle injury management.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-injury-resting-sunday-535908"
   }
  ]
 }

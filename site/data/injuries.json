@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:21:17Z",
+ "updated": "2026-10-25T19:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -38,9 +38,9 @@
    "pos": "SF",
    "updated": "2026-10-25",
    "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 27",
+   "kind": "out",
+   "ret": "2026-10-27"
   },
   {
    "team": "BOS",
@@ -51,16 +51,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-10-25",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "CHA",
@@ -134,6 +124,16 @@
   },
   {
    "team": "CLE",
+   "player": "Khalifa Diop",
+   "pos": "C",
+   "updated": "2026-10-25",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "CLE",
    "player": "Nae'Qwan Tomlin",
    "pos": "PF",
    "updated": "2026-10-20",
@@ -141,16 +141,6 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
-  },
-  {
-   "team": "CLE",
-   "player": "Khalifa Diop",
-   "pos": "C",
-   "updated": "2026-10-25",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -658,9 +648,9 @@
    "pos": "C",
    "updated": "2026-10-25",
    "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "PHX",
