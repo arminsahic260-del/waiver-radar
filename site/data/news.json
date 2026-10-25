@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-25T22:21:49Z",
+ "updated": "2026-10-25T22:39:46Z",
  "items": [
+  {
+   "date": "2026-10-25",
+   "team": "TOR",
+   "player": "Ja'Kobe Walter",
+   "headline": "Starting Sunday",
+   "note": "Walter will start Sunday's game against the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakobe-walter-news-starting-sunday-536046"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "headline": "Won't play Monday",
+   "note": "Jones (hamstring) is out for Monday's matchup with the Warriors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-wont-play-monday-536045"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "headline": "Questionable to return Sunday",
+   "note": "Zubac is questionable to return to Sunday's game in Brooklyn due to a left ankle sprain, Pat Boylan of FanDuel Sports Network Indiana reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-questionable-to-return-sunday-536044"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Doubtful for Monday",
+   "note": "Ighodaro (oblique) is doubtful for Monday's matchup with the Thunder, Duane Rankin of The Arizona Republic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-doubtful-for-monday-536043"
+  },
   {
    "date": "2026-10-25",
    "team": "DET",
@@ -243,16 +283,6 @@
   },
   {
    "date": "2026-10-25",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Omitted from injury report",
-   "note": "Irving (knee) isn't listed on the injury report for Monday's game against the Heat.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-omitted-from-injury-report-536018"
-  },
-  {
-   "date": "2026-10-25",
    "team": "MEM",
    "player": "Karim Lopez",
    "headline": "Late addition to injury report",
@@ -320,36 +350,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-wont-play-sunday-536004"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "PHI",
-   "player": "Joel Embiid",
-   "headline": "Out Sunday",
-   "note": "Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-injury-out-sunday-536003"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Not active at shootaround",
-   "note": "Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-not-active-at-shootaround-535988"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "To be re-evaluated in two weeks",
-   "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-to-be-re-evaluated-in-two-weeks-535976"
   },
   {
    "date": "2026-10-25",
@@ -523,6 +523,36 @@
   },
   {
    "date": "2026-10-25",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Omitted from injury report",
+   "note": "Irving (knee) isn't listed on the injury report for Monday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-omitted-from-injury-report-536018"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Not active at shootaround",
+   "note": "Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-not-active-at-shootaround-535988"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "DET",
+   "player": "Jalen Duren",
+   "headline": "To be re-evaluated in two weeks",
+   "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-to-be-re-evaluated-in-two-weeks-535976"
+  },
+  {
+   "date": "2026-10-25",
    "team": "GSW",
    "player": "Gary Payton",
    "headline": "Quiet outing in loss",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-double-double-in-win-over-hawks-535986"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "HOU",
-   "player": "Amen Thompson",
-   "headline": "Extends double-double streak Saturday",
-   "note": "Thompson finished with 17 points (4-12 FG, 9-9 FT), 11 rebounds, six assists and one steal over 39 minutes during Saturday's 121-114 win over the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-extends-double-double-streak-saturday-535985"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "HOU",
-   "player": "Kevin Durant",
-   "headline": "Drops team-high 22 in Atlanta",
-   "note": "Durant ended Saturday's 121-114 win over the Hawks with 22 points (8-15 FG, 3-7 3Pt, 3-3 FT), four rebounds, two assists and one block across 37 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-drops-team-high-22-in-atlanta-535984"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "MIA",
-   "player": "Ryan Conwell",
-   "headline": "Adds three points in loss",
-   "note": "Conwell notched three points (1-2 FG, 1-1 3Pt) and one rebound in four minutes during Saturday's 115-110 loss to Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ryan-conwell-news-adds-three-points-in-loss-535993"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:21:55Z",
+ "updated": "2026-10-25T22:39:51Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -7,7 +7,7 @@
    "team": "WAS",
    "pos": "SG/SF",
    "priority": 1,
-   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min). AJ Dybantsa (gležanj) je out najmanje do 28.10. — nova ozljeda. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min).",
+   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min). AJ Dybantsa (gležanj) je out najmanje do 28.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -144,7 +144,7 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 28.10. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 28.10. — nova ozljeda. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~18.6 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 24.5; 23 min).",
+   "reason": "Coby White (list) je out najmanje do 28.10.; Kon Knueppel (stražnja loža) je out najmanje do 28.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~18.6 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 24.5; 23 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White",
@@ -233,25 +233,6 @@
    "cur": 1.5
   },
   {
-   "player": "Khaman Maluach",
-   "team": "PHX",
-   "pos": "C",
-   "priority": 2,
-   "reason": "RotoWire 21.10.: Starting Wednesday. Maluach will start in Wednesday's regular-season opener against the Trail Blazers, Duane Rankin of The Arizona Republic reports. ~13.0 FP po utakmici (ove sezone 22.0 u 2 utk., prošle sezone 8.5; 13 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~13 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/khaman-maluach-news-starting-wednesday-535415",
-   "espnId": 5203685,
-   "fpts": 13.0,
-   "gp": 2,
-   "cur": 22.0
-  },
-  {
    "player": "P.J. Washington",
    "team": "DAL",
    "pos": "SF/PF",
@@ -297,7 +278,7 @@
    "team": "WAS",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. — nova ozljeda. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~24.7 FP po utakmici (ove sezone 28.7 u 3 utk., prošle sezone 21.7; 21 min).",
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~24.7 FP po utakmici (ove sezone 28.7 u 3 utk., prošle sezone 21.7; 21 min).",
    "role": "Veća minutaža dok je out AJ Dybantsa",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati AJ Dybantsa",
@@ -428,7 +409,7 @@
    "team": "CHA",
    "pos": "PF",
    "priority": 3,
-   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 28.10. — nova ozljeda. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 28.10. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
    "role": "Veća minutaža dok je out Kon Knueppel",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kon Knueppel; nizak bodovni plafon",
@@ -534,6 +515,25 @@
    "fpts": 12.3,
    "gp": 2,
    "cur": 15.5
+  },
+  {
+   "player": "Jase Richardson",
+   "team": "ORL",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "RotoWire 25.10.: Starting Sunday. Richardson is in the starting lineup for Sunday's game against the Knicks, Cody Taylor of USA Today reports. ~10.5 FP po utakmici (ove sezone 14.5 u 2 utk., prošle sezone 8.5; 12 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~10 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-starting-sunday-536047",
+   "espnId": 5239561,
+   "fpts": 10.5,
+   "gp": 2,
+   "cur": 14.5
   }
  ],
  "days": [
