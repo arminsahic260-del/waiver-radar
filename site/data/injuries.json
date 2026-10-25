@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:17:36Z",
+ "updated": "2026-10-25T10:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -651,16 +651,6 @@
    "status": "Expected return: at least Oct 25",
    "kind": "out",
    "ret": "2026-10-25"
-  },
-  {
-   "team": "PHI",
-   "player": "VJ Edgecombe",
-   "pos": "SG",
-   "updated": "2026-10-25",
-   "injury": "Groin",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "PHI",
