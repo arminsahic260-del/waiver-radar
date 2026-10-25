@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T13:21:20Z",
+ "updated": "2026-10-25T16:29:32Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -36,11 +36,11 @@
    "team": "BKN",
    "player": "Tyler Bilodeau",
    "pos": "SF",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "injury": "Shoulder",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "BOS",
@@ -54,16 +54,6 @@
   },
   {
    "team": "CHA",
-   "player": "Coby White",
-   "pos": "PG",
-   "updated": "2026-10-24",
-   "injury": "Calf",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "CHA",
    "player": "Grant Williams",
    "pos": "PF",
    "updated": "2026-10-24",
@@ -74,16 +64,6 @@
   },
   {
    "team": "CHA",
-   "player": "Kon Knueppel",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "CHA",
    "player": "Kylan Boswell",
    "pos": "PG",
    "updated": "2026-10-20",
@@ -91,6 +71,26 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "CHA",
+   "player": "Coby White",
+   "pos": "PG",
+   "updated": "2026-10-25",
+   "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
@@ -106,31 +106,21 @@
    "team": "CHI",
    "player": "Noa Essengue",
    "pos": "PF",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Head",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
    "player": "Patrick Williams",
    "pos": "PF",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Groin",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "CLE",
-   "player": "Khalifa Diop",
-   "pos": "C",
-   "updated": "2026-10-23",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CLE",
@@ -141,6 +131,16 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
+  },
+  {
+   "team": "CLE",
+   "player": "Khalifa Diop",
+   "pos": "C",
+   "updated": "2026-10-25",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
@@ -174,16 +174,6 @@
   },
   {
    "team": "DAL",
-   "player": "Kyrie Irving",
-   "pos": "PG",
-   "updated": "2026-10-24",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
    "updated": "2026-10-24",
@@ -203,24 +193,14 @@
    "ret": "2026-11-02"
   },
   {
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Wrist",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "pos": "SF",
-   "updated": "2026-10-23",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "pos": "PG",
+   "updated": "2026-10-25",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DEN",
@@ -234,23 +214,43 @@
   },
   {
    "team": "DEN",
+   "player": "Alpha Diallo",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DEN",
    "player": "Spencer Jones",
    "pos": "SF",
-   "updated": "2026-10-23",
+   "updated": "2026-10-25",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 27",
+   "status": "Expected return: at least Nov 9",
    "kind": "out",
-   "ret": "2026-10-27"
+   "ret": "2026-11-09"
   },
   {
    "team": "DET",
@@ -261,36 +261,6 @@
    "status": "GTD",
    "kind": "gtd",
    "ret": null
-  },
-  {
-   "team": "GSW",
-   "player": "Al Horford",
-   "pos": "C",
-   "updated": "2026-10-24",
-   "injury": "Back",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "pos": "SG",
-   "updated": "2026-10-24",
-   "injury": "Back",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "GSW",
-   "player": "Draymond Green",
-   "pos": "PF",
-   "updated": "2026-10-24",
-   "injury": "Back",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
   },
   {
    "team": "GSW",
@@ -324,13 +294,33 @@
   },
   {
    "team": "GSW",
-   "player": "Stephen Curry",
-   "pos": "PG",
-   "updated": "2026-10-24",
-   "injury": "Rest",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "player": "Al Horford",
+   "pos": "C",
+   "updated": "2026-10-25",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "pos": "SG",
+   "updated": "2026-10-25",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Draymond Green",
+   "pos": "PF",
+   "updated": "2026-10-25",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "GSW",
@@ -343,34 +333,44 @@
    "ret": null
   },
   {
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "pos": "PG",
+   "updated": "2026-10-25",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "HOU",
    "player": "Fred VanVleet",
    "pos": "PG",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "HOU",
    "player": "Marcus Smart",
    "pos": "PG",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Forearm",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Ankle",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "IND",
@@ -634,26 +634,6 @@
   },
   {
    "team": "PHI",
-   "player": "LeBron James",
-   "pos": "PF",
-   "updated": "2026-10-24",
-   "injury": "Back",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
-  },
-  {
-   "team": "PHI",
-   "player": "Tacko Fall",
-   "pos": "C",
-   "updated": "2026-10-23",
-   "injury": "Quadriceps",
-   "status": "Expected return: at least Oct 25",
-   "kind": "out",
-   "ret": "2026-10-25"
-  },
-  {
-   "team": "PHI",
    "player": "Jabari Walker",
    "pos": "PF",
    "updated": "2026-10-24",
@@ -673,6 +653,26 @@
    "ret": null
   },
   {
+   "team": "PHI",
+   "player": "LeBron James",
+   "pos": "PF",
+   "updated": "2026-10-25",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHI",
+   "player": "Tacko Fall",
+   "pos": "C",
+   "updated": "2026-10-25",
+   "injury": "Quadriceps",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "PHX",
    "player": "Mark Williams",
    "pos": "C",
@@ -686,11 +686,11 @@
    "team": "PHX",
    "player": "Oso Ighodaro",
    "pos": "C",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Oblique",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "POR",
@@ -776,11 +776,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-24",
+   "updated": "2026-10-25",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 27",
-   "kind": "out",
-   "ret": "2026-10-27"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "TOR",
@@ -824,16 +824,6 @@
   },
   {
    "team": "WAS",
-   "player": "AJ Dybantsa",
-   "pos": "SF",
-   "updated": "2026-10-24",
-   "injury": "Ankle",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -851,6 +841,16 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   }
  ]
 }
