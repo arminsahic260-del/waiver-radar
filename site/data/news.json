@@ -1,25 +1,295 @@
 {
- "updated": "2026-10-25T01:18:17Z",
+ "updated": "2026-10-25T06:18:07Z",
  "items": [
   {
    "date": "2026-10-24",
-   "team": "NOP",
-   "player": "DeAndre Jordan",
-   "headline": "Starting Saturday",
-   "note": "Jordan will start Saturday against the Nuggets.",
+   "team": "PHX",
+   "player": "Luke Kennard",
+   "headline": "Drops 11 points in season debut",
+   "note": "Kennard provided 11 points (4-6 FG, 3-5 3Pt), four rebounds, one assist and one steal across 18 minutes during Saturday's 131-122 victory over the Warriors.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deandre-jordan-news-starting-saturday-535915"
+   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-news-drops-11-points-in-season-debut-535963"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHX",
+   "player": "Duop Reath",
+   "headline": "Used sparingly despite opportunity",
+   "note": "Reath supplied zero points (0-1 FG, 0-1 3Pt) across three minutes during Saturday's 131-122 victory over Golden State.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/duop-reath-news-used-sparingly-despite-opportunity-535962"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHX",
+   "player": "Khaman Maluach",
+   "headline": "Improved effort in victory",
+   "note": "Maluach logged nine points (2-3 FG, 1-2 3Pt, 4-6 FT), nine rebounds, three assists, two blocks and one steal over 28 minutes during Saturday's 131-122 victory over the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/khaman-maluach-news-improved-effort-in-victory-535961"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Graham Ike",
+   "headline": "Double-doubles in start",
+   "note": "Ike ended with 12 points (5-13 FG, 2-2 FT), 10 rebounds, two assists and one steal in 26 minutes during Saturday's 131-122 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/graham-ike-news-double-doubles-in-start-535960"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "De'Anthony Melton",
+   "headline": "Back on track despite loss",
+   "note": "Melton notched 25 points (8-13 FG, 4-8 3Pt, 5-5 FT), five rebounds, five assists and three steals over 27 minutes during Saturday's 131-122 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-back-on-track-despite-loss-535959"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Drops 20 points in spot start",
+   "note": "Williams accumulated 20 points (5-10 FG, 2-3 3Pt, 8-11 FT), three rebounds, five assists and two steals over 24 minutes during Saturday's 131-122 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-drops-20-points-in-spot-start-535958"
   },
   {
    "date": "2026-10-24",
    "team": "DEN",
-   "player": "Bryce Hopkins",
-   "headline": "Starting sans Johnson",
-   "note": "Hopkins will start Saturday's game against the Pelicans.",
+   "player": "Cam Whitmore",
+   "headline": "Logs 11 minutes off bench",
+   "note": "Whitmore provided four points (2-5 FG, 0-2 3Pt), two rebounds and one steal over 11 minutes during Saturday's 141-135 overtime win over New Orleans.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bryce-hopkins-news-starting-sans-johnson-535914"
+   "url": "https://www.rotowire.com/basketball/headlines/cam-whitmore-news-logs-11-minutes-off-bench-535957"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DEN",
+   "player": "Nikola Jokic",
+   "headline": "Vintage performance in win",
+   "note": "Jokic closed Saturday's 141-135 overtime victory over New Orleans with 35 points (12-23 FG, 3-10 3Pt, 8-8 FT), 15 rebounds, 10 assists, three blocks and two steals over 44 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-vintage-performance-in-win-535956"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DEN",
+   "player": "Trevon Brazile",
+   "headline": "Goes for 17-and-9 in overtime win",
+   "note": "Brazile notched 17 points (6-11 FG, 3-7 3Pt, 2-4 FT), nine rebounds, two blocks and one steal over 28 minutes during Saturday's 141-135 overtime win over the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trevon-brazile-news-goes-for-17-and-9-in-overtime-win-535955"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Herbert Jones",
+   "headline": "Barely sees floor in loss",
+   "note": "Jones supplied two points (1-3 FG, 0-2 3Pt), three rebounds, one assist and one steal over 16 minutes during Saturday's 141-135 overtime loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-barely-sees-floor-in-loss-535954"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Muted role continues",
+   "note": "Poole supplied six points (2-6 FG, 2-5 3Pt), three rebounds, seven assists, one block and one steal over 22 minutes during Saturday's 141-135 overtime loss to Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-news-muted-role-continues-535953"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "DeAndre Jordan",
+   "headline": "Flirts with double-double",
+   "note": "Jordan finished with nine points (3-3 FG, 3-4 FT), nine rebounds, two assists and one block across 20 minutes during Saturday's 141-135 overtime loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deandre-jordan-news-flirts-with-double-double-535952"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "GSW",
+   "player": "Gui Santos",
+   "headline": "Doesn't return Saturday",
+   "note": "Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not return, Anthony Slater of ESPN.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-doesnt-return-saturday-535951"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Scores 26 points with four treys",
+   "note": "Murphy notched 26 points (10-17 FG, 4-8 3Pt, 2-2 FT), six rebounds, four assists and one steal across 37 minutes during Saturday's 141-135 overtime loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-news-scores-26-points-with-four-treys-535950"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DEN",
+   "player": "Jamal Murray",
+   "headline": "Pours in 42 points in overtime win",
+   "note": "Murray accumulated 42 points (12-25 FG, 8-16 3Pt, 10-13 FT), three rebounds, six assists, one block and one steal across 43 minutes during Saturday's 141-135 overtime win over the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-pours-in-42-points-in-overtime-win-535949"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Drops in 43 points in win",
+   "note": "Booker put up 43 points (17-25 FG, 2-7 3Pt, 7-8 FT), seven rebounds, seven assists, one block and four turnovers across 36 minutes in Saturday's 131-122 win over the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-drops-in-43-points-in-win-535948"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Nets 19 points with seven assists",
+   "note": "Sheppard totaled 19 points (7-13 FG, 5-11 3Pt), six rebounds, seven assists, two steals and three turnovers across 30 minutes in Saturday's 121-114 win over the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-news-nets-19-points-with-seven-assists-535947"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Ties career assists high in loss",
+   "note": "Johnson contributed 26 points (8-19 FG, 2-7 3Pt, 8-10 FT), 16 assists, nine rebounds and two steals across 38 minutes in Saturday's 121-114 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-ties-career-assists-high-in-loss-535946"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Logs five assists in spot start",
+   "note": "Marshall posted 10 points (4-8 FG, 1-1 3PT, 1-3 FT), five assists, four rebounds and one steal over 21 minutes during Saturday's 122-106 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-logs-five-assists-in-spot-start-535945"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "WAS",
+   "player": "Kyshawn George",
+   "headline": "Scores 22 points with four swats",
+   "note": "George finished with 22 points (8-17 FG, 0-5 3Pt, 6-8 FT), nine rebounds, five assists and four blocks over 36 minutes in Saturday's 124-120 win over the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyshawn-george-news-scores-22-points-with-four-swats-535944"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Marcus Sasser",
+   "headline": "Chips in 12 points off bench",
+   "note": "Sasser posted 12 points (5-9 FG, 2-5 3PT), five assists and three rebounds over 27 minutes in a 122-106 loss to San Antonio on Saturday.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-sasser-news-chips-in-12-points-off-bench-535943"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "CHI",
+   "player": "Caleb Wilson",
+   "headline": "Massive double-double in loss",
+   "note": "Wilson tallied 30 points (10-24 FG, 1-9 3Pt, 9-11 FT), 14 rebounds, three assists, two steals and one block across 38 minutes in Saturday's 124-120 loss to the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-massive-double-double-in-loss-535942"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Tallies 11 points in start",
+   "note": "Risacher finished Saturday's 122-16 loss to San Antonio with 11 points (4-8 FG, 1-3 3PT, 2-2 FT), four rebounds, two assists, two blocks and one steal over 32 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-tallies-11-points-in-start-535941"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "DAL",
+   "player": "Daniel Gafford",
+   "headline": "Fills box score in Saturday's loss",
+   "note": "Gafford posted 12 points (6-9 FG), nine rebounds, two assists, three steals and two blocks over 23 minutes during Saturday's 122-106 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-fills-box-score-in-saturdays-loss-535940"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "SAS",
+   "player": "Julian Champagnie",
+   "headline": "Nails three triples vs. Dallas",
+   "note": "Champagnie finished Saturday's 122-106 win over the Mavericks with 12 points (4-8 FG, 3-7 3Pt, 1-1 FT), five rebounds, three assists, three blocks and one steal over 28 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/julian-champagnie-news-nails-three-triples-vs-dallas-535939"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Won't play Sunday",
+   "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-535933"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHI",
+   "player": "Joel Embiid",
+   "headline": "Triple-doubles in win",
+   "note": "Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal and four turnovers across 36 minutes in Saturday's 127-116 win over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-injury-triple-doubles-in-win-535930"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHI",
+   "player": "Jabari Walker",
+   "headline": "Doesn't return Saturday",
+   "note": "Walker exited Saturday's 127-116 win over the Bucks in the third quarter and did not return due to a right knee injury, Noah Levick of NBC Sports Philadelphia reports. He finished with six points (2-3 FG, 2-3 FT), three rebounds, one assist and one steal across 12 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-doesnt-return-saturday-535929"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "PHI",
+   "player": "Jabari Walker",
+   "headline": "Leaves for locker room",
+   "note": "Walker exited to the locker room in the third quarter of Saturday's game against the Bucks due to an apparent ankle injury, Tony Jones of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-leaves-for-locker-room-535917"
   },
   {
    "date": "2026-10-24",
@@ -33,16 +303,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "PHX",
-   "player": "Luke Kennard",
-   "headline": "Good to go Saturday",
-   "note": "Kennard (knee) is available for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-news-good-to-go-saturday-535912"
-  },
-  {
-   "date": "2026-10-24",
    "team": "SAC",
    "player": "Keegan Murray",
    "headline": "Questionable to play Sunday",
@@ -50,16 +310,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/keegan-murray-injury-questionable-to-play-sunday-535911"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "PHI",
-   "player": "VJ Edgecombe",
-   "headline": "Returns Saturday",
-   "note": "Edgecombe (groin) started the second quarter of Saturday's game against the Bucks, per the broadcast.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-returns-saturday-535910"
   },
   {
    "date": "2026-10-24",
@@ -80,16 +330,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/zach-edey-injury-resting-sunday-535908"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Starting vs. Atlanta",
-   "note": "Sheppard is in the starting lineup for Saturday's game against the Hawks, Will Guillory of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-news-starting-vs-atlanta-535907"
   },
   {
    "date": "2026-10-24",
@@ -123,26 +363,6 @@
   },
   {
    "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Starting Saturday",
-   "note": "Risacher will be in the starting lineup for Saturday's matchup with the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-starting-saturday-535903"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Starting Saturday",
-   "note": "Marshall will start Saturday's game against the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-starting-saturday-535902"
-  },
-  {
-   "date": "2026-10-24",
    "team": "LAL",
    "player": "Adou Thiero",
    "headline": "Out for Sunday",
@@ -150,26 +370,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-out-for-sunday-535901"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Jett Howard",
-   "headline": "Available Saturday",
-   "note": "Howard (calf) is available for Saturday's game against the Spurs.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-news-available-saturday-535900"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Max Christie",
-   "headline": "Available to play",
-   "note": "Christie (shin) is available for Saturday's game against the Spurs.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/max-christie-news-available-to-play-535899"
   },
   {
    "date": "2026-10-24",
@@ -184,42 +384,12 @@
   {
    "date": "2026-10-24",
    "team": "LAL",
-   "player": "Jake LaRavia",
-   "headline": "Not listed on injury report",
-   "note": "LaRavia (ankle) is not listed on the injury report ahead of Sunday's game against the Jazz, Khobi Price of The California Post reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-not-listed-on-injury-report-535897"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Will play Saturday",
-   "note": "Sheppard (knee) is good to go for Saturday's game in Atlanta, Varun Shankar of the Houston Chronicle reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-news-will-play-saturday-535896"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "LAL",
    "player": "Cameron Carr",
    "headline": "Won't play Sunday",
    "note": "Carr (oblique) is out for Sunday's game in Utah, Khobi Price of The California Post reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-wont-play-sunday-535895"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Good to go Saturday",
-   "note": "Wade (ankle) is available and starting Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-good-to-go-saturday-535894"
   },
   {
    "date": "2026-10-24",
@@ -230,26 +400,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-upgraded-to-probable-535893"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Available Saturday",
-   "note": "Risacher (hip) is available for Saturday's game against the Spurs.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-available-saturday-535892"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Morez Johnson",
-   "headline": "Available with restrictions",
-   "note": "Johnson (lower leg) is available for Saturday's game against the Spurs but will play on a minutes restriction, Ron Harrod Jr. of DLLS Sports reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/morez-johnson-news-available-with-restrictions-535891"
   },
   {
    "date": "2026-10-24",
@@ -343,53 +493,53 @@
   },
   {
    "date": "2026-10-24",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Now questionable for Saturday",
-   "note": "Williams (groin) is listed as questionable for Saturday's game against the Wizards.",
-   "kind": "injury",
+   "team": "BKN",
+   "player": "Michael Porter",
+   "headline": "Well-rounded effort in loss",
+   "note": "Porter produced 28 points (10-18 FG, 4-9 3Pt, 4-4 FT), nine rebounds, four steals and one assist across 33 minutes in Saturday's 125-121 loss to the Cavaliers.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-now-questionable-for-saturday-535880"
+   "url": "https://www.rotowire.com/basketball/headlines/michael-porter-news-well-rounded-effort-in-loss-535931"
   },
   {
    "date": "2026-10-24",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Probable for Sunday",
-   "note": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
-   "kind": "other",
+   "team": "BKN",
+   "player": "Day'Ron Sharpe",
+   "headline": "Tossed Saturday",
+   "note": "Sharpe was ejected in the fourth quarter of Saturday's game against the Cavaliers after being assessed his second Flagrant 1 foul, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports. He'll finish with seven points (3-10 FG, 1-2 3Pt), eight rebounds, one assist and one steal across 23 minutes.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-for-sunday-535879"
+   "url": "https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-tossed-saturday-535927"
   },
   {
    "date": "2026-10-24",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Remains out Sunday",
-   "note": "McConnell (hamstring) is out for Sunday's game against the Nets.",
-   "kind": "injury",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Scores 25 points with six boards",
+   "note": "Schroder supplied 25 points (8-17 FG, 3-7 3Pt, 6-6 FT), six rebounds and four assists across 38 minutes during Saturday's 115-110 victory over the Heat.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-remains-out-sunday-535878"
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-scores-25-points-with-six-boards-535923"
   },
   {
    "date": "2026-10-24",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Won't play Saturday",
-   "note": "Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
-   "kind": "injury",
+   "team": "CHA",
+   "player": "Naz Reid",
+   "headline": "Nets 23 points with nine boards",
+   "note": "Reid notched 23 points (9-16 FG, 5-8 3Pt), nine rebounds and two blocks in 37 minutes during Saturday's 115-110 win over Miami.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-wont-play-saturday-535876"
+   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-nets-23-points-with-nine-boards-535922"
   },
   {
    "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Charles Bassey",
-   "headline": "Iffy to face Phoenix",
-   "note": "Bassey (knee) is listed as questionable for Saturday's game against the Suns.",
-   "kind": "other",
+   "team": "CHA",
+   "player": "Brandon Miller",
+   "headline": "Scores 34 points with full line",
+   "note": "Miller accumulated 34 points (10-29 FG, 3-10 3Pt, 11-12 FT), seven rebounds, four assists and one block across 36 minutes during Saturday's 115-110 win over the Heat.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-injury-iffy-to-face-phoenix-535875"
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-34-points-with-full-line-535921"
   },
   {
    "date": "2026-10-24",
@@ -444,162 +594,12 @@
   {
    "date": "2026-10-24",
    "team": "CHI",
-   "player": "Noa Essengue",
-   "headline": "Nursing head injury",
-   "note": "Essengue (head) is probable for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+   "player": "Patrick Williams",
+   "headline": "Now questionable for Saturday",
+   "note": "Williams (groin) is listed as questionable for Saturday's game against the Wizards.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-nursing-head-injury-535845"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Questionable for Saturday",
-   "note": "Risacher is questionable for Saturday's game against the Spurs due to right hip soreness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-injury-questionable-for-saturday-535866"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Morez Johnson",
-   "headline": "Questionable to face San Antonio",
-   "note": "Johnson (shin) is listed as questionable for Saturday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/morez-johnson-injury-questionable-to-face-san-antonio-535865"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Caleb Martin",
-   "headline": "Missing third consecutive game",
-   "note": "Martin (thumb) has been ruled out against San Antonio on Saturday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-missing-third-consecutive-game-535864"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Jett Howard",
-   "headline": "Unlikely to play Saturday",
-   "note": "Howard (calf) is listed as doubtful against the Spurs on Saturday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jett-howard-injury-unlikely-to-play-saturday-535863"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Iffy to play Saturday",
-   "note": "Irving (knee) is listed as questionable for Saturday's game against San Antonio.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-iffy-to-play-saturday-535862"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Max Christie",
-   "headline": "Dealing with shin injury",
-   "note": "Christie (shin) is questionable for Saturday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/max-christie-injury-dealing-with-shin-injury-535861"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Won't play vs. San Antonio",
-   "note": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-wont-play-vs-san-antonio-535860"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Won't play Saturday",
-   "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-wont-play-saturday-535859"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Diagnosed with left shoulder sprain",
-   "note": "The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forward will be re-evaluated by medical staff next week, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-injury-diagnosed-with-left-shoulder-sprain-535857"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Questionable for Sunday",
-   "note": "Thompson (ankle) is listed as questionable for Sunday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-questionable-for-sunday-535872"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "DET",
-   "player": "Jalen Duren",
-   "headline": "Ruled out for Sunday",
-   "note": "Duren has been ruled out for Sunday's game against the 76ers due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-duren-injury-ruled-out-for-sunday-535871"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Al Horford",
-   "headline": "Sitting out Saturday's contest",
-   "note": "Horford (back) has been ruled out for Saturday's game against the Suns.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/al-horford-injury-sitting-out-saturdays-contest-535874"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Doubtful to play Saturday",
-   "note": "Green is doubtful to play Saturday against the Suns due to bilateral low back soreness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-doubtful-to-play-saturday-535873"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Not playing Saturday",
-   "note": "Curry (rest) won't play Saturday against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-not-playing-saturday-535870"
-  },
-  {
-   "date": "2026-10-24",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Impressive double-double in Friday's loss",
-   "note": "Lendeborg accumulated 18 points (4-11 FG, 1-3 3Pt, 9-12 FT), 13 rebounds, six assists and three steals in 37 minutes during Friday's 111-108 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-impressive-double-double-in-fridays-loss-535843"
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-now-questionable-for-saturday-535880"
   }
  ]
 }
