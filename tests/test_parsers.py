@@ -143,7 +143,8 @@ def test_espn_build_league():
     entry, pool = espn.build_league(lc, 2027, fixture("espn_rosters.json"), fixture("espn_freeagents.json"))
     assert entry["espnTeamId"] == 1 and len(entry["players"]) == 13
     by = {p["name"]: p for p in entry["players"]}
-    assert by["Cooper Flagg"] == {"name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF", "slot": "SF", "espnId": 5041939}
+    assert by["Cooper Flagg"] == {"name": "Cooper Flagg", "team": "DAL", "pos": "SF/PF", "slot": "SF", "espnId": 5041939,
+                                  "gp": 0, "cur": None, "proj": 45.4, "acq": "DRAFT", "draft": None}
     assert [p["slot"] for p in entry["players"]][:5] == ["PG", "SG", "SF", "PF", "C"]
     assert len(pool["rostered"]) == 14 * 13
     flagg = pool["players"]["5041939"]
@@ -152,6 +153,24 @@ def test_espn_build_league():
     assert "6430" not in pool["rostered"] and fa["team"] == "GSW" and fa["injury"] == "OUT"
     assert pool["waivers"]["6430"] == "2026-10-20"  # preseason snapshot: everyone clears on opening day
     assert entry["adds"] == {"period": 1, "used": 0}
+
+
+def test_espn_my_players_carry_their_draft_pick():
+    raw = fixture("espn_rosters.json")
+    raw["draftDetail"]["picks"] = [
+        {"playerId": 5041939, "overallPickNumber": 10, "roundId": 1, "roundPickNumber": 10, "teamId": 1},
+        {"playerId": 1, "overallPickNumber": 1, "roundId": 1, "roundPickNumber": 1, "teamId": 10}]
+    entry, _ = espn.build_league({"id": "legendi", "name": "L", "espnLeagueId": 1, "espnTeamId": 1}, 2027, raw,
+                                 {"players": []})
+    by = {p["name"]: p for p in entry["players"]}
+    assert by["Cooper Flagg"]["draft"] == {"pick": 10, "round": 1, "roundPick": 10, "teamId": 1}
+    assert sum(1 for p in entry["players"] if p["draft"]) == 1
+
+
+def test_espn_projection_is_this_seasons_per_game():
+    stats = [{"id": "102026", "appliedAverage": 30.0}, {"id": "102027", "appliedAverage": 41.26}]
+    assert espn.projection(stats, 2027) == 41.3
+    assert espn.projection(stats[:1], 2027) is None and espn.projection(None, 2027) is None
 
 
 def test_espn_finds_my_team_by_name():

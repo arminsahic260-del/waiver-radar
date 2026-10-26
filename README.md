@@ -6,7 +6,7 @@ i waiver preporuke. Statički PWA na GitHub Pages; podatke svaki sat osvježava 
 ```
 site/                 PWA (index.html, manifest.json, sw.js, icons/, data/*.json)
 scripts/fetch.py      CBS ozljede, RotoWire vijesti, Basketball-Reference raspored
-scripts/espn.py       ESPN rosteri + player pool (fantasy bodovi po utakmici iz ESPN-a)
+scripts/espn.py       ESPN rosteri, draft pickovi + player pool (fantasy bodovi po utakmici iz ESPN-a)
 scripts/analyze.py    waiver heuristika (+ Claude analiza ako postoji ANTHROPIC_API_KEY)
 scripts/notify.py     Telegram poruka kad se pojave novi starteri / nova Out ozljeda mog igrača
 scripts/build.py      jedan cijeli prolaz (svaki izvor pada zasebno i zadržava prethodni snapshot)

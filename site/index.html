@@ -169,6 +169,18 @@ tr.mine td:first-child{font-size:16px;white-space:nowrap}
 tr.mine td.low{color:var(--out)}
 tr.mine td.today{box-shadow:inset 0 -3px 0 var(--info)}
 tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
+table.avg{min-width:0}
+table.avg th,table.avg td{padding:8px 4px}
+table.avg th{font-size:12.5px}
+table.avg th:first-child,table.avg td:first-child{padding-left:12px}
+table.avg td:first-child{font-size:16px;line-height:1.2}
+table.avg td:first-child .rk{font-size:14px;display:inline-block;min-width:1.6em}
+table.avg td:last-child,table.avg th:last-child{padding-right:12px}
+table.avg td small{display:block;font-family:var(--body);font-size:11.5px;font-weight:400;color:var(--muted);letter-spacing:0;white-space:nowrap}
+table.avg td:first-child small{margin:3px 0 0 1.95em;display:flex;gap:5px;align-items:center;flex-wrap:wrap}
+table.avg td.n{font-family:var(--display);font-size:17px;font-weight:600}
+table.avg td.up{color:var(--ok)}
+table.avg td.down{color:var(--out)}
 
 .empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:20px 16px;color:var(--muted)}
 .empty strong{color:var(--fg)}
@@ -237,6 +249,10 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   </section>
 
   <section role="tabpanel" id="p-mine" hidden>
+    <div class="chips" id="mview-chips" style="margin-bottom:12px">
+      <button class="chip" aria-pressed="true" data-mview="roster">Postava</button>
+      <button class="chip" aria-pressed="false" data-mview="avg">Prosjek sezone</button>
+    </div>
     <div id="mine-list"></div>
   </section>
 
@@ -275,6 +291,7 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   S.tab=safe(()=>localStorage.getItem("wr.tab"))||S.tab;
   S.theme=safe(()=>localStorage.getItem("wr.theme"))||"auto";
   S.wview=safe(()=>localStorage.getItem("wr.wview"))==="all"?"all":"days";
+  S.mview=safe(()=>localStorage.getItem("wr.mview"))==="avg"?"avg":"roster";
 
   // ---------- theme
   function applyTheme(){
@@ -423,8 +440,30 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
       const manual=L.updated?null:(L.espnLeagueId?"ručni roster":"ručni roster — dodaj ESPN League ID");
       const adds=L.adds&&L.adds.limit?`preuzimanja ${L.adds.used}/${L.adds.limit} ovaj tjedan`:null;
       const sub=[L.team,manual,adds,L.updated?"ažur. "+fmtDT(L.updated):null].filter(Boolean).join(" · ");
-      return `<div class="league"><h2>${esc(L.name)}<small>${esc(sub)}${L.error?` · <span class="warn">${esc(L.error)}</span>`:""}</small></h2><div class="ros">${rows||`<div class="ros-row"><span class="meta">Nema igrača za ovaj filter.</span></div>`}</div></div>`;
-    }).join("");
+      const body=!ps.length?`<div class="ros"><div class="ros-row"><span class="meta">Nema igrača za ovaj filter.</span></div></div>`
+        :S.mview==="avg"?avgTable(L,ps):`<div class="ros">${rows}</div>`;
+      return `<div class="league"><h2>${esc(L.name)}<small>${esc(sub)}${L.error?` · <span class="warn">${esc(L.error)}</span>`:""}</small></h2>${body}</div>`;
+    }).join("")+(S.mview==="avg"?`<p class="meta">Prosjek = fantasy bodovi po utakmici ove sezone u bodovanju lige (ESPN), ispod broj odigranih utakmica. Proj. = ESPN-ova predsezonska projekcija bodova po utakmici za ovu sezonu, ± = prosjek minus projekcija. Pick = tvoj pick na draftu (ukupno i krug); za igrače koje nisi ti draftao piše kako su došli.</p>`:"");
+  }
+
+  // my players by this season's FP per game (no games yet: last, by projection), next to ESPN's projection and draft pick
+  const ACQ={ADD:"waiver",TRADE:"trade",DRAFT:"draft"};
+  const f1=x=>x==null?"—":x.toFixed(1);
+  function avgTable(L,ps){
+    if(!ps.some(p=>"cur" in p))return `<div class="empty">${L.updated?"Prosjek i pick se pune u idućem osvježavanju podataka (svaki sat).":"Za ručni roster nema ESPN prosjeka ni draft pickova."}</div>`;
+    const by=[...ps].sort((a,b)=>(b.cur??-1)-(a.cur??-1)||(b.proj??-1)-(a.proj??-1));
+    const rows=by.map((p,i)=>{
+      const inj=injuryFor(p.name);
+      const d=p.cur!=null&&p.proj!=null?p.cur-p.proj:null;
+      const mine=p.draft&&p.draft.teamId===L.espnTeamId;
+      const other=p.draft&&!mine?` title="Na draftu ga je uzeo drugi tim (#${p.draft.pick})"`:"";
+      const pick=mine?`#${p.draft.pick}<small>${p.draft.round}. krug</small>`:`<small${other}>${esc(ACQ[p.acq]||"—")}</small>`;
+      return `<tr><td><span class="rk num">${i+1}</span>${esc(p.name)}<small><span class="team">${esc(p.team||"")}</span>${esc(p.pos||"")}${inj?" "+statusPill(inj):""}</small></td>
+        <td class="g num">${f1(p.cur)}<small>${p.gp||0} utk.</small></td>
+        <td class="n num">${f1(p.proj)}</td>
+        <td class="n num ${d==null?"":d>=0?"up":"down"}">${d==null?"—":(d>=0?"+":"−")+Math.abs(d).toFixed(1)}</td>
+        <td class="n num">${pick}</td></tr>`;}).join("");
+    return `<div class="sched"><table class="avg"><thead><tr><th>Igrač</th><th title="Fantasy bodovi po utakmici ove sezone">Prosjek</th><th title="ESPN projekcija bodova po utakmici za ovu sezonu">Proj.</th><th title="Prosjek minus projekcija">±</th><th title="Tvoj pick na draftu">Pick</th></tr></thead><tbody>${rows}</tbody></table></div>`;
   }
 
   function myDayRows(days){
@@ -489,7 +528,9 @@ tr.mine + tr:not(.mine) td{border-top:2px solid var(--line)}
   function chipGroup(id,key,attr,after){$(id).addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S[key]=b.dataset[attr]||"";$(id).querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c===b)));after();});}
   chipGroup("pri-chips","pri","pri",renderWaiver);
   chipGroup("wview-chips","wview","wview",()=>{safe(()=>localStorage.setItem("wr.wview",S.wview));renderWaiver();});
-  $("wview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.wview===S.wview)));chipGroup("inj-chips","injKind","kind",renderInjuries);chipGroup("news-chips","newsKind","kind",renderNews);
+  $("wview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.wview===S.wview)));
+  chipGroup("mview-chips","mview","mview",()=>{safe(()=>localStorage.setItem("wr.mview",S.mview));renderMine();});
+  $("mview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.mview===S.mview)));chipGroup("inj-chips","injKind","kind",renderInjuries);chipGroup("news-chips","newsKind","kind",renderNews);
   $("week-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.week=+b.dataset.week;renderSchedule();});
 
   renderAll();

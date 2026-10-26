@@ -19,7 +19,7 @@ def cookies():
 
 def fetch_raw(season, league_id):
     base = API.format(season=season, league=league_id)
-    rosters = get(base + "?view=mTeam&view=mRoster", cookies=cookies()).json()
+    rosters = get(base + "?view=mTeam&view=mRoster&view=mDraftDetail", cookies=cookies()).json()
     flt = {"players": {"filterStatus": {"value": ["FREEAGENT", "WAIVERS", "ONTEAM"]}, "limit": POOL_LIMIT,
                        "sortPercOwned": {"sortPriority": 1, "sortAsc": False}}}
     pool = get(base + "?view=kona_player_info", headers={"X-Fantasy-Filter": json.dumps(flt)},
@@ -65,6 +65,12 @@ def estimate(stats, season, blend_games=4):
     return dict(out, fpts=round(fpts, 1), mpg=round(mpg, 1), basis=basis)
 
 
+def projection(stats, season):
+    """ESPN's preseason projection for this season: fantasy points per game in this league's scoring."""
+    s = next((s for s in stats or [] if s.get("id") == f"10{season}"), None)
+    return round(s["appliedAverage"], 1) if s and s.get("appliedAverage") else None
+
+
 def slim(player, season, blend_games=4):
     elig = [ESPN_SLOT[s] for s in player.get("eligibleSlots", []) if s in (0, 1, 2, 3, 4)]
     return {
@@ -91,6 +97,7 @@ def build_league(lc, season, rosters_raw, pool_raw, blend_games=4):
     if not my_id and lc.get("teamName"):
         want = norm_name(lc["teamName"])
         my_id = next((tid for tid, t in teams.items() if want and want in norm_name(t.get("name"))), None)
+    picks = {p["playerId"]: p for p in (rosters_raw.get("draftDetail") or {}).get("picks", [])}
     players, rostered, waivers, mine = {}, {}, {}, []
     for tid, t in teams.items():
         for e in (t.get("roster") or {}).get("entries", []):
@@ -99,8 +106,15 @@ def build_league(lc, season, rosters_raw, pool_raw, blend_games=4):
             players[sp["espnId"]] = sp
             rostered[sp["espnId"]] = tid
             if tid == my_id:
+                # this season's average next to the projection; `draft` is the league draft pick (any team's),
+                # `acq` how he got here (DRAFT / ADD / TRADE)
+                pick = picks.get(sp["espnId"])
+                draft = ({"pick": pick["overallPickNumber"], "round": pick["roundId"],
+                          "roundPick": pick["roundPickNumber"], "teamId": pick["teamId"]} if pick else None)
                 mine.append({"name": sp["name"], "team": sp["team"], "pos": sp["pos"],
-                             "slot": ESPN_SLOT.get(e.get("lineupSlotId"), ""), "espnId": sp["espnId"]})
+                             "slot": ESPN_SLOT.get(e.get("lineupSlotId"), ""), "espnId": sp["espnId"],
+                             "gp": sp["gp"], "cur": sp["cur"], "proj": projection(p.get("stats"), season),
+                             "acq": e.get("acquisitionType"), "draft": draft})
     for x in pool_raw.get("players", []):
         sp = slim(x["player"], season, blend_games)
         players.setdefault(sp["espnId"], sp)
