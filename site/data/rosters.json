@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:21:55Z",
+ "updated": "2026-10-26T18:29:06Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-26T18:21:54Z",
+   "updated": "2026-10-26T18:29:06Z",
    "adds": {
     "period": 2,
     "used": 2,
@@ -237,10 +237,10 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-26T18:21:55Z",
+   "updated": "2026-10-26T18:29:06Z",
    "adds": {
     "period": 2,
-    "used": 0,
+    "used": 1,
     "limit": 7
    },
    "players": [
@@ -262,44 +262,27 @@
      }
     },
     {
-     "name": "Jaylen Brown",
-     "team": "PHI",
+     "name": "Bilal Coulibaly",
+     "team": "WAS",
      "pos": "SG/SF",
      "slot": "SG",
-     "espnId": 3917376,
-     "gp": 4,
-     "cur": 36.0,
-     "proj": 38.6,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 39,
-      "round": 3,
-      "roundPick": 11,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "Jaden McDaniels",
-     "team": "MIN",
-     "pos": "SF/PF",
-     "slot": "SF",
-     "espnId": 4431671,
+     "espnId": 5104155,
      "gp": 3,
-     "cur": 36.3,
-     "proj": 29.7,
-     "acq": "DRAFT",
+     "cur": 25.3,
+     "proj": 23.0,
+     "acq": "ADD",
      "draft": {
-      "pick": 102,
-      "round": 8,
-      "roundPick": 4,
-      "teamId": 5
+      "pick": 166,
+      "round": 12,
+      "roundPick": 12,
+      "teamId": 1
      }
     },
     {
      "name": "Peyton Watson",
      "team": "CLE",
      "pos": "SF/PF",
-     "slot": "PF",
+     "slot": "SF",
      "espnId": 4576087,
      "gp": 2,
      "cur": 18.0,
@@ -309,6 +292,23 @@
       "pick": 123,
       "round": 9,
       "roundPick": 11,
+      "teamId": 5
+     }
+    },
+    {
+     "name": "Jaden McDaniels",
+     "team": "MIN",
+     "pos": "SF/PF",
+     "slot": "PF",
+     "espnId": 4431671,
+     "gp": 3,
+     "cur": 36.3,
+     "proj": 29.7,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 102,
+      "round": 8,
+      "roundPick": 4,
       "teamId": 5
      }
     },
@@ -330,39 +330,27 @@
      }
     },
     {
-     "name": "Stephon Castle",
-     "team": "SAS",
-     "pos": "PG/SG",
+     "name": "Jaylen Brown",
+     "team": "PHI",
+     "pos": "SG/SF",
      "slot": "G",
-     "espnId": 4845367,
-     "gp": 3,
+     "espnId": 3917376,
+     "gp": 4,
      "cur": 36.0,
-     "proj": 36.9,
+     "proj": 38.6,
      "acq": "DRAFT",
      "draft": {
-      "pick": 46,
-      "round": 4,
-      "roundPick": 4,
+      "pick": 39,
+      "round": 3,
+      "roundPick": 11,
       "teamId": 5
      }
-    },
-    {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "F",
-     "espnId": 4278355,
-     "gp": 3,
-     "cur": 30.3,
-     "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
     },
     {
      "name": "Cooper Flagg",
      "team": "DAL",
      "pos": "SF/PF",
-     "slot": "UTIL",
+     "slot": "F",
      "espnId": 5041939,
      "gp": 2,
      "cur": 48.0,
@@ -410,6 +398,35 @@
      }
     },
     {
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
+     "slot": "UTIL",
+     "espnId": 4278355,
+     "gp": 3,
+     "cur": 30.3,
+     "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Stephon Castle",
+     "team": "SAS",
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 4845367,
+     "gp": 3,
+     "cur": 36.0,
+     "proj": 36.9,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 46,
+      "round": 4,
+      "roundPick": 4,
+      "teamId": 5
+     }
+    },
+    {
      "name": "Brook Lopez",
      "team": "LAC",
      "pos": "C",
@@ -423,23 +440,6 @@
       "pick": 158,
       "round": 12,
       "roundPick": 4,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "Keaton Wagler",
-     "team": "LAC",
-     "pos": "PG/SG",
-     "slot": "BE",
-     "espnId": 5254165,
-     "gp": 3,
-     "cur": 23.7,
-     "proj": 24.4,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 179,
-      "round": 13,
-      "roundPick": 11,
       "teamId": 5
      }
     },

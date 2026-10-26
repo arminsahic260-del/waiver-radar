@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-26T18:21:50Z",
+ "updated": "2026-10-26T18:29:01Z",
  "items": [
+  {
+   "date": "2026-10-26",
+   "team": "OKC",
+   "player": "Nikola Topic",
+   "headline": "Ready for season debut",
+   "note": "Topic (back) is off the injury report for Monday's game versus the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-topic-news-ready-for-season-debut-536167"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "OKC",
+   "player": "Thomas Sorber",
+   "headline": "Good to go",
+   "note": "Sorber (knee) is available for Monday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/thomas-sorber-news-good-to-go-536166"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Out again Monday",
+   "note": "McConnell (hamstring) is out for Monday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-out-again-monday-536165"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "OKC",
+   "player": "Jaylin Williams",
+   "headline": "Cleared to play",
+   "note": "Williams (wrist) is available for Monday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-news-cleared-to-play-536164"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Out with sore shoulder",
+   "note": "Wallace (shoulder) is out for Monday's game versus the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-out-with-sore-shoulder-536163"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "Sitting out Monday",
+   "note": "Holmgren (knee) is out for Monday's game versus the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-sitting-out-monday-536162"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Probable for Monday",
+   "note": "Nesmith (hamstring) is probable for Monday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-for-monday-536161"
+  },
   {
    "date": "2026-10-26",
    "team": "IND",
@@ -183,76 +253,6 @@
   },
   {
    "date": "2026-10-26",
-   "team": "UTA",
-   "player": "Brice Sensabaugh",
-   "headline": "Grabs six boards on Sunday",
-   "note": "Sensabaugh closed with seven points (3-7 FG, 1-4 3Pt), six rebounds and one assist across 17 minutes during Sunday's 132-123 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brice-sensabaugh-news-grabs-six-boards-on-sunday-536142"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MEM",
-   "player": "Jaylen Wells",
-   "headline": "Strong start to season",
-   "note": "Wells notched 16 points (6-7 FG, 2-2 3Pt, 2-2 FT), five rebounds, three assists and two steals across 33 minutes during Sunday's 123-112 victory over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-wells-news-strong-start-to-season-536141"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "TOR",
-   "player": "Allen Graves",
-   "headline": "Strong outing off bench",
-   "note": "Graves contributed 11 points (5-7 FG, 1-3 3Pt, 0-1 FT), six rebounds, four assists, one block and one steal over 20 minutes during Sunday's 117-94 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/allen-graves-news-strong-outing-off-bench-536140"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Emanuel Sharp",
-   "headline": "Playing reserve role",
-   "note": "Sharp racked up three points (1-3 FG, 1-2 3Pt), one rebound and one block across 14 minutes during Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/emanuel-sharp-news-playing-reserve-role-536139"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "LAL",
-   "player": "Quentin Grimes",
-   "headline": "Quiet in Sunday's win",
-   "note": "Grimes provided three points (1-2 FG, 0-1 3Pt, 1-2 FT), one rebound and one assist in 20 minutes during Sunday's 132-123 win over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quentin-grimes-news-quiet-in-sundays-win-536138"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "TOR",
-   "player": "Immanuel Quickley",
-   "headline": "Drops 19 points in loss",
-   "note": "Quickley totaled 19 points (7-15 FG, 3-8 3Pt, 2-3 FT), three rebounds, two assists and one steal over 28 minutes during Sunday's 117-94 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-news-drops-19-points-in-loss-536137"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Daeqwon Plowden",
-   "headline": "Handling bench role",
-   "note": "Plowden registered three points (1-3 FG, 1-3 3Pt), three rebounds and one assist across 16 minutes during Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daeqwon-plowden-news-handling-bench-role-536136"
-  },
-  {
-   "date": "2026-10-26",
    "team": "DAL",
    "player": "Caleb Martin",
    "headline": "Out again Monday",
@@ -374,12 +374,32 @@
   {
    "date": "2026-10-26",
    "team": "LAL",
+   "player": "Quentin Grimes",
+   "headline": "Quiet in Sunday's win",
+   "note": "Grimes provided three points (1-2 FG, 0-1 3Pt, 1-2 FT), one rebound and one assist in 20 minutes during Sunday's 132-123 win over Utah.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quentin-grimes-news-quiet-in-sundays-win-536138"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "LAL",
    "player": "Sandro Mamukelashvili",
    "headline": "Season-high nine points on Sunday",
    "note": "Mamukelashvili chipped in nine points (2-4 FG, 1-2 3Pt, 4-6 FT), three rebounds and one block over 21 minutes during Sunday's 132-123 victory over the Jazz.",
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-season-high-nine-points-on-sunday-536133"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
+   "player": "Jaylen Wells",
+   "headline": "Strong start to season",
+   "note": "Wells notched 16 points (6-7 FG, 2-2 3Pt, 2-2 FT), five rebounds, three assists and two steals across 33 minutes during Sunday's 123-112 victory over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-wells-news-strong-start-to-season-536141"
   },
   {
    "date": "2026-10-26",
@@ -554,52 +574,32 @@
   {
    "date": "2026-10-26",
    "team": "SAC",
+   "player": "Emanuel Sharp",
+   "headline": "Playing reserve role",
+   "note": "Sharp racked up three points (1-3 FG, 1-2 3Pt), one rebound and one block across 14 minutes during Sunday's 123-112 loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/emanuel-sharp-news-playing-reserve-role-536139"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "SAC",
+   "player": "Daeqwon Plowden",
+   "headline": "Handling bench role",
+   "note": "Plowden registered three points (1-3 FG, 1-3 3Pt), three rebounds and one assist across 16 minutes during Sunday's 123-112 loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daeqwon-plowden-news-handling-bench-role-536136"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "SAC",
    "player": "De'Andre Hunter",
    "headline": "Slow start to season",
    "note": "Hunter chipped in seven points (2-7 FG, 2-5 3Pt, 1-2 FT), six rebounds and one assist across 29 minutes during Sunday's 123-112 loss to the Grizzlies.",
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-slow-start-to-season-536132"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Domantas Sabonis",
-   "headline": "Loaded line once again",
-   "note": "Sabonis finished with 15 points (6-8 FG, 3-4 FT), 15 rebounds, three assists and two steals across 34 minutes in Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-loaded-line-once-again-536122"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Precious Achiuwa",
-   "headline": "Records double-double in loss",
-   "note": "Achiuwa notched 12 points (6-13 FG, 0-6 FT), 10 rebounds, two steals and three blocks across 38 minutes in Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-records-double-double-in-loss-536121"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Goes for 22 points in loss",
-   "note": "Acuff tallied 22 points (9-23 FG, 2-9 3Pt, 2-2 FT), three rebounds, seven assists and a block across 36 minutes in Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-goes-for-22-points-in-loss-536118"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "TOR",
-   "player": "RJ Barrett",
-   "headline": "Scores 20 points in loss",
-   "note": "Barrett notched 20 points (9-21 FG, 0-3 3Pt, 2-5 FT), two rebounds, two assists and three steals over 32 minutes during Sunday's 117-94 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-scores-20-points-in-loss-536135"
   }
  ]
 }
