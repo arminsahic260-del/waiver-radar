@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-26T18:29:01Z",
+ "updated": "2026-10-26T19:21:49Z",
  "items": [
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "headline": "Iffy to face Utah",
+   "note": "Stewart is listed as questionable for Monday's game against the Jazz due to left ankle injury management.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-iffy-to-face-utah-536175"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
+   "player": "Karim Lopez",
+   "headline": "Listed as questionable",
+   "note": "Lopez (knee) is questionable for Monday's game in Utah.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karim-lopez-injury-listed-as-questionable-536174"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
+   "player": "Zach Edey",
+   "headline": "Removed from injury report",
+   "note": "Edey (ankle) is off the injury report for Monday's game versus Utah.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-removed-from-injury-report-536173"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "headline": "Questionable to face Memphis",
+   "note": "Hayes is listed as questionable for Monday's game against the Grizzlies due to right shoulder soreness, Shreyas Laddha of The Salt Lake Tribune reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-injury-questionable-to-face-memphis-536172"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Out for Monday",
+   "note": "Diallo (wrist) is out for Monday's game against the Warriors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-out-for-monday-536171"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "ORL",
+   "player": "Jalen Suggs",
+   "headline": "Out at least two weeks",
+   "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-suggs-injury-out-at-least-two-weeks-536170"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Questionable for Monday",
+   "note": "Nembhard (neck) is questionable for Monday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-injury-questionable-for-monday-536169"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Ruled out Monday",
+   "note": "Ighodaro (oblique) is out for Monday's matchup with the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-ruled-out-monday-536168"
+  },
   {
    "date": "2026-10-26",
    "team": "OKC",
@@ -173,86 +253,6 @@
   },
   {
    "date": "2026-10-26",
-   "team": "MEM",
-   "player": "Cam Spencer",
-   "headline": "Efficient 13 points",
-   "note": "Spencer posted 13 points (5-9 FG, 3-6 3Pt), two rebounds and one assist in 16 minutes during Sunday's 123-112 win over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-efficient-13-points-536150"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MEM",
-   "player": "Quinten Post",
-   "headline": "Stuck in backup role",
-   "note": "Post finished with seven points (3-6 FG, 0-3 3Pt, 1-2 FT), five rebounds and one assist across 17 minutes during Sunday's 123-112 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-news-stuck-in-backup-role-536149"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "UTA",
-   "player": "Darryn Peterson",
-   "headline": "Struggles with shot on Sunday",
-   "note": "Peterson finished with eight points (4-13 FG, 0-4 3Pt), three rebounds, two assists, one block and three steals over 30 minutes during Sunday's 132-123 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-struggles-with-shot-on-sunday-536148"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MEM",
-   "player": "Isaiah Stewart",
-   "headline": "Fills box score in spot start",
-   "note": "Stewart accumulated 13 points (4-8 FG, 2-3 3Pt, 3-3 FT), five rebounds, two assists, two blocks and one steal over 22 minutes during Sunday's 123-112 victory over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-news-fills-box-score-in-spot-start-536147"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "DET",
-   "player": "Ronald Holland",
-   "headline": "Makes defensive impact",
-   "note": "Holland logged two points (1-8 FG, 0-3 3Pt), nine rebounds, four assists, two blocks and one steal across 23 minutes during Sunday's 106-93 win over Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ronald-holland-news-makes-defensive-impact-536146"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIN",
-   "player": "Jonathan Kuminga",
-   "headline": "Hits three triples in win",
-   "note": "Kuminga racked up 13 points (4-8 FG, 3-4 3Pt, 2-2 FT), four rebounds, one assist and two steals in 26 minutes during Sunday's 117-94 victory over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-kuminga-news-hits-three-triples-in-win-536145"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Logs heavy minutes in loss",
-   "note": "Wade contributed seven points (2-4 FG, 1-3 3Pt, 2-2 FT), five rebounds, one assist, one block and two steals in 37 minutes during Sunday's 106-93 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-logs-heavy-minutes-in-loss-536144"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "PHI",
-   "player": "Adem Bona",
-   "headline": "Grabs 13 boards in loss",
-   "note": "Bona supplied six points (3-5 FG), 13 rebounds, one assist, three blocks and one steal across 25 minutes during Sunday's 106-93 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-grabs-13-boards-in-loss-536143"
-  },
-  {
-   "date": "2026-10-26",
    "team": "DAL",
    "player": "Caleb Martin",
    "headline": "Out again Monday",
@@ -310,6 +310,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/naz-reid-injury-probable-for-monday-536123"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "DET",
+   "player": "Ronald Holland",
+   "headline": "Makes defensive impact",
+   "note": "Holland logged two points (1-8 FG, 0-3 3Pt), nine rebounds, four assists, two blocks and one steal across 23 minutes during Sunday's 106-93 win over Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ronald-holland-news-makes-defensive-impact-536146"
   },
   {
    "date": "2026-10-26",
@@ -394,6 +404,36 @@
   {
    "date": "2026-10-26",
    "team": "MEM",
+   "player": "Cam Spencer",
+   "headline": "Efficient 13 points",
+   "note": "Spencer posted 13 points (5-9 FG, 3-6 3Pt), two rebounds and one assist in 16 minutes during Sunday's 123-112 win over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-efficient-13-points-536150"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
+   "player": "Quinten Post",
+   "headline": "Stuck in backup role",
+   "note": "Post finished with seven points (3-6 FG, 0-3 3Pt, 1-2 FT), five rebounds and one assist across 17 minutes during Sunday's 123-112 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-news-stuck-in-backup-role-536149"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "headline": "Fills box score in spot start",
+   "note": "Stewart accumulated 13 points (4-8 FG, 2-3 3Pt, 3-3 FT), five rebounds, two assists, two blocks and one steal over 22 minutes during Sunday's 123-112 victory over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-news-fills-box-score-in-spot-start-536147"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MEM",
    "player": "Jaylen Wells",
    "headline": "Strong start to season",
    "note": "Wells notched 16 points (6-7 FG, 2-2 3Pt, 2-2 FT), five rebounds, three assists and two steals across 33 minutes during Sunday's 123-112 victory over Sacramento.",
@@ -430,6 +470,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-news-scores-31-points-sunday-536113"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "MIN",
+   "player": "Jonathan Kuminga",
+   "headline": "Hits three triples in win",
+   "note": "Kuminga racked up 13 points (4-8 FG, 3-4 3Pt, 2-2 FT), four rebounds, one assist and two steals in 26 minutes during Sunday's 117-94 victory over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jonathan-kuminga-news-hits-three-triples-in-win-536145"
   },
   {
    "date": "2026-10-26",
@@ -544,62 +594,12 @@
   {
    "date": "2026-10-26",
    "team": "PHI",
-   "player": "Kentavious Caldwell-Pope",
-   "headline": "Limited to seven points Sunday",
-   "note": "Caldwell-Pope contributed seven points (3-8 FG, 1-4 3Pt, 0-0 FT), three rebounds, three assists and a steal across 31 minutes in Sunday's 106-93 loss to the Pistons.",
+   "player": "Dean Wade",
+   "headline": "Logs heavy minutes in loss",
+   "note": "Wade contributed seven points (2-4 FG, 1-3 3Pt, 2-2 FT), five rebounds, one assist, one block and two steals in 37 minutes during Sunday's 106-93 loss to Detroit.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-limited-to-seven-points-sunday-536112"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Struggles badly with shot",
-   "note": "Brown managed 16 points (5-20 FG, 2-6 3Pt, 4-8 FT), four rebounds, four assists and a block across 40 minutes in Sunday's 106-93 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-struggles-badly-with-shot-536109"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Scores 18 points Sunday",
-   "note": "James finished with 18 points (8-15 FG, 0-3 3Pt, 2-6 FT), two rebounds, five assists and two steals across 33 minutes in Sunday's 106-93 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-news-scores-18-points-sunday-536107"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Emanuel Sharp",
-   "headline": "Playing reserve role",
-   "note": "Sharp racked up three points (1-3 FG, 1-2 3Pt), one rebound and one block across 14 minutes during Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/emanuel-sharp-news-playing-reserve-role-536139"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "Daeqwon Plowden",
-   "headline": "Handling bench role",
-   "note": "Plowden registered three points (1-3 FG, 1-3 3Pt), three rebounds and one assist across 16 minutes during Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daeqwon-plowden-news-handling-bench-role-536136"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "SAC",
-   "player": "De'Andre Hunter",
-   "headline": "Slow start to season",
-   "note": "Hunter chipped in seven points (2-7 FG, 2-5 3Pt, 1-2 FT), six rebounds and one assist across 29 minutes during Sunday's 123-112 loss to the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-slow-start-to-season-536132"
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-logs-heavy-minutes-in-loss-536144"
   }
  ]
 }

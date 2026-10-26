@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:28:31Z",
+ "updated": "2026-10-26T19:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -158,19 +158,19 @@
    "pos": "SF",
    "updated": "2026-10-26",
    "injury": "Thumb",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2026-11-02"
   },
   {
    "team": "DAL",
    "player": "Dereck Lively II",
    "pos": "C",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "injury": "Foot",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2026-11-02"
   },
   {
    "team": "DAL",
@@ -186,11 +186,11 @@
    "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "injury": "Knee",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2026-11-02"
   },
   {
    "team": "DAL",
@@ -374,6 +374,16 @@
   },
   {
    "team": "IND",
+   "player": "Ivica Zubac",
+   "pos": "C",
+   "updated": "2026-10-26",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "IND",
    "player": "Johnny Furphy",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -384,10 +394,10 @@
   },
   {
    "team": "IND",
-   "player": "Ivica Zubac",
-   "pos": "C",
-   "updated": "2026-10-25",
-   "injury": "Ankle",
+   "player": "Aaron Nesmith",
+   "pos": "SF",
+   "updated": "2026-10-26",
+   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -534,6 +544,26 @@
   },
   {
    "team": "OKC",
+   "player": "Cason Wallace",
+   "pos": "SG",
+   "updated": "2026-10-26",
+   "injury": "Shoulder",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "pos": "PF",
+   "updated": "2026-10-26",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "OKC",
    "player": "Jalen Williams",
    "pos": "SF",
    "updated": "2026-10-26",
@@ -541,16 +571,6 @@
    "status": "Expected return: at least Mar 2",
    "kind": "out",
    "ret": "2027-03-02"
-  },
-  {
-   "team": "OKC",
-   "player": "Cason Wallace",
-   "pos": "SG",
-   "updated": "2026-10-25",
-   "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "OKC",
