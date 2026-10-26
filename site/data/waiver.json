@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:20:42Z",
+ "updated": "2026-10-26T06:30:54Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -7,10 +7,10 @@
    "team": "WAS",
    "pos": "SG/SF",
    "priority": 1,
-   "reason": "RotoWire 21.10.: Starting sans Dybantsa. Coulibaly is in the starting lineup for Wednesday's regular-season opener against the Bucks. ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min). AJ Dybantsa (gležanj) je out najmanje do 28.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min). RotoWire 21.10.: Starting sans Dybantsa.",
+   "role": "Starter dok je out AJ Dybantsa",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -18,8 +18,7 @@
    "source": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-starting-sans-dybantsa-535381",
    "espnId": 5104155,
    "waivers": {
-    "Legendi": "2026-10-27",
-    "Banijska": "2026-10-26"
+    "Legendi": "2026-10-27"
    },
    "fpts": 26.0,
    "gp": 3,
@@ -45,6 +44,25 @@
    "cur": 22.7
   },
   {
+   "player": "Daniss Jenkins",
+   "team": "DET",
+   "pos": "PG",
+   "priority": 1,
+   "reason": "RotoWire 25.10.: Starting Sunday. Jenkins will start Sunday's game against the 76ers, Hunter Patterson of The Athletic reports. ~22.7 FP po utakmici (ove sezone 26.7 u 3 utk., prošle sezone 19.7; 22 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-starting-sunday-536053",
+   "espnId": 5107199,
+   "fpts": 22.7,
+   "gp": 3,
+   "cur": 26.7
+  },
+  {
    "player": "Aaron Nesmith",
    "team": "IND",
    "pos": "SG/SF",
@@ -64,23 +82,23 @@
    "cur": 12.5
   },
   {
-   "player": "Daniss Jenkins",
-   "team": "DET",
-   "pos": "PG",
+   "player": "Kentavious Caldwell-Pope",
+   "team": "PHI",
+   "pos": "SG/SF",
    "priority": 1,
-   "reason": "RotoWire 25.10.: Starting Sunday. Jenkins will start Sunday's game against the 76ers, Hunter Patterson of The Athletic reports. ~19.0 FP po utakmici (ove sezone 18.0 u 3 utk., prošle sezone 19.7; 20 min).",
+   "reason": "RotoWire 25.10.: Starting Sunday. Caldwell-Pope will start Sunday's game against the Pistons, Keith Pompey of The Philadelphia Inquirer reports. ~19.1 FP po utakmici (ove sezone 20.8 u 4 utk., prošle sezone 17.5; 24 min). VJ Edgecombe (trbuh) je out najmanje do 28.10. Kentavious Caldwell-Pope je sljedeći SG/SF u rotaciji PHI-a za te minute; ~19.1 FP po utakmici (ove sezone 20.8 u 4 utk., prošle sezone 17.5; 24 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
-   "source": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-starting-sunday-536053",
-   "espnId": 5107199,
-   "fpts": 19.0,
-   "gp": 3,
-   "cur": 18.0
+   "source": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-starting-sunday-536052",
+   "espnId": 2581018,
+   "fpts": 19.1,
+   "gp": 4,
+   "cur": 20.8
   },
   {
    "player": "Gui Santos",
@@ -100,47 +118,6 @@
    "fpts": 19.0,
    "gp": 3,
    "cur": 17.3
-  },
-  {
-   "player": "Kentavious Caldwell-Pope",
-   "team": "PHI",
-   "pos": "SG/SF",
-   "priority": 1,
-   "reason": "RotoWire 25.10.: Starting Sunday. Caldwell-Pope will start Sunday's game against the Pistons, Keith Pompey of The Philadelphia Inquirer reports. ~18.8 FP po utakmici (ove sezone 20.0 u 4 utk., prošle sezone 17.5; 23 min). VJ Edgecombe (trbuh) je out najmanje do 28.10. — nova ozljeda. Kentavious Caldwell-Pope je sljedeći SG/SF u rotaciji PHI-a za te minute; ~18.8 FP po utakmici (ove sezone 20.0 u 4 utk., prošle sezone 17.5; 23 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-starting-sunday-536052",
-   "espnId": 2581018,
-   "waivers": {
-    "Legendi": "2026-10-26"
-   },
-   "fpts": 18.8,
-   "gp": 4,
-   "cur": 20.0
-  },
-  {
-   "player": "GG Jackson",
-   "team": "MEM",
-   "pos": "PF",
-   "priority": 1,
-   "reason": "RotoWire 23.10.: Starting Friday. Jackson will start Friday against the Warriors, Damichael Cole of The Memphis Commercial Appeal reports. ~18.8 FP po utakmici (ove sezone 11.5 u 2 utk., prošle sezone 22.4; 20 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-starting-friday-535737",
-   "espnId": 5105550,
-   "fpts": 18.8,
-   "gp": 2,
-   "cur": 11.5
   },
   {
    "player": "DeAndre Jordan",
@@ -166,8 +143,8 @@
    "team": "SAC",
    "pos": "SF/PF",
    "priority": 1,
-   "reason": "Keegan Murray (gležanj) je out najmanje do 27.10. — nova ozljeda; Maxime Raynaud (koljeno) je out najmanje do 2.11. De'Andre Hunter je prvi SF/PF u rotaciji SAC-a za te minute; ~15.0 FP po utakmici (ove sezone 7.0 u 3 utk., prošle sezone 21.0; 22 min). RotoWire 21.10.: Starting Wednesday. Hunter will start Wednesday's game against the Clippers, Tomer Azarly of ClutchPoints.com reports.",
-   "role": "Starter dok su out Keegan Murray i Maxime Raynaud",
+   "reason": "Keegan Murray (gležanj) je out najmanje do 27.10. De'Andre Hunter je prvi SF/PF u rotaciji SAC-a za te minute; ~16.3 FP po utakmici (ove sezone 10.0 u 3 utk., prošle sezone 21.0; 26 min). RotoWire 21.10.: Starting Wednesday.",
+   "role": "Starter dok je out Keegan Murray",
    "horizon": "Do ~27.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Keegan Murray; nizak bodovni plafon",
    "avail": {
@@ -176,16 +153,35 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-starting-wednesday-535420",
    "espnId": 4065732,
-   "fpts": 15.0,
+   "fpts": 16.3,
    "gp": 3,
-   "cur": 7.0
+   "cur": 10.0
+  },
+  {
+   "player": "Julian Reese",
+   "team": "NOP",
+   "pos": "PF",
+   "priority": 2,
+   "reason": "Stream za četvrtak (SAC @ NOP, tvojih igrača: 1). Julian Reese je rotacijski PF, ~28.5 FP po utakmici (prošle sezone, 31 min). Liga: Banijska, Legendi.",
+   "role": "Streamer (31 min)",
+   "horizon": "29.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 4683742,
+   "fpts": 28.5,
+   "expires": "2026-10-29"
   },
   {
    "player": "Allen Graves",
    "team": "TOR",
    "pos": "SF",
    "priority": 2,
-   "reason": "Kawhi Leonard (koljeno) je out najmanje do 28.10. — nova ozljeda. Allen Graves je prvi SF u rotaciji TOR-a za te minute; ~21.0 FP po utakmici (ove sezone, 3 utk., 13 min).",
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 28.10. Allen Graves je prvi SF u rotaciji TOR-a za te minute; ~23.0 FP po utakmici (ove sezone, 3 utk., 15 min).",
    "role": "Veća minutaža dok je out Kawhi Leonard",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
@@ -195,26 +191,73 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 5149115,
-   "fpts": 21.0,
+   "fpts": 23.0,
    "gp": 3,
-   "cur": 21.0
+   "cur": 23.0
   },
   {
-   "player": "Leaky Black",
-   "team": "SAC",
-   "pos": "SF",
+   "player": "Isaiah Stewart",
+   "team": "MEM",
+   "pos": "PF/C",
    "priority": 2,
-   "reason": "Keegan Murray (gležanj) je out najmanje do 27.10. — nova ozljeda. Leaky Black je prvi SF u rotaciji SAC-a za te minute; ~19.7 FP po utakmici (prošle sezone, 29 min).",
-   "role": "Veća minutaža dok je out Keegan Murray",
-   "horizon": "Do ~27.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Keegan Murray",
+   "reason": "Zach Edey (gležanj) je out najmanje do 26.10. Isaiah Stewart je prvi PF/C u rotaciji MEM-a za te minute; ~22.7 FP po utakmici (ove sezone 21.5 u 2 utk., prošle sezone 23.3; 21 min).",
+   "role": "Veća minutaža dok je out Zach Edey",
+   "horizon": "Do ~26.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Zach Edey",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4395650,
-   "fpts": 19.7
+   "espnId": 4432810,
+   "fpts": 22.7,
+   "gp": 2,
+   "cur": 21.5
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "CLE",
+   "pos": "SG",
+   "priority": 2,
+   "reason": "Stream za četvrtak (CLE @ ATL, tvojih igrača: 1). Sam Merrill je rotacijski SG, ~21.5 FP po utakmici (ove sezone 17.0 u 2 utk., prošle sezone 23.7; 25 min); CLE ima 4 utakmice ovaj tjedan. Liga: Banijska, Legendi.",
+   "role": "Streamer (25 min)",
+   "horizon": "29.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 4066757,
+   "fpts": 21.5,
+   "gp": 2,
+   "cur": 17.0,
+   "expires": "2026-10-29"
+  },
+  {
+   "player": "Jock Landale",
+   "team": "ATL",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Stream za četvrtak (CLE @ ATL, tvojih igrača: 1). Jock Landale je rotacijski C, ~20.1 FP po utakmici (ove sezone 16.7 u 3 utk., prošle sezone 22.7; 21 min); ATL ima 4 utakmice ovaj tjedan. Liga: Banijska, Legendi.",
+   "role": "Streamer (21 min)",
+   "horizon": "29.10.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 3146557,
+   "waivers": {
+    "Legendi": "2026-10-27"
+   },
+   "fpts": 20.1,
+   "gp": 3,
+   "cur": 16.7,
+   "expires": "2026-10-29"
   },
   {
    "player": "Royce O'Neale",
@@ -236,23 +279,23 @@
    "cur": 10.7
   },
   {
-   "player": "Isaiah Stewart",
+   "player": "GG Jackson",
    "team": "MEM",
-   "pos": "PF/C",
+   "pos": "PF",
    "priority": 2,
-   "reason": "Zach Edey (gležanj) je out najmanje do 26.10. Isaiah Stewart je prvi PF/C u rotaciji MEM-a za te minute; ~17.1 FP po utakmici (ove sezone 4.5 u 2 utk., prošle sezone 23.3; 19 min).",
-   "role": "Veća minutaža dok je out Zach Edey",
-   "horizon": "Do ~26.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Zach Edey; nizak bodovni plafon",
+   "reason": "RotoWire 23.10.: Starting Friday. Jackson will start Friday against the Warriors, Damichael Cole of The Memphis Commercial Appeal reports. ~15.8 FP po utakmici (ove sezone 7.0 u 3 utk., prošle sezone 22.4; 18 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~16 FP)",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432810,
-   "fpts": 17.1,
-   "gp": 2,
-   "cur": 4.5
+   "source": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-starting-friday-535737",
+   "espnId": 5105550,
+   "fpts": 15.8,
+   "gp": 3,
+   "cur": 7.0
   },
   {
    "player": "Will Richard",
@@ -316,7 +359,7 @@
    "team": "PHI",
    "pos": "C",
    "priority": 2,
-   "reason": "Joel Embiid (peta) je out najmanje do 28.10. Adem Bona je prvi C u rotaciji PHI-a za te minute; ~12.9 FP po utakmici (ove sezone 10.8 u 4 utk., prošle sezone 15.0; 15 min).",
+   "reason": "Joel Embiid (peta) je out najmanje do 28.10. Adem Bona je prvi C u rotaciji PHI-a za te minute; ~14.0 FP po utakmici (ove sezone 13.0 u 4 utk., prošle sezone 15.0; 16 min).",
    "role": "Veća minutaža dok je out Joel Embiid",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Joel Embiid; nizak bodovni plafon",
@@ -326,9 +369,9 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 5105637,
-   "fpts": 12.9,
+   "fpts": 14.0,
    "gp": 4,
-   "cur": 10.8
+   "cur": 13.0
   },
   {
    "player": "P.J. Washington",
@@ -353,25 +396,6 @@
    "cur": 24.7
   },
   {
-   "player": "Justin Champagnie",
-   "team": "WAS",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. Justin Champagnie je sljedeći SF/PF u rotaciji WAS-a za te minute; ~24.7 FP po utakmici (ove sezone 28.7 u 3 utk., prošle sezone 21.7; 21 min).",
-   "role": "Veća minutaža dok je out AJ Dybantsa",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati AJ Dybantsa",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432907,
-   "fpts": 24.7,
-   "gp": 3,
-   "cur": 28.7
-  },
-  {
    "player": "Draymond Green",
    "team": "GSW",
    "pos": "PF/C",
@@ -391,6 +415,44 @@
    "cur": 18.5
   },
   {
+   "player": "Tre Johnson",
+   "team": "WAS",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. Tre Johnson je sljedeći SG u rotaciji WAS-a za te minute; ~19.7 FP po utakmici (ove sezone 20.0 u 3 utk., prošle sezone 19.4; 23 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5238230,
+   "fpts": 19.7,
+   "gp": 3,
+   "cur": 20.0
+  },
+  {
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Ausar Thompson (gležanj) je out najmanje do 27.10. Kevin Huerter je sljedeći SG/SF u rotaciji DET-a za te minute; ~18.9 FP po utakmici (ove sezone 14.0 u 3 utk., prošle sezone 22.5; 22 min).",
+   "role": "Veća minutaža dok je out Ausar Thompson",
+   "horizon": "Do ~27.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Ausar Thompson",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4066372,
+   "fpts": 18.9,
+   "gp": 3,
+   "cur": 14.0
+  },
+  {
    "player": "Olivier-Maxence Prosper",
    "team": "MEM",
    "pos": "PF",
@@ -408,23 +470,6 @@
    "fpts": 18.9
   },
   {
-   "player": "Taurean Prince",
-   "team": "DET",
-   "pos": "SF",
-   "priority": 3,
-   "reason": "Ausar Thompson (gležanj) je out najmanje do 27.10. — nova ozljeda. Taurean Prince je sljedeći SF u rotaciji DET-a za te minute; ~18.5 FP po utakmici (prošle sezone, 24 min).",
-   "role": "Veća minutaža dok je out Ausar Thompson",
-   "horizon": "Do ~27.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Ausar Thompson",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2990962,
-   "fpts": 18.5
-  },
-  {
    "player": "Terance Mann",
    "team": "BKN",
    "pos": "SG/SF",
@@ -440,6 +485,25 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3907823,
    "fpts": 17.9
+  },
+  {
+   "player": "Ronald Holland II",
+   "team": "DET",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Jalen Duren (stražnja loža) je out najmanje do 9.11. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~17.8 FP po utakmici (ove sezone 18.0 u 3 utk., prošle sezone 17.6; 18 min).",
+   "role": "Veća minutaža dok je out Jalen Duren",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jalen Duren; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4683771,
+   "fpts": 17.8,
+   "gp": 3,
+   "cur": 18.0
   },
   {
    "player": "Morez Johnson Jr.",
@@ -499,213 +563,26 @@
    "cur": 10.5
   },
   {
-   "player": "Kobe Sanders",
-   "team": "LAC",
-   "pos": "SG",
+   "player": "Leaky Black",
+   "team": "SAC",
+   "pos": "SF",
    "priority": 3,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Max Strus (stopalo) je out najmanje do 8.11. Kobe Sanders je sljedeći SG u rotaciji LAC-a za te minute; ~15.7 FP po utakmici (ove sezone 17.3 u 3 utk., prošle sezone 14.4; 20 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Max Strus",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal; nizak bodovni plafon",
+   "reason": "Keegan Murray (gležanj) je out najmanje do 27.10. Leaky Black je sljedeći SF u rotaciji SAC-a za te minute; ~15.8 FP po utakmici (ove sezone 0.0 u 1 utk., prošle sezone 19.7; 23 min).",
+   "role": "Veća minutaža dok je out Keegan Murray",
+   "horizon": "Do ~27.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Keegan Murray; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4702352,
-   "fpts": 15.7,
-   "gp": 3,
-   "cur": 17.3
-  },
-  {
-   "player": "Kyle Anderson",
-   "team": "TOR",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Kawhi Leonard (koljeno) je out najmanje do 28.10. — nova ozljeda. Kyle Anderson je sljedeći SF/PF u rotaciji TOR-a za te minute; ~15.3 FP po utakmici (ove sezone 5.5 u 2 utk., prošle sezone 20.2; 15 min).",
-   "role": "Veća minutaža dok je out Kawhi Leonard",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Kawhi Leonard; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2993874,
-   "fpts": 15.3,
-   "gp": 2,
-   "cur": 5.5
-  },
-  {
-   "player": "Ronald Holland II",
-   "team": "DET",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Jalen Duren (stražnja loža) je out najmanje do 9.11. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~14.7 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 17.6; 17 min).",
-   "role": "Veća minutaža dok je out Jalen Duren",
-   "horizon": "Do ~9.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jalen Duren; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4683771,
-   "fpts": 14.7,
-   "gp": 3,
-   "cur": 10.7
-  },
-  {
-   "player": "Terrence Shannon Jr.",
-   "team": "MIN",
-   "pos": "SG",
-   "priority": 3,
-   "reason": "Donte DiVincenzo (Ahilova tetiva) je out najmanje do 2.4. Terrence Shannon Jr. je sljedeći SG u rotaciji MIN-a za te minute; ~13.5 FP po utakmici (ove sezone 19.7 u 3 utk., prošle sezone 8.8; 16 min).",
-   "role": "Veća minutaža dok je out Donte DiVincenzo",
-   "horizon": "Do ~2.4. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Donte DiVincenzo; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432847,
-   "fpts": 13.5,
-   "gp": 3,
-   "cur": 19.7
+   "espnId": 4395650,
+   "fpts": 15.8,
+   "gp": 1,
+   "cur": 0
   }
  ],
  "days": [
-  {
-   "date": "2026-10-25",
-   "games": 7,
-   "leagues": [
-    {
-     "league": "Legendi",
-     "mine": 7,
-     "open": 3,
-     "sitting": 0,
-     "adds": 2,
-     "addsLimit": 7,
-     "planned": [],
-     "picks": [
-      {
-       "player": "Isaiah Hartenstein",
-       "team": "OKC",
-       "pos": "C",
-       "espnId": 4222252,
-       "fpts": 25.1,
-       "mpg": 23.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 18.7,
-       "matchup": "LAC @ OKC",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 25.1,
-       "gtd": false
-      },
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 23.0,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 15.3,
-       "matchup": "LAL @ UTA",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 23.0,
-       "gtd": false
-      },
-      {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 22.4,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 13.0,
-       "matchup": "MEM @ SAC",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 22.4,
-       "gtd": false
-      }
-     ]
-    },
-    {
-     "league": "Banijska",
-     "mine": 7,
-     "open": 3,
-     "sitting": 0,
-     "adds": 2,
-     "addsLimit": 7,
-     "planned": [],
-     "picks": [
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 23.0,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 15.3,
-       "matchup": "LAL @ UTA",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 23.0,
-       "gtd": false
-      },
-      {
-       "player": "Collin Sexton",
-       "team": "LAL",
-       "pos": "PG/SG",
-       "espnId": 4277811,
-       "fpts": 22.6,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 16.0,
-       "matchup": "LAL @ UTA",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 22.6,
-       "gtd": false
-      },
-      {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 22.4,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 13.0,
-       "matchup": "MEM @ SAC",
-       "dates": [
-        "2026-10-25"
-       ],
-       "value": 22.4,
-       "gtd": false
-      }
-     ]
-    }
-   ]
-  },
   {
    "date": "2026-10-26",
    "games": 9,
@@ -715,7 +592,7 @@
      "mine": 6,
      "open": 4,
      "sitting": 0,
-     "adds": 7,
+     "adds": 2,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -737,8 +614,7 @@
         "2026-10-31"
        ],
        "value": 86.0,
-       "gtd": false,
-       "waiver": "2026-10-26"
+       "gtd": false
       },
       {
        "player": "Isaiah Hartenstein",
@@ -786,7 +662,7 @@
      "mine": 7,
      "open": 3,
      "sitting": 0,
-     "adds": 7,
+     "adds": 2,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -861,29 +737,10 @@
      "mine": 5,
      "open": 5,
      "sitting": 0,
-     "adds": 6,
+     "adds": 1,
      "addsLimit": 7,
      "planned": [],
      "picks": [
-      {
-       "player": "Leaky Black",
-       "team": "SAC",
-       "pos": "SF",
-       "espnId": 4395650,
-       "fpts": 19.7,
-       "mpg": 28.8,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ SAS",
-       "dates": [
-        "2026-10-27",
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 59.1,
-       "gtd": false
-      },
       {
        "player": "Scoot Henderson",
        "team": "POR",
@@ -905,22 +762,41 @@
        "waiver": "2026-10-27"
       },
       {
-       "player": "Daeqwon Plowden",
+       "player": "De'Andre Hunter",
        "team": "SAC",
-       "pos": "SG",
-       "espnId": 4279318,
-       "fpts": 16.1,
-       "mpg": 23.1,
+       "pos": "SF/PF",
+       "espnId": 4065732,
+       "fpts": 16.3,
+       "mpg": 25.5,
        "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 10.5,
+       "gp": 3,
+       "cur": 10.0,
        "matchup": "SAC @ SAS",
        "dates": [
         "2026-10-27",
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 48.3,
+       "value": 48.9,
+       "gtd": false
+      },
+      {
+       "player": "Leaky Black",
+       "team": "SAC",
+       "pos": "SF",
+       "espnId": 4395650,
+       "fpts": 15.8,
+       "mpg": 23.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 1,
+       "cur": 0,
+       "matchup": "SAC @ SAS",
+       "dates": [
+        "2026-10-27",
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 47.4,
        "gtd": false
       }
      ]
@@ -930,7 +806,7 @@
      "mine": 3,
      "open": 7,
      "sitting": 0,
-     "adds": 6,
+     "adds": 1,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -973,22 +849,22 @@
        "gtd": false
       },
       {
-       "player": "Leaky Black",
-       "team": "SAC",
-       "pos": "SF",
-       "espnId": 4395650,
-       "fpts": 19.7,
-       "mpg": 28.8,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ SAS",
+       "player": "Scoot Henderson",
+       "team": "POR",
+       "pos": "PG/SG",
+       "espnId": 4683678,
+       "fpts": 19.2,
+       "mpg": 23.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 2,
+       "cur": 10.0,
+       "matchup": "POR @ LAL",
        "dates": [
         "2026-10-27",
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 59.1,
+       "value": 57.6,
        "gtd": false
       }
      ]
@@ -1004,7 +880,7 @@
      "mine": 9,
      "open": 0,
      "sitting": 0,
-     "adds": 5,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [
       {
@@ -1020,7 +896,7 @@
      "mine": 11,
      "open": 0,
      "sitting": 1,
-     "adds": 5,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [
       {
@@ -1047,7 +923,7 @@
      "mine": 2,
      "open": 6,
      "sitting": 0,
-     "adds": 5,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [
       {
@@ -1056,133 +932,22 @@
        "from": "2026-10-26"
       },
       {
-       "player": "Leaky Black",
-       "team": "SAC",
+       "player": "Scoot Henderson",
+       "team": "POR",
        "from": "2026-10-27"
       }
      ],
-     "picks": [
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 28.5,
-       "mpg": 30.9,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ NOP",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 57.0,
-       "gtd": false
-      },
-      {
-       "player": "Saddiq Bey",
-       "team": "NOP",
-       "pos": "SF/PF",
-       "espnId": 4397136,
-       "fpts": 27.5,
-       "mpg": 28.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 23.3,
-       "matchup": "SAC @ NOP",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 55.0,
-       "gtd": false,
-       "waiver": "2026-10-27"
-      },
-      {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 22.4,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 13.0,
-       "matchup": "MEM @ POR",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 44.8,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
      "mine": 1,
      "open": 9,
      "sitting": 0,
-     "adds": 5,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [],
-     "picks": [
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 28.5,
-       "mpg": 30.9,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ NOP",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 57.0,
-       "gtd": false
-      },
-      {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 22.4,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 13.0,
-       "matchup": "MEM @ POR",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 44.8,
-       "gtd": false
-      },
-      {
-       "player": "Javon Small",
-       "team": "MEM",
-       "pos": "PG",
-       "espnId": 4781746,
-       "fpts": 22.2,
-       "mpg": 20.2,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "MEM @ POR",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 44.4,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -1195,7 +960,7 @@
      "mine": 10,
      "open": 0,
      "sitting": 0,
-     "adds": 4,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [],
      "picks": []
@@ -1205,7 +970,7 @@
      "mine": 8,
      "open": 0,
      "sitting": 0,
-     "adds": 4,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [
       {
@@ -1230,9 +995,9 @@
     {
      "league": "Legendi",
      "mine": 3,
-     "open": 4,
+     "open": 5,
      "sitting": 0,
-     "adds": 4,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [
       {
@@ -1241,138 +1006,59 @@
        "from": "2026-10-26"
       },
       {
-       "player": "Leaky Black",
-       "team": "SAC",
+       "player": "Scoot Henderson",
+       "team": "POR",
        "from": "2026-10-27"
-      },
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "from": "2026-10-29"
       }
      ],
-     "picks": [
-      {
-       "player": "Saddiq Bey",
-       "team": "NOP",
-       "pos": "SF/PF",
-       "espnId": 4397136,
-       "fpts": 27.5,
-       "mpg": 28.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 23.3,
-       "matchup": "ATL @ NOP",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 27.5,
-       "gtd": false,
-       "waiver": "2026-10-27"
-      },
-      {
-       "player": "Isaiah Hartenstein",
-       "team": "OKC",
-       "pos": "C",
-       "espnId": 4222252,
-       "fpts": 25.1,
-       "mpg": 23.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 18.7,
-       "matchup": "OKC @ HOU",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 25.1,
-       "gtd": false
-      },
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 23.0,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 15.3,
-       "matchup": "POR @ UTA",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 23.0,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
      "mine": 7,
-     "open": 2,
+     "open": 3,
      "sitting": 0,
-     "adds": 4,
+     "adds": 0,
+     "addsLimit": 7,
+     "planned": [],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "games": 4,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 6,
+     "open": 4,
+     "sitting": 0,
+     "adds": 0,
+     "addsLimit": 7,
+     "planned": [],
+     "picks": []
+    },
+    {
+     "league": "Banijska",
+     "mine": 5,
+     "open": 3,
+     "sitting": 0,
+     "adds": 0,
      "addsLimit": 7,
      "planned": [
       {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "from": "2026-10-29"
+       "player": "De'Anthony Melton",
+       "team": "GSW",
+       "from": "2026-10-26"
+      },
+      {
+       "player": "Collin Sexton",
+       "team": "LAL",
+       "from": "2026-10-27"
       }
      ],
-     "picks": [
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 23.0,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 15.3,
-       "matchup": "POR @ UTA",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 23.0,
-       "gtd": false
-      },
-      {
-       "player": "Tari Eason",
-       "team": "HOU",
-       "pos": "SF/PF",
-       "espnId": 4433192,
-       "fpts": 22.5,
-       "mpg": 23.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 21.3,
-       "matchup": "OKC @ HOU",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 22.5,
-       "gtd": false
-      },
-      {
-       "player": "Ryan Kalkbrenner",
-       "team": "CHA",
-       "pos": "C",
-       "espnId": 4576060,
-       "fpts": 22.4,
-       "mpg": 20.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 22.7,
-       "matchup": "PHI @ CHA",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 22.4,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   }

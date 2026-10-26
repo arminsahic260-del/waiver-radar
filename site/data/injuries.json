@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:20:07Z",
+ "updated": "2026-10-26T06:30:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -267,7 +267,7 @@
    "player": "Isaiah Joe",
    "pos": "SG",
    "updated": "2026-10-25",
-   "injury": "Lower Body",
+   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -514,16 +514,6 @@
   },
   {
    "team": "OKC",
-   "player": "Jaylin Williams",
-   "pos": "PF",
-   "updated": "2026-10-25",
-   "injury": "Wrist",
-   "status": "Expected return: at least Oct 26",
-   "kind": "out",
-   "ret": "2026-10-26"
-  },
-  {
-   "team": "OKC",
    "player": "Nikola Topic",
    "pos": "PG",
    "updated": "2026-10-21",
@@ -548,6 +538,26 @@
    "pos": "SG",
    "updated": "2026-10-25",
    "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "OKC",
+   "player": "Jalen Williams",
+   "pos": "SF",
+   "updated": "2026-10-25",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "OKC",
+   "player": "Jaylin Williams",
+   "pos": "PF",
+   "updated": "2026-10-25",
+   "injury": "Wrist",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -591,6 +601,16 @@
    "status": "Expected return: at least Nov 22",
    "kind": "out",
    "ret": "2026-11-22"
+  },
+  {
+   "team": "ORL",
+   "player": "Jalen Suggs",
+   "pos": "PG",
+   "updated": "2026-10-25",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHI",
