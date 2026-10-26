@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T17:31:44Z",
+ "updated": "2026-10-26T18:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -154,6 +154,16 @@
   },
   {
    "team": "DAL",
+   "player": "Caleb Martin",
+   "pos": "SF",
+   "updated": "2026-10-26",
+   "injury": "Thumb",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "DAL",
    "player": "Dereck Lively II",
    "pos": "C",
    "updated": "2026-10-24",
@@ -191,16 +201,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
-   "player": "Caleb Martin",
-   "pos": "SF",
-   "updated": "2026-10-25",
-   "injury": "Thumb",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -416,8 +416,8 @@
    "team": "LAC",
    "player": "Brandon Ingram",
    "pos": "SF",
-   "updated": "2026-10-22",
-   "injury": "Heel",
+   "updated": "2026-10-26",
+   "injury": "Achilles",
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
@@ -503,6 +503,16 @@
    "ret": "2027-04-02"
   },
   {
+   "team": "MIN",
+   "player": "Anthony Edwards",
+   "pos": "SG",
+   "updated": "2026-10-26",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "NOP",
    "player": "Yves Missi",
    "pos": "C",
@@ -528,9 +538,9 @@
    "pos": "SF",
    "updated": "2026-10-26",
    "injury": "Ankle",
-   "status": "Expected return: at least Nov 2",
+   "status": "Expected return: at least Mar 2",
    "kind": "out",
-   "ret": "2026-11-02"
+   "ret": "2027-03-02"
   },
   {
    "team": "OKC",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T17:32:19Z",
+ "updated": "2026-10-26T18:21:55Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,10 +8,10 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-26T17:32:19Z",
+   "updated": "2026-10-26T18:21:54Z",
    "adds": {
     "period": 2,
-    "used": 0,
+    "used": 2,
     "limit": 7
    },
    "players": [
@@ -33,21 +33,16 @@
      }
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
-     "pos": "PG/SG",
+     "name": "Pelle Larsson",
+     "team": "MIA",
+     "pos": "SG/SF",
      "slot": "SG",
-     "espnId": 2991230,
-     "gp": 2,
-     "cur": 41.5,
-     "proj": 33.4,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 94,
-      "round": 7,
-      "roundPick": 10,
-      "teamId": 1
-     }
+     "espnId": 4601025,
+     "gp": 3,
+     "cur": 20.0,
+     "proj": null,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Cooper Flagg",
@@ -147,10 +142,39 @@
      }
     },
     {
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
+     "slot": "UTIL",
+     "espnId": 2991230,
+     "gp": 2,
+     "cur": 41.5,
+     "proj": 33.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 94,
+      "round": 7,
+      "roundPick": 10,
+      "teamId": 1
+     }
+    },
+    {
+     "name": "Jay Huff",
+     "team": "IND",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 4065731,
+     "gp": 2,
+     "cur": 20.5,
+     "proj": null,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
      "name": "Darius Acuff Jr.",
      "team": "SAC",
      "pos": "PG",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 5142620,
      "gp": 3,
      "cur": 26.0,
@@ -159,40 +183,6 @@
      "draft": {
       "pick": 103,
       "round": 8,
-      "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
-     "name": "Day'Ron Sharpe",
-     "team": "BKN",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 4432194,
-     "gp": 3,
-     "cur": 20.3,
-     "proj": 27.0,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 150,
-      "round": 11,
-      "roundPick": 10,
-      "teamId": 1
-     }
-    },
-    {
-     "name": "Jalen Suggs",
-     "team": "ORL",
-     "pos": "PG/SG",
-     "slot": "BE",
-     "espnId": 4432165,
-     "gp": 3,
-     "cur": 25.0,
-     "proj": 29.1,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 131,
-      "round": 10,
       "roundPick": 5,
       "teamId": 1
      }
@@ -247,7 +237,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-26T17:32:19Z",
+   "updated": "2026-10-26T18:21:55Z",
    "adds": {
     "period": 2,
     "used": 0,
