@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:21:18Z",
+ "updated": "2026-10-26T20:21:26Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -214,6 +214,16 @@
   },
   {
    "team": "DEN",
+   "player": "Alpha Diallo",
+   "pos": "SF",
+   "updated": "2026-10-26",
+   "injury": "Wrist",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
    "updated": "2026-10-20",
@@ -231,16 +241,6 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
-  },
-  {
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "pos": "SF",
-   "updated": "2026-10-25",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DEN",
@@ -394,6 +394,16 @@
   },
   {
    "team": "IND",
+   "player": "T.J. McConnell",
+   "pos": "PG",
+   "updated": "2026-10-26",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "IND",
    "player": "Aaron Nesmith",
    "pos": "SF",
    "updated": "2026-10-26",
@@ -404,10 +414,10 @@
   },
   {
    "team": "IND",
-   "player": "T.J. McConnell",
-   "pos": "PG",
+   "player": "Andrew Nembhard",
+   "pos": "SG",
    "updated": "2026-10-26",
-   "injury": "Hamstring",
+   "injury": "Neck",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -484,20 +494,20 @@
   },
   {
    "team": "MEM",
-   "player": "Karim Lopez",
+   "player": "Isaiah Stewart",
    "pos": "PF",
    "updated": "2026-10-26",
-   "injury": "Knee",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
   },
   {
    "team": "MEM",
-   "player": "Zach Edey",
-   "pos": "C",
+   "player": "Karim Lopez",
+   "pos": "PF",
    "updated": "2026-10-26",
-   "injury": "Ankle",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -574,23 +584,13 @@
   },
   {
    "team": "OKC",
-   "player": "Jaylin Williams",
-   "pos": "PF",
-   "updated": "2026-10-25",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "OKC",
    "player": "Nikola Topic",
    "pos": "PG",
    "updated": "2026-10-26",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "OKC",
@@ -598,9 +598,9 @@
    "pos": "C",
    "updated": "2026-10-26",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "ORL",
@@ -611,6 +611,16 @@
    "status": "Expected return: at least Nov 18",
    "kind": "out",
    "ret": "2026-11-18"
+  },
+  {
+   "team": "ORL",
+   "player": "Jalen Suggs",
+   "pos": "PG",
+   "updated": "2026-10-26",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
   },
   {
    "team": "ORL",
@@ -631,16 +641,6 @@
    "status": "Expected return: at least Nov 22",
    "kind": "out",
    "ret": "2026-11-22"
-  },
-  {
-   "team": "ORL",
-   "player": "Jalen Suggs",
-   "pos": "PG",
-   "updated": "2026-10-25",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "ORL",
@@ -726,11 +726,11 @@
    "team": "PHX",
    "player": "Oso Ighodaro",
    "pos": "C",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "injury": "Oblique",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
   },
   {
    "team": "POR",
@@ -858,6 +858,16 @@
    "pos": "SG",
    "updated": "2026-10-26",
    "injury": "Knee",
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
+  },
+  {
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "pos": "C",
+   "updated": "2026-10-26",
+   "injury": "Shoulder",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
