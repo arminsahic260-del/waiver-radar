@@ -1,15 +1,45 @@
 {
- "updated": "2026-10-26T20:36:56Z",
+ "updated": "2026-10-26T21:21:52Z",
  "items": [
+  {
+   "date": "2026-10-26",
+   "team": "DET",
+   "player": "Isaiah Joe",
+   "headline": "Iffy for Tuesday",
+   "note": "Joe (hip) is questionable for Tuesday's game against the Knicks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-iffy-for-tuesday-536188"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Iffy for Tuesday",
+   "note": "Thompson (ankle) is listed as questionable for Tuesday's game against New York.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-iffy-for-tuesday-536187"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "NYK",
+   "player": "Jose Alvarado",
+   "headline": "Out with ankle sprain",
+   "note": "Alvarado (ankle) is out for Tuesday's game against the Pistons.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-out-with-ankle-sprain-536186"
+  },
   {
    "date": "2026-10-26",
    "team": "SAC",
    "player": "Nique Clifford",
-   "headline": "Third year option picked up",
+   "headline": "Third-year team option picked up",
    "note": "The Kings exercised their third-year team option on Clifford's contract Monday, Sean Cunningham of Fox 40 Sacramento reports.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nique-clifford-news-third-year-option-picked-up-536183"
+   "url": "https://www.rotowire.com/basketball/headlines/nique-clifford-news-third-year-team-option-picked-up-536183"
   },
   {
    "date": "2026-10-26",
@@ -223,36 +253,6 @@
   },
   {
    "date": "2026-10-26",
-   "team": "LAC",
-   "player": "Kobe Sanders",
-   "headline": "Season-high 12 points in loss",
-   "note": "Sanders finished with 12 points (4-10 FG, 2-5 3Pt, 2-2 FT), four rebounds, two assists and one steal in 20 minutes during Sunday's 108-101 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-season-high-12-points-in-loss-536159"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "OKC",
-   "player": "Isaiah Hartenstein",
-   "headline": "Notches first double-double of season",
-   "note": "Hartenstein supplied 12 points (5-9 FG, 2-2 FT), 12 rebounds, one assist and one steal across 27 minutes during Sunday's 108-101 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-hartenstein-news-notches-first-double-double-of-season-536158"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Earns first minutes of 2026-27",
-   "note": "Wolf had six points (2-4 FG, 2-4 3Pt), two rebounds and one assist over 15 minutes during Sunday's 136-109 loss to the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-earns-first-minutes-of-2026-27-536157"
-  },
-  {
-   "date": "2026-10-26",
    "team": "DAL",
    "player": "Caleb Martin",
    "headline": "Out again Monday",
@@ -313,6 +313,16 @@
   },
   {
    "date": "2026-10-26",
+   "team": "BKN",
+   "player": "Danny Wolf",
+   "headline": "Earns first minutes of 2026-27",
+   "note": "Wolf had six points (2-4 FG, 2-4 3Pt), two rebounds and one assist over 15 minutes during Sunday's 136-109 loss to the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-earns-first-minutes-of-2026-27-536157"
+  },
+  {
+   "date": "2026-10-26",
    "team": "DET",
    "player": "Ronald Holland",
    "headline": "Makes defensive impact",
@@ -370,6 +380,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-plays-22-minutes-on-sunday-536153"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "LAC",
+   "player": "Kobe Sanders",
+   "headline": "Season-high 12 points in loss",
+   "note": "Sanders finished with 12 points (4-10 FG, 2-5 3Pt, 2-2 FT), four rebounds, two assists and one steal in 20 minutes during Sunday's 108-101 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-season-high-12-points-in-loss-536159"
   },
   {
    "date": "2026-10-26",
@@ -564,42 +584,22 @@
   {
    "date": "2026-10-26",
    "team": "OKC",
+   "player": "Isaiah Hartenstein",
+   "headline": "Notches first double-double of season",
+   "note": "Hartenstein supplied 12 points (5-9 FG, 2-2 FT), 12 rebounds, one assist and one steal across 27 minutes during Sunday's 108-101 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-hartenstein-news-notches-first-double-double-of-season-536158"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "OKC",
    "player": "Jared McCain",
    "headline": "Held in check Sunday",
    "note": "McCain posted three points (1-8 FG, 1-5 3Pt), one rebound and one steal in 21 minutes during Sunday's 108-101 victory over the Clippers.",
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-held-in-check-sunday-536111"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "OKC",
-   "player": "Shai Gilgeous-Alexander",
-   "headline": "Bounces back in win",
-   "note": "Gilgeous-Alexander ended Sunday's 108-101 victory over the Clippers with 34 points (13-26 FG, 1-5 3Pt, 7-8 FT), six rebounds, five assists, one block and two steals in 36 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-bounces-back-in-win-536110"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Strong showing in win",
-   "note": "Caruso closed Sunday's 108-101 win over the Clippers with 12 points (4-7 FG, 2-4 3Pt, 2-2 FT), seven rebounds, six assists, one block and two steals over 22 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-news-strong-showing-in-win-536108"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "ORL",
-   "player": "Wendell Carter",
-   "headline": "Continues to produce",
-   "note": "Carter chipped in nine points (3-6 FG, 0-1 3Pt, 3-4 FT), 10 rebounds, two assists, one block and one steal in 33 minutes during Sunday's 111-102 victory over the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-continues-to-produce-536155"
   }
  ]
 }
