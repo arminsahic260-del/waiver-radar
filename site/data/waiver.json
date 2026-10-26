@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T20:22:03Z",
+ "updated": "2026-10-26T20:37:01Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -347,7 +347,7 @@
    "team": "ORL",
    "pos": "PG",
    "priority": 2,
-   "reason": "Jalen Suggs (koljeno) je out najmanje do 10.11. — nova ozljeda. Jevon Carter je prvi PG u rotaciji ORL-a za te minute; ~13.0 FP po utakmici (ove sezone 9.0 u 1 utk., prošle sezone 14.0; 16 min).",
+   "reason": "Jalen Suggs (koljeno) je out najmanje do 10.11. Jevon Carter je prvi PG u rotaciji ORL-a za te minute; ~13.0 FP po utakmici (ove sezone 9.0 u 1 utk., prošle sezone 14.0; 16 min).",
    "role": "Veća minutaža dok je out Jalen Suggs",
    "horizon": "Do ~10.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jalen Suggs; nizak bodovni plafon",

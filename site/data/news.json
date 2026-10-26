@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-26T20:21:58Z",
+ "updated": "2026-10-26T20:36:56Z",
  "items": [
+  {
+   "date": "2026-10-26",
+   "team": "SAC",
+   "player": "Nique Clifford",
+   "headline": "Third year option picked up",
+   "note": "The Kings exercised their third-year team option on Clifford's contract Monday, Sean Cunningham of Fox 40 Sacramento reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nique-clifford-news-third-year-option-picked-up-536183"
+  },
   {
    "date": "2026-10-26",
    "team": "DET",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-26",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Productive in blowout win",
-   "note": "Toppin posted 16 points (6-9 FG, 4-7 3Pt), six rebounds and two assists in 20 minutes during Sunday's 136-109 victory over the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-news-productive-in-blowout-win-536156"
-  },
-  {
-   "date": "2026-10-26",
    "team": "DAL",
    "player": "Caleb Martin",
    "headline": "Out again Monday",
@@ -350,6 +350,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-steps-up-with-18-points-in-win-536097"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Productive in blowout win",
+   "note": "Toppin posted 16 points (6-9 FG, 4-7 3Pt), six rebounds and two assists in 20 minutes during Sunday's 136-109 victory over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-news-productive-in-blowout-win-536156"
   },
   {
    "date": "2026-10-26",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-continues-to-produce-536155"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "ORL",
-   "player": "Tristan da Silva",
-   "headline": "Provides spark off bench",
-   "note": "Da Silva closed Sunday's 111-102 victory over the Knicks with 19 points (7-13 FG, 5-9 3Pt), two rebounds, two assists and one block over 27 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-provides-spark-off-bench-536154"
   }
  ]
 }
