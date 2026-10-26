@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:21:20Z",
+ "updated": "2026-10-26T22:21:25Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -24,20 +24,20 @@
   },
   {
    "team": "BKN",
-   "player": "Mikel Brown Jr.",
-   "pos": "PG",
-   "updated": "2026-10-26",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "BKN",
    "player": "Tyler Bilodeau",
    "pos": "SF",
    "updated": "2026-10-26",
    "injury": "Shoulder",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "BKN",
+   "player": "Mikel Brown Jr.",
+   "pos": "PG",
+   "updated": "2026-10-26",
+   "injury": "Rest",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -548,9 +548,9 @@
    "pos": "PG",
    "updated": "2026-10-26",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "OKC",

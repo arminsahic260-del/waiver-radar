@@ -1,30 +1,7 @@
 {
- "updated": "2026-10-26T21:21:57Z",
+ "updated": "2026-10-26T22:22:03Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Bilal Coulibaly",
-   "team": "WAS",
-   "pos": "SG/SF",
-   "priority": 1,
-   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min). RotoWire 21.10.: Starting sans Dybantsa.",
-   "role": "Starter dok je out AJ Dybantsa",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati AJ Dybantsa",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-starting-sans-dybantsa-535381",
-   "note": "na tvom rosteru (Banijska)",
-   "espnId": 5104155,
-   "waivers": {
-    "Legendi": "2026-10-27"
-   },
-   "fpts": 26.0,
-   "gp": 3,
-   "cur": 25.3
-  },
   {
    "player": "Brandon Williams",
    "team": "GSW",
@@ -160,6 +137,29 @@
    "espnId": 4683742,
    "fpts": 28.5,
    "expires": "2026-10-29"
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "team": "WAS",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "AJ Dybantsa (gležanj) je out najmanje do 28.10. Bilal Coulibaly je prvi SG/SF u rotaciji WAS-a za te minute; ~26.0 FP po utakmici (ove sezone 25.3 u 3 utk., prošle sezone 26.5; 26 min).",
+   "role": "Veća minutaža dok je out AJ Dybantsa",
+   "horizon": "Do ~28.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati AJ Dybantsa",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Banijska)",
+   "espnId": 5104155,
+   "waivers": {
+    "Legendi": "2026-10-27"
+   },
+   "fpts": 26.0,
+   "gp": 3,
+   "cur": 25.3
   },
   {
    "player": "Keaton Wagler",
