@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:39:59Z",
+ "updated": "2026-10-26T17:21:53Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -165,7 +165,7 @@
    "team": "OKC",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Jalen Williams (gležanj) je out najmanje do 2.11. — nova ozljeda. Cason Wallace je prvi PG/SG u rotaciji OKC-a za te minute; ~21.7 FP po utakmici (ove sezone 18.3 u 3 utk., prošle sezone 24.3; 22 min).",
+   "reason": "Jalen Williams (gležanj) je out najmanje do 2.11. Cason Wallace je prvi PG/SG u rotaciji OKC-a za te minute; ~21.7 FP po utakmici (ove sezone 18.3 u 3 utk., prošle sezone 24.3; 22 min).",
    "role": "Veća minutaža dok je out Jalen Williams",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Jalen Williams",
@@ -527,7 +527,7 @@
    "team": "OKC",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Jalen Williams (gležanj) je out najmanje do 2.11. — nova ozljeda. Jaylin Williams je sljedeći PF/C u rotaciji OKC-a za te minute; ~14.5 FP po utakmici (ove sezone 6.7 u 3 utk., prošle sezone 20.4; 16 min).",
+   "reason": "Jalen Williams (gležanj) je out najmanje do 2.11. Jaylin Williams je sljedeći PF/C u rotaciji OKC-a za te minute; ~14.5 FP po utakmici (ove sezone 6.7 u 3 utk., prošle sezone 20.4; 16 min).",
    "role": "Veća minutaža dok je out Jalen Williams",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Jalen Williams; nizak bodovni plafon",
@@ -565,7 +565,7 @@
    "team": "HOU",
    "pos": "SG/SF",
    "priority": 3,
-   "reason": "Marcus Smart (forearm) je out najmanje do 28.10. — nova ozljeda. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.3 FP po utakmici (ove sezone 10.0 u 3 utk., prošle sezone 14.1; 17 min).",
+   "reason": "Marcus Smart (forearm) je out najmanje do 28.10. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.3 FP po utakmici (ove sezone 10.0 u 3 utk., prošle sezone 14.1; 17 min).",
    "role": "Veća minutaža dok je out Marcus Smart",
    "horizon": "Do ~28.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Marcus Smart; nizak bodovni plafon",
