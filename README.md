@@ -1,7 +1,8 @@
 # Waiver Radar
 
-NBA fantasy tracker za ESPN H2H points lige: ozljede, vijesti o postavama, raspored po H2H tjednima, moji rosteri
-i waiver preporuke. Statički PWA na GitHub Pages; podatke svaki sat osvježava GitHub Actions.
+NBA fantasy tracker za ESPN H2H points lige: waiver preporuke, moji rosteri (postava i prosjek sezone uz projekciju i
+draft pick) i raspored po H2H tjednima. Ozljede (CBS) i vijesti o postavama (RotoWire) nemaju svoju karticu: iz njih
+nastaju waiver preporuke i stoje uz moje igrače. Statički PWA na GitHub Pages; podatke svaki sat osvježava GitHub Actions.
 
 ```
 site/                 PWA (index.html, manifest.json, sw.js, icons/, data/*.json)

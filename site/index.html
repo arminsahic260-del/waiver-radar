@@ -108,25 +108,6 @@ section[role="tabpanel"]{display:block}
 .avail span.note{border-style:solid;border-color:var(--info);color:var(--info)}
 .avail span.wv{border-style:solid;border-color:var(--gtd);color:var(--gtd)}
 
-.teamblock{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden}
-.teamblock summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:10px 14px;font-family:var(--display);font-size:18px;font-weight:600}
-.teamblock summary::-webkit-details-marker{display:none}
-.teamblock summary .meta{margin-left:auto;font-family:var(--body);font-weight:400}
-.teamblock summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
-.inj{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:9px 14px;border-top:1px solid var(--line);align-items:start}
-.inj .name{font-size:17px}
-.inj .meta{grid-column:1 / -1}
-
-.news{display:flex;flex-direction:column;gap:0;background:var(--surface);border:1px solid var(--line);border-radius:8px}
-.news-item{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;padding:10px 14px;border-top:1px solid var(--line)}
-.news-item:first-child{border-top:0}
-.news-item time{font-size:12px;color:var(--muted);padding-top:4px;white-space:nowrap}
-.news-item .hd{font-weight:600}
-.news-item .hd a{color:inherit;text-decoration:none}
-.news-item .hd a:hover{text-decoration:underline}
-.news-item .kind{font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-left:6px}
-.kind.lineup{color:var(--accent)}.kind.injury{color:var(--out)}.kind.transaction{color:var(--info)}.kind.other{color:var(--muted)}
-
 .league,.day{margin-bottom:18px}
 .league h2,.day h2{font-size:22px;margin-bottom:8px}
 .league h2 small,.day h2 small{font-family:var(--body);font-size:13px;color:var(--muted);font-weight:400;margin-left:8px}
@@ -187,7 +168,7 @@ table.avg td.down{color:var(--out)}
 .empty code{font-size:13px;background:var(--surface-2);padding:1px 5px;border-radius:3px}
 .foot{margin-top:28px;font-size:12px;color:var(--muted);line-height:1.6}
 .foot .warn,.league h2 .warn{color:var(--gtd)}
-@media (prefers-reduced-motion:no-preference){.card,.teamblock{transition:border-color .15s}}
+@media (prefers-reduced-motion:no-preference){.card{transition:border-color .15s}}
 </style>
 </head>
 <body>
@@ -198,8 +179,6 @@ table.avg td.down{color:var(--out)}
   </div>
   <div class="tabs" role="tablist" aria-label="Sekcije">
     <button class="tab" role="tab" aria-selected="true" data-tab="waiver">Waiver<span class="cnt num" id="c-waiver">–</span></button>
-    <button class="tab" role="tab" aria-selected="false" data-tab="injuries">Ozljede<span class="cnt num" id="c-injuries">–</span></button>
-    <button class="tab" role="tab" aria-selected="false" data-tab="news">Postave<span class="cnt num" id="c-news">–</span></button>
     <button class="tab" role="tab" aria-selected="false" data-tab="mine">Moji igrači</button>
     <button class="tab" role="tab" aria-selected="false" data-tab="schedule">Raspored</button>
   </div>
@@ -228,26 +207,6 @@ table.avg td.down{color:var(--out)}
     </div>
   </section>
 
-  <section role="tabpanel" id="p-injuries" hidden>
-    <div class="chips" id="inj-chips" style="margin-bottom:12px">
-      <button class="chip" aria-pressed="true" data-kind="">Sve</button>
-      <button class="chip" aria-pressed="false" data-kind="out">Out</button>
-      <button class="chip" aria-pressed="false" data-kind="gtd">Upitan (GTD)</button>
-      <button class="chip" aria-pressed="false" data-kind="out_season">Sezona gotova</button>
-    </div>
-    <div class="grid two" id="inj-list"></div>
-  </section>
-
-  <section role="tabpanel" id="p-news" hidden>
-    <div class="chips" id="news-chips" style="margin-bottom:12px">
-      <button class="chip" aria-pressed="true" data-kind="">Sve</button>
-      <button class="chip" aria-pressed="false" data-kind="lineup">Postava / minute</button>
-      <button class="chip" aria-pressed="false" data-kind="injury">Ozljede</button>
-      <button class="chip" aria-pressed="false" data-kind="transaction">Transakcije</button>
-    </div>
-    <div class="news" id="news-list"></div>
-  </section>
-
   <section role="tabpanel" id="p-mine" hidden>
     <div class="chips" id="mview-chips" style="margin-bottom:12px">
       <button class="chip" aria-pressed="true" data-mview="roster">Postava</button>
@@ -272,7 +231,7 @@ table.avg td.down{color:var(--out)}
   const DAYS=["Ned","Pon","Uto","Sri","Čet","Pet","Sub"];
   const FILES=["injuries","news","waiver","schedule","rosters","meta"];
   const SOURCES={cbs:"CBS ozljede",rotowire:"RotoWire",bref:"Basketball-Reference",espn:"ESPN",analyze:"analiza",telegram:"Telegram"};
-  const S={injuries:null,news:null,waiver:null,schedule:null,rosters:null,meta:null,tab:"waiver",q:"",team:"",pri:"",injKind:"",newsKind:"",week:null,theme:"auto"};
+  const S={injuries:null,news:null,waiver:null,schedule:null,rosters:null,meta:null,tab:"waiver",q:"",team:"",pri:"",week:null,theme:"auto"};
   const $=id=>document.getElementById(id);
   const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const norm=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g,"").replace(/\b(jr|sr|ii|iii|iv)\b/g,"").replace(/\s+/g," ").trim();
@@ -401,32 +360,6 @@ table.avg td.down{color:var(--out)}
       </article>`;}).join("");
   }
 
-  function renderInjuries(){
-    const el=$("inj-list");const items=(S.injuries&&S.injuries.items)||[];
-    $("c-injuries").textContent=items.length||"–";
-    if(!S.injuries){el.innerHTML=`<div class="empty">Lista ozljeda po timovima se učitava. Status: <strong>Out</strong> s datumom povratka, <strong>GTD</strong> (game-time decision) i <strong>Out za sezonu</strong>.</div>`;return;}
-    const f=items.filter(i=>matches(i.player,i.team)&&(!S.injKind||i.kind===S.injKind));
-    if(!f.length){el.innerHTML=`<div class="empty">Nema ozljeda za ovaj filter.</div>`;return;}
-    const by={};f.forEach(i=>(by[i.team]=by[i.team]||[]).push(i));
-    const open=!!(S.q||S.team||S.injKind);
-    el.innerHTML=Object.keys(by).sort().map(t=>{
-      const rows=by[t];const nOut=rows.filter(r=>r.kind!=="gtd").length;
-      return `<details class="teamblock"${open||nOut?" open":""}><summary><span class="team">${t}</span>${esc(TEAMS[t]||t)}<span class="meta num">${rows.length} ${rows.length===1?"igrač":"igrača"}${nOut?` · ${nOut} out`:""}</span></summary>
-        ${rows.map(r=>`<div class="inj"><span class="name">${esc(r.player)} <span class="pos">${esc(r.pos||"")}</span></span>${statusPill(r)}<span class="meta">${esc(r.injury||"")}${r.status&&r.kind==="out"?" · "+esc(r.status):""} · ažur. ${fmtD(r.updated)}</span></div>`).join("")}
-      </details>`;}).join("");
-  }
-
-  function renderNews(){
-    const el=$("news-list");const items=(S.news&&S.news.items)||[];
-    $("c-news").textContent=items.length||"–";
-    if(!S.news){el.innerHTML=`<div class="empty" style="border:0">Vijesti o postavama, minutama i ozljedama se učitavaju.</div>`;return;}
-    const f=items.filter(i=>matches(i.player,i.team)&&(!S.newsKind||i.kind===S.newsKind)).sort((a,b)=>(b.date||"").localeCompare(a.date||""));
-    if(!f.length){el.innerHTML=`<div class="empty" style="border:0">Nema vijesti za ovaj filter.</div>`;return;}
-    const K={lineup:"postava",injury:"ozljeda",transaction:"transakcija",other:""};
-    el.innerHTML=f.map(i=>{const hd=`${esc(i.player)} — ${esc(i.headline)}`;
-      return `<div class="news-item"><time datetime="${esc(i.date)}">${fmtD(i.date)}</time><div><div class="row"><span class="team">${esc(i.team||"")}</span><span class="hd">${i.url?`<a href="${esc(i.url)}" target="_blank" rel="noopener">${hd}</a>`:hd}</span><span class="kind ${esc(i.kind||"other")}">${K[i.kind]||""}</span></div><div class="meta">${esc(i.note||"")}</div></div></div>`;}).join("");
-  }
-
   function renderMine(){
     const el=$("mine-list");
     const leagues=((S.rosters&&S.rosters.leagues)||[]).filter(L=>(L.players||[]).length);
@@ -516,13 +449,15 @@ table.avg td.down{color:var(--out)}
     $("status").innerHTML=`Preporuke: ${esc(engine)}.`+(bad.length?` <span class="warn">Izvor nije uspio u zadnjem prolazu: ${bad.map(([k,v])=>esc(SOURCES[k]||k)+(v.lastOk?` (zadnje uspješno ${ago(v.lastOk)})`:"")).join(", ")} — prikazuje se prethodni snapshot.</span>`:"");
   }
 
-  function renderAll(){renderStamp();renderWaiver();renderInjuries();renderNews();renderMine();renderSchedule();renderStatus();}
+  function renderAll(){renderStamp();renderWaiver();renderMine();renderSchedule();renderStatus();}
 
   // ---------- tabs & filters
+  // injuries and lineup news have no tab of their own: they feed the waiver picks and show next to my players
+  const TABS=["waiver","mine","schedule"];
   function showTab(name){S.tab=name;document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===name)));
-    ["waiver","injuries","news","mine","schedule"].forEach(n=>{$("p-"+n).hidden=n!==name;});safe(()=>localStorage.setItem("wr.tab",name));}
+    TABS.forEach(n=>{$("p-"+n).hidden=n!==name;});safe(()=>localStorage.setItem("wr.tab",name));}
   document.querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.tab)));
-  const hash=(location.hash||"").slice(1);showTab(["waiver","injuries","news","mine","schedule"].includes(hash)?hash:S.tab);
+  const hash=(location.hash||"").slice(1);showTab(TABS.includes(hash)?hash:TABS.includes(S.tab)?S.tab:"waiver");
   $("q").addEventListener("input",e=>{S.q=e.target.value;renderAll();});
   sel.addEventListener("change",e=>{S.team=e.target.value;renderAll();});
   function chipGroup(id,key,attr,after){$(id).addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S[key]=b.dataset[attr]||"";$(id).querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c===b)));after();});}
@@ -530,7 +465,7 @@ table.avg td.down{color:var(--out)}
   chipGroup("wview-chips","wview","wview",()=>{safe(()=>localStorage.setItem("wr.wview",S.wview));renderWaiver();});
   $("wview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.wview===S.wview)));
   chipGroup("mview-chips","mview","mview",()=>{safe(()=>localStorage.setItem("wr.mview",S.mview));renderMine();});
-  $("mview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.mview===S.mview)));chipGroup("inj-chips","injKind","kind",renderInjuries);chipGroup("news-chips","newsKind","kind",renderNews);
+  $("mview-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.mview===S.mview)));
   $("week-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.week=+b.dataset.week;renderSchedule();});
 
   renderAll();
