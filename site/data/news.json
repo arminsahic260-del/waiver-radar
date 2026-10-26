@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-26T06:30:50Z",
+ "updated": "2026-10-26T14:24:23Z",
  "items": [
+  {
+   "date": "2026-10-26",
+   "team": "DET",
+   "player": "John Collins",
+   "headline": "Records double-double Sunday",
+   "note": "Collins registered 16 points (7-15 FG, 2-5 3Pt, 0-1 FT), 11 rebounds and two blocks across 34 minutes in Sunday's 106-93 win over the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/john-collins-news-records-double-double-sunday-536098"
+  },
+  {
+   "date": "2026-10-26",
+   "team": "DET",
+   "player": "Daniss Jenkins",
+   "headline": "Steps up with 18 points in win",
+   "note": "Jenkins posted 18 points (6-11 FG, 3-4 3Pt, 3-4 FT), eight rebounds, six assists and a block across 38 minutes in Sunday's 106-93 win over the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-steps-up-with-18-points-in-win-536097"
+  },
   {
    "date": "2026-10-25",
    "team": "SAC",
@@ -230,16 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-news-stays-hot-in-victory-536074"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "IND",
-   "player": "Tyrese Haliburton",
-   "headline": "Big double-double in rout",
-   "note": "Haliburton finished Sunday's 136-109 win over the Nets with 24 points (8-13 FG, 4-7 3Pt, 4-5 FT), four rebounds, 10 assists and two steals across 31 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-news-big-double-double-in-rout-536073"
   },
   {
    "date": "2026-10-25",
@@ -590,16 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-questionable-for-monday-536012"
-  },
-  {
-   "date": "2026-10-25",
-   "team": "CHI",
-   "player": "Noa Essengue",
-   "headline": "Iffy for Monday",
-   "note": "Essengue (head) is listed as questionable for Monday's game against Boston.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-injury-iffy-for-monday-536011"
   }
  ]
 }

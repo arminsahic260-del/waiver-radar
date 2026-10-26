@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:30:54Z",
+ "updated": "2026-10-26T14:24:28Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,33 +8,33 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-26T06:30:54Z",
+   "updated": "2026-10-26T14:24:27Z",
    "adds": {
-    "period": 1,
-    "used": 5,
+    "period": 2,
+    "used": 0,
     "limit": 7
    },
    "players": [
     {
-     "name": "Darius Acuff Jr.",
-     "team": "SAC",
+     "name": "Trae Young",
+     "team": "WAS",
      "pos": "PG",
      "slot": "PG",
-     "espnId": 5142620
+     "espnId": 4277905
     },
     {
-     "name": "Jalen Suggs",
-     "team": "ORL",
+     "name": "Fred VanVleet",
+     "team": "HOU",
      "pos": "PG/SG",
      "slot": "SG",
-     "espnId": 4432165
+     "espnId": 2991230
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
      "slot": "SF",
-     "espnId": 4433137
+     "espnId": 5041939
     },
     {
      "name": "Obi Toppin",
@@ -51,32 +51,32 @@
      "espnId": 4017837
     },
     {
-     "name": "Trae Young",
-     "team": "WAS",
-     "pos": "PG",
-     "slot": "G",
-     "espnId": 4277905
-    },
-    {
-     "name": "Paul Reed",
-     "team": "DET",
-     "pos": "PF/C",
-     "slot": "F",
-     "espnId": 4278562
-    },
-    {
-     "name": "Paolo Banchero",
-     "team": "ORL",
-     "pos": "SF/PF",
-     "slot": "UTIL",
-     "espnId": 4432573
-    },
-    {
      "name": "Kyrie Irving",
      "team": "DAL",
      "pos": "PG",
-     "slot": "UTIL",
+     "slot": "G",
      "espnId": 6442
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
+     "slot": "F",
+     "espnId": 5175737
+    },
+    {
+     "name": "Donovan Clingan",
+     "team": "POR",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 5105565
+    },
+    {
+     "name": "Darius Acuff Jr.",
+     "team": "SAC",
+     "pos": "PG",
+     "slot": "UTIL",
+     "espnId": 5142620
     },
     {
      "name": "Day'Ron Sharpe",
@@ -86,32 +86,32 @@
      "espnId": 4432194
     },
     {
-     "name": "Donovan Clingan",
-     "team": "POR",
-     "pos": "C",
-     "slot": "BE",
-     "espnId": 5105565
-    },
-    {
-     "name": "Fred VanVleet",
-     "team": "HOU",
+     "name": "Jalen Suggs",
+     "team": "ORL",
      "pos": "PG/SG",
      "slot": "BE",
-     "espnId": 2991230
+     "espnId": 4432165
     },
     {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
-     "pos": "SF/PF",
+     "name": "Paul Reed",
+     "team": "DET",
+     "pos": "PF/C",
      "slot": "BE",
-     "espnId": 5175737
+     "espnId": 4278562
     },
     {
-     "name": "Cooper Flagg",
-     "team": "DAL",
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
+     "slot": "BE",
+     "espnId": 4433137
+    },
+    {
+     "name": "Paolo Banchero",
+     "team": "ORL",
      "pos": "SF/PF",
      "slot": "IR",
-     "espnId": 5041939
+     "espnId": 4432573
     }
    ]
   },
@@ -122,10 +122,10 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-26T06:30:54Z",
+   "updated": "2026-10-26T14:24:28Z",
    "adds": {
-    "period": 1,
-    "used": 5,
+    "period": 2,
+    "used": 0,
     "limit": 7
    },
    "players": [
@@ -137,11 +137,11 @@
      "espnId": 4433627
     },
     {
-     "name": "Keaton Wagler",
-     "team": "LAC",
-     "pos": "PG/SG",
+     "name": "Jaylen Brown",
+     "team": "PHI",
+     "pos": "SG/SF",
      "slot": "SG",
-     "espnId": 5254165
+     "espnId": 3917376
     },
     {
      "name": "Jaden McDaniels",
@@ -151,32 +151,39 @@
      "espnId": 4431671
     },
     {
+     "name": "Peyton Watson",
+     "team": "CLE",
+     "pos": "SF/PF",
+     "slot": "PF",
+     "espnId": 4576087
+    },
+    {
+     "name": "Kel'el Ware",
+     "team": "MIL",
+     "pos": "C",
+     "slot": "C",
+     "espnId": 5105623
+    },
+    {
+     "name": "Stephon Castle",
+     "team": "SAS",
+     "pos": "PG/SG",
+     "slot": "G",
+     "espnId": 4845367
+    },
+    {
      "name": "Obi Toppin",
      "team": "IND",
      "pos": "PF",
-     "slot": "PF",
+     "slot": "F",
      "espnId": 4278355
     },
     {
-     "name": "Brook Lopez",
-     "team": "LAC",
-     "pos": "C",
-     "slot": "C",
-     "espnId": 3448
-    },
-    {
-     "name": "VJ Edgecombe",
-     "team": "PHI",
-     "pos": "SG",
-     "slot": "G",
-     "espnId": 5124612
-    },
-    {
-     "name": "Jaylen Brown",
-     "team": "PHI",
-     "pos": "SG/SF",
-     "slot": "F",
-     "espnId": 3917376
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "UTIL",
+     "espnId": 5041939
     },
     {
      "name": "Alperen Sengun",
@@ -186,46 +193,39 @@
      "espnId": 4871144
     },
     {
-     "name": "Stephon Castle",
-     "team": "SAS",
-     "pos": "PG/SG",
+     "name": "Neemias Queta",
+     "team": "BOS",
+     "pos": "C",
      "slot": "UTIL",
-     "espnId": 4845367
+     "espnId": 4397424
+    },
+    {
+     "name": "Brook Lopez",
+     "team": "LAC",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 3448
+    },
+    {
+     "name": "Keaton Wagler",
+     "team": "LAC",
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 5254165
     },
     {
      "name": "Ziaire Williams",
      "team": "LAL",
      "pos": "SG/SF",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 4433137
     },
     {
-     "name": "Kel'el Ware",
-     "team": "MIL",
-     "pos": "C",
-     "slot": "BE",
-     "espnId": 5105623
-    },
-    {
-     "name": "Peyton Watson",
-     "team": "CLE",
-     "pos": "SF/PF",
-     "slot": "BE",
-     "espnId": 4576087
-    },
-    {
-     "name": "Neemias Queta",
-     "team": "BOS",
-     "pos": "C",
-     "slot": "BE",
-     "espnId": 4397424
-    },
-    {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
+     "name": "VJ Edgecombe",
+     "team": "PHI",
+     "pos": "SG",
      "slot": "IR",
-     "espnId": 5041939
+     "espnId": 5124612
     }
    ]
   }
