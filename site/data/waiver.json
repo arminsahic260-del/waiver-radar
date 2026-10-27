@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:22:04Z",
+ "updated": "2026-10-27T21:22:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -20,25 +20,6 @@
    "fpts": 21.3,
    "gp": 3,
    "cur": 16.3
-  },
-  {
-   "player": "Aaron Nesmith",
-   "team": "IND",
-   "pos": "SG/SF",
-   "priority": 1,
-   "reason": "RotoWire 25.10.: Starting Sunday. Nesmith (hamstring) will start Sunday's game against the Nets. ~20.2 FP po utakmici (ove sezone 16.0 u 3 utk., prošle sezone 23.3; 26 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-starting-sunday-536039",
-   "espnId": 4396909,
-   "fpts": 20.2,
-   "gp": 3,
-   "cur": 16.0
   },
   {
    "player": "Gui Santos",
@@ -124,7 +105,7 @@
    "team": "UTA",
    "pos": "C",
    "priority": 2,
-   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. — nova ozljeda. Mo Bamba je prvi C u rotaciji UTA-a za te minute; ~43.0 FP po utakmici (ove sezone, 1 utk., 29 min).",
+   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Mo Bamba je prvi C u rotaciji UTA-a za te minute; ~43.0 FP po utakmici (ove sezone, 1 utk., 29 min).",
    "role": "Veća minutaža dok je out Jaren Jackson Jr.",
    "horizon": "Do ~14.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jaren Jackson Jr.",
@@ -162,7 +143,7 @@
    "team": "LAC",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Rui Hachimura (kvadriceps) je out najmanje do 30.10. — nova ozljeda; Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.1 FP po utakmici (ove sezone 23.7 u 3 utk., ESPN projekcija 24.4; 27 min).",
+   "reason": "Rui Hachimura (kvadriceps) je out najmanje do 30.10.; Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.1 FP po utakmici (ove sezone 23.7 u 3 utk., ESPN projekcija 24.4; 27 min).",
    "role": "Veća minutaža dok su out Rui Hachimura i Bradley Beal",
    "horizon": "Do ~30.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Rui Hachimura",
@@ -241,6 +222,23 @@
    "expires": "2026-10-29"
   },
   {
+   "player": "Oscar Tshiebwe",
+   "team": "HOU",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Alperen Sengun (leđa) je out najmanje do 30.10. — nova ozljeda. Oscar Tshiebwe je prvi C u rotaciji HOU-a za te minute; ~19.0 FP po utakmici (prošle sezone, 17 min).",
+   "role": "Veća minutaža dok je out Alperen Sengun",
+   "horizon": "Do ~30.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Alperen Sengun",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432827,
+   "fpts": 19.0
+  },
+  {
    "player": "Royce O'Neale",
    "team": "CHA",
    "pos": "SF/PF",
@@ -315,25 +313,6 @@
    "fpts": 15.3,
    "gp": 4,
    "cur": 10.2
-  },
-  {
-   "player": "Will Richard",
-   "team": "GSW",
-   "pos": "SG/SF",
-   "priority": 2,
-   "reason": "RotoWire 24.10.: Starting Saturday. Richard is in the starting lineup for Saturday's matchup with the Suns, Dalton Johnson of NBC Sports Bay Area reports. ~13.8 FP po utakmici (ove sezone 11.8 u 4 utk., prošle sezone 15.8; 17 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~14 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/will-richard-news-starting-saturday-535919",
-   "espnId": 4897262,
-   "fpts": 13.8,
-   "gp": 4,
-   "cur": 11.8
   },
   {
    "player": "Jevon Carter",
@@ -492,7 +471,7 @@
    "team": "UTA",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. — nova ozljeda. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~15.0 FP po utakmici (ove sezone -0.3 u 3 utk., prošle sezone 26.4; 17 min).",
+   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~15.0 FP po utakmici (ove sezone -0.3 u 3 utk., prošle sezone 26.4; 17 min).",
    "role": "Veća minutaža dok je out Jaren Jackson Jr.",
    "horizon": "Do ~14.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jaren Jackson Jr.; nizak bodovni plafon",
@@ -581,6 +560,25 @@
    "fpts": 11.2,
    "gp": 4,
    "cur": 8.5
+  },
+  {
+   "player": "Jase Richardson",
+   "team": "ORL",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "RotoWire 25.10.: Starting Sunday. Richardson is in the starting lineup for Sunday's game against the Knicks, Cody Taylor of USA Today reports. ~9.6 FP po utakmici (ove sezone 11.0 u 3 utk., prošle sezone 8.5; 13 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~10 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-starting-sunday-536047",
+   "espnId": 5239561,
+   "fpts": 9.6,
+   "gp": 3,
+   "cur": 11.0
   }
  ],
  "days": [
@@ -666,25 +664,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Collin Sexton",
-       "team": "LAL",
-       "pos": "PG/SG",
-       "espnId": 4277811,
-       "fpts": 22.6,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 2,
-       "cur": 16.0,
-       "matchup": "POR @ LAL",
-       "dates": [
-        "2026-10-27",
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 67.8,
-       "gtd": false
-      },
-      {
        "player": "Mikel Brown Jr.",
        "team": "BKN",
        "pos": "PG",
@@ -721,6 +700,25 @@
        ],
        "value": 53.7,
        "gtd": false
+      },
+      {
+       "player": "Noah Clowney",
+       "team": "BKN",
+       "pos": "PF",
+       "espnId": 4712896,
+       "fpts": 17.6,
+       "mpg": 24.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 12.3,
+       "matchup": "BKN @ BOS",
+       "dates": [
+        "2026-10-27",
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 52.8,
+       "gtd": false
       }
      ]
     }
@@ -742,18 +740,12 @@
     },
     {
      "league": "Banijska",
-     "mine": 12,
+     "mine": 11,
      "open": 0,
-     "sitting": 2,
+     "sitting": 1,
      "adds": 5,
      "addsLimit": 7,
-     "planned": [
-      {
-       "player": "Collin Sexton",
-       "team": "LAL",
-       "from": "2026-10-27"
-      }
-     ],
+     "planned": [],
      "picks": []
     }
    ]
@@ -916,19 +908,75 @@
     },
     {
      "league": "Banijska",
-     "mine": 9,
-     "open": 0,
+     "mine": 8,
+     "open": 1,
      "sitting": 0,
      "adds": 4,
      "addsLimit": 7,
      "planned": [
       {
-       "player": "Collin Sexton",
-       "team": "LAL",
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
        "from": "2026-10-27"
       }
      ],
-     "picks": []
+     "picks": [
+      {
+       "player": "Keaton Wagler",
+       "team": "LAC",
+       "pos": "PG/SG",
+       "espnId": 5254165,
+       "fpts": 24.1,
+       "mpg": 27.3,
+       "basis": "sezona+projekcija",
+       "gp": 3,
+       "cur": 23.7,
+       "matchup": "LAC @ MIN",
+       "dates": [
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 48.2,
+       "gtd": false,
+       "waiver": "2026-10-28"
+      },
+      {
+       "player": "De'Anthony Melton",
+       "team": "GSW",
+       "pos": "PG/SG",
+       "espnId": 4066436,
+       "fpts": 23.2,
+       "mpg": 22.4,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 22.5,
+       "matchup": "LAL @ GSW",
+       "dates": [
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 46.4,
+       "gtd": false
+      },
+      {
+       "player": "Draymond Green",
+       "team": "GSW",
+       "pos": "PF/C",
+       "espnId": 6589,
+       "fpts": 21.6,
+       "mpg": 27.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 16.3,
+       "matchup": "LAL @ GSW",
+       "dates": [
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 43.2,
+       "gtd": false
+      }
+     ]
     }
    ]
   },
@@ -1011,10 +1059,10 @@
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 2,
+     "mine": 6,
+     "open": 3,
      "sitting": 0,
-     "adds": 4,
+     "adds": 3,
      "addsLimit": 7,
      "planned": [
       {
@@ -1096,36 +1144,23 @@
     {
      "league": "Banijska",
      "mine": 4,
-     "open": 5,
+     "open": 4,
      "sitting": 0,
-     "adds": 3,
+     "adds": 2,
      "addsLimit": 7,
      "planned": [
       {
-       "player": "Collin Sexton",
-       "team": "LAL",
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
        "from": "2026-10-27"
-      }
-     ],
-     "picks": [
+      },
       {
        "player": "Keaton Wagler",
        "team": "LAC",
-       "pos": "PG/SG",
-       "espnId": 5254165,
-       "fpts": 24.1,
-       "mpg": 27.3,
-       "basis": "sezona+projekcija",
-       "gp": 3,
-       "cur": 23.7,
-       "matchup": "LAC @ GSW",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 24.1,
-       "gtd": false,
-       "waiver": "2026-10-28"
-      },
+       "from": "2026-10-30"
+      }
+     ],
+     "picks": [
       {
        "player": "De'Anthony Melton",
        "team": "GSW",
@@ -1159,6 +1194,23 @@
        ],
        "value": 21.6,
        "gtd": false
+      },
+      {
+       "player": "Collin Murray-Boyles",
+       "team": "TOR",
+       "pos": "PF",
+       "espnId": 5093267,
+       "fpts": 21.5,
+       "mpg": 20.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 19.3,
+       "matchup": "TOR @ LAL",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 21.5,
+       "gtd": false
       }
      ]
     }
@@ -1180,9 +1232,9 @@
     },
     {
      "league": "Banijska",
-     "mine": 13,
+     "mine": 12,
      "open": 0,
-     "sitting": 3,
+     "sitting": 2,
      "adds": 7,
      "addsLimit": 7,
      "planned": [],

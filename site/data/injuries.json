@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:21:24Z",
+ "updated": "2026-10-27T21:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -114,6 +114,16 @@
   },
   {
    "team": "CLE",
+   "player": "Khalifa Diop",
+   "pos": "C",
+   "updated": "2026-10-27",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "CLE",
    "player": "Nae'Qwan Tomlin",
    "pos": "PF",
    "updated": "2026-10-20",
@@ -121,16 +131,6 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
-  },
-  {
-   "team": "CLE",
-   "player": "Khalifa Diop",
-   "pos": "C",
-   "updated": "2026-10-26",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -293,6 +293,26 @@
    "ret": "2026-12-01"
   },
   {
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "pos": "PF",
+   "updated": "2026-10-27",
+   "injury": "Foot",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "pos": "C",
+   "updated": "2026-10-27",
+   "injury": "Back",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
    "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
@@ -431,6 +451,26 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
+  },
+  {
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "pos": "SF",
+   "updated": "2026-10-27",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "MIA",
+   "player": "Simone Fontecchio",
+   "pos": "SF",
+   "updated": "2026-10-27",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MIN",
@@ -684,16 +724,6 @@
   },
   {
    "team": "POR",
-   "player": "Branden Carlson",
-   "pos": "C",
-   "updated": "2026-10-24",
-   "injury": "Concussion",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "POR",
    "player": "Scoot Henderson",
    "pos": "SG",
    "updated": "2026-10-26",
@@ -844,6 +874,16 @@
   },
   {
    "team": "WAS",
+   "player": "Justin Champagnie",
+   "pos": "SF",
+   "updated": "2026-10-27",
+   "injury": "Foot",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "WAS",
    "player": "Tristan Vukcevic",
    "pos": "PF",
    "updated": "2026-10-01",
@@ -858,16 +898,6 @@
    "pos": "SF",
    "updated": "2026-10-26",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "WAS",
-   "player": "Justin Champagnie",
-   "pos": "SF",
-   "updated": "2026-10-26",
-   "injury": "Foot",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
