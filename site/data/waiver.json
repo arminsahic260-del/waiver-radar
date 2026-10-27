@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:29:55Z",
+ "updated": "2026-10-27T20:22:04Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -101,6 +101,44 @@
    "cur": 28.0
   },
   {
+   "player": "Kobe Sanders",
+   "team": "LAC",
+   "pos": "SG",
+   "priority": 1,
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11. Kobe Sanders je sljedeći SG u rotaciji LAC-a za te minute; ~15.7 FP po utakmici (ove sezone 17.3 u 3 utk., prošle sezone 14.4; 20 min). RotoWire 27.10.: Joining starting lineup. Sanders will be in the starting lineup for Wednesday's game versus the Lakers, per Tomer Azarly of ClutchPoints.com.",
+   "role": "Starter dok je out Bradley Beal",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Bradley Beal; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-joining-starting-lineup-536359",
+   "espnId": 4702352,
+   "fpts": 15.7,
+   "gp": 3,
+   "cur": 17.3
+  },
+  {
+   "player": "Mo Bamba",
+   "team": "UTA",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. — nova ozljeda. Mo Bamba je prvi C u rotaciji UTA-a za te minute; ~43.0 FP po utakmici (ove sezone, 1 utk., 29 min).",
+   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
+   "horizon": "Do ~14.12. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4277919,
+   "fpts": 43.0,
+   "gp": 1,
+   "cur": 43.0
+  },
+  {
    "player": "Julian Reese",
    "team": "NOP",
    "pos": "PF",
@@ -124,10 +162,10 @@
    "team": "LAC",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.1 FP po utakmici (ove sezone 23.7 u 3 utk., ESPN projekcija 24.4; 27 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "reason": "Rui Hachimura (kvadriceps) je out najmanje do 30.10. — nova ozljeda; Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~24.1 FP po utakmici (ove sezone 23.7 u 3 utk., ESPN projekcija 24.4; 27 min).",
+   "role": "Veća minutaža dok su out Rui Hachimura i Bradley Beal",
+   "horizon": "Do ~30.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Rui Hachimura",
    "avail": {
     "Legendi": false,
     "Banijska": true
@@ -355,28 +393,6 @@
    "cur": 19.3
   },
   {
-   "player": "Rui Hachimura",
-   "team": "LAC",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11. Rui Hachimura je sljedeći SF/PF u rotaciji LAC-a za te minute; ~17.2 FP po utakmici (ove sezone 13.0 u 3 utk., prošle sezone 20.4; 30 min).",
-   "role": "Veća minutaža dok je out Bradley Beal",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4066648,
-   "waivers": {
-    "Legendi": "2026-10-28"
-   },
-   "fpts": 17.2,
-   "gp": 3,
-   "cur": 13.0
-  },
-  {
    "player": "Hannes Steinbach",
    "team": "CHA",
    "pos": "PF",
@@ -472,6 +488,25 @@
    "cur": 22.2
   },
   {
+   "player": "Kyle Filipowski",
+   "team": "UTA",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. — nova ozljeda. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~15.0 FP po utakmici (ove sezone -0.3 u 3 utk., prošle sezone 26.4; 17 min).",
+   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
+   "horizon": "Do ~14.12. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4684793,
+   "fpts": 15.0,
+   "gp": 3,
+   "cur": -0.3
+  },
+  {
    "player": "Aday Mara",
    "team": "OKC",
    "pos": "C",
@@ -546,44 +581,6 @@
    "fpts": 11.2,
    "gp": 4,
    "cur": 8.5
-  },
-  {
-   "player": "Jase Richardson",
-   "team": "ORL",
-   "pos": "SG",
-   "priority": 3,
-   "reason": "RotoWire 25.10.: Starting Sunday. Richardson is in the starting lineup for Sunday's game against the Knicks, Cody Taylor of USA Today reports. ~9.6 FP po utakmici (ove sezone 11.0 u 3 utk., prošle sezone 8.5; 13 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~10 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-starting-sunday-536047",
-   "espnId": 5239561,
-   "fpts": 9.6,
-   "gp": 3,
-   "cur": 11.0
-  },
-  {
-   "player": "Bryce Hopkins",
-   "team": "DEN",
-   "pos": "SF",
-   "priority": 3,
-   "reason": "RotoWire 24.10.: Starting sans Johnson. Hopkins will start Saturday's game against the Pelicans. ~9.0 FP po utakmici (ove sezone, 3 utk., 17 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~9 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/bryce-hopkins-news-starting-sans-johnson-535914",
-   "espnId": 4565698,
-   "fpts": 9.0,
-   "gp": 3,
-   "cur": 9.0
   }
  ],
  "days": [
