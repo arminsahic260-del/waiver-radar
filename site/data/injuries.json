@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T17:21:20Z",
+ "updated": "2026-10-27T18:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,6 +41,26 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-27",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
+  },
+  {
+   "team": "BOS",
+   "player": "Derrick White",
+   "pos": "PG",
+   "updated": "2026-10-27",
+   "injury": "Hip",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",
