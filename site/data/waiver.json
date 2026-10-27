@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:22:03Z",
+ "updated": "2026-10-27T22:22:01Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -226,7 +226,7 @@
    "team": "HOU",
    "pos": "C",
    "priority": 2,
-   "reason": "Alperen Sengun (leđa) je out najmanje do 30.10. — nova ozljeda. Oscar Tshiebwe je prvi C u rotaciji HOU-a za te minute; ~19.0 FP po utakmici (prošle sezone, 17 min).",
+   "reason": "Alperen Sengun (leđa) je out najmanje do 30.10. Oscar Tshiebwe je prvi C u rotaciji HOU-a za te minute; ~19.0 FP po utakmici (prošle sezone, 17 min).",
    "role": "Veća minutaža dok je out Alperen Sengun",
    "horizon": "Do ~30.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Alperen Sengun",

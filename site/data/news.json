@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-27T21:21:58Z",
+ "updated": "2026-10-27T22:21:56Z",
  "items": [
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Doubtful for Wednesday",
+   "note": "Biberovic is listed as doubtful for Wednesday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-doubtful-for-wednesday-536392"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Doubtful for Wednesday",
+   "note": "Aldama (knee) is doubtful for Wednesday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-doubtful-for-wednesday-536391"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Sergio de Larrea",
+   "headline": "Won't suit up Wednesday",
+   "note": "De Larrea (knee) has been ruled out for Wednesday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-wont-suit-up-wednesday-536390"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Questionable for Wednesday",
+   "note": "Martin (thumb) is questionable for Wednesday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-injury-questionable-for-wednesday-536389"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Iffy for Wednesday",
+   "note": "Marshall (illness) is questionable for Wednesday's game against the Thunder.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-iffy-for-wednesday-536388"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "MIN",
+   "player": "Anthony Edwards",
+   "headline": "Questionable for Wednesday",
+   "note": "Edwards (knee) is questionable for Wednesday's game against the Warriors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-edwards-injury-questionable-for-wednesday-536387"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Iffy for Wednesday",
+   "note": "Irving (knee) is questionable for Wednesday's game against the Thunder.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-iffy-for-wednesday-536386"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Thomas Sorber",
+   "headline": "Remains out for Wednesday",
+   "note": "Sorber (knee) has been ruled out for Wednesday's game against the Mavericks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/thomas-sorber-injury-remains-out-for-wednesday-536385"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "Won't play Wednesday",
+   "note": "Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-wont-play-wednesday-536384"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Nikola Topic",
+   "headline": "Won't play Wednesday",
+   "note": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-topic-injury-wont-play-wednesday-536383"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Ajay Mitchell",
+   "headline": "Questionable with ankle sprain",
+   "note": "Mitchell (ankle) is questionable for Wednesday's game against Dallas.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-injury-questionable-with-ankle-sprain-536382"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Alex Caruso",
+   "headline": "Ruled out for Wednesday",
+   "note": "Caruso (ankle) won't play Wednesday in Dallas.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-injury-ruled-out-for-wednesday-536381"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Questionable for Wednesday",
+   "note": "Williams (groin) is questionable for Wednesday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-questionable-for-wednesday-536380"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Questionable to face Philadelphia",
+   "note": "Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-injury-questionable-to-face-philadelphia-536379"
+  },
   {
    "date": "2026-10-27",
    "team": "IND",
@@ -133,176 +273,6 @@
   },
   {
    "date": "2026-10-27",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Questionable for Wednesday",
-   "note": "Smart (forearm) is questionable for Wednesday's game versus the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-questionable-for-wednesday-536363"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "headline": "Won't play vs. Milwaukee",
-   "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-injury-wont-play-vs-milwaukee-536362"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "headline": "Day-to-day with wrist sprain",
-   "note": "Markkanen is day-to-day with a right wrist sprain, per NBA reporter Marc Stein.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-injury-day-to-day-with-wrist-sprain-536361"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "POR",
-   "player": "Branden Carlson",
-   "headline": "Available Tuesday",
-   "note": "Carlson (concussion) is available for Tuesday's game against the Lakers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/branden-carlson-news-available-tuesday-536360"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "LAC",
-   "player": "Kobe Sanders",
-   "headline": "Joining starting lineup",
-   "note": "Sanders will be in the starting lineup for Wednesday's game versus the Lakers, per Tomer Azarly of ClutchPoints.com.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-joining-starting-lineup-536359"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Probable for Wednesday",
-   "note": "Larsson is listed as probable for Wednesday's game at Atlanta due to a right ankle sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-probable-for-wednesday-536358"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "MIA",
-   "player": "Simone Fontecchio",
-   "headline": "Doubtful for Wednesday",
-   "note": "Fontecchio is doubtful for Wednesday's game in Atlanta due to an illness, per Tim Reynolds of Associated Press.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-doubtful-for-wednesday-536357"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Ruled out for Wednesday",
-   "note": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Linn of SI.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-ruled-out-for-wednesday-536356"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "UTA",
-   "player": "Jaren Jackson",
-   "headline": "Expected to miss at least six weeks",
-   "note": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaren-jackson-injury-expected-to-miss-at-least-six-weeks-536354"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "Probable for Wednesday",
-   "note": "Poole (illness) is listed as probable for Wednesday's game against Denver.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-probable-for-wednesday-536353"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "FA",
-   "player": "Enrique Freeman",
-   "headline": "Re-signs with Minnesota",
-   "note": "Freeman agreed to a two-way deal with Minnesota on Tuesday, per Sam Amico of HoopsWire.com.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/enrique-freeman-news-re-signs-with-minnesota-536351"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "headline": "Another absence coming",
-   "note": "Isaac (knee) has been ruled out ahead of Wednesday's game against the Raptors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-another-absence-coming-536350"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "PHI",
-   "player": "VJ Edgecombe",
-   "headline": "Goes through practice",
-   "note": "Edgecombe (abdomen) practiced in full Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-injury-goes-through-practice-536321"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BOS",
-   "player": "Derrick White",
-   "headline": "Probable for Tuesday",
-   "note": "White (right hip) is probable for Tuesday's game against the Nets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-injury-probable-for-tuesday-536319"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "TOR",
-   "player": "Kawhi Leonard",
-   "headline": "Expected to miss multiple weeks",
-   "note": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kawhi-leonard-injury-expected-to-miss-multiple-weeks-536315"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Goes through shootaround",
-   "note": "Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-goes-through-shootaround-536314"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Assigned to G League",
-   "note": "The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stein of The Stein Line reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-assigned-to-g-league-536291"
-  },
-  {
-   "date": "2026-10-27",
    "team": "ATL",
    "player": "Jalen Johnson",
    "headline": "Continues to roll Monday",
@@ -360,6 +330,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-struggles-with-shot-536333"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "BOS",
+   "player": "Derrick White",
+   "headline": "Probable for Tuesday",
+   "note": "White (right hip) is probable for Tuesday's game against the Nets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-injury-probable-for-tuesday-536319"
   },
   {
    "date": "2026-10-27",
@@ -473,6 +453,16 @@
   },
   {
    "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Assigned to G League",
+   "note": "The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stein of The Stein Line reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-assigned-to-g-league-536291"
+  },
+  {
+   "date": "2026-10-27",
    "team": "DEN",
    "player": "Nikola Jokic",
    "headline": "Excellent start to season",
@@ -503,6 +493,16 @@
   },
   {
    "date": "2026-10-27",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Goes through shootaround",
+   "note": "Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-goes-through-shootaround-536314"
+  },
+  {
+   "date": "2026-10-27",
    "team": "GSW",
    "player": "Gui Santos",
    "headline": "Drops 13 points in win",
@@ -530,6 +530,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-perfect-from-field-536311"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Questionable for Wednesday",
+   "note": "Smart (forearm) is questionable for Wednesday's game versus the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-questionable-for-wednesday-536363"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Won't play vs. Milwaukee",
+   "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-injury-wont-play-vs-milwaukee-536362"
   },
   {
    "date": "2026-10-27",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jay-huff-news-struggles-in-start-536298"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "MEM",
-   "player": "Jerami Grant",
-   "headline": "Chips in 13 points off bench",
-   "note": "Grant supplied 13 points (4-6 FG, 3-4 3Pt, 2-3 FT), three rebounds and one block in 23 minutes during Monday's 110-105 victory over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-news-chips-in-13-points-off-bench-536349"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "MIA",
-   "player": "Andrew Wiggins",
-   "headline": "Notches 12 points`",
-   "note": "Wiggins notched 12 points (6-12 FG, 0-5 3Pt), three rebounds and one assist over 34 minutes during Monday's 113-109 loss to the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andrew-wiggins-news-notches-12-points-536340"
   }
  ]
 }
