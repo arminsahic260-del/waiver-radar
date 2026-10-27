@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:21:25Z",
+ "updated": "2026-10-27T00:34:50Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -56,31 +56,31 @@
    "team": "CHA",
    "player": "Coby White",
    "pos": "PG",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Oct 31",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2026-10-31"
   },
   {
    "team": "CHA",
    "player": "Grant Williams",
    "pos": "PF",
-   "updated": "2026-10-24",
+   "updated": "2026-10-26",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 30",
+   "status": "Expected return: at least Oct 31",
    "kind": "out",
-   "ret": "2026-10-30"
+   "ret": "2026-10-31"
   },
   {
    "team": "CHA",
    "player": "Kon Knueppel",
    "pos": "SF",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Oct 31",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2026-10-31"
   },
   {
    "team": "CHA",
@@ -91,16 +91,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "CHA",
-   "player": "Naz Reid",
-   "pos": "PF",
-   "updated": "2026-10-26",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "CHI",
@@ -114,23 +104,13 @@
   },
   {
    "team": "CHI",
-   "player": "Noa Essengue",
-   "pos": "PF",
-   "updated": "2026-10-25",
-   "injury": "Head",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
    "player": "Patrick Williams",
    "pos": "PF",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "injury": "Groin",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "CLE",
@@ -201,16 +181,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "pos": "SF",
-   "updated": "2026-10-25",
-   "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DEN",
@@ -356,8 +326,18 @@
    "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "injury": "Calf",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "pos": "SG",
+   "updated": "2026-10-26",
+   "injury": "Back",
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
@@ -401,26 +381,6 @@
    "status": "Expected return: at least Oct 28",
    "kind": "out",
    "ret": "2026-10-28"
-  },
-  {
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "pos": "SF",
-   "updated": "2026-10-26",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "pos": "SG",
-   "updated": "2026-10-26",
-   "injury": "Neck",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "LAC",
@@ -523,16 +483,6 @@
    "ret": "2027-04-02"
   },
   {
-   "team": "MIN",
-   "player": "Anthony Edwards",
-   "pos": "SG",
-   "updated": "2026-10-26",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "NOP",
    "player": "Yves Missi",
    "pos": "C",
@@ -558,9 +508,9 @@
    "pos": "SG",
    "updated": "2026-10-26",
    "injury": "Shoulder",
-   "status": "Expected return: at least Oct 28",
+   "status": "Expected return: at least Mar 2",
    "kind": "out",
-   "ret": "2026-10-28"
+   "ret": "2027-03-02"
   },
   {
    "team": "OKC",
@@ -577,7 +527,7 @@
    "player": "Jalen Williams",
    "pos": "SF",
    "updated": "2026-10-26",
-   "injury": "Ankle",
+   "injury": "Leg",
    "status": "Expected return: at least Mar 2",
    "kind": "out",
    "ret": "2027-03-02"
@@ -776,21 +726,11 @@
    "team": "SAC",
    "player": "Dylan Cardwell",
    "pos": "C",
-   "updated": "2026-10-15",
+   "updated": "2026-10-26",
    "injury": "Calf",
-   "status": "Expected return: at least Nov 2",
+   "status": "Expected return: at least Nov 6",
    "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "SAC",
-   "player": "Maxime Raynaud",
-   "pos": "C",
-   "updated": "2026-10-15",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "ret": "2026-11-06"
   },
   {
    "team": "SAC",
@@ -798,9 +738,19 @@
    "pos": "PF",
    "updated": "2026-10-26",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 6",
+   "kind": "out",
+   "ret": "2026-11-06"
+  },
+  {
+   "team": "SAC",
+   "player": "Maxime Raynaud",
+   "pos": "C",
+   "updated": "2026-10-26",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
   },
   {
    "team": "SAS",
@@ -816,11 +766,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-25",
+   "updated": "2026-10-26",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 28",
+   "kind": "out",
+   "ret": "2026-10-28"
   },
   {
    "team": "TOR",
