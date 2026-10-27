@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-27T14:59:20Z",
+ "updated": "2026-10-27T15:22:00Z",
  "items": [
+  {
+   "date": "2026-10-27",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Perfect from field",
+   "note": "Curry accumulated 24 points (8-8 FG, 3-3 3Pt, 5-5 FT), three rebounds, three assists and two steals across 27 minutes during Monday's 134-114 win over the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-perfect-from-field-536311"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Aday Mara",
+   "headline": "Impresses off bench",
+   "note": "Mara finished Monday's 125-114 win over Phoenix with 11 points (4-6 FG, 3-4 FT), 10 rebounds, two assists and two blocks in 20 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aday-mara-news-impresses-off-bench-536310"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Isaiah Hartenstein",
+   "headline": "Double-doubles in win",
+   "note": "Hartenstein posted 15 points (6-7 FG, 3-3 FT), 13 rebounds and three assists over 26 minutes during Monday's 125-114 win over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-hartenstein-news-double-doubles-in-win-536309"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Jared McCain",
+   "headline": "Drops 18 points in win",
+   "note": "McCain logged 18 points (6-14 FG, 4-7 3Pt, 2-3 FT), three rebounds, four assists, one block and one steal in 30 minutes during Monday's 125-114 victory over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-drops-18-points-in-win-536308"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "OKC",
+   "player": "Ajay Mitchell",
+   "headline": "Totals 30 points in win",
+   "note": "Mitchell totaled 30 points (10-16 FG, 1-3 3Pt, 9-10 FT), two rebounds, five assists and one block in 25 minutes during Monday's 125-114 victory over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-totals-30-points-in-win-536307"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "PHX",
+   "player": "Jalen Green",
+   "headline": "Produces 20 points in loss",
+   "note": "Green produced 20 points (8-13 FG, 1-3 3Pt, 3-4 FT), four rebounds, four assists and one block in 31 minutes during Monday's 125-114 loss to Oklahoma City.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-green-news-produces-20-points-in-loss-536306"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "PHX",
+   "player": "Dillon Brooks",
+   "headline": "Strong all-around line in loss",
+   "note": "Brooks finished with 19 points (4-14 FG, 3-10 3Pt, 8-12 FT), five rebounds, five assists, one block and three steals over 33 minutes during Monday's 125-114 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dillon-brooks-news-strong-all-around-line-in-loss-536305"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "PHX",
+   "player": "Khaman Maluach",
+   "headline": "Puts up 12 points in loss",
+   "note": "Maluach posted 12 points (5-10 FG, 0-1 3Pt, 2-2 FT), seven rebounds, one assist, one block and one steal in 26 minutes during Monday's 125-114 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/khaman-maluach-news-puts-up-12-points-in-loss-536304"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "MIL",
+   "player": "Ryan Rollins",
+   "headline": "Notches 19 points in win",
+   "note": "Rollins closed Monday's 110-102 win over Indiana with 19 points (7-14 FG, 3-7 3Pt, 2-4 FT), two rebounds and four assists over 32 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-rollins-news-notches-19-points-in-win-536303"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "MIL",
+   "player": "Kel'el Ware",
+   "headline": "Posts another double-double",
+   "note": "Ware provided 16 points (7-13 FG, 0-4 3Pt, 2-2 FT), 14 rebounds and one steal across 19 minutes during Monday's 110-102 win over Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelel-ware-news-posts-another-double-double-536302"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "MIL",
+   "player": "Tyler Herro",
+   "headline": "Posts big line in win",
+   "note": "Herro logged 23 points (7-14 FG, 3-6 3Pt, 6-10 FT), 10 rebounds, seven assists, one block and one steal across 32 minutes during Monday's 110-102 victory over Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-posts-big-line-in-win-536301"
+  },
   {
    "date": "2026-10-27",
    "team": "IND",
@@ -160,96 +270,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/khris-middleton-news-goes-scoreless-in-loss-536285"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIA",
-   "player": "Bam Adebayo",
-   "headline": "Fails to reach 10-point mark",
-   "note": "Adebayo finished with eight points (3-10 FG, 0-5 3Pt, 2-4 FT), eight rebounds, three assists, two steals and two blocks across 30 minutes in Monday's 113-109 loss to the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-fails-to-reach-10-point-mark-536284"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIA",
-   "player": "Bobby Portis",
-   "headline": "Pulls down 12 boards",
-   "note": "Portis notched 10 points (3-11 FG, 3-6 3Pt, 1-2 FT), 12 rebounds, two assists and two blocks across 24 minutes off the bench in Monday's 113-109 loss to the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bobby-portis-news-pulls-down-12-boards-536283"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIA",
-   "player": "Davion Mitchell",
-   "headline": "Scores 21 points Monday",
-   "note": "Mitchell finished with 21 points (9-15 FG, 2-5 3Pt, 1-2 FT), two assists and three steals across 33 minutes in Monday's 113-109 loss to the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-scores-21-points-monday-536282"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Strong stat line Monday",
-   "note": "Irving tallied 18 points (7-17 FG, 2-11 3Pt, 2-2 FT), six rebounds, six assists and two steals across 33 minutes in Monday's 113-109 win over the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-strong-stat-line-monday-536280"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Solid all-around production in win",
-   "note": "Washington posted 20 points (6-15 FG, 4-11 3Pt, 4-4 FT), nine rebounds, two assists, two steals and a block across 41 minutes in Monday's 113-109 win over the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-solid-all-around-production-in-win-536279"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIN",
-   "player": "Jonathan Kuminga",
-   "headline": "Records double-double Monday",
-   "note": "Kuminga notched 10 points (4-10 FG, 0-4 3Pt, 2-4 FT), 10 rebounds, an assist, a steal and a block across 36 minutes in Monday's 127-125 overtime loss to the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-kuminga-news-records-double-double-monday-536278"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIN",
-   "player": "Rudy Gobert",
-   "headline": "Grabs 20 rebounds despite shooting woes",
-   "note": "Gobert registered five points (0-9 FG, 0-2 3Pt, 5-8 FT), 20 rebounds, two assists, a steal and a block across 36 minutes in Monday's 127-125 overtime loss to the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-news-grabs-20-rebounds-despite-shooting-woes-536277"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "MIN",
-   "player": "LaMelo Ball",
-   "headline": "Struggles with turnovers in OT loss",
-   "note": "Ball finished with 11 points (5-11 FG, 1-6 3Pt, 0-2 FT), six assists and a steal across 31 minutes in Monday's 127-125 overtime loss to the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-struggles-with-turnovers-in-ot-loss-536276"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Scores 16 points off bench",
-   "note": "Thomas contributed 16 points (6-10 FG, 4-5 3Pt), two rebounds and a steal across 19 minutes off the bench in Monday's 127-125 overtime win over the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-news-scores-16-points-off-bench-536275"
   },
   {
    "date": "2026-10-26",
@@ -580,26 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/naz-reid-injury-probable-for-monday-536123"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "CHI",
-   "player": "Caleb Wilson",
-   "headline": "Strikes for 17 points in loss",
-   "note": "Wilson closed with 17 points (7-15 FG, 1-5 3Pt, 2-4 FT), five rebounds, three assists, two blocks and one steal across 32 minutes in Monday's 134-99 loss to the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-strikes-for-17-points-in-loss-536253"
-  },
-  {
-   "date": "2026-10-26",
-   "team": "CHI",
-   "player": "Nic Claxton",
-   "headline": "Hopes to practice with team next week",
-   "note": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nic-claxton-injury-hopes-to-practice-with-team-next-week-536201"
   }
  ]
 }
