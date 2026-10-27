@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:24:51Z",
+ "updated": "2026-10-27T09:41:15Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,6 +41,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-10-27",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -131,16 +141,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "pos": "C",
-   "updated": "2026-10-27",
-   "injury": "Groin",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "DAL",
