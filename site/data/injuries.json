@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:21:54Z",
+ "updated": "2026-10-27T14:58:46Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,16 +41,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-10-27",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "CHA",
@@ -464,16 +454,6 @@
   },
   {
    "team": "OKC",
-   "player": "Chet Holmgren",
-   "pos": "PF",
-   "updated": "2026-10-26",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 28",
-   "kind": "out",
-   "ret": "2026-10-28"
-  },
-  {
-   "team": "OKC",
    "player": "Jalen Williams",
    "pos": "SF",
    "updated": "2026-10-26",
@@ -488,6 +468,16 @@
    "pos": "SF",
    "updated": "2026-10-26",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "pos": "PF",
+   "updated": "2026-10-27",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -774,16 +764,6 @@
   },
   {
    "team": "UTA",
-   "player": "Trey Alexander",
-   "pos": "SG",
-   "updated": "2026-10-26",
-   "injury": "Knee",
-   "status": "Expected return: at least Oct 28",
-   "kind": "out",
-   "ret": "2026-10-28"
-  },
-  {
-   "team": "UTA",
    "player": "Jaren Jackson Jr.",
    "pos": "PF",
    "updated": "2026-10-26",
@@ -808,6 +788,16 @@
    "pos": "PF",
    "updated": "2026-10-26",
    "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "UTA",
+   "player": "Trey Alexander",
+   "pos": "SG",
+   "updated": "2026-10-27",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

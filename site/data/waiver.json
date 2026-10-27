@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:22:35Z",
+ "updated": "2026-10-27T14:59:25Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -264,10 +264,10 @@
    "team": "OKC",
    "pos": "PF/C",
    "priority": 2,
-   "reason": "Chet Holmgren (koljeno) je out najmanje do 28.10.; Jalen Williams (noga) je out najmanje do 2.3. Jaylin Williams je prvi PF/C u rotaciji OKC-a za te minute; ~15.3 FP po utakmici (ove sezone 10.2 u 4 utk., prošle sezone 20.4; 18 min).",
-   "role": "Veća minutaža dok su out Chet Holmgren i Jalen Williams",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Chet Holmgren; nizak bodovni plafon",
+   "reason": "Jalen Williams (noga) je out najmanje do 2.3.; Chet Holmgren (koljeno) je upitan (GTD). Jaylin Williams je prvi PF/C u rotaciji OKC-a za te minute; ~15.3 FP po utakmici (ove sezone 10.2 u 4 utk., prošle sezone 20.4; 18 min).",
+   "role": "Veća minutaža dok su out Jalen Williams i Chet Holmgren",
+   "horizon": "Do ~2.3. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jalen Williams; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -495,10 +495,10 @@
    "team": "OKC",
    "pos": "C",
    "priority": 3,
-   "reason": "Chet Holmgren (koljeno) je out najmanje do 28.10.; Jalen Williams (noga) je out najmanje do 2.3. Aday Mara je sljedeći C u rotaciji OKC-a za te minute; ~14.0 FP po utakmici (ove sezone, 4 utk., 15 min).",
-   "role": "Veća minutaža dok su out Chet Holmgren i Jalen Williams",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Chet Holmgren; nizak bodovni plafon",
+   "reason": "Jalen Williams (noga) je out najmanje do 2.3.; Chet Holmgren (koljeno) je upitan (GTD). Aday Mara je sljedeći C u rotaciji OKC-a za te minute; ~14.0 FP po utakmici (ove sezone, 4 utk., 15 min).",
+   "role": "Veća minutaža dok su out Jalen Williams i Chet Holmgren",
+   "horizon": "Do ~2.3. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jalen Williams; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
