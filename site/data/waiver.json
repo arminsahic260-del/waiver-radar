@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T16:21:58Z",
+ "updated": "2026-10-27T17:21:58Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -45,7 +45,7 @@
    "team": "GSW",
    "pos": "SF",
    "priority": 1,
-   "reason": "RotoWire 26.10.: Starting Monday. Santos will start Monday's game against the Nuggets, Danny Emerman of SFStandard.com reports. ~20.0 FP po utakmici (ove sezone 19.8 u 4 utk., prošle sezone 20.3; 22 min).",
+   "reason": "RotoWire 26.10.: Starting Monday. Santos (knee) will start Monday's game against the Nuggets, Danny Emerman of SFStandard.com reports. ~20.0 FP po utakmici (ove sezone 19.8 u 4 utk., prošle sezone 20.3; 22 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -146,7 +146,7 @@
    "team": "TOR",
    "pos": "SF",
    "priority": 2,
-   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. — nova ozljeda. Allen Graves je prvi SF u rotaciji TOR-a za te minute; ~23.0 FP po utakmici (ove sezone, 3 utk., 15 min).",
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. Allen Graves je prvi SF u rotaciji TOR-a za te minute; ~23.0 FP po utakmici (ove sezone, 3 utk., 15 min).",
    "role": "Veća minutaža dok je out Kawhi Leonard",
    "horizon": "Do ~23.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
@@ -340,7 +340,7 @@
    "team": "TOR",
    "pos": "PF",
    "priority": 3,
-   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. — nova ozljeda. Collin Murray-Boyles je sljedeći PF u rotaciji TOR-a za te minute; ~21.5 FP po utakmici (ove sezone 19.3 u 3 utk., prošle sezone 23.1; 21 min).",
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. Collin Murray-Boyles je sljedeći PF u rotaciji TOR-a za te minute; ~21.5 FP po utakmici (ove sezone 19.3 u 3 utk., prošle sezone 23.1; 21 min).",
    "role": "Veća minutaža dok je out Kawhi Leonard",
    "horizon": "Do ~23.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
