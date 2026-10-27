@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T15:21:26Z",
+ "updated": "2026-10-27T16:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -46,31 +46,31 @@
    "team": "CHA",
    "player": "Coby White",
    "pos": "PG",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 31",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-31"
+   "ret": "2026-11-02"
   },
   {
    "team": "CHA",
    "player": "Grant Williams",
    "pos": "PF",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 31",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-31"
+   "ret": "2026-11-02"
   },
   {
    "team": "CHA",
    "player": "Kon Knueppel",
    "pos": "SF",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 31",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-31"
+   "ret": "2026-11-02"
   },
   {
    "team": "CHA",
@@ -736,11 +736,11 @@
    "team": "TOR",
    "player": "Kawhi Leonard",
    "pos": "SF",
-   "updated": "2026-10-26",
+   "updated": "2026-10-27",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 23",
+   "kind": "out",
+   "ret": "2026-11-23"
   },
   {
    "team": "TOR",

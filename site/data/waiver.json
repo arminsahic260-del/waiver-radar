@@ -1,26 +1,7 @@
 {
- "updated": "2026-10-27T15:22:05Z",
+ "updated": "2026-10-27T16:21:58Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Brandon Williams",
-   "team": "GSW",
-   "pos": "PG/SG",
-   "priority": 1,
-   "reason": "RotoWire 24.10.: Starting vs. Phoenix. Williams will start Saturday's game against Phoenix, Dalton Johnson of NBC Sports Bay Area reports. ~21.8 FP po utakmici (ove sezone 19.8 u 4 utk., prošle sezone 23.9; 19 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-starting-vs-phoenix-535918",
-   "espnId": 4397040,
-   "fpts": 21.8,
-   "gp": 4,
-   "cur": 19.8
-  },
   {
    "player": "Jay Huff",
    "team": "IND",
@@ -161,6 +142,25 @@
    "cur": 23.7
   },
   {
+   "player": "Allen Graves",
+   "team": "TOR",
+   "pos": "SF",
+   "priority": 2,
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. — nova ozljeda. Allen Graves je prvi SF u rotaciji TOR-a za te minute; ~23.0 FP po utakmici (ove sezone, 3 utk., 15 min).",
+   "role": "Veća minutaža dok je out Kawhi Leonard",
+   "horizon": "Do ~23.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kawhi Leonard",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5149115,
+   "fpts": 23.0,
+   "gp": 3,
+   "cur": 23.0
+  },
+  {
    "player": "Sam Merrill",
    "team": "CLE",
    "pos": "SG",
@@ -207,9 +207,9 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 31.10.; Kon Knueppel (stražnja loža) je out najmanje do 31.10. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.4 FP po utakmici (ove sezone 8.2 u 4 utk., prošle sezone 24.5; 21 min).",
+   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.4 FP po utakmici (ove sezone 8.2 u 4 utk., prošle sezone 24.5; 21 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
-   "horizon": "Do ~31.10. (najraniji povratak)",
+   "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
@@ -317,25 +317,6 @@
    "cur": 9.0
   },
   {
-   "player": "Allen Graves",
-   "team": "TOR",
-   "pos": "SF",
-   "priority": 3,
-   "reason": "Kawhi Leonard (koljeno) je upitan (GTD). Allen Graves je sljedeći SF u rotaciji TOR-a za te minute; ~23.0 FP po utakmici (ove sezone, 3 utk., 15 min).",
-   "role": "Zamjena ako Kawhi Leonard ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Kawhi Leonard",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 5149115,
-   "fpts": 23.0,
-   "gp": 3,
-   "cur": 23.0
-  },
-  {
    "player": "Draymond Green",
    "team": "GSW",
    "pos": "PF/C",
@@ -359,9 +340,9 @@
    "team": "TOR",
    "pos": "PF",
    "priority": 3,
-   "reason": "Kawhi Leonard (koljeno) je upitan (GTD). Collin Murray-Boyles je sljedeći PF u rotaciji TOR-a za te minute; ~21.5 FP po utakmici (ove sezone 19.3 u 3 utk., prošle sezone 23.1; 21 min).",
-   "role": "Zamjena ako Kawhi Leonard ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. — nova ozljeda. Collin Murray-Boyles je sljedeći PF u rotaciji TOR-a za te minute; ~21.5 FP po utakmici (ove sezone 19.3 u 3 utk., prošle sezone 23.1; 21 min).",
+   "role": "Veća minutaža dok je out Kawhi Leonard",
+   "horizon": "Do ~23.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
    "avail": {
     "Legendi": true,
@@ -400,9 +381,9 @@
    "team": "CHA",
    "pos": "PF",
    "priority": 3,
-   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 31.10. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 2.11. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
    "role": "Veća minutaža dok je out Kon Knueppel",
-   "horizon": "Do ~31.10. (najraniji povratak)",
+   "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kon Knueppel; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
@@ -584,6 +565,25 @@
    "fpts": 9.6,
    "gp": 3,
    "cur": 11.0
+  },
+  {
+   "player": "Bryce Hopkins",
+   "team": "DEN",
+   "pos": "SF",
+   "priority": 3,
+   "reason": "RotoWire 24.10.: Starting sans Johnson. Hopkins will start Saturday's game against the Pelicans. ~9.0 FP po utakmici (ove sezone, 3 utk., 17 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~9 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/bryce-hopkins-news-starting-sans-johnson-535914",
+   "espnId": 4565698,
+   "fpts": 9.0,
+   "gp": 3,
+   "cur": 9.0
   }
  ],
  "days": [
