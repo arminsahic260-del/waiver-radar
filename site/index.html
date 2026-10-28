@@ -316,13 +316,15 @@ table.avg td.down{color:var(--out)}
     const planned=L.planned.length?`<div class="dl-note">Iz plana igra i danas: ${L.planned.map(x=>`${esc(x.player)} (uzet ${dayShort(x.from)})`).join(", ")}</div>`:"";
     if(!L.open)return `<div class="dl">${head}${planned}<div class="dl-note">${L.sitting?`${L.sitting} ${plural(L.sitting,"tvoj igrač sjedi","tvoja igrača sjede","tvojih igrača sjedi")} na klupi — `:""}svi slotovi su puni, streamer ne treba.</div></div>`;
     if(L.adds===0)return `<div class="dl">${head}${planned}<div class="dl-note">Iskorišteno je svih ${L.addsLimit} preuzimanja ovaj tjedan — novi igrač tek od idućeg H2H tjedna.</div></div>`;
+    const later=(L.addDays||[]).filter(x=>x>d.date);
+    const saved=L.add===false&&later.length?`<div class="dl-note">Plan ovaj dan ne troši preuzimanje: ${later.length>1?"preuzimanja se čuvaju":"preuzimanje se čuva"} za ${later.map(dayShort).join(", ")} (više praznih mjesta).</div>`:"";
     const rows=L.picks.filter(p=>matches(p.player,p.team)).map((p,i)=>{
       const inj=injuryFor(p.player);
       const flag=(inj?" "+statusPill(inj):p.gtd?` <span class="pill gtd">GTD</span>`:"")+(p.waiver?` <span class="pill gtd" title="Na waiversu: samo claim, igra za tebe od tog dana">waiver do ${fmtD(p.waiver)}</span>`:"");
       const st=seasonText(p);
-      return `<div class="dl-row${i===0?" top":""}"><span class="rk num">${i+1}</span><span class="name">${esc(p.player)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span>${flag}</span><span class="fp num" title="Očekivani bodovi do kraja H2H tjedna">~${Math.round(p.value)}<span class="pos"> FP</span></span>
-        <span class="meta">${esc(p.matchup)} · ~${esc(p.fpts)} FP po utakmici${st?` (${esc(st)})`:""} · ${Math.round(p.mpg)} min · igra ${p.dates.map(x=>x===d.date?`<b>${dayShort(x)}</b>`:dayShort(x)).join(", ")}</span></div>`;}).join("");
-    return `<div class="dl">${head}${planned}${rows||`<div class="dl-note">${L.picks.length?"Nema kandidata za ovaj filter.":"Nema slobodnih igrača koji taj dan igraju."}</div>`}</div>`;
+      return `<div class="dl-row${i===0&&L.add!==false?" top":""}"><span class="rk num">${i+1}</span><span class="name">${esc(p.player)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span>${flag}</span><span class="fp num" title="Očekivani bodovi taj dan">~${Math.round(p.value)}<span class="pos"> FP</span></span>
+        <span class="meta">${esc(p.matchup)}${st?` · ${esc(st)}`:""} · ${Math.round(p.mpg)} min · igra ${p.dates.map(x=>x===d.date?`<b>${dayShort(x)}</b>`:dayShort(x)).join(", ")}</span></div>`;}).join("");
+    return `<div class="dl">${head}${planned}${saved}${rows||`<div class="dl-note">${L.picks.length?"Nema kandidata za ovaj filter.":"Nema slobodnih igrača koji taj dan igraju."}</div>`}</div>`;
   }
 
   function renderDays(){
@@ -335,7 +337,7 @@ table.avg td.down{color:var(--out)}
       const ls=d.leagues.map(L=>leagueBlock(d,L)).join("");
       return `<div class="day"><h2>${esc(dayName(d.date))} ${fmtD(d.date)}<small>${d.games} ${plural(d.games,"utakmica","utakmice","utakmica")}</small></h2>${ls?`<div class="daygrid">${ls}</div>`:`<div class="empty">Nema ESPN podataka o slobodnim igračima.</div>`}</div>`;}).join("");
     if(!days.length)html+=`<div class="empty">Nema NBA utakmica u idućih 7 dana.</div>`;
-    else html+=`<p class="meta">Prazno = aktivna mjesta (PG, SG, SF, PF, C, G, F, 3× UTIL) koja taj dan ostaju prazna jer igra manje od 10 tvojih zdravih igrača. Kandidati su slobodni u toj ligi i poredani po očekivanim bodovima do kraja H2H tjedna: FP po utakmici × utakmice na dane s praznim mjestom. FP po utakmici miješa ovu sezonu s prošlom (ili ESPN projekcijom); svaka nova utakmica daje ovoj sezoni veću težinu. Igrač na waiversu ulazi u plan tek od dana kad prolazi claim. Prvi s liste ulazi u plan, u idućim danima zauzima mjesto i troši jedno od tjednih preuzimanja. Za svakog dodanog igrača moraš nekoga otpustiti.</p>`;
+    else html+=`<p class="meta">Prazno = aktivna mjesta (PG, SG, SF, PF, C, G, F, 3× UTIL) koja taj dan ostaju prazna jer igra manje od 10 tvojih zdravih igrača. Kandidati su slobodni u toj ligi, igraju taj dan i poredani su samo po bodovima tog dana: FP po utakmici (upitni GTD × 0,75). FP po utakmici miješa ovu sezonu s prošlom (ili ESPN projekcijom); svaka nova utakmica daje ovoj sezoni veću težinu. Tko ove sezone još nije igrao ne predlaže se. Igrač na waiversu ulazi u plan tek od dana kad prolazi claim. Preostala tjedna preuzimanja idu po jedno na dane s najviše praznih mjesta: prvi s liste tog dana ulazi u plan i u idućim danima zauzima mjesto. Za svakog dodanog igrača moraš nekoga otpustiti.</p>`;
     el.innerHTML=html;
   }
 

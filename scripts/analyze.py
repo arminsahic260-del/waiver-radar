@@ -401,15 +401,21 @@ def stream_picks(ctx):
     return picks, thin_by_league
 
 
+def idle(ctx, p):
+    """No game this season although the season is a week old: out of the rotation, two-way or G League."""
+    start = (ctx.cfg.get("week1") or {}).get("start")
+    return not p.get("gp") and bool(start) and (ctx.today - dt.date.fromisoformat(start)).days >= 7
+
+
 def day_plan(ctx):
     """Who to add for each of the next days, per league.
 
     A day has room for a streamer when fewer of my healthy players play than there are active lineup slots
     (PG, SG, SF, PF, C, G, F, 3 UTIL = 10). Candidates are free in that league, play that day and are ranked by
-    expected points until the end of that H2H week, counting only their games on days with an open slot. A player on
-    waivers only counts from the day his claim is processed. Each day's first choice joins the plan: it fills a slot
-    on its later game days, is not suggested again and uses one of the week's adds (`weeklyAdds`, minus what ESPN
-    says is already used this week); with none left the day gets no candidates."""
+    what they score that day alone (FP per game, GTD x 0.75). A player on waivers only counts from the day his claim
+    is processed. The week's adds (`weeklyAdds`, minus what ESPN says is already used this week) go one per day to the
+    days with the most open slots: that day's first choice joins the plan, fills a slot on his later game days that
+    week and is not suggested on later days. Days left without an add still list their best candidates."""
     weeks = ctx.schedule.get("weeks") or []
     plays = {(d, team) for w in weeks for team, x in w["teams"].items() for d in x["dates"]}
     game_days = sorted({d for d, _ in plays})
@@ -430,49 +436,73 @@ def day_plan(ctx):
         open_ = {d: max(0, slots - count[d]) for d in horizon}
         limit = lc.get("weeklyAdds", ctx.cfg.get("weeklyAdds", 7))
         used = (roster.get("adds") or {}).get("used", 0)  # ESPN's count for the week we're in
-        planned, plan_week, adds = {}, None, limit  # espnId -> (day added, player); streamers go when the week ends
-        for d in days:
-            if week_end[d] != plan_week:
-                planned, plan_week = {}, week_end[d]
-                adds = max(0, limit - used) if ctx.week and plan_week == ctx.week["end"] else limit
-            entry = {"league": lc["short"], "mine": count[d], "open": open_[d], "sitting": max(0, count[d] - slots),
-                     "adds": adds, "addsLimit": limit,
-                     "planned": [{"player": p["name"], "team": p["team"], "from": since}
-                                 for since, p in planned.values() if (d, p["team"]) in plays],
-                     "picks": []}
-            out[d]["leagues"].append(entry)
-            if not open_[d] or not adds:
-                continue
-            cands = []
+
+        def cands(d, planned):
+            out_ = []
             for k, p in pool["players"].items():
                 if k in pool["rostered"] or p["team"] == "FA" or (d, p["team"]) not in plays:
                     continue
-                if p["espnId"] in planned or ctx.is_out(p) or p["fpts"] <= 0:
-                    continue
-                if p["mpg"] < ctx.cfg.get("streamMinMinutes", 20):
+                if (p["espnId"] in planned and planned[p["espnId"]][0] < d) or ctx.is_out(p) or p["fpts"] <= 0:
+                    continue  # planned adds are mine from their day on
+                if p["mpg"] < ctx.cfg.get("streamMinMinutes", 20) or idle(ctx, p):
                     continue
                 wd = ctx.waiver_until(lc["id"], p["espnId"])
                 if wd and wd > d:
                     continue  # on waivers until a later day
-                rest = [x for x in horizon if d <= x <= week_end[d] and (x, p["team"]) in plays and open_[x]]
-                gtd = bool(ctx.is_gtd(p))
-                cands.append((round(p["fpts"] * len(rest), 1), gtd, p, rest, wd))
+                rest = [x for x in horizon if d <= x <= week_end[d] and (x, p["team"]) in plays]
+                out_.append((bool(ctx.is_gtd(p)), p, rest, wd))
             # a questionable (GTD) player may not suit up: rank him as if worth a quarter less
-            cands.sort(key=lambda c: (-c[0] * (0.75 if c[1] else 1), -c[2]["fpts"]))
-            for value, gtd, p, rest, wd in cands[:per_day]:
-                pick = {"player": p["name"], "team": p["team"], "pos": p["pos"], "espnId": p["espnId"],
-                        "fpts": p["fpts"], "mpg": p["mpg"], "basis": p["basis"], "gp": p.get("gp", 0),
-                        "cur": p.get("cur"), "matchup": ctx.matchup(p["team"], d), "dates": rest, "value": value,
-                        "gtd": gtd}
-                if wd:
-                    pick["waiver"] = wd
-                entry["picks"].append(pick)
-            if cands:
-                top, rest = cands[0][2], cands[0][3]
-                planned[top["espnId"]] = (d, top)
-                adds -= 1
-                for x in rest[1:]:
-                    open_[x] = max(0, open_[x] - 1)
+            out_.sort(key=lambda c: (-c[1]["fpts"] * (0.75 if c[0] else 1), -c[1]["fpts"]))
+            return out_
+
+        def simulate(wdays, add_days):
+            """One H2H week in order: each add day takes its best candidate, who then fills a slot on his later game
+            days. Returns the open slots left and the plan, espnId -> (day added, player)."""
+            open_ = {d: max(0, slots - count[d]) for d in horizon}
+            planned = {}
+            for d in wdays:
+                c = cands(d, planned) if d in add_days and open_[d] else []
+                if c:
+                    planned[c[0][1]["espnId"]] = (d, c[0][1])
+                    for x in c[0][2][1:]:
+                        open_[x] = max(0, open_[x] - 1)
+            return open_, planned
+
+        for wk in sorted({week_end[d] for d in days}):
+            wdays = [d for d in days if week_end[d] == wk]
+            budget = max(0, limit - used) if ctx.week and wk == ctx.week["end"] else limit
+            add_days = []
+            open_, planned = simulate(wdays, add_days)
+            todo = list(wdays)
+            while len(add_days) < budget:
+                todo = [d for d in todo if open_[d]]
+                if not todo:
+                    break
+                d = max(todo, key=lambda x: (open_[x], -wdays.index(x)))  # most open slots, then the earlier day
+                todo.remove(d)
+                o, pl = simulate(wdays, add_days + [d])
+                got = {since for since, _ in pl.values()}
+                if d in got:
+                    add_days, open_, planned = sorted(got), o, pl
+            for d in wdays:
+                adds = budget - sum(1 for x in add_days if x < d)
+                entry = {"league": lc["short"], "mine": count[d], "open": open_[d],
+                         "sitting": max(0, count[d] - slots), "adds": adds, "addsLimit": limit,
+                         "add": d in add_days, "addDays": add_days,
+                         "planned": [{"player": p["name"], "team": p["team"], "from": since}
+                                     for since, p in planned.values() if since < d and (d, p["team"]) in plays],
+                         "picks": []}
+                out[d]["leagues"].append(entry)
+                if not open_[d] or not adds:
+                    continue
+                for gtd, p, rest, wd in cands(d, planned)[:per_day]:
+                    pick = {"player": p["name"], "team": p["team"], "pos": p["pos"], "espnId": p["espnId"],
+                            "fpts": p["fpts"], "mpg": p["mpg"], "basis": p["basis"], "gp": p.get("gp", 0),
+                            "cur": p.get("cur"), "matchup": ctx.matchup(p["team"], d), "dates": rest,
+                            "value": round(p["fpts"] * (0.75 if gtd else 1), 1), "gtd": gtd}
+                    if wd:
+                        pick["waiver"] = wd
+                    entry["picks"].append(pick)
     return [out[d] for d in days]
 
 # ---------------------------------------------------------------- combine

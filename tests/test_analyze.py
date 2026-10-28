@@ -158,23 +158,49 @@ def test_rank_drops_players_with_no_league_to_add_them_in():
     assert [p["player"] for p in analyze.rank(picks, 30)] == ["Unknown In One", "Free"]
 
 
-def test_day_plan_ranks_by_points_left_this_week_and_carries_the_plan():
+def test_day_plan_ranks_by_that_days_points_and_carries_the_plan():
     days = {d["date"]: d for d in analyze.day_plan(ctx())}
     assert list(days) == ["2026-10-20", "2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25"]
     assert [x["league"] for x in days["2026-10-20"]["leagues"]] == ["Legendi"]   # Banijska has no ESPN pool here
     tue = days["2026-10-20"]["leagues"][0]
     assert (tue["mine"], tue["open"]) == (0, 10)
-    # PHI plays 4 of the remaining days, NYK 3: 21 FP x 4 beats 24 FP x 3
-    assert [(p["player"], p["value"]) for p in tue["picks"]] == [("Stream Two", 84), ("Stream Star", 72),
-                                                               ("Second Knick", 66)]
-    assert tue["picks"][0]["dates"] == ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25"]
+    # only Tuesday counts: PHI's four games this week don't lift 21 FP over NYK's 24 and 22
+    assert [(p["player"], p["value"]) for p in tue["picks"]] == [("Stream Star", 24), ("Second Knick", 22),
+                                                               ("Stream Two", 21)]
+    assert tue["picks"][0]["dates"] == ["2026-10-20", "2026-10-22", "2026-10-24"]
     assert tue["picks"][0]["matchup"] == "PHI @ NYK"
     wed = days["2026-10-21"]["leagues"][0]
     assert wed["mine"] == 1 and wed["picks"][0]["player"] == "Bradley Beal"    # rostered players never show up
     assert all(p["player"] != "Keaton Wagler" for d in days.values() for p in d["leagues"][0]["picks"])
     thu = days["2026-10-22"]["leagues"][0]
-    assert thu["planned"] == [{"player": "Stream Two", "team": "PHI", "from": "2026-10-20"}]
-    assert "Stream Two" not in [p["player"] for p in thu["picks"]] and thu["open"] == 9
+    assert thu["planned"] == [{"player": "Stream Star", "team": "NYK", "from": "2026-10-20"}]
+    assert "Stream Star" not in [p["player"] for p in thu["picks"]] and thu["open"] == 9
+
+
+def test_day_plan_spends_the_last_add_on_the_emptiest_day():
+    mine = [{"name": "Ivica Zubac", "team": "LAC", "pos": "C", "slot": "C"},
+            {"name": "Mine Celtic", "team": "BOS", "pos": "PG", "slot": "PG"},
+            {"name": "Mine Sixer", "team": "PHI", "pos": "SF", "slot": "SF"}]
+    rosters = {"leagues": [{"id": "L", "name": "Liga", "players": mine, "adds": {"period": 1, "used": 6}}]}
+    c = analyze.Ctx(dict(CFG, weeklyAdds=7, activeSlots=3), {"items": []}, {"items": []}, {"items": []}, [], SCHEDULE,
+                    rosters, {"L": POOL}, TODAY)
+    plan = {d["date"]: d["leagues"][0] for d in analyze.day_plan(c)}
+    # open slots Tue 1, Wed 2, Thu 2, Fri 1, Sat 2, Sun 1: the one add left goes to Wednesday, not to Tuesday
+    assert plan["2026-10-20"]["addDays"] == ["2026-10-21"]
+    assert [plan[d]["add"] for d in sorted(plan)] == [False, True, False, False, False, False]
+    tue = plan["2026-10-20"]
+    assert tue["adds"] == 1 and tue["open"] == 1 and tue["picks"][0]["player"] == "Stream Star"  # still listed
+    assert plan["2026-10-21"]["picks"][0]["player"] == "Bradley Beal"
+    assert plan["2026-10-22"]["adds"] == 0 and plan["2026-10-22"]["picks"] == []
+
+
+def test_day_plan_skips_players_who_have_not_played_this_season():
+    pool = dict(POOL, players=dict(POOL["players"], **{"40": dict(player(40, "Idle Big", "NYK", "C", 35, 30), gp=0),
+                                                         "41": dict(player(41, "Real Big", "NYK", "C", 26, 28), gp=4)}))
+    c = analyze.Ctx(dict(CFG, week1={"start": "2026-10-13"}), {"items": []}, {"items": []}, {"items": []}, [],
+                    SCHEDULE, ROSTERS, {"L": pool}, TODAY)
+    tue = analyze.day_plan(c)[0]["leagues"][0]
+    assert tue["picks"][0]["player"] == "Real Big" and "Idle Big" not in [p["player"] for p in tue["picks"]]
 
 
 def test_waiver_players_only_count_from_their_claim_day():
@@ -199,7 +225,7 @@ def test_day_plan_stops_when_the_weeks_adds_are_used():
     plan = [(d["date"], d["leagues"][0]) for d in analyze.day_plan(c)]
     assert [L["adds"] for _, L in plan] == [2, 1, 0, 0, 0, 0]
     assert all(L["picks"] == [] for _, L in plan[2:])
-    assert [x["player"] for x in plan[2][1]["planned"]] == ["Stream Two"]   # planned adds still play
+    assert [x["player"] for x in plan[2][1]["planned"]] == ["Stream Star"]   # planned adds still play
 
 
 def test_fp_text_shows_both_seasons():

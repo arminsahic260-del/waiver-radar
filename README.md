@@ -61,10 +61,12 @@ koristi `manualPlayers`, a u „Moji igrači” uz ligu piše razlog. Dva rješe
    (ESPN `waiverProcessDate`) je označen „waiver do <datum>”: može se samo claimati i igra za mene tek od tog dana,
    pa ga streameri i plan po danima ne predlažu za ranije dane.
 5. **Plan po danima** (Waiver → Po danima): za idućih 7 dana i svaku ligu broj mojih zdravih igrača koji igraju i
-   praznih aktivnih mjesta (`activeSlots` = 10). Kandidati su slobodni u toj ligi i rangirani po FP po utakmici ×
-   utakmice do kraja H2H tjedna na dane s praznim mjestom (GTD × 0,75). Prvi izbor dana ulazi u plan, zauzima mjesto
-   u idućim danima tog tjedna, ne predlaže se ponovno i troši jedno preuzimanje: `weeklyAdds` (7) po H2H tjednu,
-   umanjeno za ono što ESPN već broji u tekućem tjednu. Kad ih nestane, dan nema kandidata.
+   praznih aktivnih mjesta (`activeSlots` = 10). Kandidati su slobodni u toj ligi, igraju taj dan i rangirani su
+   samo po bodovima tog dana: FP po utakmici (GTD × 0,75). Tko ove sezone još nije igrao (a sezona traje bar tjedan
+   dana) se ne predlaže. Preuzimanja (`weeklyAdds` = 7 po H2H tjednu, umanjeno za ono što ESPN već broji u tekućem
+   tjednu) idu po jedno na dane s najviše praznih mjesta: prvi izbor tog dana ulazi u plan, zauzima mjesto u idućim
+   danima tog tjedna i ne predlaže se ponovno. Dan bez preuzimanja i dalje pokazuje najbolje za taj dan; kad
+   preuzimanja nestane, dan nema kandidata.
 6. Rang unutar prioriteta po ESPN `appliedAverage` (FP po utakmici u bodovanju lige): ova sezona pomiješana s
    prošlom (≥ 10 utakmica), inače s ESPN projekcijom. Težina ove sezone je `gp / (gp + blendGames)`; uz
    `blendGames` = 4 dvije utakmice vrijede trećinu, četiri pola, dvanaest tri četvrtine. Minute se miješaju isto.
