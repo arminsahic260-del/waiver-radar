@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:21:21Z",
+ "updated": "2026-10-28T18:21:32Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -324,6 +324,16 @@
   },
   {
    "team": "HOU",
+   "player": "Marcus Smart",
+   "pos": "PG",
+   "updated": "2026-10-28",
+   "injury": "Forearm",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-10-26",
@@ -331,16 +341,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "pos": "PG",
-   "updated": "2026-10-27",
-   "injury": "Forearm",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "IND",
@@ -416,7 +416,7 @@
    "team": "IND",
    "player": "Tyrese Haliburton",
    "pos": "PG",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
@@ -541,16 +541,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "pos": "PG",
-   "updated": "2026-10-27",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "NYK",

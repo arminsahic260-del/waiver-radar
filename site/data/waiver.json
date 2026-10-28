@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:22:02Z",
+ "updated": "2026-10-28T18:22:10Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -565,23 +565,23 @@
    "cur": 13.0
   },
   {
-   "player": "Kenrich Williams",
-   "team": "OKC",
-   "pos": "SF",
+   "player": "Bogdan Bogdanovic",
+   "team": "HOU",
+   "pos": "SG/SF",
    "priority": 3,
-   "reason": "RotoWire 26.10.: Starting vs. Phoenix. Williams will start Monday's game against Phoenix, Brandon Rahbar of DailyThunder.com reports. ~11.2 FP po utakmici (ove sezone 8.5 u 4 utk., prošle sezone 13.9; 13 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~11 FP)",
+   "reason": "Marcus Smart (forearm) je out najmanje do 30.10. — nova ozljeda. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.7 FP po utakmici (ove sezone 11.2 u 4 utk., prošle sezone 14.1; 17 min).",
+   "role": "Veća minutaža dok je out Marcus Smart",
+   "horizon": "Do ~30.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Marcus Smart; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
-   "source": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-starting-vs-phoenix-536214",
-   "espnId": 3133626,
-   "fpts": 11.2,
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3037789,
+   "fpts": 12.7,
    "gp": 4,
-   "cur": 8.5
+   "cur": 11.2
   }
  ],
  "days": [

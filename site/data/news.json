@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-28T17:21:57Z",
+ "updated": "2026-10-28T18:22:05Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Downgraded to out",
+   "note": "Aldama (knee) is out for Wednesday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-downgraded-to-out-536486"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Jose Alvarado",
+   "headline": "Another absence coming",
+   "note": "Alvarado (ankle) is out for Wednesday's game against the Bulls.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-another-absence-coming-536485"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "OKC",
+   "player": "Alex Caruso",
+   "headline": "Return timeline uncertain",
+   "note": "Caruso is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-injury-return-timeline-uncertain-536483"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Tyrese Haliburton",
+   "headline": "To miss time with hamstring issue",
+   "note": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-to-miss-time-with-hamstring-issue-536479"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Upgraded to available",
+   "note": "Poole (illness) is available for Wednesday's game against Denver.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-news-upgraded-to-available-536477"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Sidelined again Wednesday",
+   "note": "Smart (forearm) is out for Wednesday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-sidelined-again-wednesday-536476"
+  },
   {
    "date": "2026-10-28",
    "team": "GSW",
@@ -193,36 +253,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "headline": "Blocks two shots Tuesday",
-   "note": "Clowney amassed three points (1-1 FG, 1-1 3Pt), four rebounds, one assist and two blocks across 24 minutes during Tuesday's 125-124 overtime loss to Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-blocks-two-shots-tuesday-536450"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Upgraded to available",
-   "note": "Larsson (ankle) is available for Wednesday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-upgraded-to-available-536449"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "BKN",
-   "player": "Moritz Wagner",
-   "headline": "Strong effort Tuesday",
-   "note": "Wagner amassed 15 points (6-9 FG, 2-4 3Pt, 1-2 FT), four rebounds, three assists and two steals in 22 minutes during Tuesday's 125-124 overtime loss to the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moritz-wagner-news-strong-effort-tuesday-536448"
-  },
-  {
-   "date": "2026-10-28",
    "team": "WAS",
    "player": "AJ Dybantsa",
    "headline": "Present at shootaround",
@@ -294,6 +324,26 @@
   {
    "date": "2026-10-28",
    "team": "BKN",
+   "player": "Noah Clowney",
+   "headline": "Blocks two shots Tuesday",
+   "note": "Clowney amassed three points (1-1 FG, 1-1 3Pt), four rebounds, one assist and two blocks across 24 minutes during Tuesday's 125-124 overtime loss to Boston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-blocks-two-shots-tuesday-536450"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
+   "player": "Moritz Wagner",
+   "headline": "Strong effort Tuesday",
+   "note": "Wagner amassed 15 points (6-9 FG, 2-4 3Pt, 1-2 FT), four rebounds, three assists and two steals in 22 minutes during Tuesday's 125-124 overtime loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moritz-wagner-news-strong-effort-tuesday-536448"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
    "player": "Mikel Brown",
    "headline": "Scores 17 points off bench",
    "note": "Brown tallied 17 points (5-17 FG, 4-11 3Pt, 3-3 FT), five rebounds and five assists across 28 minutes in Tuesday's 125-124 overtime loss to the Celtics.",
@@ -320,6 +370,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-solid-all-around-effort-in-overtime-defeat-536432"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Ruled out Wednesday",
+   "note": "Biberovic (knee) is out for Wednesday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-wednesday-536488"
   },
   {
    "date": "2026-10-28",
@@ -385,11 +445,21 @@
    "date": "2026-10-28",
    "team": "LAL",
    "player": "Luka Doncic",
-   "headline": "Drills sox threes in defeat",
+   "headline": "Drills six threes in defeat",
    "note": "Doncic produced 41 points (12-22 FG, 6-15 3Pt, 11-13 FT), five rebounds, nine assists and one block in 37 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-drills-sox-threes-in-defeat-536424"
+   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-drills-six-threes-in-defeat-536424"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Upgraded to available",
+   "note": "Larsson (ankle) is available for Wednesday's game against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-upgraded-to-available-536449"
   },
   {
    "date": "2026-10-28",
@@ -523,83 +593,13 @@
   },
   {
    "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Jordan McLaughlin",
-   "headline": "Rare appearances in victory",
-   "note": "McLaughlin logged zero points (0-1 FG, 0-1 3Pt), two assists and one steal in seven minutes during Tuesday's 130-103 win over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-mclaughlin-news-rare-appearances-in-victory-536423"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "Injury 'nothing serious'",
-   "note": "Demin (leg) stated Tuesday he isn't sure if he will be able to play in Friday's game against Detroit, Erik Slater of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-injury-nothing-serious-536417"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Recalled from G League",
-   "note": "The Mavericks recalled Aldama (knee) from the G League's Texas Legends on Tuesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-recalled-from-g-league-536409"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "Won't return Tuesday",
-   "note": "Demin won't return to Tuesday's game against Boston due to a right leg contusion, C.J. Holmes of the New York Daily News reports. He'll finish with two points (1-3 FG, 0-2 3Pt), one rebound, two assists and one steal over 10 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-wont-return-tuesday-536408"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "Heads to locker room Tuesday",
-   "note": "Demin (undisclosed) exited to the locker room in the second quarter of Tuesday's game against the Celtics, Sharif Phillips-Keaton of USA Today reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-heads-to-locker-room-tuesday-536407"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Considered day-to-day",
-   "note": "Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-considered-day-to-day-536406"
-  },
-  {
-   "date": "2026-10-27",
    "team": "LAL",
-   "player": "Cameron Carr",
-   "headline": "Recalled from G League",
-   "note": "The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports.",
-   "kind": "other",
+   "player": "Luka Doncic",
+   "headline": "Drills sox threes in defeat",
+   "note": "Doncic produced 41 points (12-22 FG, 6-15 3Pt, 11-13 FT), five rebounds, nine assists and one block in 37 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-recalled-from-g-league-536405"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "headline": "Ruled out Tuesday",
-   "note": "Joe (hip) has been ruled out for Tuesday's game against the Knicks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-ruled-out-tuesday-536403"
+   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-drills-sox-threes-in-defeat-536424"
   }
  ]
 }
