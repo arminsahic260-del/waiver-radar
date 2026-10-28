@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-27T23:51:51Z",
+ "updated": "2026-10-28T05:55:53Z",
  "items": [
+  {
+   "date": "2026-10-27",
+   "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "Injury 'nothing serious'",
+   "note": "Demin (leg) stated Tuesday he isn't sure if he will be able to play in Friday's game against Detroit, Erik Slater of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-injury-nothing-serious-536417"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "BKN",
+   "player": "Michael Porter",
+   "headline": "Remains active defensively in loss",
+   "note": "Porter ended with 27 points (8-16 FG, 6-12 3Pt, 5-6 FT), 12 rebounds, two assists and two blocks over 40 minutes in Tuesday's 125-124 overtime loss to Boston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/michael-porter-news-remains-active-defensively-in-loss-536416"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Sinks game-winning shot Tuesday",
+   "note": "Tatum finished with 40 points (10-20 FG, 2-7 3Pt, 18-22 FT), five rebounds, eight assists and one block across 42 minutes in Tuesday's 125-124 overtime win over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-sinks-game-winning-shot-tuesday-536415"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "headline": "Dominant performance Tuesday",
+   "note": "Towns finished with 27 points (12-21 FG, 1-5 3Pt, 2-2 FT), 20 rebounds and three assists across 33 minutes in Tuesday's 111-97 victory over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-dominant-performance-tuesday-536414"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DET",
+   "player": "Cade Cunningham",
+   "headline": "Sniffs triple-double in defeat",
+   "note": "Cunningham contributed 19 points (7-18 FG, 2-7 3Pt, 3-5 FT), nine rebounds, eight assists and one block across 36 minutes in Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-sniffs-triple-double-in-defeat-536413"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "SAC",
+   "player": "Domantas Sabonis",
+   "headline": "Stuffs stat sheet in loss",
+   "note": "Sabonis supplied 20 points (10-16 FG), 14 rebounds and eight assists across 37 minutes in Tuesday's 130-103 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-stuffs-stat-sheet-in-loss-536412"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Full stat line in blowout win",
+   "note": "Wembanyama finished with 29 points (14-21 FG, 0-3 3Pt, 1-1 FT), 10 rebounds, five blocks, two assists and two steals across 27 minutes in Tuesday's 130-103 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-full-stat-line-in-blowout-win-536411"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "POR",
+   "player": "Scoot Henderson",
+   "headline": "Available Tuesday",
+   "note": "Henderson (ankle) is available for Tuesday's game against the Lakers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-available-tuesday-536410"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Recalled from G League",
+   "note": "The Mavericks recalled Aldama (knee) from the G League's Texas Legends on Tuesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-recalled-from-g-league-536409"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "Won't return Tuesday",
+   "note": "Demin won't return to Tuesday's game against Boston due to a right leg contusion, C.J. Holmes of the New York Daily News reports. He'll finish with two points (1-3 FG, 0-2 3Pt), one rebound, two assists and one steal over 10 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-wont-return-tuesday-536408"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "Heads to locker room Tuesday",
+   "note": "Demin (undisclosed) exited to the locker room in the second quarter of Tuesday's game against the Celtics, Sharif Phillips-Keaton of USA Today reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-heads-to-locker-room-tuesday-536407"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Considered day-to-day",
+   "note": "Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-considered-day-to-day-536406"
+  },
   {
    "date": "2026-10-27",
    "team": "LAL",
@@ -243,56 +363,6 @@
   },
   {
    "date": "2026-10-27",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Ruled out for Wednesday",
-   "note": "Caruso (ankle) won't play Wednesday in Dallas.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-injury-ruled-out-for-wednesday-536381"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Questionable for Wednesday",
-   "note": "Williams (groin) is questionable for Wednesday's game against the Knicks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-questionable-for-wednesday-536380"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "headline": "Questionable to face Philadelphia",
-   "note": "Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-injury-questionable-to-face-philadelphia-536379"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "IND",
-   "player": "Tyrese Haliburton",
-   "headline": "Iffy for Wednesday",
-   "note": "Haliburton is listed as questionable for Wednesday's game against the 76ers due to left hamstring tightness.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-iffy-for-wednesday-536378"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Probable for Wednesday",
-   "note": "Toppin is probable to play Wednesday against the 76ers due to a left hand sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-probable-for-wednesday-536376"
-  },
-  {
-   "date": "2026-10-27",
    "team": "ATL",
    "player": "Aaron Wiggins",
    "headline": "Questionable for Wednesday",
@@ -444,6 +514,16 @@
   {
    "date": "2026-10-27",
    "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Questionable for Wednesday",
+   "note": "Williams (groin) is questionable for Wednesday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-questionable-for-wednesday-536380"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "CHI",
    "player": "Jalen Smith",
    "headline": "Quiet in loss",
    "note": "Smith chipped in seven points (2-8 FG, 2-5 3Pt, 1-1 FT), six rebounds and one assist over 20 minutes during Monday's 134-99 loss to the Celtics.",
@@ -520,86 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/demar-derozan-news-pours-in-21-points-536318"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DEN",
-   "player": "Jamal Murray",
-   "headline": "Posts 19 points in loss",
-   "note": "Murray recorded 19 points (8-13 FG, 3-6 3Pt), six rebounds, eight assists and three steals across 36 minutes during Monday's 134-114 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-posts-19-points-in-loss-536316"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Goes through shootaround",
-   "note": "Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-goes-through-shootaround-536314"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Iffy for Wednesday",
-   "note": "Lendeborg (foot) is questionable for Wednesday's game against Minnesota.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-injury-iffy-for-wednesday-536364"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Drops 13 points in win",
-   "note": "Santos ended with 13 points (5-6 FG, 1-2 3Pt, 2-2 FT), three rebounds, one assist and one steal in 28 minutes during Monday's 134-114 victory over Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-news-drops-13-points-in-win-536313"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Solid across board in win",
-   "note": "Podziemski amassed 18 points (7-14 FG, 3-7 3Pt, 1-1 FT), seven rebounds, five assists and one steal over 33 minutes during Monday's 134-114 win over the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-solid-across-board-in-win-536312"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Perfect from field",
-   "note": "Curry accumulated 24 points (8-8 FG, 3-3 3Pt, 5-5 FT), three rebounds, three assists and two steals across 27 minutes during Monday's 134-114 win over the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-perfect-from-field-536311"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Questionable for Wednesday",
-   "note": "Smart (forearm) is questionable for Wednesday's game versus the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-questionable-for-wednesday-536363"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "headline": "Won't play vs. Milwaukee",
-   "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-injury-wont-play-vs-milwaukee-536362"
   }
  ]
 }

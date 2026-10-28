@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:51:56Z",
+ "updated": "2026-10-28T05:55:58Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-27T23:51:56Z",
+   "updated": "2026-10-28T05:55:58Z",
    "adds": {
     "period": 2,
     "used": 4,
@@ -21,8 +21,8 @@
      "pos": "PG",
      "slot": "PG",
      "espnId": 5142620,
-     "gp": 3,
-     "cur": 26.0,
+     "gp": 4,
+     "cur": 25.8,
      "proj": 30.4,
      "acq": "DRAFT",
      "draft": {
@@ -38,8 +38,8 @@
      "pos": "SG/SF",
      "slot": "SG",
      "espnId": 4433137,
-     "gp": 3,
-     "cur": 25.3,
+     "gp": 4,
+     "cur": 26.8,
      "proj": 19.7,
      "acq": "ADD",
      "draft": null
@@ -50,8 +50,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 4683771,
-     "gp": 3,
-     "cur": 18.0,
+     "gp": 4,
+     "cur": 18.2,
      "proj": 16.1,
      "acq": "ADD",
      "draft": null
@@ -62,8 +62,8 @@
      "pos": "PF/C",
      "slot": "PF",
      "espnId": 4278562,
-     "gp": 3,
-     "cur": 27.7,
+     "gp": 4,
+     "cur": 33.5,
      "proj": 20.4,
      "acq": "ADD",
      "draft": null
@@ -74,8 +74,8 @@
      "pos": "C",
      "slot": "C",
      "espnId": 5105565,
-     "gp": 2,
-     "cur": 28.5,
+     "gp": 3,
+     "cur": 27.0,
      "proj": 33.9,
      "acq": "DRAFT",
      "draft": {
@@ -242,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-27T23:51:56Z",
+   "updated": "2026-10-28T05:55:58Z",
    "adds": {
     "period": 2,
     "used": 1,
@@ -255,8 +255,8 @@
      "pos": "PG/SG",
      "slot": "PG",
      "espnId": 4845367,
-     "gp": 3,
-     "cur": 36.0,
+     "gp": 4,
+     "cur": 34.0,
      "proj": 36.9,
      "acq": "DRAFT",
      "draft": {
@@ -272,8 +272,8 @@
      "pos": "SG/SF",
      "slot": "SG",
      "espnId": 4433137,
-     "gp": 3,
-     "cur": 25.3,
+     "gp": 4,
+     "cur": 26.8,
      "proj": 19.7,
      "acq": "ADD",
      "draft": null
@@ -318,8 +318,8 @@
      "pos": "C",
      "slot": "C",
      "espnId": 4397424,
-     "gp": 3,
-     "cur": 23.3,
+     "gp": 4,
+     "cur": 20.5,
      "proj": 27.2,
      "acq": "DRAFT",
      "draft": {
