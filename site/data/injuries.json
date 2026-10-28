@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:21:19Z",
+ "updated": "2026-10-28T15:21:25Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -691,6 +691,16 @@
    "status": "Expected return: at least Nov 22",
    "kind": "out",
    "ret": "2026-11-22"
+  },
+  {
+   "team": "ORL",
+   "player": "Anthony Black",
+   "pos": "SG",
+   "updated": "2026-10-28",
+   "injury": "Personal",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHI",

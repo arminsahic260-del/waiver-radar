@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-28T14:21:56Z",
+ "updated": "2026-10-28T15:22:17Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "MIA",
+   "player": "Simone Fontecchio",
+   "headline": "Listed out for Wednesday",
+   "note": "Fontecchio (illness) is out for Wednesday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-listed-out-for-wednesday-536446"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Absent from shootaround",
+   "note": "Black (personal) was not present at Wednesday's morning shootaround, Jason Beede of the Orlando Sentinel reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-absent-from-shootaround-536445"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "GSW",
+   "player": "Kristaps Porzingis",
+   "headline": "Warriors exploring options",
+   "note": "The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-exploring-options-536444"
+  },
   {
    "date": "2026-10-28",
    "team": "DET",
@@ -223,16 +253,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Julian Champagnie",
-   "headline": "Lights up Kings in blowout victory",
-   "note": "Champagnie had 26 points (9-14 FG, 8-13 3Pt), three rebounds and three assists across 25 minutes during Tuesday's 130-103 victory over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/julian-champagnie-news-lights-up-kings-in-blowout-victory-536421"
-  },
-  {
-   "date": "2026-10-28",
    "team": "SAC",
    "player": "Precious Achiuwa",
    "headline": "Plummets back to earth in loss",
@@ -260,6 +280,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-drops-season-high-24-points-536418"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "SAS",
+   "player": "Julian Champagnie",
+   "headline": "Lights up Kings in blowout victory",
+   "note": "Champagnie had 26 points (9-14 FG, 8-13 3Pt), three rebounds and three assists across 25 minutes during Tuesday's 130-103 victory over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/julian-champagnie-news-lights-up-kings-in-blowout-victory-536421"
   },
   {
    "date": "2026-10-28",
@@ -490,36 +520,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/thomas-sorber-injury-remains-out-for-wednesday-536385"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "OKC",
-   "player": "Chet Holmgren",
-   "headline": "Won't play Wednesday",
-   "note": "Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-wont-play-wednesday-536384"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "OKC",
-   "player": "Nikola Topic",
-   "headline": "Won't play Wednesday",
-   "note": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-topic-injury-wont-play-wednesday-536383"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "OKC",
-   "player": "Ajay Mitchell",
-   "headline": "Questionable with ankle sprain",
-   "note": "Mitchell (ankle) is questionable for Wednesday's game against Dallas.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-injury-questionable-with-ankle-sprain-536382"
   },
   {
    "date": "2026-10-27",
