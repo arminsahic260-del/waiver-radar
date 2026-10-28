@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:22:00Z",
+ "updated": "2026-10-28T10:21:58Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -121,7 +121,7 @@
    "team": "NOP",
    "pos": "PF",
    "priority": 2,
-   "reason": "Stream za četvrtak (SAC @ NOP, tvojih igrača: 1). Julian Reese je rotacijski PF, ~28.5 FP po utakmici (prošle sezone, 31 min). Liga: Banijska.",
+   "reason": "Stream za četvrtak (SAC @ NOP, tvojih igrača: 2). Julian Reese je rotacijski PF, ~28.5 FP po utakmici (prošle sezone, 31 min). Liga: Banijska.",
    "role": "Streamer (31 min)",
    "horizon": "29.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -200,7 +200,7 @@
    "team": "CLE",
    "pos": "SG",
    "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ ATL, tvojih igrača: 1). Sam Merrill je rotacijski SG, ~21.3 FP po utakmici (ove sezone 18.0 u 3 utk., prošle sezone 23.7; 26 min); CLE ima 4 utakmice ovaj tjedan. Liga: Banijska.",
+   "reason": "Stream za četvrtak (CLE @ ATL, tvojih igrača: 2). Sam Merrill je rotacijski SG, ~21.3 FP po utakmici (ove sezone 18.0 u 3 utk., prošle sezone 23.7; 26 min); CLE ima 4 utakmice ovaj tjedan. Liga: Banijska.",
    "role": "Streamer (26 min)",
    "horizon": "29.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -221,7 +221,7 @@
    "team": "ATL",
    "pos": "C",
    "priority": 2,
-   "reason": "Stream za četvrtak (CLE @ ATL, tvojih igrača: 1). Jock Landale je rotacijski C, ~20.5 FP po utakmici (ove sezone 18.2 u 4 utk., prošle sezone 22.7; 20 min); ATL ima 4 utakmice ovaj tjedan. Liga: Banijska.",
+   "reason": "Stream za četvrtak (CLE @ ATL, tvojih igrača: 2). Jock Landale je rotacijski C, ~20.5 FP po utakmici (ove sezone 18.2 u 4 utk., prošle sezone 22.7; 20 min); ATL ima 4 utakmice ovaj tjedan. Liga: Banijska.",
    "role": "Streamer (20 min)",
    "horizon": "29.10.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -236,25 +236,6 @@
    "gp": 4,
    "cur": 18.2,
    "expires": "2026-10-29"
-  },
-  {
-   "player": "De'Andre Hunter",
-   "team": "SAC",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Keegan Murray (gležanj) je out najmanje do 6.11.; Maxime Raynaud (koljeno) je out najmanje do 10.11. De'Andre Hunter je prvi SF/PF u rotaciji SAC-a za te minute; ~19.9 FP po utakmici (ove sezone 18.8 u 4 utk., prošle sezone 21.0; 26 min).",
-   "role": "Veća minutaža dok su out Keegan Murray i Maxime Raynaud",
-   "horizon": "Do ~6.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Keegan Murray",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4065732,
-   "fpts": 19.9,
-   "gp": 4,
-   "cur": 18.8
   },
   {
    "player": "Oscar Tshiebwe",
@@ -579,6 +560,25 @@
    "fpts": 13.0,
    "gp": 1,
    "cur": 13.0
+  },
+  {
+   "player": "Kenrich Williams",
+   "team": "OKC",
+   "pos": "SF",
+   "priority": 3,
+   "reason": "RotoWire 26.10.: Starting vs. Phoenix. Williams will start Monday's game against Phoenix, Brandon Rahbar of DailyThunder.com reports. ~11.2 FP po utakmici (ove sezone 8.5 u 4 utk., prošle sezone 13.9; 13 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~11 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-starting-vs-phoenix-536214",
+   "espnId": 3133626,
+   "fpts": 11.2,
+   "gp": 4,
+   "cur": 8.5
   }
  ],
  "days": [
@@ -598,10 +598,10 @@
     },
     {
      "league": "Banijska",
-     "mine": 12,
+     "mine": 11,
      "open": 0,
-     "sitting": 2,
-     "adds": 6,
+     "sitting": 1,
+     "adds": 5,
      "addsLimit": 7,
      "planned": [],
      "picks": []
@@ -680,10 +680,10 @@
     },
     {
      "league": "Banijska",
-     "mine": 1,
-     "open": 9,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
-     "adds": 6,
+     "adds": 5,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -818,10 +818,10 @@
     },
     {
      "league": "Banijska",
-     "mine": 9,
-     "open": 1,
+     "mine": 8,
+     "open": 2,
      "sitting": 0,
-     "adds": 5,
+     "adds": 4,
      "addsLimit": 7,
      "planned": [],
      "picks": [
@@ -963,10 +963,10 @@
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 2,
+     "mine": 8,
+     "open": 1,
      "sitting": 0,
-     "adds": 4,
+     "adds": 3,
      "addsLimit": 7,
      "planned": [
       {
@@ -1050,7 +1050,7 @@
      "mine": 4,
      "open": 5,
      "sitting": 0,
-     "adds": 3,
+     "adds": 2,
      "addsLimit": 7,
      "planned": [
       {

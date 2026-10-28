@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:22:00Z",
+ "updated": "2026-10-28T10:21:58Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-28T09:22:00Z",
+   "updated": "2026-10-28T10:21:57Z",
    "adds": {
     "period": 2,
     "used": 4,
@@ -242,10 +242,10 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-28T09:22:00Z",
+   "updated": "2026-10-28T10:21:58Z",
    "adds": {
     "period": 2,
-    "used": 1,
+    "used": 2,
     "limit": 7
    },
    "players": [
@@ -444,21 +444,16 @@
      "draft": null
     },
     {
-     "name": "Bilal Coulibaly",
-     "team": "WAS",
-     "pos": "SG/SF",
+     "name": "De'Andre Hunter",
+     "team": "SAC",
+     "pos": "SF/PF",
      "slot": "BE",
-     "espnId": 5104155,
+     "espnId": 4065732,
      "gp": 4,
-     "cur": 21.0,
-     "proj": 23.0,
+     "cur": 18.8,
+     "proj": 23.9,
      "acq": "ADD",
-     "draft": {
-      "pick": 166,
-      "round": 12,
-      "roundPick": 12,
-      "teamId": 1
-     }
+     "draft": null
     },
     {
      "name": "Alperen Sengun",

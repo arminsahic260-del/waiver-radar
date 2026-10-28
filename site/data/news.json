@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-28T09:21:55Z",
+ "updated": "2026-10-28T10:21:53Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Damian Lillard",
+   "headline": "Sinks key shot in final minute",
+   "note": "Lillard registered 21 points (5-12 FG, 4-8 3Pt, 7-11 FT), five rebounds and four assists in 31 minutes during Tuesday's 136-129 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-sinks-key-shot-in-final-minute-536431"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Jrue Holiday",
+   "headline": "Excels off bench with 22 points",
+   "note": "Holiday registered 22 points (8-12 FG, 2-6 3Pt, 4-6 FT), four rebounds, three assists and one steal over 30 minutes during Tuesday's 136-129 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jrue-holiday-news-excels-off-bench-with-22-points-536430"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Ja Morant",
+   "headline": "Solid down the stretch",
+   "note": "Morant accumulated 23 points (9-13 FG, 1-1 3Pt, 4-4 FT) and four assists over 31 minutes during Tuesday's 136-129 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-news-solid-down-the-stretch-536429"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Logs team-high 23 points",
+   "note": "Avdija notched 23 points (8-15 FG, 4-7 3Pt, 3-7 FT), four rebounds, nine assists and one steal over 33 minutes during Tuesday's 136-129 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-logs-team-high-23-points-536428"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Sandro Mamukelashvili",
+   "headline": "Accurate shooting in first loss of season",
+   "note": "Mamukelashvili recorded 17 points (6-9 FG, 3-4 3Pt, 2-2 FT), four rebounds, two assists and one block over 24 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-accurate-shooting-in-first-loss-of-season-536427"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Walker Kessler",
+   "headline": "Solid under basket in defeat",
+   "note": "Kessler registered 13 points (6-9 FG, 1-4 FT), eight rebounds, two blocks and one steal over 33 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-solid-under-basket-in-defeat-536426"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Austin Reaves",
+   "headline": "Balanced line in loss",
+   "note": "Reaves supplied 26 points (8-13 FG, 4-8 3Pt, 6-7 FT), four rebounds and seven assists across 39 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-balanced-line-in-loss-536425"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Luka Doncic",
+   "headline": "Drills sox threes in defeat",
+   "note": "Doncic produced 41 points (12-22 FG, 6-15 3Pt, 11-13 FT), five rebounds, nine assists and one block in 37 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-drills-sox-threes-in-defeat-536424"
+  },
   {
    "date": "2026-10-28",
    "team": "SAS",
@@ -204,52 +284,12 @@
   {
    "date": "2026-10-27",
    "team": "DET",
-   "player": "Daniss Jenkins",
-   "headline": "Returning to bench Tuesday",
-   "note": "Jenkins is not listed in the starting lineup for Tuesday's game against the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-returning-to-bench-tuesday-536404"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DET",
    "player": "Isaiah Joe",
    "headline": "Ruled out Tuesday",
    "note": "Joe (hip) has been ruled out for Tuesday's game against the Knicks.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-ruled-out-tuesday-536403"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Available to play Tuesday",
-   "note": "Thompson (ankle) is available for Tuesday's game against New York.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-available-to-play-tuesday-536402"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Keon Ellis",
-   "headline": "Headed to bench",
-   "note": "Ellis will come off the bench in Tuesday's meeting with the Celtics, C.J. Holmes of the New York Daily News reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keon-ellis-news-headed-to-bench-536401"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Nolan Traore",
-   "headline": "Draws first start of season",
-   "note": "Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-draws-first-start-of-season-536400"
   },
   {
    "date": "2026-10-27",
@@ -543,63 +583,23 @@
   },
   {
    "date": "2026-10-27",
-   "team": "CHA",
-   "player": "Sion James",
-   "headline": "Held to five points",
-   "note": "James contributed five points (2-4 FG, 1-3 3Pt), two rebounds and three assists across 29 minutes during Monday's 110-103 victory over the Wizards.",
+   "team": "BKN",
+   "player": "Keon Ellis",
+   "headline": "Headed to bench",
+   "note": "Ellis will come off the bench in Tuesday's meeting with the Celtics, C.J. Holmes of the New York Daily News reports.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sion-james-news-held-to-five-points-536332"
+   "url": "https://www.rotowire.com/basketball/headlines/keon-ellis-news-headed-to-bench-536401"
   },
   {
    "date": "2026-10-27",
-   "team": "CHA",
-   "player": "Grayson Allen",
-   "headline": "Adds 15 points off bench",
-   "note": "Allen racked up 15 points (3-8 FG, 2-5 3Pt, 7-7 FT), two rebounds and one assist in 28 minutes during Monday's 110-103 win over the Wizards.",
+   "team": "BKN",
+   "player": "Nolan Traore",
+   "headline": "Draws first start of season",
+   "note": "Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-adds-15-points-off-bench-536290"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "CHA",
-   "player": "Moussa Diabate",
-   "headline": "Hauls in 17 rebounds",
-   "note": "Diabate contributed 11 points (4-6 FG, 3-4 FT), 17 rebounds, three assists, three blocks and one steal over 35 minutes during Monday's 110-103 win over Washington.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-hauls-in-17-rebounds-536289"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "CHA",
-   "player": "Naz Reid",
-   "headline": "Poor shooting in win",
-   "note": "Reid finished with 18 points (8-22 FG, 2-8 3Pt, 0-1 FT), 12 rebounds, one assist and one steal across 29 minutes during Monday's 110-103 victory over the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-poor-shooting-in-win-536288"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Questionable for Wednesday",
-   "note": "Williams (groin) is questionable for Wednesday's game against the Knicks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-questionable-for-wednesday-536380"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Quiet in loss",
-   "note": "Smith chipped in seven points (2-8 FG, 2-5 3Pt, 1-1 FT), six rebounds and one assist over 20 minutes during Monday's 134-99 loss to the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-quiet-in-loss-536294"
+   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-draws-first-start-of-season-536400"
   }
  ]
 }
