@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-28T13:21:58Z",
+ "updated": "2026-10-28T14:21:56Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Solid defensive contributions in loss",
+   "note": "Thompson contributed 11 points (5-9 FG, 0-1 3Pt, 1-3 FT), six rebounds, two assists, two steals and a block across 25 minutes in Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-solid-defensive-contributions-in-loss-536443"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DET",
+   "player": "Duncan Robinson",
+   "headline": "Scoring streak ends Tuesday",
+   "note": "Robinson finished with 12 points (4-14 FG, 2-10 3Pt, 2-2 FT), two assists, a steal and a block across 33 minutes in Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scoring-streak-ends-tuesday-536442"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DET",
+   "player": "Paul Reed",
+   "headline": "Leads Pistons with 22 points",
+   "note": "Reed tallied 22 points (9-12 FG, 1-1 3Pt, 3-4 FT), nine rebounds, three assists, two steals and a block across 26 minutes in Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-leads-pistons-with-22-points-536441"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "OG Anunoby",
+   "headline": "Fills stat sheet Tuesday",
+   "note": "Anunoby delivered 13 points (5-15 FG, 1-6 3Pt, 2-2 FT), seven rebounds, two assists, two steals and two blocks across 36 minutes in Tuesday's 111-97 win over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/og-anunoby-news-fills-stat-sheet-tuesday-536440"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Landry Shamet",
+   "headline": "Solid scoring contribution off bench",
+   "note": "Shamet registered 13 points (3-8 FG, 3-5 3Pt, 4-4 FT), two rebounds and three assists across 28 minutes in Tuesday's 111-97 win over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/landry-shamet-news-solid-scoring-contribution-off-bench-536439"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Jalen Brunson",
+   "headline": "Puts up 23 in win over Detroit",
+   "note": "Brunson posted 23 points (5-18 FG, 0-5 3Pt, 13-16 FT), a rebound, seven assists and a block across 36 minutes in Tuesday's 111-97 win over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-puts-up-23-in-win-over-detroit-536438"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "Bounces back Tuesday",
+   "note": "George registered 20 points (8-16 FG, 1-6 3Pt, 3-3 FT), seven rebounds, seven assists and two steals across 36 minutes in Tuesday's 125-124 overtime win over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-bounces-back-tuesday-536437"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Jordan Walsh",
+   "headline": "Scores season-high 15 points",
+   "note": "Walsh delivered 15 points (5-8 FG, 3-5 3Pt, 2-2 FT), six rebounds, an assist and a steal across 24 minutes in Tuesday's 125-124 overtime win over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-walsh-news-scores-season-high-15-points-536436"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Derrick White",
+   "headline": "Hands out seven assists",
+   "note": "White contributed 16 points (5-15 FG, 1-7 3Pt, 5-5 FT), five rebounds and seven assists across 33 minutes in Tuesday's 125-124 overtime win over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-news-hands-out-seven-assists-536435"
+  },
   {
    "date": "2026-10-28",
    "team": "BKN",
@@ -190,76 +280,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-injury-nothing-serious-536417"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Michael Porter",
-   "headline": "Remains active defensively in loss",
-   "note": "Porter ended with 27 points (8-16 FG, 6-12 3Pt, 5-6 FT), 12 rebounds, two assists and two blocks over 40 minutes in Tuesday's 125-124 overtime loss to Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/michael-porter-news-remains-active-defensively-in-loss-536416"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Sinks game-winning shot Tuesday",
-   "note": "Tatum finished with 40 points (10-20 FG, 2-7 3Pt, 18-22 FT), five rebounds, eight assists and one block across 42 minutes in Tuesday's 125-124 overtime win over Brooklyn.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-sinks-game-winning-shot-tuesday-536415"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "NYK",
-   "player": "Karl-Anthony Towns",
-   "headline": "Dominant performance Tuesday",
-   "note": "Towns finished with 27 points (12-21 FG, 1-5 3Pt, 2-2 FT), 20 rebounds and three assists across 33 minutes in Tuesday's 111-97 victory over the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-dominant-performance-tuesday-536414"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "DET",
-   "player": "Cade Cunningham",
-   "headline": "Sniffs triple-double in defeat",
-   "note": "Cunningham contributed 19 points (7-18 FG, 2-7 3Pt, 3-5 FT), nine rebounds, eight assists and one block across 36 minutes in Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-sniffs-triple-double-in-defeat-536413"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "SAC",
-   "player": "Domantas Sabonis",
-   "headline": "Stuffs stat sheet in loss",
-   "note": "Sabonis supplied 20 points (10-16 FG), 14 rebounds and eight assists across 37 minutes in Tuesday's 130-103 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-stuffs-stat-sheet-in-loss-536412"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "SAS",
-   "player": "Victor Wembanyama",
-   "headline": "Full stat line in blowout win",
-   "note": "Wembanyama finished with 29 points (14-21 FG, 0-3 3Pt, 1-1 FT), 10 rebounds, five blocks, two assists and two steals across 27 minutes in Tuesday's 130-103 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-full-stat-line-in-blowout-win-536411"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "POR",
-   "player": "Scoot Henderson",
-   "headline": "Available Tuesday",
-   "note": "Henderson (ankle) is available for Tuesday's game against the Lakers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-available-tuesday-536410"
   },
   {
    "date": "2026-10-27",
@@ -544,6 +564,16 @@
   {
    "date": "2026-10-27",
    "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Sinks game-winning shot Tuesday",
+   "note": "Tatum finished with 40 points (10-20 FG, 2-7 3Pt, 18-22 FT), five rebounds, eight assists and one block across 42 minutes in Tuesday's 125-124 overtime win over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-sinks-game-winning-shot-tuesday-536415"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "BOS",
    "player": "Jordan Walsh",
    "headline": "Collects three steals",
    "note": "Walsh recorded four points (2-5 FG, 0-2 3Pt), three rebounds, two assists and three steals over 18 minutes during Monday's 134-99 victory over the Bulls.",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-struggles-with-shot-536333"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BOS",
-   "player": "Derrick White",
-   "headline": "Probable for Tuesday",
-   "note": "White (right hip) is probable for Tuesday's game against the Nets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-injury-probable-for-tuesday-536319"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BOS",
-   "player": "Derrick White",
-   "headline": "Poor showing in win",
-   "note": "White chipped in five points (2-4 FG, 1-2 3Pt), six rebounds, four assists, one block and three steals over 18 minutes during Monday's 134-99 win over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-news-poor-showing-in-win-536297"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BOS",
-   "player": "Hugo Gonzalez",
-   "headline": "Scores 13 off bench",
-   "note": "Gonzalez finished Monday's 134-99 victory over Chicago with 13 points (4-6 FG, 1-3 3Pt, 4-6 FT), five rebounds, two assists and one block across 24 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-scores-13-off-bench-536296"
   }
  ]
 }
