@@ -1,12 +1,122 @@
 {
- "updated": "2026-10-28T22:26:22Z",
+ "updated": "2026-10-28T23:22:07Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Starting sans Suggs",
+   "note": "Black will start Wednesday's game against the Raptors, Blake Murphy of Sportsnet.ca reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-starting-sans-suggs-536549"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Out again Wednesday",
+   "note": "Johnson (ankle) is listed as out for Wednesday's game against the Pelicans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-out-again-wednesday-536548"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "GSW",
+   "player": "Gui Santos",
+   "headline": "Ruled out Wednesday",
+   "note": "Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-ruled-out-wednesday-536547"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "MIN",
+   "player": "Ayo Dosunmu",
+   "headline": "Starting Wednesday",
+   "note": "Dosunmu will move into the starting lineup for Wednesday's matchup with the Warriors, Jon Krawczynski of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-starting-wednesday-536546"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Available versus Charlotte",
+   "note": "Thompson (ankle) is active for Wednesday's game versus the Hornets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-available-versus-charlotte-536545"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "GSW",
+   "player": "Gui Santos",
+   "headline": "Added to injury report",
+   "note": "Santos (knee) is questionable for Wednesday's game in Minnesota.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-news-added-to-injury-report-536544"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Heading to bench",
+   "note": "Wade will come off the bench in Wednesday's game against the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-heading-to-bench-536543"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "WAS",
+   "player": "Bilal Coulibaly",
+   "headline": "Moving to bench",
+   "note": "Couliably won't start Wednesday's game against the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-moving-to-bench-536542"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "WAS",
+   "player": "Tre Johnson",
+   "headline": "Ruled out Wednesday",
+   "note": "Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achilles soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-injury-ruled-out-wednesday-536541"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "headline": "Available to play",
+   "note": "Lendeborg (foot) is available for Wednesday's game in Minnesota, as expected.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-available-to-play-536540"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "On minutes restriction Wednesday",
+   "note": "Dybantsa (ankle) will be on a minutes restriction in Wednesday's game against the Cavaliers, Josh Robbins of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-on-minutes-restriction-wednesday-536539"
+  },
   {
    "date": "2026-10-28",
    "team": "CHI",
    "player": "Patrick Williams",
    "headline": "Won't play Wednesday",
-   "note": "Williams (adductor) won't play in Wednesday's game against the Knicks, lol reports.",
+   "note": "Williams (adductor) won't play in Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-wont-play-wednesday-536537"
@@ -39,7 +149,7 @@
    "note": "Toppin (hand) is active for Wednesday's game against Philadelphia.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-ready-to-roll-wednesday-536534"
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-news-ready-to-roll-wednesday-536534"
   },
   {
    "date": "2026-10-28",
@@ -163,96 +273,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Hits three more triples in victory",
-   "note": "Castle totaled 15 points (4-11 FG, 3-8 3Pt, 4-4 FT), five rebounds, five assists and one steal over 27 minutes during Tuesday's 130-103 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-hits-three-more-triples-in-victory-536516"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAS",
-   "player": "De'Aaron Fox",
-   "headline": "Solid line in 26 minutes",
-   "note": "Fox accumulated 11 points (3-6 FG, 2-2 3Pt, 3-4 FT), four rebounds and six assists over 26 minutes during Tuesday's 130-103 win over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deaaron-fox-news-solid-line-in-26-minutes-536514"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Devin Vassell",
-   "headline": "Dishes team-high eight dimes",
-   "note": "Vassell supplied 14 points (5-11 FG, 4-7 3Pt), four rebounds, eight assists and one steal in 24 minutes during Tuesday's 130-103 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-dishes-team-high-eight-dimes-536513"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Continues to fire away",
-   "note": "Acuff posted 19 points (8-20 FG, 3-7 3Pt), three rebounds and five assists across 33 minutes during Tuesday's 130-103 loss to San Antonio.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-continues-to-fire-away-536512"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Taurean Prince",
-   "headline": "Records two steals",
-   "note": "Prince supplied three points (1-3 FG, 1-3 3Pt) and two steals over seven minutes during Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-records-two-steals-536510"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Mikal Bridges",
-   "headline": "Drills four triples in win",
-   "note": "Bridges amassed 12 points (4-10 FG, 4-8 3Pt), three rebounds, four assists and one steal over 32 minutes during Tuesday's 111-97 victory over the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikal-bridges-news-drills-four-triples-in-win-536509"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "BOS",
-   "player": "Luka Garza",
-   "headline": "Sees 13 minutes",
-   "note": "Garza posted two points (1-4 FG, 0-1 3Pt) and four rebounds over 13 minutes during Tuesday's 125-124 overtime victory over Brooklyn.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-garza-news-sees-13-minutes-536508"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Scores seven points",
-   "note": "Robinson closed Tuesday's 125-124 overtime win over the Nets with seven points (3-4 FG, 1-4 FT), five rebounds and one steal over 25 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-scores-seven-points-536507"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "BKN",
-   "player": "Day'Ron Sharpe",
-   "headline": "Limited role in loss",
-   "note": "Sharpe finished Tuesday's 125-124 overtime loss to the Celtics with four points (2-4 FG, 0-1 3Pt), six rebounds, one block and one steal in 17 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-limited-role-in-loss-536504"
-  },
-  {
-   "date": "2026-10-28",
    "team": "WAS",
    "player": "Justin Champagnie",
    "headline": "Undergoes foot surgery",
@@ -373,16 +393,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Probable for Wednesday",
-   "note": "Thompson (ankle) is probable for Wednesday against the Hornets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-probable-for-wednesday-536469"
-  },
-  {
-   "date": "2026-10-28",
    "team": "ATL",
    "player": "Aaron Wiggins",
    "headline": "Probable for Wednesday",
@@ -390,6 +400,26 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-injury-probable-for-wednesday-536466"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Luka Garza",
+   "headline": "Sees 13 minutes",
+   "note": "Garza posted two points (1-4 FG, 0-1 3Pt) and four rebounds over 13 minutes during Tuesday's 125-124 overtime victory over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luka-garza-news-sees-13-minutes-536508"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Scores seven points",
+   "note": "Robinson closed Tuesday's 125-124 overtime win over the Nets with seven points (3-4 FG, 1-4 FT), five rebounds and one steal over 25 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-scores-seven-points-536507"
   },
   {
    "date": "2026-10-28",
@@ -444,6 +474,16 @@
   {
    "date": "2026-10-28",
    "team": "BKN",
+   "player": "Day'Ron Sharpe",
+   "headline": "Limited role in loss",
+   "note": "Sharpe finished Tuesday's 125-124 overtime loss to the Celtics with four points (2-4 FG, 0-1 3Pt), six rebounds, one block and one steal in 17 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-limited-role-in-loss-536504"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
    "player": "Noah Clowney",
    "headline": "Blocks two shots Tuesday",
    "note": "Clowney amassed three points (1-1 FG, 1-1 3Pt), four rebounds, one assist and two blocks across 24 minutes during Tuesday's 125-124 overtime loss to Boston.",
@@ -494,6 +534,26 @@
   {
    "date": "2026-10-28",
    "team": "DET",
+   "player": "Taurean Prince",
+   "headline": "Records two steals",
+   "note": "Prince supplied three points (1-3 FG, 1-3 3Pt) and two steals over seven minutes during Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-records-two-steals-536510"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Probable for Wednesday",
+   "note": "Thompson (ankle) is probable for Wednesday against the Hornets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-probable-for-wednesday-536469"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DET",
    "player": "Tolu Smith",
    "headline": "Grabs four boards",
    "note": "Smith registered one point (0-1 FG, 1-4 FT) and four rebounds across six minutes during Tuesday's 111-97 loss to the Knicks.",
@@ -540,66 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scoring-streak-ends-tuesday-536442"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Paul Reed",
-   "headline": "Leads Pistons with 22 points",
-   "note": "Reed tallied 22 points (9-12 FG, 1-1 3Pt, 3-4 FT), nine rebounds, three assists, two steals and a block across 26 minutes in Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-leads-pistons-with-22-points-536441"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Kristaps Porzingis",
-   "headline": "Warriors exploring options",
-   "note": "The Warriors are exploring potential trades involving Porzingis (personal/illness), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-exploring-options-536444"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Collin Sexton",
-   "headline": "Settling in with new team",
-   "note": "Sexton totaled nine points (4-11 FG, 0-5 3Pt, 1-2 FT), one rebound and four assists over 14 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-settling-in-with-new-team-536498"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Scores 11 points in loss",
-   "note": "Williams ended Tuesday's 136-129 loss to the Trail Blazers with 11 points (4-5 FG, 2-3 3Pt, 1-2 FT), two rebounds, four assists and two steals in 29 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-scores-11-points-in-loss-536464"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Sandro Mamukelashvili",
-   "headline": "Accurate shooting in first loss of season",
-   "note": "Mamukelashvili recorded 17 points (6-9 FG, 3-4 3Pt, 2-2 FT), four rebounds, two assists and one block over 24 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-accurate-shooting-in-first-loss-of-season-536427"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Walker Kessler",
-   "headline": "Solid under basket in defeat",
-   "note": "Kessler registered 13 points (6-9 FG, 1-4 FT), eight rebounds, two blocks and one steal over 33 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-solid-under-basket-in-defeat-536426"
   }
  ]
 }
