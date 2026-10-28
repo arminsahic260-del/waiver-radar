@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-28T21:22:19Z",
+ "updated": "2026-10-28T22:26:22Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Won't play Wednesday",
+   "note": "Williams (adductor) won't play in Wednesday's game against the Knicks, lol reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-wont-play-wednesday-536537"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Will play Wednesday",
+   "note": "Black (personal) is available for Wednesday's game against the Raptors.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-will-play-wednesday-536536"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Available to play",
+   "note": "Nesmith (hamstring) is available for Wednesday's game against the 76ers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-available-to-play-536535"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Ready to roll Wednesday",
+   "note": "Toppin (hand) is active for Wednesday's game against Philadelphia.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-ready-to-roll-wednesday-536534"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "headline": "Trending toward playing Wednesday",
+   "note": "Lendeborg (foot) is trending toward playing Wednesday against the Timberwolves, Anthony Slater of ESPN.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-injury-trending-toward-playing-wednesday-536533"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Downgraded to questionable",
+   "note": "Nesmith (hamstring) is now questionable for Wednesday's game against Philadelphia.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-downgraded-to-questionable-536532"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Team option exercised",
+   "note": "The Mavericks exercised their fourth-year team option on Risacher's contract Wednesday, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-team-option-exercised-536531"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "'Getting closer' to return",
+   "note": "Pacers head coach Rick Carlisle stated McConnell (hamstring) is \"doing better\" and \"getting closer\" to a return, Alex Golden of SI.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-getting-closer-to-return-536530"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Ben Sheppard",
+   "headline": "Expected to miss multiple months",
+   "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ben-sheppard-injury-expected-to-miss-multiple-months-536529"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Returning Wednesday",
+   "note": "Nembhard (neck) will play in Wednesday's game against the 76ers, Tony East of Forbes.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-returning-wednesday-536528"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Tyrese Haliburton",
+   "headline": "Out at least two weeks",
+   "note": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-out-at-least-two-weeks-536527"
+  },
   {
    "date": "2026-10-28",
    "team": "ATL",
@@ -143,56 +253,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Dylan Harper",
-   "headline": "Productive in easy win",
-   "note": "Harper logged 13 points (6-7 FG, 1-1 FT), six rebounds, six assists and two steals over 30 minutes during Tuesday's 130-103 victory over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-productive-in-easy-win-536503"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "POR",
-   "player": "Donovan Clingan",
-   "headline": "Sniffs double-double",
-   "note": "Clingan produced nine points (3-4 FG, 2-2 3Pt, 1-4 FT), 10 rebounds, one assist and one block in 26 minutes during Tuesday's 136-129 victory over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-sniffs-double-double-536502"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Andre Drummond",
-   "headline": "Near double-double in victory",
-   "note": "Drummond recorded 10 points (5-7 FG, 0-1 3Pt, 0-2 FT), eight rebounds and one assist over 14 minutes during Tuesday's 111-97 win over Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andre-drummond-news-near-double-double-in-victory-536501"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "POR",
-   "player": "Toumani Camara",
-   "headline": "Scores efficient 12 points",
-   "note": "Camara closed with 12 points (4-5 FG, 4-5 3Pt), one rebound, one assist and one steal in 24 minutes during Tuesday's 136-129 victory over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/toumani-camara-news-scores-efficient-12-points-536500"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Collin Sexton",
-   "headline": "Settling in with new team",
-   "note": "Sexton totaled nine points (4-11 FG, 0-5 3Pt, 1-2 FT), one rebound and four assists over 14 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-settling-in-with-new-team-536498"
-  },
-  {
-   "date": "2026-10-28",
    "team": "WAS",
    "player": "Justin Champagnie",
    "headline": "Undergoes foot surgery",
@@ -330,46 +390,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-injury-probable-for-wednesday-536466"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "headline": "Present at shootaround",
-   "note": "Dybantsa (ankle) was present at Wednesday's morning shootaround, Josh Robbins of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-present-at-shootaround-536447"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "MIA",
-   "player": "Simone Fontecchio",
-   "headline": "Listed out for Wednesday",
-   "note": "Fontecchio (illness) is out for Wednesday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-listed-out-for-wednesday-536446"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Absent from shootaround",
-   "note": "Black (personal) was not present at Wednesday's morning shootaround, Jason Beede of the Orlando Sentinel reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-absent-from-shootaround-536445"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Kristaps Porzingis",
-   "headline": "Warriors exploring options",
-   "note": "The Warriors are exploring potential trades involving Porzingis (personal/illness), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-exploring-options-536444"
   },
   {
    "date": "2026-10-28",
@@ -533,6 +553,26 @@
   },
   {
    "date": "2026-10-28",
+   "team": "GSW",
+   "player": "Kristaps Porzingis",
+   "headline": "Warriors exploring options",
+   "note": "The Warriors are exploring potential trades involving Porzingis (personal/illness), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-exploring-options-536444"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Collin Sexton",
+   "headline": "Settling in with new team",
+   "note": "Sexton totaled nine points (4-11 FG, 0-5 3Pt, 1-2 FT), one rebound and four assists over 14 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-settling-in-with-new-team-536498"
+  },
+  {
+   "date": "2026-10-28",
    "team": "LAL",
    "player": "Ziaire Williams",
    "headline": "Scores 11 points in loss",
@@ -560,46 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-solid-under-basket-in-defeat-536426"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Austin Reaves",
-   "headline": "Balanced line in loss",
-   "note": "Reaves supplied 26 points (8-13 FG, 4-8 3Pt, 6-7 FT), four rebounds and seven assists across 39 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-balanced-line-in-loss-536425"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Luka Doncic",
-   "headline": "Drills six threes in defeat",
-   "note": "Doncic produced 41 points (12-22 FG, 6-15 3Pt, 11-13 FT), five rebounds, nine assists and one block in 37 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-drills-six-threes-in-defeat-536424"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Upgraded to available",
-   "note": "Larsson (ankle) is available for Wednesday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-upgraded-to-available-536449"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "Upgraded to available",
-   "note": "Poole (illness) is available for Wednesday's game against Denver.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-news-upgraded-to-available-536477"
   }
  ]
 }

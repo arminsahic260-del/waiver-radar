@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:21:22Z",
+ "updated": "2026-10-28T22:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -21,16 +21,6 @@
    "status": "Expected return: at least Nov 20",
    "kind": "out",
    "ret": "2026-11-20"
-  },
-  {
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "pos": "SG",
-   "updated": "2026-10-27",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "BKN",
@@ -346,11 +336,11 @@
    "team": "IND",
    "player": "Ben Sheppard",
    "pos": "SG",
-   "updated": "2026-10-23",
+   "updated": "2026-10-28",
    "injury": "Knee",
-   "status": "Expected return: at least Dec 1",
+   "status": "Expected return: at least Jan 2",
    "kind": "out",
-   "ret": "2026-12-01"
+   "ret": "2027-01-02"
   },
   {
    "team": "IND",
@@ -376,11 +366,11 @@
    "team": "IND",
    "player": "T.J. McConnell",
    "pos": "PG",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "injury": "Hamstring",
-   "status": "Expected return: at least Oct 30",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-10-30"
+   "ret": "2026-11-02"
   },
   {
    "team": "IND",
@@ -388,9 +378,9 @@
    "pos": "PG",
    "updated": "2026-10-28",
    "injury": "Hamstring",
-   "status": "Expected return: at least Nov 9",
+   "status": "Expected return: at least Nov 13",
    "kind": "out",
-   "ret": "2026-11-09"
+   "ret": "2026-11-13"
   },
   {
    "team": "IND",
@@ -398,16 +388,6 @@
    "pos": "SF",
    "updated": "2026-10-27",
    "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "pos": "SG",
-   "updated": "2026-10-27",
-   "injury": "Neck",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -488,9 +468,9 @@
    "pos": "SF",
    "updated": "2026-10-28",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
   },
   {
    "team": "LAL",
@@ -498,9 +478,29 @@
    "pos": "SG",
    "updated": "2026-10-28",
    "injury": "Oblique",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "LAL",
+   "player": "Luka Doncic",
+   "pos": "PG",
+   "updated": "2026-10-28",
+   "injury": "Back",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "LAL",
+   "player": "Ziaire Williams",
+   "pos": "PF",
+   "updated": "2026-10-28",
+   "injury": "Foot",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
   },
   {
    "team": "MIA",
@@ -556,11 +556,11 @@
    "team": "OKC",
    "player": "Alex Caruso",
    "pos": "SF",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "injury": "Ankle",
-   "status": "Expected return: at least Oct 31",
+   "status": "Expected return: at least Nov 4",
    "kind": "out",
-   "ret": "2026-10-31"
+   "ret": "2026-11-04"
   },
   {
    "team": "OKC",
