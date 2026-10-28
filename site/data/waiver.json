@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:55:58Z",
+ "updated": "2026-10-28T06:36:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -50,7 +50,7 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-starting-sunday-536052",
@@ -375,7 +375,7 @@
    "horizon": "Do ~23.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
@@ -537,25 +537,6 @@
    "cur": 14.0
   },
   {
-   "player": "Luke Kornet",
-   "team": "SAS",
-   "pos": "C",
-   "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 28.10. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~14.0 FP po utakmici (ove sezone 6.0 u 4 utk., prošle sezone 22.1; 18 min).",
-   "role": "Veća minutaža dok je out Tobias Harris",
-   "horizon": "Do ~28.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Tobias Harris; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3064560,
-   "fpts": 14.0,
-   "gp": 4,
-   "cur": 6.0
-  },
-  {
    "player": "Bones Hyland",
    "team": "MIN",
    "pos": "PG",
@@ -573,6 +554,25 @@
    "fpts": 13.3,
    "gp": 4,
    "cur": 8.8
+  },
+  {
+   "player": "Colin Castleton",
+   "team": "ORL",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Colin Castleton je sljedeći C u rotaciji ORL-a za te minute; ~13.0 FP po utakmici (ove sezone, 1 utk., 4 min).",
+   "role": "Veća minutaža dok je out Paolo Banchero",
+   "horizon": "Do ~22.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Paolo Banchero; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397204,
+   "fpts": 13.0,
+   "gp": 1,
+   "cur": 13.0
   }
  ],
  "days": [
@@ -770,24 +770,6 @@
        "gtd": false
       },
       {
-       "player": "Collin Murray-Boyles",
-       "team": "TOR",
-       "pos": "PF",
-       "espnId": 5093267,
-       "fpts": 21.5,
-       "mpg": 20.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 19.3,
-       "matchup": "ORL @ TOR",
-       "dates": [
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 43.0,
-       "gtd": false
-      },
-      {
        "player": "Day'Ron Sharpe",
        "team": "BKN",
        "pos": "C",
@@ -803,6 +785,24 @@
         "2026-11-01"
        ],
        "value": 42.4,
+       "gtd": false
+      },
+      {
+       "player": "Gui Santos",
+       "team": "GSW",
+       "pos": "SF",
+       "espnId": 4997536,
+       "fpts": 20.0,
+       "mpg": 22.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 19.8,
+       "matchup": "LAL @ GSW",
+       "dates": [
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 40.0,
        "gtd": false
       }
      ]

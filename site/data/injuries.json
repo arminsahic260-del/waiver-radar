@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:55:19Z",
+ "updated": "2026-10-28T06:36:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -61,16 +61,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-10-28",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
   },
   {
    "team": "CHA",
@@ -264,16 +254,6 @@
   },
   {
    "team": "DET",
-   "player": "Isaiah Joe",
-   "pos": "SG",
-   "updated": "2026-10-27",
-   "injury": "Hip",
-   "status": "Expected return: at least Oct 28",
-   "kind": "out",
-   "ret": "2026-10-28"
-  },
-  {
-   "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
    "updated": "2026-10-25",
@@ -281,6 +261,16 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
+  },
+  {
+   "team": "DET",
+   "player": "Isaiah Joe",
+   "pos": "SG",
+   "updated": "2026-10-28",
+   "injury": "Hip",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "GSW",
@@ -576,11 +566,11 @@
    "team": "NYK",
    "player": "Jose Alvarado",
    "pos": "PG",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "injury": "Ankle",
-   "status": "Expected return: at least Oct 28",
-   "kind": "out",
-   "ret": "2026-10-28"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "OKC",
@@ -836,11 +826,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-26",
+   "updated": "2026-10-28",
    "injury": "Calf",
-   "status": "Expected return: at least Oct 28",
-   "kind": "out",
-   "ret": "2026-10-28"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "TOR",
