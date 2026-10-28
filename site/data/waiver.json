@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:22:06Z",
+ "updated": "2026-10-28T19:40:28Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -238,6 +238,25 @@
    "expires": "2026-10-29"
   },
   {
+   "player": "Aaron Nesmith",
+   "team": "IND",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 9.11. — nova ozljeda. Aaron Nesmith je prvi SG/SF u rotaciji IND-a za te minute; ~20.2 FP po utakmici (ove sezone 16.0 u 3 utk., prošle sezone 23.3; 26 min).",
+   "role": "Veća minutaža dok je out Tyrese Haliburton",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Tyrese Haliburton",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4396909,
+   "fpts": 20.2,
+   "gp": 3,
+   "cur": 16.0
+  },
+  {
    "player": "Oscar Tshiebwe",
    "team": "HOU",
    "pos": "C",
@@ -413,25 +432,6 @@
    "cur": 18.5
   },
   {
-   "player": "Aaron Nesmith",
-   "team": "IND",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Tyrese Haliburton (stražnja loža) je upitan (GTD). Aaron Nesmith je sljedeći SG/SF u rotaciji IND-a za te minute; ~20.2 FP po utakmici (ove sezone 16.0 u 3 utk., prošle sezone 23.3; 26 min).",
-   "role": "Zamjena ako Tyrese Haliburton ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Tyrese Haliburton",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4396909,
-   "fpts": 20.2,
-   "gp": 3,
-   "cur": 16.0
-  },
-  {
    "player": "Walter Clayton Jr.",
    "team": "DAL",
    "pos": "PG/SG",
@@ -455,9 +455,9 @@
    "team": "IND",
    "pos": "PG/SG",
    "priority": 3,
-   "reason": "Tyrese Haliburton (stražnja loža) je upitan (GTD). Quenton Jackson je sljedeći PG/SG u rotaciji IND-a za te minute; ~17.2 FP po utakmici (ove sezone 16.8 u 4 utk., prošle sezone 17.7; 19 min).",
-   "role": "Zamjena ako Tyrese Haliburton ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
+   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 9.11. — nova ozljeda. Quenton Jackson je sljedeći PG/SG u rotaciji IND-a za te minute; ~17.2 FP po utakmici (ove sezone 16.8 u 4 utk., prošle sezone 17.7; 19 min).",
+   "role": "Veća minutaža dok je out Tyrese Haliburton",
+   "horizon": "Do ~9.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tyrese Haliburton; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
@@ -487,6 +487,25 @@
    "fpts": 16.4,
    "gp": 4,
    "cur": 8.2
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "team": "DAL",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Santi Aldama (koljeno) je out najmanje do 30.10. — nova ozljeda. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~16.2 FP po utakmici (ove sezone 9.0 u 4 utk., ESPN projekcija 23.5; 20 min).",
+   "role": "Veća minutaža dok je out Santi Aldama",
+   "horizon": "Do ~30.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Santi Aldama; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4873153,
+   "fpts": 16.2,
+   "gp": 4,
+   "cur": 9.0
   },
   {
    "player": "Leaky Black",
@@ -546,42 +565,23 @@
    "cur": 14.0
   },
   {
-   "player": "Colin Castleton",
-   "team": "ORL",
+   "player": "Luke Kornet",
+   "team": "SAS",
    "pos": "C",
    "priority": 3,
-   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Colin Castleton je sljedeći C u rotaciji ORL-a za te minute; ~13.0 FP po utakmici (ove sezone, 1 utk., 4 min).",
-   "role": "Veća minutaža dok je out Paolo Banchero",
-   "horizon": "Do ~22.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Paolo Banchero; nizak bodovni plafon",
+   "reason": "Tobias Harris (list) je out najmanje do 31.10. — nova ozljeda. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~14.0 FP po utakmici (ove sezone 6.0 u 4 utk., prošle sezone 22.1; 18 min).",
+   "role": "Veća minutaža dok je out Tobias Harris",
+   "horizon": "Do ~31.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Tobias Harris; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397204,
-   "fpts": 13.0,
-   "gp": 1,
-   "cur": 13.0
-  },
-  {
-   "player": "Bogdan Bogdanovic",
-   "team": "HOU",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Marcus Smart (forearm) je out najmanje do 30.10. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.7 FP po utakmici (ove sezone 11.2 u 4 utk., prošle sezone 14.1; 17 min).",
-   "role": "Veća minutaža dok je out Marcus Smart",
-   "horizon": "Do ~30.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Marcus Smart; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3037789,
-   "fpts": 12.7,
+   "espnId": 3064560,
+   "fpts": 14.0,
    "gp": 4,
-   "cur": 11.2
+   "cur": 6.0
   }
  ],
  "days": [
@@ -596,6 +596,12 @@
      "sitting": 0,
      "adds": 3,
      "addsLimit": 7,
+     "add": false,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
      "picks": []
     },
@@ -606,6 +612,13 @@
      "sitting": 1,
      "adds": 5,
      "addsLimit": 7,
+     "add": false,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
      "picks": []
     }
@@ -622,26 +635,14 @@
      "sitting": 0,
      "adds": 3,
      "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
      "picks": [
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 28.5,
-       "mpg": 30.9,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ NOP",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 57.0,
-       "gtd": false
-      },
       {
        "player": "Jerami Grant",
        "team": "MEM",
@@ -657,7 +658,7 @@
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 48.4,
+       "value": 24.2,
        "gtd": false,
        "waiver": "2026-10-29"
       },
@@ -676,7 +677,25 @@
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 44.4,
+       "value": 22.2,
+       "gtd": false
+      },
+      {
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 21.3,
+       "mpg": 26.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 18.0,
+       "matchup": "CLE @ ATL",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 21.3,
        "gtd": false
       }
      ]
@@ -688,26 +707,15 @@
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
      "picks": [
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 28.5,
-       "mpg": 30.9,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ NOP",
-       "dates": [
-        "2026-10-29",
-        "2026-10-31"
-       ],
-       "value": 57.0,
-       "gtd": false
-      },
       {
        "player": "Cam Spencer",
        "team": "MEM",
@@ -723,25 +731,43 @@
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 44.4,
+       "value": 22.2,
        "gtd": false
       },
       {
-       "player": "Javon Small",
-       "team": "MEM",
-       "pos": "PG",
-       "espnId": 4781746,
-       "fpts": 22.2,
-       "mpg": 20.2,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "MEM @ POR",
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 21.3,
+       "mpg": 26.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 18.0,
+       "matchup": "CLE @ ATL",
        "dates": [
         "2026-10-29",
         "2026-10-31"
        ],
-       "value": 44.4,
+       "value": 21.3,
+       "gtd": false
+      },
+      {
+       "player": "Bennedict Mathurin",
+       "team": "NOP",
+       "pos": "SG/SF",
+       "espnId": 4683634,
+       "fpts": 21.1,
+       "mpg": 24.7,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 14.0,
+       "matchup": "SAC @ NOP",
+       "dates": [
+        "2026-10-29",
+        "2026-10-31"
+       ],
+       "value": 21.1,
        "gtd": false
       }
      ]
@@ -759,6 +785,12 @@
      "sitting": 0,
      "adds": 2,
      "addsLimit": 7,
+     "add": false,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
      "picks": [
       {
@@ -776,45 +808,43 @@
         "2026-10-30",
         "2026-10-31"
        ],
-       "value": 52.8,
+       "value": 26.4,
        "gtd": false,
        "waiver": "2026-10-30"
       },
       {
-       "player": "Dennis Schroder",
-       "team": "CHA",
+       "player": "Tre Jones",
+       "team": "CHI",
        "pos": "PG",
-       "espnId": 3032979,
-       "fpts": 21.9,
-       "mpg": 28.2,
+       "espnId": 4395626,
+       "fpts": 25.3,
+       "mpg": 22.2,
        "basis": "sezona+prošla sezona",
        "gp": 4,
-       "cur": 21.5,
-       "matchup": "CHA @ WAS",
+       "cur": 19.0,
+       "matchup": "CHI @ BOS",
        "dates": [
-        "2026-10-30",
-        "2026-10-31"
+        "2026-10-30"
        ],
-       "value": 43.8,
+       "value": 25.3,
        "gtd": false,
        "waiver": "2026-10-29"
       },
       {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 21.9,
-       "mpg": 27.0,
-       "basis": "sezona+projekcija",
-       "gp": 3,
-       "cur": 19.0,
-       "matchup": "DET @ BKN",
+       "player": "Bilal Coulibaly",
+       "team": "WAS",
+       "pos": "SG/SF",
+       "espnId": 5104155,
+       "fpts": 23.7,
+       "mpg": 26.7,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 21.0,
+       "matchup": "CHA @ WAS",
        "dates": [
-        "2026-10-30",
-        "2026-11-01"
+        "2026-10-30"
        ],
-       "value": 43.8,
+       "value": 23.7,
        "gtd": false
       }
      ]
@@ -826,8 +856,32 @@
      "sitting": 0,
      "adds": 4,
      "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
      "picks": [
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "pos": "PG",
+       "espnId": 4395626,
+       "fpts": 25.3,
+       "mpg": 22.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 19.0,
+       "matchup": "CHI @ BOS",
+       "dates": [
+        "2026-10-30"
+       ],
+       "value": 25.3,
+       "gtd": false
+      },
       {
        "player": "Keaton Wagler",
        "team": "LAC",
@@ -843,44 +897,26 @@
         "2026-10-30",
         "2026-11-01"
        ],
-       "value": 48.2,
+       "value": 24.1,
        "gtd": false
       },
       {
-       "player": "De'Anthony Melton",
-       "team": "GSW",
-       "pos": "PG/SG",
-       "espnId": 4066436,
-       "fpts": 23.2,
-       "mpg": 22.4,
+       "player": "Bilal Coulibaly",
+       "team": "WAS",
+       "pos": "SG/SF",
+       "espnId": 5104155,
+       "fpts": 23.7,
+       "mpg": 26.7,
        "basis": "sezona+prošla sezona",
        "gp": 4,
-       "cur": 22.5,
-       "matchup": "LAL @ GSW",
+       "cur": 21.0,
+       "matchup": "CHA @ WAS",
        "dates": [
-        "2026-10-30",
-        "2026-11-01"
+        "2026-10-30"
        ],
-       "value": 46.4,
-       "gtd": false
-      },
-      {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 21.9,
-       "mpg": 27.0,
-       "basis": "sezona+projekcija",
-       "gp": 3,
-       "cur": 19.0,
-       "matchup": "DET @ BKN",
-       "dates": [
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 43.8,
-       "gtd": false
+       "value": 23.7,
+       "gtd": false,
+       "waiver": "2026-10-30"
       }
      ]
     }
@@ -893,20 +929,21 @@
     {
      "league": "Legendi",
      "mine": 4,
-     "open": 4,
+     "open": 5,
      "sitting": 0,
-     "adds": 1,
+     "adds": 2,
      "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [
       {
-       "player": "Julian Reese",
-       "team": "NOP",
+       "player": "Jerami Grant",
+       "team": "MEM",
        "from": "2026-10-29"
-      },
-      {
-       "player": "Ayo Dosunmu",
-       "team": "MIN",
-       "from": "2026-10-30"
       }
      ],
      "picks": [
@@ -928,22 +965,22 @@
        "gtd": false
       },
       {
-       "player": "Jerami Grant",
-       "team": "MEM",
-       "pos": "PF",
-       "espnId": 2991070,
-       "fpts": 24.2,
-       "mpg": 26.9,
+       "player": "Ayo Dosunmu",
+       "team": "MIN",
+       "pos": "PG/SG",
+       "espnId": 4397002,
+       "fpts": 26.4,
+       "mpg": 26.8,
        "basis": "sezona+prošla sezona",
        "gp": 4,
-       "cur": 20.5,
-       "matchup": "SAC @ MEM",
+       "cur": 23.8,
+       "matchup": "MIN @ SAS",
        "dates": [
         "2026-10-31"
        ],
-       "value": 24.2,
+       "value": 26.4,
        "gtd": false,
-       "waiver": "2026-10-29"
+       "waiver": "2026-10-30"
       },
       {
        "player": "Isaiah Collier",
@@ -971,10 +1008,17 @@
      "sitting": 0,
      "adds": 3,
      "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [
       {
-       "player": "Julian Reese",
-       "team": "NOP",
+       "player": "Cam Spencer",
+       "team": "MEM",
        "from": "2026-10-29"
       }
      ],
@@ -997,37 +1041,37 @@
        "gtd": false
       },
       {
-       "player": "Cam Spencer",
-       "team": "MEM",
-       "pos": "PG/SG",
-       "espnId": 4433083,
-       "fpts": 22.2,
-       "mpg": 20.3,
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 21.3,
+       "mpg": 26.0,
        "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 17.2,
-       "matchup": "SAC @ MEM",
+       "gp": 3,
+       "cur": 18.0,
+       "matchup": "CLE @ MIL",
        "dates": [
         "2026-10-31"
        ],
-       "value": 22.2,
+       "value": 21.3,
        "gtd": false
       },
       {
-       "player": "Javon Small",
-       "team": "MEM",
-       "pos": "PG",
-       "espnId": 4781746,
-       "fpts": 22.2,
-       "mpg": 20.2,
-       "basis": "prošla sezona",
-       "gp": 0,
-       "cur": null,
-       "matchup": "SAC @ MEM",
+       "player": "Bennedict Mathurin",
+       "team": "NOP",
+       "pos": "SG/SF",
+       "espnId": 4683634,
+       "fpts": 21.1,
+       "mpg": 24.7,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 14.0,
+       "matchup": "ATL @ NOP",
        "dates": [
         "2026-10-31"
        ],
-       "value": 22.2,
+       "value": 21.1,
        "gtd": false
       }
      ]
@@ -1043,26 +1087,103 @@
      "mine": 3,
      "open": 7,
      "sitting": 0,
-     "adds": 0,
+     "adds": 1,
      "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-31",
+      "2026-11-01"
+     ],
      "planned": [],
-     "picks": []
+     "picks": [
+      {
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "pos": "PG",
+       "espnId": 5101761,
+       "fpts": 21.9,
+       "mpg": 27.0,
+       "basis": "sezona+projekcija",
+       "gp": 3,
+       "cur": 19.0,
+       "matchup": "BKN @ IND",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 21.9,
+       "gtd": false
+      },
+      {
+       "player": "Draymond Green",
+       "team": "GSW",
+       "pos": "PF/C",
+       "espnId": 6589,
+       "fpts": 21.6,
+       "mpg": 27.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 16.3,
+       "matchup": "LAC @ GSW",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 21.6,
+       "gtd": false,
+       "waiver": "2026-10-29"
+      },
+      {
+       "player": "Gui Santos",
+       "team": "GSW",
+       "pos": "SF",
+       "espnId": 4997536,
+       "fpts": 20.0,
+       "mpg": 22.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 19.8,
+       "matchup": "LAC @ GSW",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 20.0,
+       "gtd": false
+      }
+     ]
     },
     {
      "league": "Banijska",
      "mine": 4,
-     "open": 5,
+     "open": 6,
      "sitting": 0,
      "adds": 2,
      "addsLimit": 7,
-     "planned": [
+     "add": true,
+     "addDays": [
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01"
+     ],
+     "planned": [],
+     "picks": [
       {
        "player": "Keaton Wagler",
        "team": "LAC",
-       "from": "2026-10-30"
-      }
-     ],
-     "picks": [
+       "pos": "PG/SG",
+       "espnId": 5254165,
+       "fpts": 24.1,
+       "mpg": 27.3,
+       "basis": "sezona+projekcija",
+       "gp": 3,
+       "cur": 23.7,
+       "matchup": "LAC @ GSW",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 24.1,
+       "gtd": false
+      },
       {
        "player": "De'Anthony Melton",
        "team": "GSW",
@@ -1096,23 +1217,6 @@
        ],
        "value": 21.9,
        "gtd": false
-      },
-      {
-       "player": "Draymond Green",
-       "team": "GSW",
-       "pos": "PF/C",
-       "espnId": 6589,
-       "fpts": 21.6,
-       "mpg": 27.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 16.3,
-       "matchup": "LAC @ GSW",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 21.6,
-       "gtd": false
       }
      ]
     }
@@ -1129,6 +1233,8 @@
      "sitting": 2,
      "adds": 7,
      "addsLimit": 7,
+     "add": false,
+     "addDays": [],
      "planned": [],
      "picks": []
     },
@@ -1139,6 +1245,8 @@
      "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
+     "add": false,
+     "addDays": [],
      "planned": [],
      "picks": []
     }

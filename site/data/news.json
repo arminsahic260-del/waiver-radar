@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-28T19:22:01Z",
+ "updated": "2026-10-28T19:40:23Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "DET",
+   "player": "Taurean Prince",
+   "headline": "Records two steals",
+   "note": "Prince supplied three points (1-3 FG, 1-3 3Pt) and two steals over seven minutes during Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-records-two-steals-536510"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Mikal Bridges",
+   "headline": "Drills four triples in win",
+   "note": "Bridges amassed 12 points (4-10 FG, 4-8 3Pt), three rebounds, four assists and one steal over 32 minutes during Tuesday's 111-97 victory over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikal-bridges-news-drills-four-triples-in-win-536509"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Luka Garza",
+   "headline": "Sees 13 minutes",
+   "note": "Garza posted two points (1-4 FG, 0-1 3Pt) and four rebounds over 13 minutes during Tuesday's 125-124 overtime victory over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luka-garza-news-sees-13-minutes-536508"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Scores seven points",
+   "note": "Robinson closed Tuesday's 125-124 overtime win over the Nets with seven points (3-4 FG, 1-4 FT), five rebounds and one steal over 25 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-scores-seven-points-536507"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
+   "player": "Day'Ron Sharpe",
+   "headline": "Limited role in loss",
+   "note": "Sharpe finished Tuesday's 125-124 overtime loss to the Celtics with four points (2-4 FG, 0-1 3Pt), six rebounds, one block and one steal in 17 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-limited-role-in-loss-536504"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "SAS",
+   "player": "Dylan Harper",
+   "headline": "Productive in easy win",
+   "note": "Harper logged 13 points (6-7 FG, 1-1 FT), six rebounds, six assists and two steals over 30 minutes during Tuesday's 130-103 victory over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-productive-in-easy-win-536503"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Donovan Clingan",
+   "headline": "Sniffs double-double",
+   "note": "Clingan produced nine points (3-4 FG, 2-2 3Pt, 1-4 FT), 10 rebounds, one assist and one block in 26 minutes during Tuesday's 136-129 victory over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-sniffs-double-double-536502"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Andre Drummond",
+   "headline": "Near double-double in victory",
+   "note": "Drummond recorded 10 points (5-7 FG, 0-1 3Pt, 0-2 FT), eight rebounds and one assist over 14 minutes during Tuesday's 111-97 win over Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andre-drummond-news-near-double-double-in-victory-536501"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Toumani Camara",
+   "headline": "Scores efficient 12 points",
+   "note": "Camara closed with 12 points (4-5 FG, 4-5 3Pt), one rebound, one assist and one steal in 24 minutes during Tuesday's 136-129 victory over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/toumani-camara-news-scores-efficient-12-points-536500"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Collin Sexton",
+   "headline": "Settling in with new team",
+   "note": "Sexton totaled nine points (4-11 FG, 0-5 3Pt, 1-2 FT), one rebound and four assists over 14 minutes during Tuesday's 136-129 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-settling-in-with-new-team-536498"
+  },
   {
    "date": "2026-10-28",
    "team": "WAS",
@@ -153,106 +253,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Scores 11 points in loss",
-   "note": "Williams ended Tuesday's 136-129 loss to the Trail Blazers with 11 points (4-5 FG, 2-3 3Pt, 1-2 FT), two rebounds, four assists and two steals in 29 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-scores-11-points-in-loss-536464"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "POR",
-   "player": "Sidy Cissoko",
-   "headline": "Hands out four dimes",
-   "note": "Cissoko accumulated six points (2-4 FG, 0-2 3Pt, 2-2 FT), two rebounds and four assists across 20 minutes during Tuesday's 136-129 win over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sidy-cissoko-news-hands-out-four-dimes-536463"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "POR",
-   "player": "Robert Williams",
-   "headline": "Double-doubles off bench",
-   "note": "Williams racked up 14 points (6-8 FG, 2-2 FT), 10 rebounds, one assist, one block and two steals across 21 minutes during Tuesday's 136-129 victory over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-news-double-doubles-off-bench-536462"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Harrison Barnes",
-   "headline": "Limited output in win",
-   "note": "Barnes closed with three points (1-2 FG, 0-1 3Pt, 1-2 FT) over 13 minutes during Tuesday's 130-103 victory over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/harrison-barnes-news-limited-output-in-win-536461"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Keldon Johnson",
-   "headline": "Drops 14 off bench",
-   "note": "Johnson closed Tuesday's 130-103 win over Sacramento with 14 points (5-11 FG, 4-5 FT) and four rebounds over 22 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-news-drops-14-off-bench-536460"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAC",
-   "player": "Alex Karaban",
-   "headline": "Sees 11 minutes",
-   "note": "Karaban closed Tuesday's 130-103 loss to the Spurs with zero points (0-1 FG), one rebound and one assist across 11 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-karaban-news-sees-11-minutes-536459"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Notches 22 points in loss",
-   "note": "LaVine supplied 22 points (7-10 FG, 3-4 3Pt, 5-7 FT), three rebounds and three assists across 31 minutes during Tuesday's 130-103 loss to San Antonio.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-notches-22-points-in-loss-536458"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Josh Hart",
-   "headline": "Swipes five steals",
-   "note": "Hart posted six points (2-2 FG, 2-2 3Pt), four rebounds, four assists and five steals across 27 minutes during Tuesday's 111-97 win over Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-news-swipes-five-steals-536457"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Miles McBride",
-   "headline": "Scores five points",
-   "note": "McBride ended with five points (2-4 FG, 1-3 3Pt), one rebound and one assist in 17 minutes during Tuesday's 111-97 victory over the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/miles-mcbride-news-scores-five-points-536456"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Tolu Smith",
-   "headline": "Grabs four boards",
-   "note": "Smith registered one point (0-1 FG, 1-4 FT) and four rebounds across six minutes during Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tolu-smith-news-grabs-four-boards-536455"
-  },
-  {
-   "date": "2026-10-28",
    "team": "WAS",
    "player": "AJ Dybantsa",
    "headline": "Present at shootaround",
@@ -286,7 +286,7 @@
    "team": "GSW",
    "player": "Kristaps Porzingis",
    "headline": "Warriors exploring options",
-   "note": "The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
+   "note": "The Warriors are exploring potential trades involving Porzingis (personal/illness), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-exploring-options-536444"
@@ -394,6 +394,16 @@
   {
    "date": "2026-10-28",
    "team": "DET",
+   "player": "Tolu Smith",
+   "headline": "Grabs four boards",
+   "note": "Smith registered one point (0-1 FG, 1-4 FT) and four rebounds across six minutes during Tuesday's 111-97 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tolu-smith-news-grabs-four-boards-536455"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DET",
    "player": "Kevin Huerter",
    "headline": "Adds seven points Tuesday",
    "note": "Huerter provided seven points (3-5 FG, 1-2 3Pt, 0-2 FT), one rebound, one block and one steal across 16 minutes during Tuesday's 111-97 loss to the Knicks.",
@@ -440,6 +450,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-leads-pistons-with-22-points-536441"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Ziaire Williams",
+   "headline": "Scores 11 points in loss",
+   "note": "Williams ended Tuesday's 136-129 loss to the Trail Blazers with 11 points (4-5 FG, 2-3 3Pt, 1-2 FT), two rebounds, four assists and two steals in 29 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-scores-11-points-in-loss-536464"
   },
   {
    "date": "2026-10-28",
@@ -494,6 +514,26 @@
   {
    "date": "2026-10-28",
    "team": "NYK",
+   "player": "Josh Hart",
+   "headline": "Swipes five steals",
+   "note": "Hart posted six points (2-2 FG, 2-2 3Pt), four rebounds, four assists and five steals across 27 minutes during Tuesday's 111-97 win over Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-news-swipes-five-steals-536457"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Miles McBride",
+   "headline": "Scores five points",
+   "note": "McBride ended with five points (2-4 FG, 1-3 3Pt), one rebound and one assist in 17 minutes during Tuesday's 111-97 victory over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/miles-mcbride-news-scores-five-points-536456"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
    "player": "OG Anunoby",
    "headline": "Fills stat sheet Tuesday",
    "note": "Anunoby delivered 13 points (5-15 FG, 1-6 3Pt, 2-2 FT), seven rebounds, two assists, two steals and two blocks across 36 minutes in Tuesday's 111-97 win over the Pistons.",
@@ -524,6 +564,26 @@
   {
    "date": "2026-10-28",
    "team": "POR",
+   "player": "Sidy Cissoko",
+   "headline": "Hands out four dimes",
+   "note": "Cissoko accumulated six points (2-4 FG, 0-2 3Pt, 2-2 FT), two rebounds and four assists across 20 minutes during Tuesday's 136-129 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sidy-cissoko-news-hands-out-four-dimes-536463"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
+   "player": "Robert Williams",
+   "headline": "Double-doubles off bench",
+   "note": "Williams racked up 14 points (6-8 FG, 2-2 FT), 10 rebounds, one assist, one block and two steals across 21 minutes during Tuesday's 136-129 victory over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-news-double-doubles-off-bench-536462"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "POR",
    "player": "Damian Lillard",
    "headline": "Sinks key shot in final minute",
    "note": "Lillard registered 21 points (5-12 FG, 4-8 3Pt, 7-11 FT), five rebounds and four assists in 31 minutes during Tuesday's 136-129 win over the Lakers.",
@@ -540,66 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jrue-holiday-news-excels-off-bench-with-22-points-536430"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "POR",
-   "player": "Ja Morant",
-   "headline": "Solid down the stretch",
-   "note": "Morant accumulated 23 points (9-13 FG, 1-1 3Pt, 4-4 FT) and four assists over 31 minutes during Tuesday's 136-129 win over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-news-solid-down-the-stretch-536429"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "POR",
-   "player": "Deni Avdija",
-   "headline": "Logs team-high 23 points",
-   "note": "Avdija notched 23 points (8-15 FG, 4-7 3Pt, 3-7 FT), four rebounds, nine assists and one steal over 33 minutes during Tuesday's 136-129 win over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-logs-team-high-23-points-536428"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAC",
-   "player": "Precious Achiuwa",
-   "headline": "Plummets back to earth in loss",
-   "note": "Achiuwa notched four points (2-6 FG, 0-1 3Pt) and one rebound in 13 minutes during Tuesday's 130-103 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-plummets-back-to-earth-in-loss-536420"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAC",
-   "player": "Malik Monk",
-   "headline": "Mutes role continues",
-   "note": "Monk racked up three points (1-7 FG, 1-4 3Pt), two rebounds and six assists across 13 minutes during Tuesday's 130-103 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/malik-monk-news-mutes-role-continues-536419"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAC",
-   "player": "De'Andre Hunter",
-   "headline": "Drops season-high 24 points",
-   "note": "Hunter logged 24 points (8-13 FG, 5-9 3Pt, 3-4 FT), six rebounds, two assists, one block and one steal in 33 minutes during Tuesday's 130-103 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-drops-season-high-24-points-536418"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Jordan McLaughlin",
-   "headline": "Rare appearance in victory",
-   "note": "McLaughlin logged zero points (0-1 FG, 0-1 3Pt), two assists and one steal in seven minutes during Tuesday's 130-103 win over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-mclaughlin-news-rare-appearance-in-victory-536423"
   }
  ]
 }

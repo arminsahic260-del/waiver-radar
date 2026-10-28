@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:21:24Z",
+ "updated": "2026-10-28T19:39:38Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -144,10 +144,30 @@
   },
   {
    "team": "DAL",
+   "player": "Santi Aldama",
+   "pos": "C",
+   "updated": "2026-10-28",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "DAL",
    "player": "Sergio de Larrea",
    "pos": "SG",
    "updated": "2026-10-27",
    "injury": "Knee",
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
+  },
+  {
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "pos": "SF",
+   "updated": "2026-10-28",
+   "injury": "Heel",
    "status": "Expected return: at least Oct 30",
    "kind": "out",
    "ret": "2026-10-30"
@@ -178,26 +198,6 @@
    "pos": "SG",
    "updated": "2026-10-26",
    "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-10-27",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "pos": "SF",
-   "updated": "2026-10-27",
-   "injury": "Heel",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -384,6 +384,16 @@
   },
   {
    "team": "IND",
+   "player": "Tyrese Haliburton",
+   "pos": "PG",
+   "updated": "2026-10-28",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "IND",
    "player": "Aaron Nesmith",
    "pos": "SF",
    "updated": "2026-10-27",
@@ -408,16 +418,6 @@
    "pos": "PF",
    "updated": "2026-10-27",
    "injury": "Hand",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Tyrese Haliburton",
-   "pos": "PG",
-   "updated": "2026-10-28",
-   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -548,9 +548,9 @@
    "pos": "PG",
    "updated": "2026-10-28",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 30",
+   "kind": "out",
+   "ret": "2026-10-30"
   },
   {
    "team": "OKC",
@@ -818,9 +818,9 @@
    "pos": "PF",
    "updated": "2026-10-28",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
   },
   {
    "team": "TOR",
@@ -906,11 +906,11 @@
    "team": "WAS",
    "player": "Justin Champagnie",
    "pos": "SF",
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "injury": "Foot",
-   "status": "Expected return: at least Oct 30",
+   "status": "Expected return: at least Feb 25",
    "kind": "out",
-   "ret": "2026-10-30"
+   "ret": "2027-02-25"
   },
   {
    "team": "WAS",
