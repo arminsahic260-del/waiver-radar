@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:22:03Z",
+ "updated": "2026-10-28T08:22:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -359,11 +359,14 @@
    "horizon": "Do ~1.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kristaps Porzingis",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6589,
+   "waivers": {
+    "Legendi": "2026-10-29"
+   },
    "fpts": 21.6,
    "gp": 3,
    "cur": 16.3
@@ -793,22 +796,23 @@
        "gtd": false
       },
       {
-       "player": "Day'Ron Sharpe",
-       "team": "BKN",
-       "pos": "C",
-       "espnId": 4432194,
-       "fpts": 21.2,
-       "mpg": 20.1,
+       "player": "Draymond Green",
+       "team": "GSW",
+       "pos": "PF/C",
+       "espnId": 6589,
+       "fpts": 21.6,
+       "mpg": 27.0,
        "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 19.2,
-       "matchup": "DET @ BKN",
+       "gp": 3,
+       "cur": 16.3,
+       "matchup": "LAL @ GSW",
        "dates": [
         "2026-10-30",
         "2026-11-01"
        ],
-       "value": 42.4,
-       "gtd": false
+       "value": 43.2,
+       "gtd": false,
+       "waiver": "2026-10-29"
       }
      ]
     },
