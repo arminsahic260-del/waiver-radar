@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:36:56Z",
+ "updated": "2026-10-28T07:22:03Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-28T06:36:56Z",
+   "updated": "2026-10-28T07:22:02Z",
    "adds": {
     "period": 2,
     "used": 4,
@@ -16,80 +16,10 @@
    },
    "players": [
     {
-     "name": "Darius Acuff Jr.",
-     "team": "SAC",
-     "pos": "PG",
-     "slot": "PG",
-     "espnId": 5142620,
-     "gp": 4,
-     "cur": 25.8,
-     "proj": 30.4,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 103,
-      "round": 8,
-      "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
-     "slot": "SG",
-     "espnId": 4433137,
-     "gp": 4,
-     "cur": 26.8,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Ronald Holland II",
-     "team": "DET",
-     "pos": "SF/PF",
-     "slot": "SF",
-     "espnId": 4683771,
-     "gp": 4,
-     "cur": 18.2,
-     "proj": 16.1,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Paul Reed",
-     "team": "DET",
-     "pos": "PF/C",
-     "slot": "PF",
-     "espnId": 4278562,
-     "gp": 4,
-     "cur": 33.5,
-     "proj": 20.4,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Donovan Clingan",
-     "team": "POR",
-     "pos": "C",
-     "slot": "C",
-     "espnId": 5105565,
-     "gp": 3,
-     "cur": 27.0,
-     "proj": 33.9,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 75,
-      "round": 6,
-      "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
      "name": "Trae Young",
      "team": "WAS",
      "pos": "PG",
-     "slot": "G",
+     "slot": "PG",
      "espnId": 4277905,
      "gp": 4,
      "cur": 43.5,
@@ -98,6 +28,81 @@
      "draft": {
       "pick": 19,
       "round": 2,
+      "roundPick": 5,
+      "teamId": 1
+     }
+    },
+    {
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
+     "slot": "SG",
+     "espnId": 2991230,
+     "gp": 3,
+     "cur": 31.7,
+     "proj": 33.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 94,
+      "round": 7,
+      "roundPick": 10,
+      "teamId": 1
+     }
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
+     "slot": "SF",
+     "espnId": 5175737,
+     "gp": 4,
+     "cur": 40.0,
+     "proj": 23.5,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 122,
+      "round": 9,
+      "roundPick": 10,
+      "teamId": 1
+     }
+    },
+    {
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
+     "slot": "PF",
+     "espnId": 4278355,
+     "gp": 4,
+     "cur": 30.0,
+     "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Paul Reed",
+     "team": "DET",
+     "pos": "PF/C",
+     "slot": "C",
+     "espnId": 4278562,
+     "gp": 4,
+     "cur": 32.5,
+     "proj": 20.4,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Kyrie Irving",
+     "team": "DAL",
+     "pos": "PG",
+     "slot": "G",
+     "espnId": 6442,
+     "gp": 3,
+     "cur": 34.3,
+     "proj": 44.2,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 47,
+      "round": 4,
       "roundPick": 5,
       "teamId": 1
      }
@@ -120,27 +125,51 @@
      }
     },
     {
-     "name": "Kyrie Irving",
-     "team": "DAL",
-     "pos": "PG",
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
      "slot": "UTIL",
-     "espnId": 6442,
+     "espnId": 4433137,
+     "gp": 4,
+     "cur": 26.8,
+     "proj": 19.7,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Saddiq Bey",
+     "team": "NOP",
+     "pos": "SF/PF",
+     "slot": "UTIL",
+     "espnId": 4397136,
      "gp": 3,
-     "cur": 34.3,
-     "proj": 44.2,
-     "acq": "DRAFT",
+     "cur": 23.3,
+     "proj": 25.9,
+     "acq": "ADD",
      "draft": {
-      "pick": 47,
-      "round": 4,
-      "roundPick": 5,
-      "teamId": 1
+      "pick": 149,
+      "round": 11,
+      "roundPick": 9,
+      "teamId": 12
      }
+    },
+    {
+     "name": "Ronald Holland II",
+     "team": "DET",
+     "pos": "SF/PF",
+     "slot": "UTIL",
+     "espnId": 4683771,
+     "gp": 4,
+     "cur": 18.2,
+     "proj": 16.1,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Ivica Zubac",
      "team": "IND",
      "pos": "C",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 4017837,
      "gp": 3,
      "cur": 21.7,
@@ -154,66 +183,37 @@
      }
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
-     "pos": "PG/SG",
-     "slot": "UTIL",
-     "espnId": 2991230,
+     "name": "Donovan Clingan",
+     "team": "POR",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 5105565,
      "gp": 3,
-     "cur": 31.7,
-     "proj": 33.4,
+     "cur": 27.0,
+     "proj": 33.9,
      "acq": "DRAFT",
      "draft": {
-      "pick": 94,
-      "round": 7,
-      "roundPick": 10,
+      "pick": 75,
+      "round": 6,
+      "roundPick": 5,
       "teamId": 1
      }
     },
     {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
-     "pos": "SF/PF",
+     "name": "Darius Acuff Jr.",
+     "team": "SAC",
+     "pos": "PG",
      "slot": "BE",
-     "espnId": 5175737,
+     "espnId": 5142620,
      "gp": 4,
-     "cur": 40.0,
-     "proj": 23.5,
+     "cur": 25.8,
+     "proj": 30.4,
      "acq": "DRAFT",
      "draft": {
-      "pick": 122,
-      "round": 9,
-      "roundPick": 10,
+      "pick": 103,
+      "round": 8,
+      "roundPick": 5,
       "teamId": 1
-     }
-    },
-    {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "BE",
-     "espnId": 4278355,
-     "gp": 4,
-     "cur": 30.0,
-     "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Saddiq Bey",
-     "team": "NOP",
-     "pos": "SF/PF",
-     "slot": "BE",
-     "espnId": 4397136,
-     "gp": 3,
-     "cur": 23.3,
-     "proj": 25.9,
-     "acq": "ADD",
-     "draft": {
-      "pick": 149,
-      "round": 11,
-      "roundPick": 9,
-      "teamId": 12
      }
     },
     {
@@ -242,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-28T06:36:56Z",
+   "updated": "2026-10-28T07:22:03Z",
    "adds": {
     "period": 2,
     "used": 1,
@@ -267,73 +267,10 @@
      }
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
-     "slot": "SG",
-     "espnId": 4433137,
-     "gp": 4,
-     "cur": 26.8,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
-     "slot": "SF",
-     "espnId": 5041939,
-     "gp": 3,
-     "cur": 59.3,
-     "proj": 45.4,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 11,
-      "round": 1,
-      "roundPick": 11,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "Jaden McDaniels",
-     "team": "MIN",
-     "pos": "SF/PF",
-     "slot": "PF",
-     "espnId": 4431671,
-     "gp": 4,
-     "cur": 35.5,
-     "proj": 29.7,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 102,
-      "round": 8,
-      "roundPick": 4,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "Neemias Queta",
-     "team": "BOS",
-     "pos": "C",
-     "slot": "C",
-     "espnId": 4397424,
-     "gp": 4,
-     "cur": 20.5,
-     "proj": 27.2,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 130,
-      "round": 10,
-      "roundPick": 4,
-      "teamId": 5
-     }
-    },
-    {
      "name": "Jaylen Brown",
      "team": "PHI",
      "pos": "SG/SF",
-     "slot": "G",
+     "slot": "SG",
      "espnId": 3917376,
      "gp": 4,
      "cur": 36.0,
@@ -347,10 +284,27 @@
      }
     },
     {
+     "name": "Jaden McDaniels",
+     "team": "MIN",
+     "pos": "SF/PF",
+     "slot": "SF",
+     "espnId": 4431671,
+     "gp": 4,
+     "cur": 35.5,
+     "proj": 29.7,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 102,
+      "round": 8,
+      "roundPick": 4,
+      "teamId": 5
+     }
+    },
+    {
      "name": "Peyton Watson",
      "team": "CLE",
      "pos": "SF/PF",
-     "slot": "F",
+     "slot": "PF",
      "espnId": 4576087,
      "gp": 3,
      "cur": 27.0,
@@ -367,7 +321,7 @@
      "name": "Alperen Sengun",
      "team": "HOU",
      "pos": "C",
-     "slot": "UTIL",
+     "slot": "C",
      "espnId": 4871144,
      "gp": 4,
      "cur": 51.0,
@@ -384,7 +338,7 @@
      "name": "Keyonte George",
      "team": "UTA",
      "pos": "PG/SG",
-     "slot": "UTIL",
+     "slot": "G",
      "espnId": 4433627,
      "gp": 4,
      "cur": 38.5,
@@ -396,6 +350,18 @@
       "roundPick": 11,
       "teamId": 5
      }
+    },
+    {
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
+     "slot": "F",
+     "espnId": 4278355,
+     "gp": 4,
+     "cur": 30.0,
+     "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Kel'el Ware",
@@ -418,7 +384,7 @@
      "name": "Brook Lopez",
      "team": "LAC",
      "pos": "C",
-     "slot": "BE",
+     "slot": "UTIL",
      "espnId": 3448,
      "gp": 3,
      "cur": 35.0,
@@ -432,22 +398,10 @@
      }
     },
     {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "BE",
-     "espnId": 4278355,
-     "gp": 4,
-     "cur": 30.0,
-     "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
      "name": "Bilal Coulibaly",
      "team": "WAS",
      "pos": "SG/SF",
-     "slot": "BE",
+     "slot": "UTIL",
      "espnId": 5104155,
      "gp": 4,
      "cur": 21.0,
@@ -459,6 +413,52 @@
       "roundPick": 12,
       "teamId": 1
      }
+    },
+    {
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "BE",
+     "espnId": 5041939,
+     "gp": 3,
+     "cur": 59.3,
+     "proj": 45.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 11,
+      "round": 1,
+      "roundPick": 11,
+      "teamId": 5
+     }
+    },
+    {
+     "name": "Neemias Queta",
+     "team": "BOS",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 4397424,
+     "gp": 4,
+     "cur": 20.5,
+     "proj": 27.2,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 130,
+      "round": 10,
+      "roundPick": 4,
+      "teamId": 5
+     }
+    },
+    {
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
+     "slot": "BE",
+     "espnId": 4433137,
+     "gp": 4,
+     "cur": 26.8,
+     "proj": 19.7,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "VJ Edgecombe",
