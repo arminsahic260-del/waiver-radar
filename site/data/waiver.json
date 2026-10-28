@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:22:00Z",
+ "updated": "2026-10-28T13:13:24Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -331,6 +331,28 @@
    "cur": 9.0
   },
   {
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Anthony Edwards (koljeno) je out najmanje do 21.12. Ayo Dosunmu je sljedeći PG/SG u rotaciji MIN-a za te minute; ~26.4 FP po utakmici (ove sezone 23.8 u 4 utk., prošle sezone 29.0; 27 min).",
+   "role": "Veća minutaža dok je out Anthony Edwards",
+   "horizon": "Do ~21.12. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Anthony Edwards",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397002,
+   "waivers": {
+    "Legendi": "2026-10-30"
+   },
+   "fpts": 26.4,
+   "gp": 4,
+   "cur": 23.8
+  },
+  {
    "player": "Draymond Green",
    "team": "GSW",
    "pos": "PF/C",
@@ -522,25 +544,6 @@
    "fpts": 14.0,
    "gp": 4,
    "cur": 14.0
-  },
-  {
-   "player": "Bones Hyland",
-   "team": "MIN",
-   "pos": "PG",
-   "priority": 3,
-   "reason": "Anthony Edwards (koljeno) je out najmanje do 21.12. Bones Hyland je sljedeći PG u rotaciji MIN-a za te minute; ~13.3 FP po utakmici (ove sezone 8.8 u 4 utk., prošle sezone 17.8; 12 min).",
-   "role": "Veća minutaža dok je out Anthony Edwards",
-   "horizon": "Do ~21.12. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Anthony Edwards; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4592492,
-   "fpts": 13.3,
-   "gp": 4,
-   "cur": 8.8
   },
   {
    "player": "Colin Castleton",
@@ -759,6 +762,25 @@
      "planned": [],
      "picks": [
       {
+       "player": "Ayo Dosunmu",
+       "team": "MIN",
+       "pos": "PG/SG",
+       "espnId": 4397002,
+       "fpts": 26.4,
+       "mpg": 26.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 23.8,
+       "matchup": "LAC @ MIN",
+       "dates": [
+        "2026-10-30",
+        "2026-10-31"
+       ],
+       "value": 52.8,
+       "gtd": false,
+       "waiver": "2026-10-30"
+      },
+      {
        "player": "Dennis Schroder",
        "team": "CHA",
        "pos": "PG",
@@ -794,25 +816,6 @@
        ],
        "value": 43.8,
        "gtd": false
-      },
-      {
-       "player": "Draymond Green",
-       "team": "GSW",
-       "pos": "PF/C",
-       "espnId": 6589,
-       "fpts": 21.6,
-       "mpg": 27.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 16.3,
-       "matchup": "LAL @ GSW",
-       "dates": [
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 43.2,
-       "gtd": false,
-       "waiver": "2026-10-29"
       }
      ]
     },
@@ -901,8 +904,8 @@
        "from": "2026-10-29"
       },
       {
-       "player": "Dennis Schroder",
-       "team": "CHA",
+       "player": "Ayo Dosunmu",
+       "team": "MIN",
        "from": "2026-10-30"
       }
      ],

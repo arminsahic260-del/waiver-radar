@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-28T12:21:55Z",
+ "updated": "2026-10-28T13:13:19Z",
  "items": [
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Scores 17 points off bench",
+   "note": "Brown tallied 17 points (5-17 FG, 4-11 3Pt, 3-3 FT), five rebounds and five assists across 28 minutes in Tuesday's 125-124 overtime loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-scores-17-points-off-bench-536434"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
+   "player": "Julius Randle",
+   "headline": "Scores 24 points Tuesday",
+   "note": "Randle registered 24 points (10-23 FG, 0-7 3Pt, 4-5 FT), nine rebounds, four assists and two steals across 44 minutes in Tuesday's 125-124 overtime loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/julius-randle-news-scores-24-points-tuesday-536433"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "BKN",
+   "player": "Nolan Traore",
+   "headline": "Solid all-around effort in overtime defeat",
+   "note": "Traore posted 15 points (6-9 FG, 1-2 3Pt, 2-4 FT), a rebound, three assists and two steals across 24 minutes in Tuesday's 125-124 overtime loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-solid-all-around-effort-in-overtime-defeat-536432"
+  },
   {
    "date": "2026-10-28",
    "team": "POR",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-scores-13-off-bench-536296"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BOS",
-   "player": "Payton Pritchard",
-   "headline": "Catches fire from deep",
-   "note": "Pritchard registered 28 points (10-16 FG, 7-10 3Pt, 1-1 FT), one rebound, four assists and two steals across 22 minutes during Monday's 134-99 victory over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-catches-fire-from-deep-536295"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Keon Ellis",
-   "headline": "Headed to bench",
-   "note": "Ellis will come off the bench in Tuesday's meeting with the Celtics, C.J. Holmes of the New York Daily News reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keon-ellis-news-headed-to-bench-536401"
-  },
-  {
-   "date": "2026-10-27",
-   "team": "BKN",
-   "player": "Nolan Traore",
-   "headline": "Draws first start of season",
-   "note": "Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-draws-first-start-of-season-536400"
   }
  ]
 }
