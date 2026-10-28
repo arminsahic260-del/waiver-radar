@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:22:03Z",
+ "updated": "2026-10-28T09:22:00Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -69,7 +69,7 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/deandre-jordan-news-starting-saturday-535915",
@@ -108,7 +108,7 @@
    "risk": "Uloga pada kad se vrati Jaren Jackson Jr.",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4277919,
@@ -400,7 +400,7 @@
    "horizon": "Dan-dva, ovisi o statusu",
    "risk": "Uloga pada kad se vrati Kyrie Irving",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
@@ -598,9 +598,9 @@
     },
     {
      "league": "Banijska",
-     "mine": 11,
+     "mine": 12,
      "open": 0,
-     "sitting": 1,
+     "sitting": 2,
      "adds": 6,
      "addsLimit": 7,
      "planned": [],
@@ -818,8 +818,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 8,
-     "open": 2,
+     "mine": 9,
+     "open": 1,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -963,8 +963,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 6,
-     "open": 3,
+     "mine": 7,
+     "open": 2,
      "sitting": 0,
      "adds": 4,
      "addsLimit": 7,
@@ -976,23 +976,6 @@
       }
      ],
      "picks": [
-      {
-       "player": "Mo Bamba",
-       "team": "UTA",
-       "pos": "C",
-       "espnId": 4277919,
-       "fpts": 43.0,
-       "mpg": 29.0,
-       "basis": "sezona",
-       "gp": 1,
-       "cur": 43.0,
-       "matchup": "POR @ UTA",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 43.0,
-       "gtd": false
-      },
       {
        "player": "Isaiah Collier",
        "team": "UTA",
@@ -1020,6 +1003,23 @@
        "basis": "sezona+prošla sezona",
        "gp": 4,
        "cur": 17.2,
+       "matchup": "SAC @ MEM",
+       "dates": [
+        "2026-10-31"
+       ],
+       "value": 22.2,
+       "gtd": false
+      },
+      {
+       "player": "Javon Small",
+       "team": "MEM",
+       "pos": "PG",
+       "espnId": 4781746,
+       "fpts": 22.2,
+       "mpg": 20.2,
+       "basis": "prošla sezona",
+       "gp": 0,
+       "cur": null,
        "matchup": "SAC @ MEM",
        "dates": [
         "2026-10-31"
@@ -1131,9 +1131,9 @@
     },
     {
      "league": "Banijska",
-     "mine": 12,
+     "mine": 13,
      "open": 0,
-     "sitting": 2,
+     "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
      "planned": [],
