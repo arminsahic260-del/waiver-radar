@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:22:10Z",
+ "updated": "2026-10-28T18:57:45Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -569,7 +569,7 @@
    "team": "HOU",
    "pos": "SG/SF",
    "priority": 3,
-   "reason": "Marcus Smart (forearm) je out najmanje do 30.10. — nova ozljeda. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.7 FP po utakmici (ove sezone 11.2 u 4 utk., prošle sezone 14.1; 17 min).",
+   "reason": "Marcus Smart (forearm) je out najmanje do 30.10. Bogdan Bogdanovic je sljedeći SG/SF u rotaciji HOU-a za te minute; ~12.7 FP po utakmici (ove sezone 11.2 u 4 utk., prošle sezone 14.1; 17 min).",
    "role": "Veća minutaža dok je out Marcus Smart",
    "horizon": "Do ~30.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Marcus Smart; nizak bodovni plafon",
