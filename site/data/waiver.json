@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:40:28Z",
+ "updated": "2026-10-28T20:22:29Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -242,7 +242,7 @@
    "team": "IND",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 9.11. — nova ozljeda. Aaron Nesmith je prvi SG/SF u rotaciji IND-a za te minute; ~20.2 FP po utakmici (ove sezone 16.0 u 3 utk., prošle sezone 23.3; 26 min).",
+   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 9.11. Aaron Nesmith je prvi SG/SF u rotaciji IND-a za te minute; ~20.2 FP po utakmici (ove sezone 16.0 u 3 utk., prošle sezone 23.3; 26 min).",
    "role": "Veća minutaža dok je out Tyrese Haliburton",
    "horizon": "Do ~9.11. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Tyrese Haliburton",
@@ -455,7 +455,7 @@
    "team": "IND",
    "pos": "PG/SG",
    "priority": 3,
-   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 9.11. — nova ozljeda. Quenton Jackson je sljedeći PG/SG u rotaciji IND-a za te minute; ~17.2 FP po utakmici (ove sezone 16.8 u 4 utk., prošle sezone 17.7; 19 min).",
+   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 9.11. Quenton Jackson je sljedeći PG/SG u rotaciji IND-a za te minute; ~17.2 FP po utakmici (ove sezone 16.8 u 4 utk., prošle sezone 17.7; 19 min).",
    "role": "Veća minutaža dok je out Tyrese Haliburton",
    "horizon": "Do ~9.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tyrese Haliburton; nizak bodovni plafon",
@@ -493,7 +493,7 @@
    "team": "DAL",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Santi Aldama (koljeno) je out najmanje do 30.10. — nova ozljeda. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~16.2 FP po utakmici (ove sezone 9.0 u 4 utk., ESPN projekcija 23.5; 20 min).",
+   "reason": "Santi Aldama (koljeno) je out najmanje do 30.10. Morez Johnson Jr. je sljedeći PF/C u rotaciji DAL-a za te minute; ~16.2 FP po utakmici (ove sezone 9.0 u 4 utk., ESPN projekcija 23.5; 20 min).",
    "role": "Veća minutaža dok je out Santi Aldama",
    "horizon": "Do ~30.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Santi Aldama; nizak bodovni plafon",
@@ -569,7 +569,7 @@
    "team": "SAS",
    "pos": "C",
    "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 31.10. — nova ozljeda. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~14.0 FP po utakmici (ove sezone 6.0 u 4 utk., prošle sezone 22.1; 18 min).",
+   "reason": "Tobias Harris (list) je out najmanje do 31.10. Luke Kornet je sljedeći C u rotaciji SAS-a za te minute; ~14.0 FP po utakmici (ove sezone 6.0 u 4 utk., prošle sezone 22.1; 18 min).",
    "role": "Veća minutaža dok je out Tobias Harris",
    "horizon": "Do ~31.10. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris; nizak bodovni plafon",
