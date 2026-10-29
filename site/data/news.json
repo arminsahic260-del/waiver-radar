@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-29T16:59:27Z",
+ "updated": "2026-10-29T17:21:54Z",
  "items": [
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
+   "player": "Nolan Traore",
+   "headline": "Team option picked up",
+   "note": "The Nets exercised Traore's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-team-option-picked-up-536678"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "Third-year option picked up",
+   "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-third-year-option-picked-up-536676"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
+   "player": "Danny Wolf",
+   "headline": "Team option exercised",
+   "note": "The Nets exercised Wolf's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-team-option-exercised-536675"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "headline": "Listed as questionable",
+   "note": "Thomas (foot) is questionable for Thursday's game in Atlanta.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-listed-as-questionable-536674"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "headline": "Iffy for Thursday",
+   "note": "Tyson (neck) is questionable for Thursday's game against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-iffy-for-thursday-536672"
+  },
   {
    "date": "2026-10-29",
    "team": "NOP",
@@ -203,13 +253,23 @@
   },
   {
    "date": "2026-10-29",
-   "team": "SAS",
-   "player": "Devin Vassell",
-   "headline": "Drops 21 points in win",
-   "note": "Vassell racked up 21 points (8-18 FG, 1-7 3Pt, 4-4 FT), five rebounds, two assists and three steals in 38 minutes during Wednesday's 117-111 overtime win over Utah.",
+   "team": "DAL",
+   "player": "Daniel Gafford",
+   "headline": "Strong showing on glass in win",
+   "note": "Gafford produced seven points (3-4 FG, 1-1 3Pt), 11 rebounds, two assists and two blocks over 27 minutes during Wednesday's 120-96 victory over the Thunder.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-drops-21-points-in-win-536642"
+   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-strong-showing-on-glass-in-win-536632"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "P.J. Washington",
+   "headline": "Just misses double-double Wednesday",
+   "note": "Washington supplied 18 points (7-16 FG, 2-7 3Pt, 2-2 FT), nine rebounds and one block over 27 minutes during Wednesday's 120-96 win over Oklahoma City.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-just-misses-double-double-wednesday-536631"
   },
   {
    "date": "2026-10-29",
@@ -250,26 +310,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/keaton-wagler-news-drops-team-high-21-off-bench-in-loss-536638"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "headline": "Strong showing on glass in win",
-   "note": "Gafford produced seven points (3-4 FG, 1-1 3Pt), 11 rebounds, two assists and two blocks over 27 minutes during Wednesday's 120-96 victory over the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-strong-showing-on-glass-in-win-536632"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Just misses double-double Wednesday",
-   "note": "Washington supplied 18 points (7-16 FG, 2-7 3Pt, 2-2 FT), nine rebounds and one block over 27 minutes during Wednesday's 120-96 win over Oklahoma City.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-just-misses-double-double-wednesday-536631"
   },
   {
    "date": "2026-10-29",
@@ -350,6 +390,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-big-usage-again-in-wednesdays-loss-536628"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "SAS",
+   "player": "Devin Vassell",
+   "headline": "Drops 21 points in win",
+   "note": "Vassell racked up 21 points (8-18 FG, 1-7 3Pt, 4-4 FT), five rebounds, two assists and three steals in 38 minutes during Wednesday's 117-111 overtime win over Utah.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-drops-21-points-in-win-536642"
   },
   {
    "date": "2026-10-28",
@@ -543,36 +593,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Cameron Carr",
-   "headline": "Missing fifth straight contest",
-   "note": "Carr (oblique) is out for Wednesday's game against the Clippers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-missing-fifth-straight-contest-536523"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Adou Thiero",
-   "headline": "Remains sidelined",
-   "note": "Thiero (knee) is out for Wednesday's game against the Clippers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-remains-sidelined-536522"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Ruled out Wednesday",
-   "note": "Williams (foot) is out for Wednesday's game against the Clippers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-ruled-out-wednesday-536520"
-  },
-  {
-   "date": "2026-10-28",
    "team": "ATL",
    "player": "Kingston Flemings",
    "headline": "Nets career-high 23 points in loss",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kingston-flemings-news-nets-career-high-23-points-in-loss-536595"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Hands out seven dimes with four stocks",
-   "note": "Daniels accumulated seven points (3-7 FG, 0-1 3Pt, 1-2 FT), four rebounds, seven assists, one block and three steals across 28 minutes during Wednesday's 129-117 loss to Miami.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-hands-out-seven-dimes-with-four-stocks-536594"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "headline": "Three-point shooting woes continue",
-   "note": "Johnson finished Wednesday's 129-117 loss to the Heat with 12 points (4-12 FG, 2-4 3Pt, 2-3 FT), nine rebounds, 11 assists and two blocks in 36 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-three-point-shooting-woes-continue-536591"
   }
  ]
 }

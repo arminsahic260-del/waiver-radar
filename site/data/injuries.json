@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:58:54Z",
+ "updated": "2026-10-29T17:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -26,11 +26,11 @@
    "team": "BKN",
    "player": "Egor Demin",
    "pos": "PG",
-   "updated": "2026-10-27",
+   "updated": "2026-10-29",
    "injury": "Leg",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 7",
+   "kind": "out",
+   "ret": "2026-11-07"
   },
   {
    "team": "BKN",
@@ -121,6 +121,26 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
+  },
+  {
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "pos": "SF",
+   "updated": "2026-10-29",
+   "injury": "Neck",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "pos": "PG",
+   "updated": "2026-10-29",
+   "injury": "Foot",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
