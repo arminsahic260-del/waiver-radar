@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-29T13:21:55Z",
+ "updated": "2026-10-29T14:21:50Z",
  "items": [
+  {
+   "date": "2026-10-29",
+   "team": "LAC",
+   "player": "Derrick Jones",
+   "headline": "Busy at both ends of court in loss",
+   "note": "Jones amassed 15 points (6-10 FG, 3-5 3Pt), five rebounds, two blocks and four steals across 28 minutes during Wednesday's 103-87 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-busy-at-both-ends-of-court-in-loss-536637"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Sandro Mamukelashvili",
+   "headline": "Productive off bench Wednesday",
+   "note": "Mamukelashvili closed Wednesday's 103-87 victory over the Clippers with 13 points (6-15 FG, 0-5 3Pt, 1-1 FT), eight rebounds, three assists, one block and two steals over 30 minutes off the bench.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-productive-off-bench-wednesday-536636"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Collin Sexton",
+   "headline": "Leads bench in Wednesday's win",
+   "note": "Sexton had 21 points (6-11 FG, 4-7 3Pt, 5-8 FT), four rebounds and two assists over 21 minutes off the bench during Wednesday's 103-87 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-leads-bench-in-wednesdays-win-536635"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "headline": "Big defensive effort in spot start",
+   "note": "LaRavia had two points (1-2 FG), 10 rebounds, two blocks and three steals across 35 minutes during Wednesday's 103-87 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-big-defensive-effort-in-spot-start-536634"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Austin Reaves",
+   "headline": "Hits for 16 in Wednesday's win",
+   "note": "Reaves produced 16 points (6-16 FG, 1-6 3Pt, 3-4 FT), six rebounds, one assist and one steal across 31 minutes during Wednesday's 103-87 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-hits-for-16-in-wednesdays-win-536633"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Daniel Gafford",
+   "headline": "Strong showing on glass in win",
+   "note": "Gafford produced seven points (3-4 FG, 1-1 3Pt), 11 rebounds, two assists and two blocks over 27 minutes during Wednesday's 120-96 victory over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-strong-showing-on-glass-in-win-536632"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "P.J. Washington",
+   "headline": "Just misses double-double Wednesday",
+   "note": "Washington supplied 18 points (7-16 FG, 2-7 3Pt, 2-2 FT), nine rebounds and one block over 27 minutes during Wednesday's 120-96 win over Oklahoma City.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-just-misses-double-double-wednesday-536631"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "OKC",
+   "player": "Isaiah Hartenstein",
+   "headline": "Double-double in Wednesday's loss",
+   "note": "Hartenstein accumulated 10 points (4-6 FG, 2-2 FT), 14 rebounds and three assists across 26 minutes during Wednesday's 120-96 loss to the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-hartenstein-news-double-double-in-wednesdays-loss-536630"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "OKC",
+   "player": "Shai Gilgeous-Alexander",
+   "headline": "Gets little help in Wednesday's loss",
+   "note": "Gilgeous-Alexander produced 21 points (7-19 FG, 1-6 3Pt, 6-6 FT), six rebounds, two assists and one steal in 28 minutes during Wednesday's 120-96 loss to the Mavericks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-gets-little-help-in-wednesdays-loss-536629"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "OKC",
+   "player": "Ajay Mitchell",
+   "headline": "Big usage again in Wednesday's loss",
+   "note": "Mitchell finished Wednesday's 120-96 loss to the Mavericks with 29 points (12-20 FG, 2-5 3Pt, 3-3 FT), four rebounds, three assists, one block and two steals across 28 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-big-usage-again-in-wednesdays-loss-536628"
+  },
   {
    "date": "2026-10-28",
    "team": "IND",
@@ -150,106 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-dishes-out-eight-assists-in-win-536612"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Cade Cunningham",
-   "headline": "Well-rounded outing in win",
-   "note": "Cunningham contributed 30 points (10-22 FG, 4-9 3Pt, 6-8 FT), seven assists, five rebounds and two steals across 39 minutes in Wednesday's 97-89 win over Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-well-rounded-outing-in-win-536611"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Adds 14 points in loss",
-   "note": "Schroder supplied 14 points (6-10 FG, 2-3 3Pt), five assists and four rebounds across 34 minutes in Wednesday's 97-89 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-adds-14-points-in-loss-536610"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHA",
-   "player": "Naz Reid",
-   "headline": "Benched in second half Wednesday",
-   "note": "Reid recorded seven points (2-6 FG, 1-1 3Pt, 2-2 FT), six rebounds and one block across 13 minutes in Wednesday's 97-89 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-benched-in-second-half-wednesday-536609"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHI",
-   "player": "Josh Giddey",
-   "headline": "Falls short of triple-double",
-   "note": "Giddey ended with 10 points (4-9 FG, 1-1 3Pt, 1-1 FT), eight rebounds, 11 assists and one steal over 31 minutes in Wednesday's 133-127 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-news-falls-short-of-triple-double-536608"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHA",
-   "player": "Brandon Miller",
-   "headline": "Drops 31 points in defeat",
-   "note": "Miller amassed 31 points (12-26 FG, 3-10 3Pt, 4-5 FT), 12 rebounds, three assists and two steals across 38 minutes in Wednesday's 97-89 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-drops-31-points-in-defeat-536607"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHI",
-   "player": "Matas Buzelis",
-   "headline": "Solid showing in loss to Knicks",
-   "note": "Buzelis finished with 17 points (5-13 FG, 3-6 3Pt, 4-6 FT), five rebounds, three assists, one steal and one block over 33 minutes in Wednesday's 133-127 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-solid-showing-in-loss-to-knicks-536606"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHI",
-   "player": "Caleb Wilson",
-   "headline": "Productive rookie year continues",
-   "note": "Wilson finished with 20 points (7-18 FG, 3-8 3Pt, 3-4 FT), six rebounds, four assists, two steals and one block over 38 minutes in Wednesday's 133-127 loss to New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-productive-rookie-year-continues-536605"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHI",
-   "player": "Norman Powell",
-   "headline": "Leads Chicago in scoring Wednesday",
-   "note": "Powell finished with 30 points (10-15 FG, 4-9 3Pt, 6-9 FT), two rebounds, two assists and one steal over 37 minutes in Wednesday's 133-127 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/norman-powell-news-leads-chicago-in-scoring-wednesday-536604"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "OG Anunoby",
-   "headline": "Productive in win over Bulls",
-   "note": "Anunoby finished with 23 points (7-16 FG, 2-6 3Pt, 7-8 FT), six rebounds and one assist across 31 minutes in Wednesday's 133-127 win over Chicago.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/og-anunoby-news-productive-in-win-over-bulls-536603"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Well-rounded showing in win",
-   "note": "Capela chipped in 10 points (5-6 FG), eight rebounds, three steals, two assists and two blocks across 22 minutes in Wednesday's 132-100 win over Milwaukee.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-news-well-rounded-showing-in-win-536602"
   },
   {
    "date": "2026-10-28",
