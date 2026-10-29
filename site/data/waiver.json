@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:21:58Z",
+ "updated": "2026-10-29T09:21:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -201,6 +201,28 @@
    "cur": 21.6
   },
   {
+   "player": "Nikola Vucevic",
+   "team": "ORL",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~21.3 FP po utakmici (ove sezone 9.0 u 4 utk., prošle sezone 33.6; 19 min).",
+   "role": "Veća minutaža dok je out Paolo Banchero",
+   "horizon": "Do ~22.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Paolo Banchero",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 6478,
+   "waivers": {
+    "Legendi": "2026-10-31"
+   },
+   "fpts": 21.3,
+   "gp": 4,
+   "cur": 9.0
+  },
+  {
    "player": "Aaron Nesmith",
    "team": "IND",
    "pos": "SG/SF",
@@ -296,25 +318,6 @@
    "fpts": 16.6,
    "gp": 4,
    "cur": 18.8
-  },
-  {
-   "player": "Goga Bitadze",
-   "team": "ORL",
-   "pos": "C",
-   "priority": 2,
-   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Goga Bitadze je prvi C u rotaciji ORL-a za te minute; ~15.5 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 19.1; 14 min).",
-   "role": "Veća minutaža dok je out Paolo Banchero",
-   "horizon": "Do ~22.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Paolo Banchero; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4348700,
-   "fpts": 15.5,
-   "gp": 3,
-   "cur": 10.7
   },
   {
    "player": "Jaylin Williams",
@@ -491,6 +494,25 @@
    "cur": 15.4
   },
   {
+   "player": "Goga Bitadze",
+   "team": "ORL",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Goga Bitadze je sljedeći C u rotaciji ORL-a za te minute; ~15.5 FP po utakmici (ove sezone 10.7 u 3 utk., prošle sezone 19.1; 14 min).",
+   "role": "Veća minutaža dok je out Paolo Banchero",
+   "horizon": "Do ~22.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Paolo Banchero; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4348700,
+   "fpts": 15.5,
+   "gp": 3,
+   "cur": 10.7
+  },
+  {
    "player": "Leaky Black",
    "team": "SAC",
    "pos": "SF",
@@ -565,25 +587,6 @@
    "fpts": 13.5,
    "gp": 4,
    "cur": 13.5
-  },
-  {
-   "player": "Georges Niang",
-   "team": "GSW",
-   "pos": "PF",
-   "priority": 3,
-   "reason": "RotoWire 28.10.: Starting Wednesday. Niang is in the starting lineup for Wednesday's matchup with Minnesota, Nick Friedell of The Athletic reports. ~11.2 FP po utakmici (ove sezone, 5 utk., 19 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~11 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/georges-niang-news-starting-wednesday-536552",
-   "espnId": 2990969,
-   "fpts": 11.2,
-   "gp": 5,
-   "cur": 11.2
   }
  ],
  "days": [
