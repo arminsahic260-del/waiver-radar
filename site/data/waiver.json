@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:22:10Z",
+ "updated": "2026-10-29T21:53:29Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -23,6 +23,28 @@
    "fpts": 28.7,
    "gp": 5,
    "cur": 28.4
+  },
+  {
+   "player": "Tari Eason",
+   "team": "HOU",
+   "pos": "SF/PF",
+   "priority": 1,
+   "reason": "RotoWire 28.10.: Starting sans Sengun. Eason will start Wednesday's game against the Bucks, Lachard Binkley of SI.com reports. ~24.1 FP po utakmici (ove sezone 24.8 u 5 utk., prošle sezone 23.3; 25 min). Reed Sheppard (leđa) je out najmanje do 31.10.; Alperen Sengun (leđa) je upitan (GTD). Tari Eason je sljedeći SF/PF u rotaciji HOU-a za te minute; ~24.1 FP po utakmici (ove sezone 24.8 u 5 utk., prošle sezone 23.3; 25 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/tari-eason-news-starting-sans-sengun-536551",
+   "espnId": 4433192,
+   "waivers": {
+    "Legendi": "2026-10-31"
+   },
+   "fpts": 24.1,
+   "gp": 5,
+   "cur": 24.8
   },
   {
    "player": "Trevon Brazile",
@@ -171,7 +193,7 @@
    "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Dennis Schroder je prvi PG u rotaciji CHA-a za te minute; ~21.9 FP po utakmici (ove sezone 21.6 u 5 utk., prošle sezone 22.4; 29 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Coby White",
    "avail": {
     "Legendi": true,
     "Banijska": false
@@ -247,7 +269,7 @@
    "team": "IND",
    "pos": "C",
    "priority": 2,
-   "reason": "Ivica Zubac (gležanj) je out najmanje do 1.11. — nova ozljeda. Jay Huff je prvi C u rotaciji IND-a za te minute; ~20.0 FP po utakmici (ove sezone 15.0 u 4 utk., prošle sezone 25.0; 19 min).",
+   "reason": "Ivica Zubac (gležanj) je out najmanje do 1.11. Jay Huff je prvi C u rotaciji IND-a za te minute; ~20.0 FP po utakmici (ove sezone 15.0 u 4 utk., prošle sezone 25.0; 19 min).",
    "role": "Veća minutaža dok je out Ivica Zubac",
    "horizon": "Do ~1.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Ivica Zubac",
@@ -417,25 +439,6 @@
    "fpts": 20.0,
    "gp": 1,
    "cur": 24.0
-  },
-  {
-   "player": "Marcus Smart",
-   "team": "HOU",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Reed Sheppard (leđa) je out najmanje do 31.10. — nova ozljeda. Marcus Smart je sljedeći PG/SG u rotaciji HOU-a za te minute; ~18.7 FP po utakmici (ove sezone 12.5 u 2 utk., prošle sezone 21.8; 27 min).",
-   "role": "Veća minutaža dok je out Reed Sheppard",
-   "horizon": "Do ~31.10. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Reed Sheppard",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2990992,
-   "fpts": 18.7,
-   "gp": 2,
-   "cur": 12.5
   },
   {
    "player": "Allen Graves",
@@ -949,21 +952,22 @@
        "waiver": "2026-10-30"
       },
       {
-       "player": "Dennis Schroder",
-       "team": "CHA",
-       "pos": "PG",
-       "espnId": 3032979,
-       "fpts": 21.9,
-       "mpg": 28.9,
+       "player": "Tari Eason",
+       "team": "HOU",
+       "pos": "SF/PF",
+       "espnId": 4433192,
+       "fpts": 24.1,
+       "mpg": 25.4,
        "basis": "sezona+prošla sezona",
        "gp": 5,
-       "cur": 21.6,
-       "matchup": "PHI @ CHA",
+       "cur": 24.8,
+       "matchup": "OKC @ HOU",
        "dates": [
         "2026-10-31"
        ],
-       "value": 21.9,
-       "gtd": false
+       "value": 24.1,
+       "gtd": false,
+       "waiver": "2026-10-31"
       }
      ]
     },
