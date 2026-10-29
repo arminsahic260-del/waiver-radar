@@ -1,15 +1,255 @@
 {
- "updated": "2026-10-29T17:21:54Z",
+ "updated": "2026-10-29T18:21:54Z",
  "items": [
   {
    "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Nolan Traore",
-   "headline": "Team option picked up",
-   "note": "The Nets exercised Traore's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
-   "kind": "other",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Strong start continues",
+   "note": "Murray produced 10 points (4-11 FG, 0-2 3Pt, 2-2 FT), eight rebounds, five assists and one steal in 30 minutes during Wednesday's 104-91 loss to the Nuggets.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-team-option-picked-up-536678"
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-strong-start-continues-536713"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Stumbles in loss",
+   "note": "Murphy amassed six points (2-7 FG, 2-7 3Pt, 0-1 FT), one rebound, three assists and two steals across 30 minutes during Wednesday's 104-91 loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-news-stumbles-in-loss-536712"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "TOR",
+   "player": "Jamison Battle",
+   "headline": "Adds two steals in blowout",
+   "note": "Battle chipped in seven points (1-4 FG, 1-3 3Pt, 4-5 FT), one assist and two steals across 20 minutes during Wednesday's 129-99 victory over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamison-battle-news-adds-two-steals-in-blowout-536711"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "TOR",
+   "player": "Trayce Jackson-Davis",
+   "headline": "Dominant on glass",
+   "note": "Jackson-Davis registered six points (3-5 FG), 11 rebounds, two assists and two blocks over 20 minutes during Wednesday's 129-99 victory over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trayce-jackson-davis-news-dominant-on-glass-536710"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "ORL",
+   "player": "Jevon Carter",
+   "headline": "Quiet showing off bench",
+   "note": "Carter ended with six points (2-6 FG, 2-6 3Pt) and three assists across 22 minutes during Wednesday's 129-99 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jevon-carter-news-quiet-showing-off-bench-536709"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIN",
+   "player": "Joan Beringer",
+   "headline": "Season-high 10 rebounds",
+   "note": "Beringer provided seven points (3-3 FG, 1-3 FT), 10 rebounds, two assists and one block across 20 minutes during Wednesday's 119-114 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-season-high-10-rebounds-536708"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIN",
+   "player": "Rudy Gobert",
+   "headline": "Quiet in defeat",
+   "note": "Gobert produced one point (0-4 FG, 1-2 FT), four rebounds, one assist and one steal across 20 minutes during Wednesday's 119-114 loss to Golden State.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-news-quiet-in-defeat-536707"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "ORL",
+   "player": "Jamal Cain",
+   "headline": "Notches nine points",
+   "note": "Cain amassed nine points (2-7 FG, 0-2 3Pt, 5-5 FT), one rebound and two steals across 16 minutes during Wednesday's 129-99 loss to the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-cain-news-notches-nine-points-536706"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CLE",
+   "player": "Evan Mobley",
+   "headline": "Finds rhythm from deep",
+   "note": "Mobley had 24 points (8-12 FG, 5-6 3Pt, 3-4 FT), 12 rebounds and two assists over 32 minutes during Wednesday's 121-111 win over the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-finds-rhythm-from-deep-536705"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Morez Johnson",
+   "headline": "Settling into NBA action",
+   "note": "Johnson posted 10 points (4-6 FG, 2-2 FT), six rebounds and three assists over 18 minutes during Wednesday's 120-96 victory over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/morez-johnson-news-settling-into-nba-action-536704"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "WAS",
+   "player": "Anthony Davis",
+   "headline": "Puts up 18 points in loss",
+   "note": "Davis logged 18 points (8-18 FG, 2-5 3Pt), five rebounds, three assists, two blocks and one steal across 34 minutes during Wednesday's 121-111 loss to the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-davis-news-puts-up-18-points-in-loss-536703"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "WAS",
+   "player": "Alex Sarr",
+   "headline": "Strong two-way outing",
+   "note": "Sarr finished with 18 points (7-11 FG, 2-5 3Pt, 2-3 FT), four rebounds, two assists, one block and four steals across 26 minutes during Wednesday's 121-111 loss to the Cavaliers.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-strong-two-way-outing-536702"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Jaden Hardy",
+   "headline": "Struggles in limited action",
+   "note": "Hardy logged two points (0-6 FG, 0-5 3Pt, 2-2 FT), two assists and one steal over nine minutes during Wednesday's 103-87 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaden-hardy-news-struggles-in-limited-action-536701"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Jarred Vanderbilt",
+   "headline": "Brings down seven boards",
+   "note": "Vanderbilt produced zero points (0-1 FG), seven rebounds and two assists in 21 minutes during Wednesday's 103-87 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarred-vanderbilt-news-brings-down-seven-boards-536700"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "UTA",
+   "player": "Brice Sensabaugh",
+   "headline": "Steps up with 16 points",
+   "note": "Sensabaugh recorded 16 points (5-9 FG, 4-5 3Pt, 2-2 FT), three rebounds and one assist in 18 minutes during Wednesday's 117-111 overtime loss to San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brice-sensabaugh-news-steps-up-with-16-points-536698"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "HOU",
+   "player": "Kevin Durant",
+   "headline": "Tallies efficient 18 points",
+   "note": "Durant contributed 18 points (5-9 FG, 2-3 3Pt, 6-7 FT), five rebounds, four assists and three blocks in 31 minutes during Wednesday's 132-100 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-tallies-efficient-18-points-536697"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIL",
+   "player": "Brayden Burries",
+   "headline": "Holding down reserve role",
+   "note": "Burries had 10 points (3-6 FG, 0-2 3Pt, 4-5 FT), six rebounds, one assist and one steal in 17 minutes during Wednesday's 132-100 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brayden-burries-news-holding-down-reserve-role-536695"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Solid scoring effort",
+   "note": "Oubre finished with 15 points (5-10 FG, 1-4 3Pt, 4-4 FT), three rebounds, one assist and one block in 30 minutes during Wednesday's 114-109 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-news-solid-scoring-effort-536693"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "PHI",
+   "player": "LeBron James",
+   "headline": "Hands out 10 dimes",
+   "note": "James supplied 13 points (5-12 FG, 2-3 3Pt, 1-2 FT), five rebounds, 10 assists, two blocks and one steal in 33 minutes during Wednesday's 114-109 win over the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-news-hands-out-10-dimes-536692"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "PHI",
+   "player": "Jaylen Brown",
+   "headline": "Double-doubles against Indiana",
+   "note": "Brown provided 20 points (7-13 FG, 1-3 3Pt, 5-5 FT), 10 rebounds, two assists, one block and one steal over 34 minutes during Wednesday's 114-109 victory over Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-double-doubles-against-indiana-536691"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIL",
+   "player": "Nate Ament",
+   "headline": "Carving out bench role",
+   "note": "Ament logged eight points (2-8 FG, 1-4 3Pt, 3-4 FT), four rebounds, one block and one steal in 20 minutes during Wednesday's 132-100 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nate-ament-news-carving-out-bench-role-536690"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "PHI",
+   "player": "Tyrese Maxey",
+   "headline": "Strong outing in win",
+   "note": "Maxey finished Wednesday's 114-109 victory over the Pacers with 27 points (8-18 FG, 3-7 3Pt, 8-9 FT), five rebounds, four assists and one steal in 36 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-maxey-news-strong-outing-in-win-536689"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAC",
+   "player": "Baba Miller",
+   "headline": "Makes impact off bench",
+   "note": "Miller contributed four points (2-3 FG), seven rebounds, one assist, two blocks and one steal over 17 minutes during Wednesday's 103-87 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/baba-miller-news-makes-impact-off-bench-536688"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Drains five triples",
+   "note": "Alexander-Walker amassed 23 points (8-18 FG, 5-9 3Pt, 2-2 FT), three rebounds, one assist and one steal across 32 minutes during Wednesday's 129-117 loss to the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-drains-five-triples-536686"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIA",
+   "player": "Tim Hardaway",
+   "headline": "Efficient off bench",
+   "note": "Hardaway provided 14 points (6-10 FG, 2-3 3Pt), two rebounds, one assist and two blocks across 22 minutes during Wednesday's 129-117 victory over the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-news-efficient-off-bench-536685"
   },
   {
    "date": "2026-10-29",
@@ -20,16 +260,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-third-year-option-picked-up-536676"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Team option exercised",
-   "note": "The Nets exercised Wolf's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-team-option-exercised-536675"
   },
   {
    "date": "2026-10-29",
@@ -73,16 +303,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Recalled from Long Island",
-   "note": "The Nets recalled Wolf from the G League's Long Island Nets on Wednesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-recalled-from-long-island-536662"
-  },
-  {
-   "date": "2026-10-29",
    "team": "TOR",
    "player": "Kawhi Leonard",
    "headline": "To miss 3-4 weeks",
@@ -93,163 +313,43 @@
   },
   {
    "date": "2026-10-29",
-   "team": "UTA",
-   "player": "Ace Bailey",
-   "headline": "Logs 19 points in loss",
-   "note": "Bailey accumulated 19 points (9-18 FG, 1-6 3Pt), six rebounds and one block in 39 minutes during Wednesday's 117-111 overtime loss to the Spurs.",
-   "kind": "lineup",
+   "team": "BKN",
+   "player": "Nolan Traore",
+   "headline": "Team option picked up",
+   "note": "The Nets exercised Traore's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
+   "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-logs-19-points-in-loss-536658"
+   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-team-option-picked-up-536678"
   },
   {
    "date": "2026-10-29",
-   "team": "UTA",
-   "player": "Darryn Peterson",
-   "headline": "Puts up 18 points in loss",
-   "note": "Peterson provided 18 points (4-13 FG, 3-8 3Pt, 7-7 FT), five rebounds, three assists and one steal in 26 minutes during Wednesday's 117-111 overtime loss to San Antonio.",
-   "kind": "lineup",
+   "team": "BKN",
+   "player": "Danny Wolf",
+   "headline": "Team option exercised",
+   "note": "The Nets exercised Wolf's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
+   "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-puts-up-18-points-in-loss-536657"
+   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-team-option-exercised-536675"
   },
   {
    "date": "2026-10-29",
-   "team": "UTA",
-   "player": "Keyonte George",
-   "headline": "Pours in 31 points",
-   "note": "George finished Wednesday's 117-111 overtime loss to San Antonio with 31 points (11-27 FG, 5-12 3Pt, 4-4 FT), four rebounds and three assists across 37 minutes.",
-   "kind": "lineup",
+   "team": "BKN",
+   "player": "Danny Wolf",
+   "headline": "Recalled from Long Island",
+   "note": "The Nets recalled Wolf from the G League's Long Island Nets on Wednesday.",
+   "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keyonte-george-news-pours-in-31-points-536656"
+   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-recalled-from-long-island-536662"
   },
   {
    "date": "2026-10-29",
-   "team": "UTA",
-   "player": "Jaxson Hayes",
-   "headline": "Grabs 11 boards",
-   "note": "Hayes notched two points (0-2 FG, 2-2 FT), 11 rebounds, four assists, two blocks and one steal over 37 minutes during Wednesday's 117-111 overtime loss to the Spurs.",
+   "team": "CHA",
+   "player": "Ryan Kalkbrenner",
+   "headline": "Limited run in loss",
+   "note": "Kalkbrenner provided one point (1-2 FT), one rebound, one assist, one block and one steal in 13 minutes during Wednesday's 97-89 loss to Detroit.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-grabs-11-boards-536655"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Solid contributions despite low scoring",
-   "note": "Green posted three points (1-3 FG, 1-2 FT), nine rebounds, six assists and two blocks across 32 minutes in Wednesday's 119-114 win over the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-solid-contributions-despite-low-scoring-536654"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MIN",
-   "player": "Jaden McDaniels",
-   "headline": "Solid all-around effort in defeat",
-   "note": "McDaniels contributed 19 points (8-18 FG, 1-8 3Pt, 2-3 FT), seven rebounds and four assists across 35 minutes in Wednesday's 119-114 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-solid-all-around-effort-in-defeat-536653"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MIN",
-   "player": "Jonathan Kuminga",
-   "headline": "Scores team-high 20 points",
-   "note": "Kuminga registered 20 points (7-15 FG, 3-6 3Pt, 3-5 FT), three rebounds, five assists and two steals across 32 minutes in Wednesday's 119-114 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-kuminga-news-scores-team-high-20-points-536652"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MIN",
-   "player": "LaMelo Ball",
-   "headline": "Shooting woes surface again",
-   "note": "Ball finished with eight points (3-11 FG, 2-8 3Pt), four rebounds, eight assists and a steal across 28 minutes in Wednesday's 119-114 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-shooting-woes-surface-again-536651"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "GSW",
-   "player": "Brandon Williams",
-   "headline": "Scores 11 points off bench",
-   "note": "Williams tallied 11 points (4-11 FG, 0-4 3Pt, 3-4 FT), three rebounds and an assist across 14 minutes in Wednesday's 119-114 win over the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-scores-11-points-off-bench-536650"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Scores 26 points in win",
-   "note": "Lendeborg posted 26 points (11-20 FG, 2-5 3Pt, 2-4 FT), nine rebounds, an assist, a steal and a block across 35 minutes in Wednesday's 119-114 win over the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-scores-26-points-in-win-536649"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Derik Queen",
-   "headline": "Records double-double off bench",
-   "note": "Queen notched 11 points (3-6 FG, 0-0 3Pt, 5-7 FT), 12 rebounds, an assist and a block across 25 minutes in Wednesday's 104-91 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-records-double-double-off-bench-536648"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Jeremiah Fears",
-   "headline": "Poor shooting display Wednesday",
-   "note": "Fears finished with 11 points (5-14 FG, 1-5 3Pt), four rebounds, three assists and a steal across 24 minutes in Wednesday's 104-91 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-poor-shooting-display-wednesday-536647"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "SAS",
-   "player": "Dylan Harper",
-   "headline": "Notches 13 points",
-   "note": "Harper racked up 13 points (4-17 FG, 2-4 3Pt, 3-3 FT), five rebounds, eight assists and one steal in 37 minutes during Wednesday's 117-111 overtime victory over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-notches-13-points-536646"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Hands out eight dimes",
-   "note": "Castle supplied 14 points (6-13 FG, 1-4 3Pt, 1-2 FT), six rebounds, eight assists, one block and two steals over 38 minutes during Wednesday's 117-111 overtime win over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-hands-out-eight-dimes-536645"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Zion Williamson",
-   "headline": "Scores season-high 25 points",
-   "note": "Williamson delivered 25 points (10-14 FG, 1-1 3Pt, 4-6 FT), five rebounds, two assists and three steals across 32 minutes in Wednesday's 104-91 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-scores-season-high-25-points-536644"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "SAS",
-   "player": "Victor Wembanyama",
-   "headline": "Erupts for 36 points",
-   "note": "Wembanyama posted 36 points (14-25 FG, 4-10 3Pt, 4-4 FT), 14 rebounds, five assists, two blocks and three steals across 39 minutes during Wednesday's 117-111 overtime win over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-erupts-for-36-points-536643"
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-limited-run-in-loss-536682"
   },
   {
    "date": "2026-10-29",
@@ -300,6 +400,46 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-leads-nuggets-in-scoring-536639"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DET",
+   "player": "John Collins",
+   "headline": "Struggles in limited minutes",
+   "note": "Collins posted four points (2-8 FG, 0-3 3Pt) and two rebounds across 18 minutes during Wednesday's 97-89 victory over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/john-collins-news-struggles-in-limited-minutes-536683"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Solid contributions despite low scoring",
+   "note": "Green posted three points (1-3 FG, 1-2 FT), nine rebounds, six assists and two blocks across 32 minutes in Wednesday's 119-114 win over the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-solid-contributions-despite-low-scoring-536654"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Scores 11 points off bench",
+   "note": "Williams tallied 11 points (4-11 FG, 0-4 3Pt, 3-4 FT), three rebounds and an assist across 14 minutes in Wednesday's 119-114 win over the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-scores-11-points-off-bench-536650"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "headline": "Scores 26 points in win",
+   "note": "Lendeborg posted 26 points (11-20 FG, 2-5 3Pt, 2-4 FT), nine rebounds, an assist, a steal and a block across 35 minutes in Wednesday's 119-114 win over the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-scores-26-points-in-win-536649"
   },
   {
    "date": "2026-10-29",
@@ -363,6 +503,76 @@
   },
   {
    "date": "2026-10-29",
+   "team": "MIA",
+   "player": "Bobby Portis",
+   "headline": "Nearly double-doubles",
+   "note": "Portis notched 11 points (5-11 FG, 1-5 3Pt), nine rebounds, four assists, one block and two steals across 23 minutes during Wednesday's 129-117 victory over the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bobby-portis-news-nearly-double-doubles-536684"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIN",
+   "player": "Jaden McDaniels",
+   "headline": "Solid all-around effort in defeat",
+   "note": "McDaniels contributed 19 points (8-18 FG, 1-8 3Pt, 2-3 FT), seven rebounds and four assists across 35 minutes in Wednesday's 119-114 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-solid-all-around-effort-in-defeat-536653"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIN",
+   "player": "Jonathan Kuminga",
+   "headline": "Scores team-high 20 points",
+   "note": "Kuminga registered 20 points (7-15 FG, 3-6 3Pt, 3-5 FT), three rebounds, five assists and two steals across 32 minutes in Wednesday's 119-114 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jonathan-kuminga-news-scores-team-high-20-points-536652"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "MIN",
+   "player": "LaMelo Ball",
+   "headline": "Shooting woes surface again",
+   "note": "Ball finished with eight points (3-11 FG, 2-8 3Pt), four rebounds, eight assists and a steal across 28 minutes in Wednesday's 119-114 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-shooting-woes-surface-again-536651"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "NOP",
+   "player": "Derik Queen",
+   "headline": "Records double-double off bench",
+   "note": "Queen notched 11 points (3-6 FG, 0-0 3Pt, 5-7 FT), 12 rebounds, an assist and a block across 25 minutes in Wednesday's 104-91 loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-records-double-double-off-bench-536648"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "NOP",
+   "player": "Jeremiah Fears",
+   "headline": "Poor shooting display Wednesday",
+   "note": "Fears finished with 11 points (5-14 FG, 1-5 3Pt), four rebounds, three assists and a steal across 24 minutes in Wednesday's 104-91 loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-poor-shooting-display-wednesday-536647"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "NOP",
+   "player": "Zion Williamson",
+   "headline": "Scores season-high 25 points",
+   "note": "Williamson delivered 25 points (10-14 FG, 1-1 3Pt, 4-6 FT), five rebounds, two assists and three steals across 32 minutes in Wednesday's 104-91 loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-scores-season-high-25-points-536644"
+  },
+  {
+   "date": "2026-10-29",
    "team": "OKC",
    "player": "Isaiah Hartenstein",
    "headline": "Double-double in Wednesday's loss",
@@ -390,216 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-big-usage-again-in-wednesdays-loss-536628"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "SAS",
-   "player": "Devin Vassell",
-   "headline": "Drops 21 points in win",
-   "note": "Vassell racked up 21 points (8-18 FG, 1-7 3Pt, 4-4 FT), five rebounds, two assists and three steals in 38 minutes during Wednesday's 117-111 overtime win over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-drops-21-points-in-win-536642"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "Won't return Wednesday",
-   "note": "Poole (ankle) won't return to Wednesday's game against the Nuggets. He finished with two points (1-3 FG, 0-1 3Pt), one rebound and one steal over seven minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-wont-return-wednesday-536572"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "UTA",
-   "player": "Darryn Peterson",
-   "headline": "Leaves for locker room Wednesday",
-   "note": "Peterson exited to the locker room in the first quarter of Wednesday's game against the Spurs due to an apparent head injury, Shreyas Laddha of The Salt Lake Tribune reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-injury-leaves-for-locker-room-wednesday-536571"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAC",
-   "player": "Yanic Konan Niederhauser",
-   "headline": "'Making progress' toward return",
-   "note": "Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't travel with the team for the upcoming two-game road trip in Minnesota and Golden State, Ohm Youngmisuk of ESPN.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yanic-konan-niederhauser-injury-making-progress-toward-return-536569"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAC",
-   "player": "Max Strus",
-   "headline": "Progressing in recovery",
-   "note": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/max-strus-injury-progressing-in-recovery-536568"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAC",
-   "player": "Brandon Ingram",
-   "headline": "To miss at least one more week",
-   "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-to-miss-at-least-one-more-week-536567"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Landry Shamet",
-   "headline": "Exits Wednesday's game",
-   "note": "Shamet (ankle) exited Wednesday's game against the Bulls, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/landry-shamet-injury-exits-wednesdays-game-536566"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Karl-Anthony Towns",
-   "headline": "Exits to locker room",
-   "note": "Towns exited to the locker room in the first quarter of Wednesday's game against the Bulls due to an apparent left wrist injury, Joel Lorenzi of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-exits-to-locker-room-536562"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "headline": "Won't play Wednesday",
-   "note": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-injury-wont-play-wednesday-536560"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Ruled out Wednesday",
-   "note": "Marshall (illness) won't play in Wednesday's game against Oklahoma City.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-ruled-out-wednesday-536558"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "OKC",
-   "player": "Jalen Williams",
-   "headline": "Undergoes succesful surgery",
-   "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-williams-injury-undergoes-succesful-surgery-536553"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Out again Wednesday",
-   "note": "Johnson (ankle) is listed as out for Wednesday's game against the Pelicans.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-out-again-wednesday-536548"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Ruled out Wednesday",
-   "note": "Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-ruled-out-wednesday-536547"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "WAS",
-   "player": "Tre Johnson",
-   "headline": "Ruled out Wednesday",
-   "note": "Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achilles soreness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-injury-ruled-out-wednesday-536541"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Won't play Wednesday",
-   "note": "Williams (adductor) won't play in Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-wont-play-wednesday-536537"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Trending toward playing Wednesday",
-   "note": "Lendeborg (foot) is trending toward playing Wednesday against the Timberwolves, Anthony Slater of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-injury-trending-toward-playing-wednesday-536533"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Downgraded to questionable",
-   "note": "Nesmith (hamstring) is now questionable for Wednesday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-downgraded-to-questionable-536532"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "'Getting closer' to return",
-   "note": "Pacers head coach Rick Carlisle stated McConnell (hamstring) is \"doing better\" and \"getting closer\" to a return, Alex Golden of SI.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-getting-closer-to-return-536530"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "Ben Sheppard",
-   "headline": "Expected to miss multiple months",
-   "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ben-sheppard-injury-expected-to-miss-multiple-months-536529"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "Tyrese Haliburton",
-   "headline": "Out at least two weeks",
-   "note": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-out-at-least-two-weeks-536527"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Kingston Flemings",
-   "headline": "Nets career-high 23 points in loss",
-   "note": "Flemings logged 23 points (9-12 FG, 3-5 3Pt, 2-3 FT), five rebounds, five assists, one block and one steal across 28 minutes during Wednesday's 129-117 loss to the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kingston-flemings-news-nets-career-high-23-points-in-loss-536595"
   }
  ]
 }
