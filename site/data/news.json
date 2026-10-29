@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-29T21:53:24Z",
+ "updated": "2026-10-29T22:22:06Z",
  "items": [
+  {
+   "date": "2026-10-29",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Won't play Thursday",
+   "note": "Poole (ankle) has been ruled out for Thursday's game against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-wont-play-thursday-536749"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Questionable for Friday",
+   "note": "Hachimura (quadriceps) is questionable for Friday's game against Minnesota, Tomer Azarly of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-questionable-for-friday-536748"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Doubtful for Friday",
+   "note": "Biberovic (heel) is listed as doubtful for Friday's game versus the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-doubtful-for-friday-536746"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Unlikely to play Friday",
+   "note": "Aldama (knee) is listed as doubtful for Friday's game against Houston.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-unlikely-to-play-friday-536745"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Sergio de Larrea",
+   "headline": "Out with sprained knee",
+   "note": "De Larrea (knee) is out for Friday's game against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-out-with-sprained-knee-536744"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Questionable with illness",
+   "note": "Marshall is questionable for Friday's game against the Rockets with an illness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-questionable-with-illness-536743"
+  },
   {
    "date": "2026-10-29",
    "team": "CHA",
@@ -193,26 +253,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "NYK",
-   "player": "Tyler Kolek",
-   "headline": "Provides spark off bench",
-   "note": "Kolek accumulated nine points (3-4 FG, 3-4 3Pt), two rebounds and nine assists in 18 minutes during Wednesday's 133-127 win over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyler-kolek-news-provides-spark-off-bench-536720"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHI",
-   "player": "Isaac Okoro",
-   "headline": "Muted start to season",
-   "note": "Okoro notched seven points (1-4 FG, 1-2 3Pt, 4-6 FT), one assist and one steal over 18 minutes during Wednesday's 133-127 loss to New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaac-okoro-news-muted-start-to-season-536719"
-  },
-  {
-   "date": "2026-10-29",
    "team": "MIN",
    "player": "Anthony Edwards",
    "headline": "Officially undergoes surgery",
@@ -220,16 +260,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/anthony-edwards-injury-officially-undergoes-surgery-536718"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Productive stretch as starter",
-   "note": "Smith racked up 17 points (7-12 FG, 3-7 3Pt), 11 rebounds, five assists and three blocks over 30 minutes during Wednesday's 133-127 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-productive-stretch-as-starter-536717"
   },
   {
    "date": "2026-10-29",
@@ -243,16 +273,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "TOR",
-   "player": "Collin Murray-Boyles",
-   "headline": "Hits pair of triples",
-   "note": "Murray-Boyles chipped in 10 points (3-5 FG, 2-3 3Pt, 2-2 FT), two rebounds and one assist across 15 minutes during Wednesday's 129-99 victory over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-hits-pair-of-triples-536715"
-  },
-  {
-   "date": "2026-10-29",
    "team": "CHA",
    "player": "Kon Knueppel",
    "headline": "Practicing in G League",
@@ -260,66 +280,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-practicing-in-g-league-536714"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "Third-year option picked up",
-   "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-third-year-option-picked-up-536676"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Listed as questionable",
-   "note": "Thomas (foot) is questionable for Thursday's game in Atlanta.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-listed-as-questionable-536674"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "Iffy for Thursday",
-   "note": "Tyson (neck) is questionable for Thursday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-iffy-for-thursday-536672"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "Downgraded to doubtful",
-   "note": "Poole (ankle) is now doubtful for Thursday against the Kings.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-downgraded-to-doubtful-536669"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "To be re-evaluated in one week",
-   "note": "Demin has been diagnosed with a right leg bone bruise and will be re-evaluated in one week, Ian Begley of SportsNet New York reports Thursday. The injury occurred during Tuesday's game against Boston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-to-be-re-evaluated-in-one-week-536667"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "TOR",
-   "player": "Kawhi Leonard",
-   "headline": "To miss 3-4 weeks",
-   "note": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kawhi-leonard-injury-to-miss-3-4-weeks-536659"
   },
   {
    "date": "2026-10-29",
@@ -344,12 +304,32 @@
   {
    "date": "2026-10-29",
    "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "Third-year option picked up",
+   "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-third-year-option-picked-up-536676"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
    "player": "Danny Wolf",
    "headline": "Team option exercised",
    "note": "The Nets exercised Wolf's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-team-option-exercised-536675"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "To be re-evaluated in one week",
+   "note": "Demin has been diagnosed with a right leg bone bruise and will be re-evaluated in one week, Ian Begley of SportsNet New York reports Thursday. The injury occurred during Tuesday's game against Boston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-to-be-re-evaluated-in-one-week-536667"
   },
   {
    "date": "2026-10-29",
@@ -373,6 +353,26 @@
   },
   {
    "date": "2026-10-29",
+   "team": "CHI",
+   "player": "Isaac Okoro",
+   "headline": "Muted start to season",
+   "note": "Okoro notched seven points (1-4 FG, 1-2 3Pt, 4-6 FT), one assist and one steal over 18 minutes during Wednesday's 133-127 loss to New York.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaac-okoro-news-muted-start-to-season-536719"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "headline": "Productive stretch as starter",
+   "note": "Smith racked up 17 points (7-12 FG, 3-7 3Pt), 11 rebounds, five assists and three blocks over 30 minutes during Wednesday's 133-127 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-productive-stretch-as-starter-536717"
+  },
+  {
+   "date": "2026-10-29",
    "team": "CLE",
    "player": "Evan Mobley",
    "headline": "Finds rhythm from deep",
@@ -380,6 +380,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-finds-rhythm-from-deep-536705"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "headline": "Listed as questionable",
+   "note": "Thomas (foot) is questionable for Thursday's game in Atlanta.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-listed-as-questionable-536674"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "headline": "Iffy for Thursday",
+   "note": "Tyson (neck) is questionable for Thursday's game against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-iffy-for-thursday-536672"
   },
   {
    "date": "2026-10-29",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-big-defensive-effort-in-spot-start-536634"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "LAL",
-   "player": "Austin Reaves",
-   "headline": "Hits for 16 in Wednesday's win",
-   "note": "Reaves produced 16 points (6-16 FG, 1-6 3Pt, 3-4 FT), six rebounds, one assist and one steal across 31 minutes during Wednesday's 103-87 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-hits-for-16-in-wednesdays-win-536633"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MIA",
-   "player": "Tim Hardaway",
-   "headline": "Efficient off bench",
-   "note": "Hardaway provided 14 points (6-10 FG, 2-3 3Pt), two rebounds, one assist and two blocks across 22 minutes during Wednesday's 129-117 victory over the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-news-efficient-off-bench-536685"
   }
  ]
 }

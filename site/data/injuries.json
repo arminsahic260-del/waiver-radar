@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:52:48Z",
+ "updated": "2026-10-29T22:21:23Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -93,6 +93,16 @@
    "ret": "2026-11-02"
   },
   {
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "pos": "PG",
+   "updated": "2026-10-29",
+   "injury": "Foot",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "CHI",
    "player": "Nicolas Claxton",
    "pos": "C",
@@ -164,6 +174,16 @@
   },
   {
    "team": "DAL",
+   "player": "Sergio de Larrea",
+   "pos": "SG",
+   "updated": "2026-10-29",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "DAL",
    "player": "Naji Marshall",
    "pos": "SG",
    "updated": "2026-10-29",
@@ -176,16 +196,6 @@
    "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
-   "updated": "2026-10-29",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Sergio de Larrea",
-   "pos": "SG",
    "updated": "2026-10-29",
    "injury": "Knee",
    "status": "GTD",
@@ -704,6 +714,16 @@
   },
   {
    "team": "PHI",
+   "player": "Jabari Walker",
+   "pos": "PF",
+   "updated": "2026-10-29",
+   "injury": "Knee",
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
+  },
+  {
+   "team": "PHI",
    "player": "Tacko Fall",
    "pos": "C",
    "updated": "2026-10-27",
@@ -714,8 +734,8 @@
   },
   {
    "team": "PHI",
-   "player": "Jabari Walker",
-   "pos": "PF",
+   "player": "Jaylen Brown",
+   "pos": "SF",
    "updated": "2026-10-29",
    "injury": "Knee",
    "status": "GTD",

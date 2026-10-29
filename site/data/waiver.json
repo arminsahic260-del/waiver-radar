@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:53:29Z",
+ "updated": "2026-10-29T22:22:11Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -441,6 +441,25 @@
    "cur": 24.0
   },
   {
+   "player": "Anfernee Simons",
+   "team": "PHI",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Jaylen Brown (koljeno) je upitan (GTD). Anfernee Simons je sljedeći PG/SG u rotaciji PHI-a za te minute; ~18.9 FP po utakmici (ove sezone 15.8 u 5 utk., prošle sezone 22.8; 24 min).",
+   "role": "Zamjena ako Jaylen Brown ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Jaylen Brown",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4351851,
+   "fpts": 18.9,
+   "gp": 5,
+   "cur": 15.8
+  },
+  {
    "player": "Allen Graves",
    "team": "TOR",
    "pos": "SF",
@@ -576,25 +595,6 @@
    "fpts": 15.2,
    "gp": 2,
    "cur": 6.0
-  },
-  {
-   "player": "Kyle Filipowski",
-   "team": "UTA",
-   "pos": "PF/C",
-   "priority": 3,
-   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~15.0 FP po utakmici (ove sezone -0.3 u 3 utk., prošle sezone 26.4; 17 min).",
-   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
-   "horizon": "Do ~14.12. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4684793,
-   "fpts": 15.0,
-   "gp": 3,
-   "cur": -0.3
   }
  ],
  "days": [
