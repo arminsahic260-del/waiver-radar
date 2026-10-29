@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-29T16:21:59Z",
+ "updated": "2026-10-29T16:59:27Z",
  "items": [
+  {
+   "date": "2026-10-29",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Downgraded to doubtful",
+   "note": "Poole (ankle) is now doubtful for Thursday against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-downgraded-to-doubtful-536669"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
+   "player": "Egor Demin",
+   "headline": "To be re-evaluated in one week",
+   "note": "Demin has been diagnosed with a right leg bone bruise and will be reevaluated in one week, Ian Begley of SportsNet New York reports Thursday. The injury occurred during Tuesday's game against Boston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-to-be-re-evaluated-in-one-week-536667"
+  },
   {
    "date": "2026-10-29",
    "team": "BKN",
@@ -233,26 +253,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "LAC",
-   "player": "Derrick Jones",
-   "headline": "Busy at both ends of court in loss",
-   "note": "Jones amassed 15 points (6-10 FG, 3-5 3Pt), five rebounds, two blocks and four steals across 28 minutes during Wednesday's 103-87 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-busy-at-both-ends-of-court-in-loss-536637"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "LAL",
-   "player": "Sandro Mamukelashvili",
-   "headline": "Productive off bench Wednesday",
-   "note": "Mamukelashvili closed Wednesday's 103-87 victory over the Clippers with 13 points (6-15 FG, 0-5 3Pt, 1-1 FT), eight rebounds, three assists, one block and two steals over 30 minutes off the bench.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-productive-off-bench-wednesday-536636"
-  },
-  {
-   "date": "2026-10-29",
    "team": "DAL",
    "player": "Daniel Gafford",
    "headline": "Strong showing on glass in win",
@@ -270,6 +270,26 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-just-misses-double-double-wednesday-536631"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAC",
+   "player": "Derrick Jones",
+   "headline": "Busy at both ends of court in loss",
+   "note": "Jones amassed 15 points (6-10 FG, 3-5 3Pt), five rebounds, two blocks and four steals across 28 minutes during Wednesday's 103-87 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-busy-at-both-ends-of-court-in-loss-536637"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "LAL",
+   "player": "Sandro Mamukelashvili",
+   "headline": "Productive off bench Wednesday",
+   "note": "Mamukelashvili closed Wednesday's 103-87 victory over the Clippers with 13 points (6-15 FG, 0-5 3Pt, 1-1 FT), eight rebounds, three assists, one block and two steals over 30 minutes off the bench.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-productive-off-bench-wednesday-536636"
   },
   {
    "date": "2026-10-29",
@@ -550,26 +570,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-ruled-out-wednesday-536520"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Luka Doncic",
-   "headline": "Won't play Wednesday",
-   "note": "Doncic (back) is out for Wednesday's game against the Clippers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-injury-wont-play-wednesday-536519"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "WAS",
-   "player": "Justin Champagnie",
-   "headline": "Undergoes foot surgery",
-   "note": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/justin-champagnie-injury-undergoes-foot-surgery-536492"
   },
   {
    "date": "2026-10-28",
