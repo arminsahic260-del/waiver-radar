@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:21:20Z",
+ "updated": "2026-10-29T20:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -101,6 +101,16 @@
    "status": "Expected return: at least Nov 4",
    "kind": "out",
    "ret": "2026-11-04"
+  },
+  {
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "pos": "C",
+   "updated": "2026-10-29",
+   "injury": "Finger",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
@@ -614,6 +624,16 @@
   },
   {
    "team": "ORL",
+   "player": "Jonathan Isaac",
+   "pos": "PF",
+   "updated": "2026-10-29",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
+  },
+  {
+   "team": "ORL",
    "player": "Noah Penda",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -631,16 +651,6 @@
    "status": "Expected return: at least Nov 22",
    "kind": "out",
    "ret": "2026-11-22"
-  },
-  {
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "pos": "PF",
-   "updated": "2026-10-29",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "PHI",
@@ -718,6 +728,16 @@
    "pos": "SG",
    "updated": "2026-10-28",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "POR",
+   "player": "Robert Williams III",
+   "pos": "C",
+   "updated": "2026-10-29",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

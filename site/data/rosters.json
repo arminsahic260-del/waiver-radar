@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:21:57Z",
+ "updated": "2026-10-29T20:22:01Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,10 +8,10 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-29T19:21:57Z",
+   "updated": "2026-10-29T20:22:00Z",
    "adds": {
     "period": 2,
-    "used": 4,
+    "used": 5,
     "limit": 7
    },
    "players": [
@@ -33,21 +33,16 @@
      }
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
+     "name": "Cam Spencer",
+     "team": "MEM",
      "pos": "PG/SG",
      "slot": "SG",
-     "espnId": 2991230,
+     "espnId": 4433083,
      "gp": 4,
-     "cur": 35.2,
-     "proj": 33.4,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 94,
-      "round": 7,
-      "roundPick": 10,
-      "teamId": 1
-     }
+     "cur": 18.2,
+     "proj": null,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Saddiq Bey",
@@ -169,16 +164,21 @@
      }
     },
     {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
      "slot": "UTIL",
-     "espnId": 4278355,
-     "gp": 5,
-     "cur": 27.2,
-     "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
+     "espnId": 2991230,
+     "gp": 4,
+     "cur": 35.2,
+     "proj": 33.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 94,
+      "round": 7,
+      "roundPick": 10,
+      "teamId": 1
+     }
     },
     {
      "name": "Paul Reed",
@@ -193,6 +193,18 @@
      "draft": null
     },
     {
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
+     "slot": "BE",
+     "espnId": 4278355,
+     "gp": 5,
+     "cur": 27.2,
+     "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
      "name": "Ziaire Williams",
      "team": "LAL",
      "pos": "SG/SF",
@@ -201,18 +213,6 @@
      "gp": 4,
      "cur": 26.8,
      "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Ronald Holland II",
-     "team": "DET",
-     "pos": "SF/PF",
-     "slot": "BE",
-     "espnId": 4683771,
-     "gp": 5,
-     "cur": 13.4,
-     "proj": 16.1,
      "acq": "ADD",
      "draft": null
     },
@@ -242,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-29T19:21:57Z",
+   "updated": "2026-10-29T20:22:01Z",
    "adds": {
     "period": 2,
     "used": 2,
