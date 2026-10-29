@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:21:20Z",
+ "updated": "2026-10-29T21:21:24Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -36,11 +36,11 @@
    "team": "BKN",
    "player": "Tyler Bilodeau",
    "pos": "SF",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 1",
+   "kind": "out",
+   "ret": "2026-11-01"
   },
   {
    "team": "BOS",
@@ -304,6 +304,16 @@
   },
   {
    "team": "HOU",
+   "player": "Reed Sheppard",
+   "pos": "SG",
+   "updated": "2026-10-29",
+   "injury": "Back",
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
+  },
+  {
+   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-10-26",
@@ -344,6 +354,16 @@
   },
   {
    "team": "IND",
+   "player": "Ivica Zubac",
+   "pos": "C",
+   "updated": "2026-10-29",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 1",
+   "kind": "out",
+   "ret": "2026-11-01"
+  },
+  {
+   "team": "IND",
    "player": "Johnny Furphy",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -374,10 +394,20 @@
   },
   {
    "team": "IND",
-   "player": "Ivica Zubac",
-   "pos": "C",
+   "player": "Aaron Nesmith",
+   "pos": "SF",
    "updated": "2026-10-29",
-   "injury": "Ankle",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "pos": "SG",
+   "updated": "2026-10-29",
+   "injury": "Neck",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
