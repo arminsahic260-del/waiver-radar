@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:22:06Z",
+ "updated": "2026-10-29T08:21:58Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-29T07:22:05Z",
+   "updated": "2026-10-29T08:21:58Z",
    "adds": {
     "period": 2,
     "used": 4,
@@ -242,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-29T07:22:06Z",
+   "updated": "2026-10-29T08:21:58Z",
    "adds": {
     "period": 2,
     "used": 2,
@@ -301,19 +301,31 @@
      }
     },
     {
-     "name": "Cooper Flagg",
-     "team": "DAL",
+     "name": "De'Andre Hunter",
+     "team": "SAC",
      "pos": "SF/PF",
      "slot": "PF",
-     "espnId": 5041939,
+     "espnId": 4065732,
      "gp": 4,
-     "cur": 56.0,
-     "proj": 45.4,
+     "cur": 18.5,
+     "proj": 23.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Kel'el Ware",
+     "team": "MIL",
+     "pos": "C",
+     "slot": "C",
+     "espnId": 5105623,
+     "gp": 5,
+     "cur": 22.0,
+     "proj": 33.8,
      "acq": "DRAFT",
      "draft": {
-      "pick": 11,
-      "round": 1,
-      "roundPick": 11,
+      "pick": 74,
+      "round": 6,
+      "roundPick": 4,
       "teamId": 5
      }
     },
@@ -335,10 +347,44 @@
      }
     },
     {
+     "name": "Cooper Flagg",
+     "team": "DAL",
+     "pos": "SF/PF",
+     "slot": "F",
+     "espnId": 5041939,
+     "gp": 4,
+     "cur": 56.0,
+     "proj": 45.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 11,
+      "round": 1,
+      "roundPick": 11,
+      "teamId": 5
+     }
+    },
+    {
+     "name": "VJ Edgecombe",
+     "team": "PHI",
+     "pos": "SG",
+     "slot": "UTIL",
+     "espnId": 5124612,
+     "gp": 4,
+     "cur": 28.2,
+     "proj": 33.7,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 95,
+      "round": 7,
+      "roundPick": 11,
+      "teamId": 5
+     }
+    },
+    {
      "name": "Jaden McDaniels",
      "team": "MIN",
      "pos": "SF/PF",
-     "slot": "F",
+     "slot": "UTIL",
      "espnId": 4431671,
      "gp": 5,
      "cur": 34.0,
@@ -347,23 +393,6 @@
      "draft": {
       "pick": 102,
       "round": 8,
-      "roundPick": 4,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "Kel'el Ware",
-     "team": "MIL",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 5105623,
-     "gp": 5,
-     "cur": 22.0,
-     "proj": 33.8,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 74,
-      "round": 6,
       "roundPick": 4,
       "teamId": 5
      }
@@ -389,7 +418,7 @@
      "name": "Brook Lopez",
      "team": "LAC",
      "pos": "C",
-     "slot": "UTIL",
+     "slot": "BE",
      "espnId": 3448,
      "gp": 4,
      "cur": 27.8,
@@ -399,23 +428,6 @@
       "pick": 158,
       "round": 12,
       "roundPick": 4,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "VJ Edgecombe",
-     "team": "PHI",
-     "pos": "SG",
-     "slot": "BE",
-     "espnId": 5124612,
-     "gp": 4,
-     "cur": 28.2,
-     "proj": 33.7,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 95,
-      "round": 7,
-      "roundPick": 11,
       "teamId": 5
      }
     },
@@ -440,18 +452,6 @@
      "gp": 4,
      "cur": 26.8,
      "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "De'Andre Hunter",
-     "team": "SAC",
-     "pos": "SF/PF",
-     "slot": "BE",
-     "espnId": 4065732,
-     "gp": 4,
-     "cur": 18.5,
-     "proj": 23.9,
      "acq": "ADD",
      "draft": null
     },

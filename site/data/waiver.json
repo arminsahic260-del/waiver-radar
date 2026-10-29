@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:22:06Z",
+ "updated": "2026-10-29T08:21:58Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -643,16 +643,16 @@
        "gtd": false
       },
       {
-       "player": "Kingston Flemings",
-       "team": "ATL",
-       "pos": "SG/PG",
-       "espnId": 5149077,
+       "player": "Isaiah Stewart",
+       "team": "MEM",
+       "pos": "PF/C",
+       "espnId": 4432810,
        "fpts": 19.8,
-       "mpg": 22.2,
-       "basis": "sezona+projekcija",
-       "gp": 5,
-       "cur": 17.8,
-       "matchup": "CLE @ ATL",
+       "mpg": 20.5,
+       "basis": "sezona+prošla sezona",
+       "gp": 3,
+       "cur": 15.0,
+       "matchup": "MEM @ POR",
        "dates": [
         "2026-10-29",
         "2026-10-31"
