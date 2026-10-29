@@ -1,15 +1,265 @@
 {
- "updated": "2026-10-28T23:22:07Z",
+ "updated": "2026-10-29T02:34:13Z",
  "items": [
   {
    "date": "2026-10-28",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Starting sans Suggs",
-   "note": "Black will start Wednesday's game against the Raptors, Blake Murphy of Sportsnet.ca reports.",
+   "team": "TOR",
+   "player": "RJ Barrett",
+   "headline": "Near double-double vs. Orlando",
+   "note": "Barrett finished Wednesday's 129-99 win over the Magic with 25 points (9-18 FG, 3-7 3Pt, 4-5 FT), nine rebounds, six assists and one steal over 32 minutes.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-starting-sans-suggs-536549"
+   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-near-double-double-vs-orlando-536580"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DEN",
+   "player": "Nikola Jokic",
+   "headline": "Posts another triple-double",
+   "note": "Jokic finished with 21 points (8-13 FG, 5-5 FT), 13 rebounds, 10 assists and one steal across 34 minutes in Wednesday's 104-91 win over the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-posts-another-triple-double-536579"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "TOR",
+   "player": "Scottie Barnes",
+   "headline": "Full stat line in blowout win",
+   "note": "Barnes supplied 28 points (11-17 FG, 0-2 3Pt, 6-6 FT), six rebounds, four assists, three steals and two blocks across 31 minutes in Wednesday's 129-99 win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scottie-barnes-news-full-stat-line-in-blowout-win-536578"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "IND",
+   "player": "Pascal Siakam",
+   "headline": "Another double-double effort",
+   "note": "Siakam finished with 26 points (11-17 FG, 0-3 3Pt, 4-4 FT), 11 rebounds, three assists and one steal over 34 minutes in Wednesday's 114-109 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-news-another-double-double-effort-536577"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "headline": "Starting versus Clippers",
+   "note": "LaRavia will start in Wednesday's game against the Clippers, Law Murray of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-starting-versus-clippers-536576"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAL",
+   "player": "Quentin Grimes",
+   "headline": "Starting Wednesday",
+   "note": "Grimes will start Wednesday's game against the Clippers, Law Murray of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quentin-grimes-news-starting-wednesday-536575"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "Drops 19 points in regular-season debut",
+   "note": "Dybantsa recorded 19 points (8-12 FG, 1-3 3Pt, 2-2 FT), two rebounds and two assists across 27 minutes in Wednesday's 121-111 loss to the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-drops-19-points-in-regular-season-debut-536574"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "UTA",
+   "player": "Darryn Peterson",
+   "headline": "Checks back in Wednesday",
+   "note": "Peterson (nose) started the second quarter of Wednesday's game against the Spurs, per the broadcast.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-checks-back-in-wednesday-536573"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Won't return Wednesday",
+   "note": "Poole (ankle) won't return to Wednesday's game against the Nuggets. He finished with two points (1-3 FG, 0-1 3Pt), one rebound and one steal over seven minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-wont-return-wednesday-536572"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "UTA",
+   "player": "Darryn Peterson",
+   "headline": "Leaves for locker room Wednesday",
+   "note": "Peterson exited to the locker room in the first quarter of Wednesday's game against the Spurs due to an apparent head injury, Shreyas Laddha of The Salt Lake Tribune reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-injury-leaves-for-locker-room-wednesday-536571"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Landry Shamet",
+   "headline": "Returns Wednesday",
+   "note": "Shamet (ankle) returned to Wednesday's game against the Bulls with 4:54 remaining in the second quarter, per the broadcast.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/landry-shamet-news-returns-wednesday-536570"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAC",
+   "player": "Yanic Konan Niederhauser",
+   "headline": "'Making progress' toward return",
+   "note": "Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't travel with the team for the upcoming two-game road trip in Minnesota and Golden State, Ohm Youngmisuk of ESPN.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yanic-konan-niederhauser-injury-making-progress-toward-return-536569"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAC",
+   "player": "Max Strus",
+   "headline": "Progressing in recovery",
+   "note": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/max-strus-injury-progressing-in-recovery-536568"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "LAC",
+   "player": "Brandon Ingram",
+   "headline": "To miss at least one more week",
+   "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-to-miss-at-least-one-more-week-536567"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Landry Shamet",
+   "headline": "Exits Wednesday's game",
+   "note": "Shamet (ankle) exited Wednesday's game against the Bulls, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/landry-shamet-injury-exits-wednesdays-game-536566"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "headline": "Starting Wednesday",
+   "note": "Hayes is in the starting lineup for Wednesday's matchup with the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-starting-wednesday-536565"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "UTA",
+   "player": "Josh Green",
+   "headline": "Starting sans Markkanen",
+   "note": "Green will start Wednesday's game against the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-green-news-starting-sans-markkanen-536564"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "headline": "Returns to Wednesday's game",
+   "note": "Towns (wrist) returned to Wednesday's game against the Bulls with 2:18 remaining in the first quarter, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-returns-to-wednesdays-game-536563"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "headline": "Exits to locker room",
+   "note": "Towns exited to the locker room in the first quarter of Wednesday's game against the Bulls due to an apparent left wrist injury, Joel Lorenzi of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-exits-to-locker-room-536562"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "headline": "Cleared to play Wednesday",
+   "note": "Hayes (shoulder) is available for Wednesday's game against the Spurs.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-cleared-to-play-wednesday-536561"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "UTA",
+   "player": "Lauri Markkanen",
+   "headline": "Won't play Wednesday",
+   "note": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-injury-wont-play-wednesday-536560"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "OKC",
+   "player": "Ajay Mitchell",
+   "headline": "Will play Wednesday",
+   "note": "Mitchell (ankle) will play Wednesday against the Mavericks, Clemente Almanza of USA Today reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-will-play-wednesday-536559"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Ruled out Wednesday",
+   "note": "Marshall (illness) won't play in Wednesday's game against Oklahoma City.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-ruled-out-wednesday-536558"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Available Wednesday",
+   "note": "Martin (thumb) is available for Wednesday's game against the Thunder.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-news-available-wednesday-536557"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Good to go Wednesday",
+   "note": "Irving (knee) is available for Wednesday's game against the Thunder.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-good-to-go-wednesday-536555"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "OKC",
+   "player": "Jalen Williams",
+   "headline": "Undergoes succesful surgery",
+   "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-williams-injury-undergoes-succesful-surgery-536553"
   },
   {
    "date": "2026-10-28",
@@ -33,56 +283,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "MIN",
-   "player": "Ayo Dosunmu",
-   "headline": "Starting Wednesday",
-   "note": "Dosunmu will move into the starting lineup for Wednesday's matchup with the Warriors, Jon Krawczynski of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-starting-wednesday-536546"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Available versus Charlotte",
-   "note": "Thompson (ankle) is active for Wednesday's game versus the Hornets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-available-versus-charlotte-536545"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Added to injury report",
-   "note": "Santos (knee) is questionable for Wednesday's game in Minnesota.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-news-added-to-injury-report-536544"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Heading to bench",
-   "note": "Wade will come off the bench in Wednesday's game against the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-heading-to-bench-536543"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "WAS",
-   "player": "Bilal Coulibaly",
-   "headline": "Moving to bench",
-   "note": "Couliably won't start Wednesday's game against the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-moving-to-bench-536542"
-  },
-  {
-   "date": "2026-10-28",
    "team": "WAS",
    "player": "Tre Johnson",
    "headline": "Ruled out Wednesday",
@@ -93,26 +293,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Available to play",
-   "note": "Lendeborg (foot) is available for Wednesday's game in Minnesota, as expected.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-available-to-play-536540"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "headline": "On minutes restriction Wednesday",
-   "note": "Dybantsa (ankle) will be on a minutes restriction in Wednesday's game against the Cavaliers, Josh Robbins of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-on-minutes-restriction-wednesday-536539"
-  },
-  {
-   "date": "2026-10-28",
    "team": "CHI",
    "player": "Patrick Williams",
    "headline": "Won't play Wednesday",
@@ -120,36 +300,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-wont-play-wednesday-536537"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Will play Wednesday",
-   "note": "Black (personal) is available for Wednesday's game against the Raptors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-will-play-wednesday-536536"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Available to play",
-   "note": "Nesmith (hamstring) is available for Wednesday's game against the 76ers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-available-to-play-536535"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Ready to roll Wednesday",
-   "note": "Toppin (hand) is active for Wednesday's game against Philadelphia.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-news-ready-to-roll-wednesday-536534"
   },
   {
    "date": "2026-10-28",
@@ -170,16 +320,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-downgraded-to-questionable-536532"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Team option exercised",
-   "note": "The Mavericks exercised their fourth-year team option on Risacher's contract Wednesday, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-team-option-exercised-536531"
   },
   {
    "date": "2026-10-28",
@@ -204,32 +344,12 @@
   {
    "date": "2026-10-28",
    "team": "IND",
-   "player": "Andrew Nembhard",
-   "headline": "Returning Wednesday",
-   "note": "Nembhard (neck) will play in Wednesday's game against the 76ers, Tony East of Forbes.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-returning-wednesday-536528"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
    "player": "Tyrese Haliburton",
    "headline": "Out at least two weeks",
    "note": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-out-at-least-two-weeks-536527"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Good to go Wednesday",
-   "note": "Wiggins (knee) is active for Wednesday's game against Miami.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-good-to-go-wednesday-536525"
   },
   {
    "date": "2026-10-28",
@@ -293,103 +413,23 @@
   },
   {
    "date": "2026-10-28",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Downgraded to doubtful",
-   "note": "Marshall (illness) is now doubtful for Wednesday against the Thunder.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-downgraded-to-doubtful-536489"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Ruled out Wednesday",
-   "note": "Biberovic (heel) is out for Wednesday's game against the Thunder.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-wednesday-536488"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Downgraded to out",
-   "note": "Aldama (knee) is out for Wednesday's game against the Thunder.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-downgraded-to-out-536486"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "NYK",
-   "player": "Jose Alvarado",
-   "headline": "Another absence coming",
-   "note": "Alvarado (ankle) is out for Wednesday's game against the Bulls.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-another-absence-coming-536485"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Return timeline uncertain",
-   "note": "Caruso is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-injury-return-timeline-uncertain-536483"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "IND",
-   "player": "Tyrese Haliburton",
-   "headline": "To miss time with hamstring issue",
-   "note": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports.",
+   "team": "ATL",
+   "player": "Zuby Ejiofor",
+   "headline": "Available to play Wednesday",
+   "note": "Ejiofor (G League assignment) is available for Wednesday's game against Miami.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-to-miss-time-with-hamstring-issue-536479"
+   "url": "https://www.rotowire.com/basketball/headlines/zuby-ejiofor-news-available-to-play-wednesday-536550"
   },
   {
    "date": "2026-10-28",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Sidelined again Wednesday",
-   "note": "Smart (forearm) is out for Wednesday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-sidelined-again-wednesday-536476"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "LAL",
-   "player": "Cameron Carr",
-   "headline": "Shuttled to G League",
-   "note": "Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+   "team": "ATL",
+   "player": "Aaron Wiggins",
+   "headline": "Good to go Wednesday",
+   "note": "Wiggins (knee) is active for Wednesday's game against Miami.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-shuttled-to-g-league-536474"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Participates in shootaround",
-   "note": "Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-injury-participates-in-shootaround-536472"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "headline": "Remains out for Wednesday",
-   "note": "Joe (hip) is out for Wednesday's game against the Hornets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-remains-out-for-wednesday-536470"
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-good-to-go-wednesday-536525"
   },
   {
    "date": "2026-10-28",
@@ -533,73 +573,33 @@
   },
   {
    "date": "2026-10-28",
-   "team": "DET",
-   "player": "Taurean Prince",
-   "headline": "Records two steals",
-   "note": "Prince supplied three points (1-3 FG, 1-3 3Pt) and two steals over seven minutes during Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/taurean-prince-news-records-two-steals-536510"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Probable for Wednesday",
-   "note": "Thompson (ankle) is probable for Wednesday against the Hornets.",
+   "team": "DAL",
+   "player": "Zaccharie Risacher",
+   "headline": "Team option exercised",
+   "note": "The Mavericks exercised their fourth-year team option on Risacher's contract Wednesday, Brett Siegel of ClutchPoints.com reports.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-injury-probable-for-wednesday-536469"
+   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-team-option-exercised-536531"
   },
   {
    "date": "2026-10-28",
-   "team": "DET",
-   "player": "Tolu Smith",
-   "headline": "Grabs four boards",
-   "note": "Smith registered one point (0-1 FG, 1-4 FT) and four rebounds across six minutes during Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Downgraded to doubtful",
+   "note": "Marshall (illness) is now doubtful for Wednesday against the Thunder.",
+   "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tolu-smith-news-grabs-four-boards-536455"
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-downgraded-to-doubtful-536489"
   },
   {
    "date": "2026-10-28",
-   "team": "DET",
-   "player": "Kevin Huerter",
-   "headline": "Adds seven points Tuesday",
-   "note": "Huerter provided seven points (3-5 FG, 1-2 3Pt, 0-2 FT), one rebound, one block and one steal across 16 minutes during Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Ruled out Wednesday",
+   "note": "Biberovic (heel) is out for Wednesday's game against the Thunder.",
+   "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-huerter-news-adds-seven-points-tuesday-536454"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Javonte Green",
-   "headline": "Struggles from deep",
-   "note": "Green supplied three points (1-6 FG, 1-6 3Pt), one rebound and one block over 17 minutes during Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/javonte-green-news-struggles-from-deep-536453"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Ausar Thompson",
-   "headline": "Solid defensive contributions in loss",
-   "note": "Thompson contributed 11 points (5-9 FG, 0-1 3Pt, 1-3 FT), six rebounds, two assists, two steals and a block across 25 minutes in Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-solid-defensive-contributions-in-loss-536443"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "DET",
-   "player": "Duncan Robinson",
-   "headline": "Scoring streak ends Tuesday",
-   "note": "Robinson finished with 12 points (4-14 FG, 2-10 3Pt, 2-2 FT), two assists, a steal and a block across 33 minutes in Tuesday's 111-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scoring-streak-ends-tuesday-536442"
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-wednesday-536488"
   }
  ]
 }
