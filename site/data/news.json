@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-29T15:21:53Z",
+ "updated": "2026-10-29T16:21:59Z",
  "items": [
+  {
+   "date": "2026-10-29",
+   "team": "BKN",
+   "player": "Danny Wolf",
+   "headline": "Recalled from Long Island",
+   "note": "The Nets recalled Wolf from the G League's Long Island Nets on Wednesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-recalled-from-long-island-536662"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "TOR",
+   "player": "Kawhi Leonard",
+   "headline": "To miss 3-4 weeks",
+   "note": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kawhi-leonard-injury-to-miss-3-4-weeks-536659"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "UTA",
+   "player": "Ace Bailey",
+   "headline": "Logs 19 points in loss",
+   "note": "Bailey accumulated 19 points (9-18 FG, 1-6 3Pt), six rebounds and one block in 39 minutes during Wednesday's 117-111 overtime loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-logs-19-points-in-loss-536658"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "UTA",
+   "player": "Darryn Peterson",
+   "headline": "Puts up 18 points in loss",
+   "note": "Peterson provided 18 points (4-13 FG, 3-8 3Pt, 7-7 FT), five rebounds, three assists and one steal in 26 minutes during Wednesday's 117-111 overtime loss to San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-puts-up-18-points-in-loss-536657"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "UTA",
+   "player": "Keyonte George",
+   "headline": "Pours in 31 points",
+   "note": "George finished Wednesday's 117-111 overtime loss to San Antonio with 31 points (11-27 FG, 5-12 3Pt, 4-4 FT), four rebounds and three assists across 37 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keyonte-george-news-pours-in-31-points-536656"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "UTA",
+   "player": "Jaxson Hayes",
+   "headline": "Grabs 11 boards",
+   "note": "Hayes notched two points (0-2 FG, 2-2 FT), 11 rebounds, four assists, two blocks and one steal over 37 minutes during Wednesday's 117-111 overtime loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-grabs-11-boards-536655"
+  },
   {
    "date": "2026-10-29",
    "team": "GSW",
@@ -193,6 +253,26 @@
   },
   {
    "date": "2026-10-29",
+   "team": "DAL",
+   "player": "Daniel Gafford",
+   "headline": "Strong showing on glass in win",
+   "note": "Gafford produced seven points (3-4 FG, 1-1 3Pt), 11 rebounds, two assists and two blocks over 27 minutes during Wednesday's 120-96 victory over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-strong-showing-on-glass-in-win-536632"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "DAL",
+   "player": "P.J. Washington",
+   "headline": "Just misses double-double Wednesday",
+   "note": "Washington supplied 18 points (7-16 FG, 2-7 3Pt, 2-2 FT), nine rebounds and one block over 27 minutes during Wednesday's 120-96 win over Oklahoma City.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-just-misses-double-double-wednesday-536631"
+  },
+  {
+   "date": "2026-10-29",
    "team": "LAL",
    "player": "Collin Sexton",
    "headline": "Leads bench in Wednesday's win",
@@ -223,26 +303,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "headline": "Strong showing on glass in win",
-   "note": "Gafford produced seven points (3-4 FG, 1-1 3Pt), 11 rebounds, two assists and two blocks over 27 minutes during Wednesday's 120-96 victory over the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-strong-showing-on-glass-in-win-536632"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Just misses double-double Wednesday",
-   "note": "Washington supplied 18 points (7-16 FG, 2-7 3Pt, 2-2 FT), nine rebounds and one block over 27 minutes during Wednesday's 120-96 win over Oklahoma City.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-just-misses-double-double-wednesday-536631"
-  },
-  {
-   "date": "2026-10-29",
    "team": "OKC",
    "player": "Isaiah Hartenstein",
    "headline": "Double-double in Wednesday's loss",
@@ -270,26 +330,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-big-usage-again-in-wednesdays-loss-536628"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "UTA",
-   "player": "Keyonte George",
-   "headline": "Pours in 31 points",
-   "note": "George finished Wednesday's 117-111 overtime loss to San Antonio with 31 points (11-27 FG, 5-12 3Pt, 4-4 FT), four rebounds and three assists across 37 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keyonte-george-news-pours-in-31-points-536656"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "UTA",
-   "player": "Jaxson Hayes",
-   "headline": "Grabs 11 boards",
-   "note": "Hayes notched two points (0-2 FG, 2-2 FT), 11 rebounds, four assists, two blocks and one steal over 37 minutes during Wednesday's 117-111 overtime loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaxson-hayes-news-grabs-11-boards-536655"
   },
   {
    "date": "2026-10-28",
@@ -533,16 +573,6 @@
   },
   {
    "date": "2026-10-28",
-   "team": "SAS",
-   "player": "Tobias Harris",
-   "headline": "Sitting out Wednesday",
-   "note": "Harris (calf) is out for Wednesday's game against Utah, Paul Garcia of ProjectSpurs.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobias-harris-injury-sitting-out-wednesday-536490"
-  },
-  {
-   "date": "2026-10-28",
    "team": "ATL",
    "player": "Kingston Flemings",
    "headline": "Nets career-high 23 points in loss",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-three-point-shooting-woes-continue-536591"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Zuby Ejiofor",
-   "headline": "Available to play Wednesday",
-   "note": "Ejiofor (G League assignment) is available for Wednesday's game against Miami.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zuby-ejiofor-news-available-to-play-wednesday-536550"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Good to go Wednesday",
-   "note": "Wiggins (knee) is active for Wednesday's game against Miami.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-good-to-go-wednesday-536525"
-  },
-  {
-   "date": "2026-10-28",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Probable for Wednesday",
-   "note": "Wiggins (knee) is probable for Wednesday against Miami.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-injury-probable-for-wednesday-536466"
   }
  ]
 }
