@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-30T18:21:53Z",
+ "updated": "2026-10-30T19:21:55Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Fourth-year option exercised",
+   "note": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-fourth-year-option-exercised-536816"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Practicing at G League camp",
+   "note": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-practicing-at-g-league-camp-536815"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Johnny Furphy",
+   "headline": "Practicing in G League",
+   "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-practicing-in-g-league-536814"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "POR",
+   "player": "Ja Morant",
+   "headline": "Out four weeks with hamstring strain",
+   "note": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-injury-out-four-weeks-with-hamstring-strain-536813"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Expected to play Friday",
+   "note": "Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-expected-to-play-friday-536812"
+  },
   {
    "date": "2026-10-30",
    "team": "MIN",
@@ -213,46 +263,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Scores 20 points off bench",
-   "note": "Wiggins notched 20 points (8-14 FG, 4-7 3Pt), seven rebounds, three assists and a block across 24 minutes in Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-scores-20-points-off-bench-536787"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Scores 25 points Thursday",
-   "note": "Alexander-Walker delivered 25 points (8-17 FG, 4-12 3Pt, 5-5 FT), three rebounds, an assist and a block across 31 minutes in Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-scores-25-points-thursday-536786"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "headline": "Flirts with triple-double in victory",
-   "note": "Johnson recorded 17 points (7-16 FG, 2-5 3Pt, 1-1 FT), eight rebounds and seven assists across 34 minutes in Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-flirts-with-triple-double-in-victory-536785"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "headline": "Scores season-high 16 points",
-   "note": "Merrill registered 16 points (6-11 FG, 4-8 3Pt), two rebounds, three assists and a steal across 27 minutes in Thursday's 114-111 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-scores-season-high-16-points-536784"
-  },
-  {
-   "date": "2026-10-29",
    "team": "MEM",
    "player": "Quinten Post",
    "headline": "Unable to return Thursday",
@@ -413,53 +423,33 @@
   },
   {
    "date": "2026-10-29",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Doubtful for Friday",
-   "note": "Biberovic (heel) is listed as doubtful for Friday's game versus the Rockets.",
-   "kind": "injury",
+   "team": "ATL",
+   "player": "Aaron Wiggins",
+   "headline": "Scores 20 points off bench",
+   "note": "Wiggins notched 20 points (8-14 FG, 4-7 3Pt), seven rebounds, three assists and a block across 24 minutes in Thursday's 114-111 win over the Cavaliers.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-doubtful-for-friday-536746"
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-scores-20-points-off-bench-536787"
   },
   {
    "date": "2026-10-29",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Unlikely to play Friday",
-   "note": "Aldama (knee) is listed as doubtful for Friday's game against Houston.",
-   "kind": "other",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Scores 25 points Thursday",
+   "note": "Alexander-Walker delivered 25 points (8-17 FG, 4-12 3Pt, 5-5 FT), three rebounds, an assist and a block across 31 minutes in Thursday's 114-111 win over the Cavaliers.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-unlikely-to-play-friday-536745"
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-scores-25-points-thursday-536786"
   },
   {
    "date": "2026-10-29",
-   "team": "DAL",
-   "player": "Sergio de Larrea",
-   "headline": "Out with sprained knee",
-   "note": "De Larrea (knee) is out for Friday's game against the Rockets.",
-   "kind": "injury",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Flirts with triple-double in victory",
+   "note": "Johnson recorded 17 points (7-16 FG, 2-5 3Pt, 1-1 FT), eight rebounds and seven assists across 34 minutes in Thursday's 114-111 win over the Cavaliers.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-out-with-sprained-knee-536744"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Questionable with illness",
-   "note": "Marshall is questionable for Friday's game against the Rockets due to an illness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-questionable-with-illness-536743"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Questionable for Friday",
-   "note": "Schroder (foot) is questionable for Friday's game against the Wizards.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-questionable-for-friday-536742"
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-flirts-with-triple-double-in-victory-536785"
   },
   {
    "date": "2026-10-29",
@@ -534,6 +524,16 @@
   {
    "date": "2026-10-29",
    "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Questionable for Friday",
+   "note": "Schroder (foot) is questionable for Friday's game against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-questionable-for-friday-536742"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CHA",
    "player": "Kon Knueppel",
    "headline": "Practicing in G League",
    "note": "Knueppel (hamstring) will practice with the G League's Greensboro Swarm on Thursday, the Hornets announced.",
@@ -594,12 +594,12 @@
   {
    "date": "2026-10-29",
    "team": "CLE",
-   "player": "Donovan Mitchell",
-   "headline": "Scores 22 points in narrow loss",
-   "note": "Mitchell tallied 22 points (7-19 FG, 1-9 3Pt, 7-8 FT), three rebounds, three assists and a steal across 33 minutes in Thursday's 114-111 loss to the Hawks.",
+   "player": "Sam Merrill",
+   "headline": "Scores season-high 16 points",
+   "note": "Merrill registered 16 points (6-11 FG, 4-8 3Pt), two rebounds, three assists and a steal across 27 minutes in Thursday's 114-111 loss to the Hawks.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/donovan-mitchell-news-scores-22-points-in-narrow-loss-536783"
+   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-scores-season-high-16-points-536784"
   }
  ]
 }
