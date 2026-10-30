@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:42:31Z",
+ "updated": "2026-10-30T07:21:56Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -169,7 +169,7 @@
    "team": "CHA",
    "pos": "PG",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Dennis Schroder je prvi PG u rotaciji CHA-a za te minute; ~21.9 FP po utakmici (ove sezone 21.6 u 5 utk., prošle sezone 22.4; 29 min).",
+   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Dennis Schroder je prvi PG u rotaciji CHA-a za te minute; ~22.2 FP po utakmici (ove sezone 22.0 u 5 utk., prošle sezone 22.4; 29 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Coby White",
@@ -179,9 +179,9 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 3032979,
-   "fpts": 21.9,
+   "fpts": 22.2,
    "gp": 5,
-   "cur": 21.6
+   "cur": 22.0
   },
   {
    "player": "Nikola Vucevic",
@@ -680,23 +680,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Bilal Coulibaly",
-       "team": "WAS",
-       "pos": "SG/SF",
-       "espnId": 5104155,
-       "fpts": 25.9,
-       "mpg": 26.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 25.4,
-       "matchup": "CHA @ WAS",
-       "dates": [
-        "2026-10-30"
-       ],
-       "value": 25.9,
-       "gtd": false
-      },
-      {
        "player": "Tre Jones",
        "team": "CHI",
        "pos": "PG",
@@ -728,6 +711,24 @@
         "2026-10-30"
        ],
        "value": 22.3,
+       "gtd": false
+      },
+      {
+       "player": "Draymond Green",
+       "team": "GSW",
+       "pos": "PF/C",
+       "espnId": 6589,
+       "fpts": 21.9,
+       "mpg": 27.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 18.2,
+       "matchup": "LAL @ GSW",
+       "dates": [
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 21.9,
        "gtd": false
       }
      ]
@@ -839,6 +840,23 @@
        "gtd": false
       },
       {
+       "player": "Cam Spencer",
+       "team": "MEM",
+       "pos": "PG/SG",
+       "espnId": 4433083,
+       "fpts": 24.3,
+       "mpg": 20.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 5,
+       "cur": 22.0,
+       "matchup": "SAC @ MEM",
+       "dates": [
+        "2026-10-31"
+       ],
+       "value": 24.3,
+       "gtd": false
+      },
+      {
        "player": "Isaiah Collier",
        "team": "UTA",
        "pos": "PG",
@@ -853,23 +871,6 @@
         "2026-10-31"
        ],
        "value": 21.6,
-       "gtd": false
-      },
-      {
-       "player": "Isaiah Stewart",
-       "team": "MEM",
-       "pos": "PF/C",
-       "espnId": 4432810,
-       "fpts": 20.9,
-       "mpg": 20.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 18.5,
-       "matchup": "SAC @ MEM",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 20.9,
        "gtd": false
       }
      ]
@@ -1146,17 +1147,17 @@
        "team": "MIA",
        "pos": "SG/SF",
        "espnId": 2528210,
-       "fpts": 16.4,
+       "fpts": 16.3,
        "mpg": 22.7,
        "basis": "sezona+prošla sezona",
        "gp": 5,
-       "cur": 12.2,
+       "cur": 12.0,
        "matchup": "MIA @ GSW",
        "dates": [
         "2026-11-05",
         "2026-11-08"
        ],
-       "value": 16.4,
+       "value": 16.3,
        "gtd": false
       }
      ]
