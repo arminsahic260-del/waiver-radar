@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T14:21:49Z",
+ "updated": "2026-10-30T15:21:49Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Remains out for Friday",
+   "note": "Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remains out for Friday's contest against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-remains-out-for-friday-536796"
+  },
   {
    "date": "2026-10-30",
    "team": "BKN",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Onyeka Okongwu",
-   "headline": "Drops 29 points in victory",
-   "note": "Okongwu finished with 29 points (11-17 FG, 4-6 3Pt, 3-4 FT), 12 rebounds, two assists, one steal and one block in 32 minutes during Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-drops-29-points-in-victory-536770"
-  },
-  {
-   "date": "2026-10-29",
    "team": "MEM",
    "player": "Ty Jerome",
    "headline": "Late addition to injury report",
@@ -453,13 +453,13 @@
   },
   {
    "date": "2026-10-29",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Iffy for Friday",
-   "note": "Brown (knee) is questionable for Friday's game against the Knicks.",
-   "kind": "other",
+   "team": "ATL",
+   "player": "Onyeka Okongwu",
+   "headline": "Drops 29 points in victory",
+   "note": "Okongwu finished with 29 points (11-17 FG, 4-6 3Pt, 3-4 FT), 12 rebounds, two assists, one steal and one block in 32 minutes during Thursday's 114-111 win over the Cavaliers.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-iffy-for-friday-536740"
+   "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-drops-29-points-in-victory-536770"
   },
   {
    "date": "2026-10-29",

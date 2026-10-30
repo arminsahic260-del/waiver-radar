@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T14:21:17Z",
+ "updated": "2026-10-30T15:21:16Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -41,6 +41,16 @@
    "status": "Expected return: at least Nov 1",
    "kind": "out",
    "ret": "2026-11-01"
+  },
+  {
+   "team": "BKN",
+   "player": "Noah Clowney",
+   "pos": "PF",
+   "updated": "2026-10-30",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "BOS",
