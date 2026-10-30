@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-30T15:21:49Z",
+ "updated": "2026-10-30T16:02:12Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Upgraded to probable",
+   "note": "Schroder (foot) is probable for Friday against the Wizards.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-upgraded-to-probable-536800"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Will play Friday",
+   "note": "Williams (groin) said he will play Friday against Boston, K.C. Johnson of Chicago Sports Network reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-will-play-friday-536799"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "FA",
+   "player": "Dwight Powell",
+   "headline": "To sign overseas",
+   "note": "Powell will sign a deal with Turkish club Fenerbahce, according to NBA reporter Marc Stein.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-to-sign-overseas-536798"
+  },
   {
    "date": "2026-10-30",
    "team": "CHA",
@@ -243,16 +273,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "CLE",
-   "player": "James Harden",
-   "headline": "Drops 24 points in loss",
-   "note": "Harden recorded 24 points (7-14 FG, 3-8 3Pt, 7-9 FT), five rebounds and four assists across 36 minutes in Thursday's 114-111 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-drops-24-points-in-loss-536771"
-  },
-  {
-   "date": "2026-10-29",
    "team": "MEM",
    "player": "Ty Jerome",
    "headline": "Late addition to injury report",
@@ -443,16 +463,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Out for Friday",
-   "note": "Walker (knee) has been ruled out for Friday's game versus New York.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-out-for-friday-536741"
-  },
-  {
-   "date": "2026-10-29",
    "team": "ATL",
    "player": "Onyeka Okongwu",
    "headline": "Drops 29 points in victory",
@@ -584,22 +594,12 @@
   {
    "date": "2026-10-29",
    "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "Available vs. Hawks",
-   "note": "Tyson (neck) has been cleared to play Thursday night against Atlanta.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-available-vs-hawks-536754"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Evan Mobley",
-   "headline": "Finds rhythm from deep",
-   "note": "Mobley had 24 points (8-12 FG, 5-6 3Pt, 3-4 FT), 12 rebounds and two assists over 32 minutes during Wednesday's 121-111 win over the Wizards.",
+   "player": "James Harden",
+   "headline": "Drops 24 points in loss",
+   "note": "Harden recorded 24 points (7-14 FG, 3-8 3Pt, 7-9 FT), five rebounds and four assists across 36 minutes in Thursday's 114-111 loss to the Hawks.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-finds-rhythm-from-deep-536705"
+   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-drops-24-points-in-loss-536771"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:21:16Z",
+ "updated": "2026-10-30T16:01:36Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -128,16 +128,6 @@
    "pos": "C",
    "updated": "2026-10-29",
    "injury": "Finger",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "pos": "PF",
-   "updated": "2026-10-29",
-   "injury": "Groin",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
