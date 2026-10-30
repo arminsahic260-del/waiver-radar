@@ -1,26 +1,7 @@
 {
- "updated": "2026-10-30T07:21:56Z",
+ "updated": "2026-10-30T08:21:54Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Ayo Dosunmu",
-   "team": "MIN",
-   "pos": "PG/SG",
-   "priority": 1,
-   "reason": "RotoWire 28.10.: Starting Wednesday. Dosunmu will move into the starting lineup for Wednesday's matchup with the Warriors, Jon Krawczynski of The Athletic reports. ~28.7 FP po utakmici (ove sezone 28.4 u 5 utk., prošle sezone 29.0; 27 min). Anthony Edwards (koljeno) je out najmanje do 21.12. Ayo Dosunmu je sljedeći PG/SG u rotaciji MIN-a za te minute; ~28.7 FP po utakmici (ove sezone 28.4 u 5 utk., prošle sezone 29.0; 27 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-starting-wednesday-536546",
-   "espnId": 4397002,
-   "fpts": 28.7,
-   "gp": 5,
-   "cur": 28.4
-  },
   {
    "player": "Tari Eason",
    "team": "HOU",
@@ -44,6 +25,28 @@
    "cur": 24.8
   },
   {
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "pos": "SG/SF",
+   "priority": 1,
+   "reason": "RotoWire 28.10.: Starting Wednesday. Grimes will start Wednesday's game against the Clippers, Law Murray of The Athletic reports. ~23.5 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 25.1; 28 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/quentin-grimes-news-starting-wednesday-536575",
+   "espnId": 4397014,
+   "waivers": {
+    "Legendi": "2026-10-31"
+   },
+   "fpts": 23.5,
+   "gp": 5,
+   "cur": 22.2
+  },
+  {
    "player": "Trevon Brazile",
    "team": "DEN",
    "pos": "SF/PF",
@@ -54,7 +57,7 @@
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/trevon-brazile-news-starting-wednesday-536554",
    "espnId": 4698719,
@@ -610,24 +613,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Ayo Dosunmu",
-       "team": "MIN",
-       "pos": "PG/SG",
-       "espnId": 4397002,
-       "fpts": 28.7,
-       "mpg": 27.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 28.4,
-       "matchup": "LAC @ MIN",
-       "dates": [
-        "2026-10-30",
-        "2026-10-31"
-       ],
-       "value": 28.7,
-       "gtd": false
-      },
-      {
        "player": "Tre Jones",
        "team": "CHI",
        "pos": "PG",
@@ -655,6 +640,24 @@
        "gp": 4,
        "cur": 18.2,
        "matchup": "LAL @ GSW",
+       "dates": [
+        "2026-10-30",
+        "2026-11-01"
+       ],
+       "value": 21.9,
+       "gtd": false
+      },
+      {
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "pos": "PG",
+       "espnId": 5101761,
+       "fpts": 21.9,
+       "mpg": 27.0,
+       "basis": "sezona+projekcija",
+       "gp": 3,
+       "cur": 19.0,
+       "matchup": "DET @ BKN",
        "dates": [
         "2026-10-30",
         "2026-11-01"
@@ -771,23 +774,6 @@
        "gtd": false
       },
       {
-       "player": "Ayo Dosunmu",
-       "team": "MIN",
-       "pos": "PG/SG",
-       "espnId": 4397002,
-       "fpts": 28.7,
-       "mpg": 27.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 28.4,
-       "matchup": "MIN @ SAS",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 28.7,
-       "gtd": false
-      },
-      {
        "player": "Tari Eason",
        "team": "HOU",
        "pos": "SF/PF",
@@ -804,6 +790,23 @@
        "value": 24.1,
        "gtd": false,
        "waiver": "2026-10-31"
+      },
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 21.6,
+       "mpg": 21.7,
+       "basis": "sezona+prošla sezona",
+       "gp": 5,
+       "cur": 15.8,
+       "matchup": "POR @ UTA",
+       "dates": [
+        "2026-10-31"
+       ],
+       "value": 21.6,
+       "gtd": false
       }
      ]
     },
@@ -914,6 +917,24 @@
        "waiver": "2026-10-31"
       },
       {
+       "player": "Quentin Grimes",
+       "team": "LAL",
+       "pos": "SG/SF",
+       "espnId": 4397014,
+       "fpts": 23.5,
+       "mpg": 28.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 5,
+       "cur": 22.2,
+       "matchup": "TOR @ LAL",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 23.5,
+       "gtd": false,
+       "waiver": "2026-10-31"
+      },
+      {
        "player": "Draymond Green",
        "team": "GSW",
        "pos": "PF/C",
@@ -924,23 +945,6 @@
        "gp": 4,
        "cur": 18.2,
        "matchup": "LAC @ GSW",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 21.9,
-       "gtd": false
-      },
-      {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 21.9,
-       "mpg": 27.0,
-       "basis": "sezona+projekcija",
-       "gp": 3,
-       "cur": 19.0,
-       "matchup": "BKN @ IND",
        "dates": [
         "2026-11-01"
        ],

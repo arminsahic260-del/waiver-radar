@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-30T07:21:51Z",
+ "updated": "2026-10-30T08:21:49Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Bounces back Thursday",
+   "note": "Murphy finished with 19 points (6-12 FG, 2-7 3Pt, 5-8 FT), five rebounds, three assists and a steal across 32 minutes in Thursday's 132-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-news-bounces-back-thursday-536793"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Herbert Jones",
+   "headline": "Strong two-way effort",
+   "note": "Jones contributed 16 points (7-12 FG, 0-3 3Pt, 2-3 FT), four rebounds, an assist and two steals across 32 minutes in Thursday's 132-120 win over the Kings.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-strong-two-way-effort-536792"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Zion Williamson",
+   "headline": "Surpasses 20-point mark again",
+   "note": "Williamson registered 22 points (10-12 FG, 2-4 FT), six rebounds, two assists, five steals and a block across 31 minutes in Thursday's 132-120 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-surpasses-20-point-mark-again-536791"
+  },
   {
    "date": "2026-10-30",
    "team": "SAC",
@@ -220,26 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-fills-box-score-in-thursdays-win-536769"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Massive double-double in defeat",
-   "note": "Acuff amassed 34 points (13-26 FG, 3-11 3Pt, 5-5 FT), 14 assists, six rebounds, two steals and one block across 41 minutes in Thursday's 132-120 loss to the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-massive-double-double-in-defeat-536768"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MEM",
-   "player": "Ty Jerome",
-   "headline": "Available Thursday",
-   "note": "Jerome (back) is available for Thursday's game at Portland.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-news-available-thursday-536767"
   },
   {
    "date": "2026-10-29",
@@ -590,16 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-available-vs-hawks-536754"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Evan Mobley",
-   "headline": "Finds rhythm from deep",
-   "note": "Mobley had 24 points (8-12 FG, 5-6 3Pt, 3-4 FT), 12 rebounds and two assists over 32 minutes during Wednesday's 121-111 win over the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-finds-rhythm-from-deep-536705"
   }
  ]
 }
