@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:22:11Z",
+ "updated": "2026-10-30T02:01:52Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-29T22:22:10Z",
+   "updated": "2026-10-30T02:01:51Z",
    "adds": {
     "period": 2,
     "used": 5,
@@ -21,8 +21,8 @@
      "pos": "PG",
      "slot": "PG",
      "espnId": 5142620,
-     "gp": 4,
-     "cur": 25.8,
+     "gp": 5,
+     "cur": 34.0,
      "proj": 30.4,
      "acq": "DRAFT",
      "draft": {
@@ -50,8 +50,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 4397136,
-     "gp": 4,
-     "cur": 22.5,
+     "gp": 5,
+     "cur": 22.2,
      "proj": 25.9,
      "acq": "ADD",
      "draft": {
@@ -242,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-29T22:22:11Z",
+   "updated": "2026-10-30T02:01:51Z",
    "adds": {
     "period": 2,
     "used": 2,
@@ -289,8 +289,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 4576087,
-     "gp": 4,
-     "cur": 28.8,
+     "gp": 5,
+     "cur": 25.2,
      "proj": 29.3,
      "acq": "DRAFT",
      "draft": {
@@ -306,8 +306,8 @@
      "pos": "SF/PF",
      "slot": "PF",
      "espnId": 4065732,
-     "gp": 4,
-     "cur": 18.5,
+     "gp": 5,
+     "cur": 20.4,
      "proj": 23.9,
      "acq": "ADD",
      "draft": null

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:21:23Z",
+ "updated": "2026-10-30T02:01:13Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -134,6 +134,16 @@
   },
   {
    "team": "CLE",
+   "player": "Meleek Thomas",
+   "pos": "PG",
+   "updated": "2026-10-29",
+   "injury": "Foot",
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
+  },
+  {
+   "team": "CLE",
    "player": "Nae'Qwan Tomlin",
    "pos": "PF",
    "updated": "2026-10-20",
@@ -141,26 +151,6 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
-  },
-  {
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "pos": "SF",
-   "updated": "2026-10-29",
-   "injury": "Neck",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "pos": "PG",
-   "updated": "2026-10-29",
-   "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -488,9 +478,9 @@
    "pos": "SF",
    "updated": "2026-10-29",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 1",
+   "kind": "out",
+   "ret": "2026-11-01"
   },
   {
    "team": "LAL",
@@ -498,19 +488,9 @@
    "pos": "SG",
    "updated": "2026-10-29",
    "injury": "Oblique",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
-   "player": "Luka Doncic",
-   "pos": "PG",
-   "updated": "2026-10-29",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 1",
+   "kind": "out",
+   "ret": "2026-11-01"
   },
   {
    "team": "LAL",
@@ -554,6 +534,26 @@
   },
   {
    "team": "NOP",
+   "player": "Dejounte Murray",
+   "pos": "PG",
+   "updated": "2026-10-29",
+   "injury": "Personal",
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
+  },
+  {
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "pos": "PG",
+   "updated": "2026-10-29",
+   "injury": "Ankle",
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
+  },
+  {
+   "team": "NOP",
    "player": "Yves Missi",
    "pos": "C",
    "updated": "2026-10-24",
@@ -563,24 +563,14 @@
    "ret": "2026-11-02"
   },
   {
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "pos": "PG",
-   "updated": "2026-10-28",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "NYK",
    "player": "Jose Alvarado",
    "pos": "PG",
    "updated": "2026-10-29",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "OKC",
@@ -764,23 +754,13 @@
   },
   {
    "team": "POR",
-   "player": "Shaedon Sharpe",
-   "pos": "SG",
-   "updated": "2026-09-28",
-   "injury": "Knee",
-   "status": "Expected return: at least Mar 2",
-   "kind": "out",
-   "ret": "2027-03-02"
-  },
-  {
-   "team": "POR",
    "player": "Chris Youngblood",
    "pos": "SG",
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
   },
   {
    "team": "POR",
@@ -788,9 +768,19 @@
    "pos": "C",
    "updated": "2026-10-29",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Oct 31",
+   "kind": "out",
+   "ret": "2026-10-31"
+  },
+  {
+   "team": "POR",
+   "player": "Shaedon Sharpe",
+   "pos": "SG",
+   "updated": "2026-09-28",
+   "injury": "Knee",
+   "status": "Expected return: at least Mar 2",
+   "kind": "out",
+   "ret": "2027-03-02"
   },
   {
    "team": "SAC",
