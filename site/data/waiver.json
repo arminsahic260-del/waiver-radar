@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:54:13Z",
+ "updated": "2026-10-30T21:21:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -29,7 +29,7 @@
    "team": "LAL",
    "pos": "SG/SF",
    "priority": 1,
-   "reason": "RotoWire 28.10.: Starting Wednesday. Grimes will start Wednesday's game against the Clippers, Law Murray of The Athletic reports. ~23.5 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 25.1; 28 min). Ziaire Williams (stopalo) je out najmanje do 1.11. — nova ozljeda. Quentin Grimes je prvi SG/SF u rotaciji LAL-a za te minute; ~23.5 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 25.1; 28 min).",
+   "reason": "RotoWire 28.10.: Starting Wednesday. Grimes will start Wednesday's game against the Clippers, Law Murray of The Athletic reports. ~23.5 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 25.1; 28 min). Ziaire Williams (stopalo) je out najmanje do 1.11. Quentin Grimes je prvi SG/SF u rotaciji LAL-a za te minute; ~23.5 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 25.1; 28 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -445,7 +445,7 @@
    "team": "LAL",
    "pos": "PG/SG",
    "priority": 3,
-   "reason": "Ziaire Williams (stopalo) je out najmanje do 1.11. — nova ozljeda. Collin Sexton je sljedeći PG/SG u rotaciji LAL-a za te minute; ~21.6 FP po utakmici (ove sezone 17.2 u 4 utk., prošle sezone 26.0; 21 min).",
+   "reason": "Ziaire Williams (stopalo) je out najmanje do 1.11. Collin Sexton je sljedeći PG/SG u rotaciji LAL-a za te minute; ~21.6 FP po utakmici (ove sezone 17.2 u 4 utk., prošle sezone 26.0; 21 min).",
    "role": "Veća minutaža dok je out Ziaire Williams",
    "horizon": "Do ~1.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Ziaire Williams",
@@ -615,8 +615,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 3,
+     "mine": 8,
+     "open": 2,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -702,8 +702,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 8,
-     "open": 2,
+     "mine": 9,
+     "open": 1,
      "sitting": 0,
      "adds": 4,
      "addsLimit": 7,
@@ -879,9 +879,9 @@
     },
     {
      "league": "Banijska",
-     "mine": 12,
+     "mine": 13,
      "open": 0,
-     "sitting": 2,
+     "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
      "add": false,
@@ -972,9 +972,9 @@
     },
     {
      "league": "Banijska",
-     "mine": 12,
+     "mine": 13,
      "open": 0,
-     "sitting": 2,
+     "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
      "add": false,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:54:13Z",
+ "updated": "2026-10-30T21:21:57Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-30T20:54:12Z",
+   "updated": "2026-10-30T21:21:57Z",
    "adds": {
     "period": 2,
     "used": 7,
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-30T20:54:13Z",
+   "updated": "2026-10-30T21:21:57Z",
    "adds": {
     "period": 2,
     "used": 2,
@@ -369,6 +369,23 @@
      "draft": null
     },
     {
+     "name": "Alperen Sengun",
+     "team": "HOU",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 4871144,
+     "gp": 4,
+     "cur": 51.0,
+     "proj": 43.0,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 18,
+      "round": 2,
+      "roundPick": 4,
+      "teamId": 5
+     }
+    },
+    {
      "name": "Keyonte George",
      "team": "UTA",
      "pos": "PG/SG",
@@ -401,18 +418,6 @@
       "roundPick": 4,
       "teamId": 5
      }
-    },
-    {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
-     "slot": "UTIL",
-     "espnId": 4433137,
-     "gp": 4,
-     "cur": 26.8,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
     },
     {
      "name": "Kel'el Ware",
@@ -461,21 +466,16 @@
      "draft": null
     },
     {
-     "name": "Alperen Sengun",
-     "team": "HOU",
-     "pos": "C",
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
      "slot": "IR",
-     "espnId": 4871144,
+     "espnId": 4433137,
      "gp": 4,
-     "cur": 51.0,
-     "proj": 43.0,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 18,
-      "round": 2,
-      "roundPick": 4,
-      "teamId": 5
-     }
+     "cur": 26.8,
+     "proj": 19.7,
+     "acq": "ADD",
+     "draft": null
     }
    ]
   }

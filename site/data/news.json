@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T20:54:08Z",
+ "updated": "2026-10-30T21:21:52Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Absent from injury report",
+   "note": "Murray (personal) is off the injury report for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-absent-from-injury-report-536830"
+  },
   {
    "date": "2026-10-30",
    "team": "CLE",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "CLE",
-   "player": "Mario Hezonja",
-   "headline": "Playing steady minutes",
-   "note": "Hezonja provided 10 points (4-6 FG, 2-3 3Pt), six rebounds, two assists and one steal in 17 minutes during Thursday's 114-111 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mario-hezonja-news-playing-steady-minutes-536804"
-  },
-  {
-   "date": "2026-10-30",
    "team": "CHA",
    "player": "Dennis Schroder",
    "headline": "Upgraded to probable",
@@ -290,6 +290,16 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-will-play-friday-536799"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CLE",
+   "player": "Mario Hezonja",
+   "headline": "Playing steady minutes",
+   "note": "Hezonja provided 10 points (4-6 FG, 2-3 3Pt), six rebounds, two assists and one steal in 17 minutes during Thursday's 114-111 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mario-hezonja-news-playing-steady-minutes-536804"
   },
   {
    "date": "2026-10-30",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-productive-stretch-as-starter-536717"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "headline": "Scores season-high 16 points",
-   "note": "Merrill registered 16 points (6-11 FG, 4-8 3Pt), two rebounds, three assists and a steal across 27 minutes in Thursday's 114-111 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-scores-season-high-16-points-536784"
   }
  ]
 }
