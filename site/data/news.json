@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T13:21:56Z",
+ "updated": "2026-10-30T14:21:49Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "BKN",
+   "player": "Noah Clowney",
+   "headline": "Downgraded to questionable",
+   "note": "Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-injury-downgraded-to-questionable-536794"
+  },
   {
    "date": "2026-10-30",
    "team": "NOP",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Jeremiah Fears",
-   "headline": "Fills box score in Thursday's win",
-   "note": "Fears finished Thursday's 132-120 win over the Kings with 22 points (9-16 FG, 3-5 3Pt, 1-3 FT), 13 assists, eight rebounds, four blocks and two steals over 29 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-fills-box-score-in-thursdays-win-536769"
-  },
-  {
-   "date": "2026-10-29",
    "team": "MEM",
    "player": "Ty Jerome",
    "headline": "Late addition to injury report",
@@ -463,16 +463,6 @@
   },
   {
    "date": "2026-10-29",
-   "team": "WAS",
-   "player": "Tre Johnson",
-   "headline": "Iffy for Friday",
-   "note": "Johnson (Achilles) is listed as questionable for Friday's game against Charlotte.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-injury-iffy-for-friday-536739"
-  },
-  {
-   "date": "2026-10-29",
    "team": "ATL",
    "player": "Nickeil Alexander-Walker",
    "headline": "Drains five triples",
@@ -600,6 +590,16 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-available-vs-hawks-536754"
+  },
+  {
+   "date": "2026-10-29",
+   "team": "CLE",
+   "player": "Evan Mobley",
+   "headline": "Finds rhythm from deep",
+   "note": "Mobley had 24 points (8-12 FG, 5-6 3Pt, 3-4 FT), 12 rebounds and two assists over 32 minutes during Wednesday's 121-111 win over the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-finds-rhythm-from-deep-536705"
   }
  ]
 }
