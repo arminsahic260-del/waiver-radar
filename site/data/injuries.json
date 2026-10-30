@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:21:22Z",
+ "updated": "2026-10-30T18:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -478,16 +478,6 @@
    "pos": "SF",
    "updated": "2026-10-29",
    "injury": "Knee",
-   "status": "Expected return: at least Nov 1",
-   "kind": "out",
-   "ret": "2026-11-01"
-  },
-  {
-   "team": "LAL",
-   "player": "Cameron Carr",
-   "pos": "SG",
-   "updated": "2026-10-29",
-   "injury": "Oblique",
    "status": "Expected return: at least Nov 1",
    "kind": "out",
    "ret": "2026-11-01"
