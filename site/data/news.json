@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-30T20:21:53Z",
+ "updated": "2026-10-30T20:54:08Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "headline": "Ruled out for Saturday",
+   "note": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-ruled-out-for-saturday-536828"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "headline": "Iffy for Saturday",
+   "note": "Thomas (foot) is questionable for Saturday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-iffy-for-saturday-536827"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Late addition to injury report",
+   "note": "Swain is listed as questionable for Friday's game at Boston due to lower-back soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-late-addition-to-injury-report-536826"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "GSW",
+   "player": "Gui Santos",
+   "headline": "Now questionable",
+   "note": "Santos (knee) is questionable for Friday's game against the Lakers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-now-questionable-536825"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DET",
+   "player": "Isaiah Joe",
+   "headline": "Ruled out Friday",
+   "note": "Joe (hip) has been ruled out for Friday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-ruled-out-friday-536824"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "headline": "Likely to play Friday",
+   "note": "Towns (wrist) is listed as probable for Friday's game against Philadelphia.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-likely-to-play-friday-536823"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Unlikely to play Friday",
+   "note": "Diallo (personal) is doubtful for Friday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-unlikely-to-play-friday-536822"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MIA",
+   "player": "Simone Fontecchio",
+   "headline": "Probable with illness",
+   "note": "Fontecchio (illness) is probable for Friday's against the Pacers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-probable-with-illness-536821"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Added to injury report",
+   "note": "Toppin (back) is questionable for Friday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-added-to-injury-report-536820"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Upgraded to probable",
+   "note": "Marshall (illness) is probable for Friday's game against the Rockets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-upgraded-to-probable-536819"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "PHI",
+   "player": "Jaylen Brown",
+   "headline": "Downgraded to doubtful",
+   "note": "Brown (knee) is doubtful for Friday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-downgraded-to-doubtful-536818"
+  },
   {
    "date": "2026-10-30",
    "team": "LAL",
@@ -143,26 +253,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Saddiq Bey",
-   "headline": "Solid start to 2026-27",
-   "note": "Bey finished Thursday's 132-120 win over the Kings with 10 points (3-7 FG, 1-2 3Pt, 3-3 FT), four rebounds and three assists across 24 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-solid-start-to-2026-27-536803"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "POR",
-   "player": "Deni Avdija",
-   "headline": "Strong start continues",
-   "note": "Avdija chipped in 24 points (8-16 FG, 0-4 3Pt, 8-12 FT), nine rebounds, seven assists and one block over 32 minutes during Thursday's 124-103 loss to Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-strong-start-continues-536802"
-  },
-  {
-   "date": "2026-10-30",
    "team": "CHA",
    "player": "Dennis Schroder",
    "headline": "Upgraded to probable",
@@ -170,26 +260,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-upgraded-to-probable-536800"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Will play Friday",
-   "note": "Williams (groin) said he will play Friday against Boston, K.C. Johnson of Chicago Sports Network reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-will-play-friday-536799"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "FA",
-   "player": "Dwight Powell",
-   "headline": "To sign overseas",
-   "note": "Powell will sign a deal with Turkish club Fenerbahce, according to NBA reporter Marc Stein.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-to-sign-overseas-536798"
   },
   {
    "date": "2026-10-30",
@@ -210,6 +280,26 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-injury-downgraded-to-questionable-536794"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Will play Friday",
+   "note": "Williams (groin) said he will play Friday against Boston, K.C. Johnson of Chicago Sports Network reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-will-play-friday-536799"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Saddiq Bey",
+   "headline": "Solid start to 2026-27",
+   "note": "Bey finished Thursday's 132-120 win over the Kings with 10 points (3-7 FG, 1-2 3Pt, 3-3 FT), four rebounds and three assists across 24 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-solid-start-to-2026-27-536803"
   },
   {
    "date": "2026-10-30",
@@ -243,6 +333,16 @@
   },
   {
    "date": "2026-10-30",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Strong start continues",
+   "note": "Avdija chipped in 24 points (8-16 FG, 0-4 3Pt, 8-12 FT), nine rebounds, seven assists and one block over 32 minutes during Thursday's 124-103 loss to Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-strong-start-continues-536802"
+  },
+  {
+   "date": "2026-10-30",
    "team": "SAC",
    "player": "Zach LaVine",
    "headline": "Scores 21 points in loss",
@@ -270,6 +370,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-grabs-15-rebounds-in-loss-536788"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "FA",
+   "player": "Dwight Powell",
+   "headline": "To sign overseas",
+   "note": "Powell will sign a deal with Turkish club Fenerbahce, according to NBA reporter Marc Stein.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-to-sign-overseas-536798"
   },
   {
    "date": "2026-10-29",
@@ -310,116 +420,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-late-addition-to-injury-report-536766"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "POR",
-   "player": "Robert Williams",
-   "headline": "Downgraded to out",
-   "note": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-injury-downgraded-to-out-536765"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Iffy for Friday",
-   "note": "Ighodaro (oblique) is listed as questionable for Friday's game against Denver.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-iffy-for-friday-536764"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Unlikely to play Friday",
-   "note": "Santos (knee) is listed as doubtful for Friday's game against the Warriors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-unlikely-to-play-friday-536762"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "LAL",
-   "player": "Adou Thiero",
-   "headline": "Won't play Friday",
-   "note": "Thiero (knee) has been ruled out for Friday's game against the Warriors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-wont-play-friday-536761"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Could play Friday",
-   "note": "Williams (foot) is questionable for Friday's game against Golden State.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-could-play-friday-536759"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "headline": "Could return Friday",
-   "note": "Diallo (personal) is listed as questionable for Friday's game against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-could-return-friday-536758"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Listed questionable for Friday",
-   "note": "Johnson (ankle) is questionable for Friday's game against Phoenix.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-listed-questionable-for-friday-536757"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Won't play against Atlanta",
-   "note": "Thomas (foot) has been ruled out for Thursday's game against the Hawks, Serena Winters of FanDuel Sports Network Ohio reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-wont-play-against-atlanta-536753"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NYK",
-   "player": "Jose Alvarado",
-   "headline": "Remains out for Friday",
-   "note": "Alvarado (ankle) has been ruled out for Friday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-remains-out-for-friday-536752"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Late scratch Thursday",
-   "note": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-late-scratch-thursday-536750"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "Won't play Thursday",
-   "note": "Poole (ankle) has been ruled out for Thursday's game against the Kings.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-wont-play-thursday-536749"
   },
   {
    "date": "2026-10-29",

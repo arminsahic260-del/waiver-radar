@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:21:21Z",
+ "updated": "2026-10-30T20:53:34Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -124,6 +124,16 @@
   },
   {
    "team": "CHI",
+   "player": "Dailyn Swain",
+   "pos": "SF",
+   "updated": "2026-10-30",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
    "player": "Jalen Smith",
    "pos": "C",
    "updated": "2026-10-29",
@@ -244,6 +254,16 @@
   },
   {
    "team": "DET",
+   "player": "Isaiah Joe",
+   "pos": "SG",
+   "updated": "2026-10-30",
+   "injury": "Hip",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
    "updated": "2026-10-25",
@@ -251,16 +271,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "pos": "SG",
-   "updated": "2026-10-29",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "GSW",
@@ -413,6 +423,16 @@
    "ret": null
   },
   {
+   "team": "IND",
+   "player": "Obi Toppin",
+   "pos": "PF",
+   "updated": "2026-10-30",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "LAC",
    "player": "Bradley Beal",
    "pos": "SG",
@@ -486,11 +506,11 @@
    "team": "LAL",
    "player": "Ziaire Williams",
    "pos": "PF",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 1",
+   "kind": "out",
+   "ret": "2026-11-01"
   },
   {
    "team": "MEM",
@@ -571,6 +591,16 @@
    "status": "Expected return: at least Nov 4",
    "kind": "out",
    "ret": "2026-11-04"
+  },
+  {
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "pos": "C",
+   "updated": "2026-10-30",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "OKC",
