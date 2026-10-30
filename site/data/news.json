@@ -1,6 +1,166 @@
 {
- "updated": "2026-10-30T22:22:00Z",
+ "updated": "2026-10-30T23:21:54Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "UTA",
+   "player": "Lauri Markkanen",
+   "headline": "Questionable versus Portland",
+   "note": "Markkanen (wrist) is listed as questionable for Saturday's game against Portland.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-injury-questionable-versus-portland-536862"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Good to go Friday",
+   "note": "Smart (forearm) is available for Friday's game against Dallas, Varun Shankar of the Houston Chronicle reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-good-to-go-friday-536861"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "POR",
+   "player": "Robert Williams",
+   "headline": "Questionable to play Saturday",
+   "note": "Williams (knee) is questionable for Saturday's game against the Jazz.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-injury-questionable-to-play-saturday-536860"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Will start Friday",
+   "note": "Wade will start Friday's game against the Knicks, Noah Levick of NBC Sports Philadelphia reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-will-start-friday-536858"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Upgraded to available",
+   "note": "Nembhard (neck) is listed as available for Friday's game against Miami.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-upgraded-to-available-536857"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Ruled out Friday",
+   "note": "Toppin (back) has been ruled out for Friday's game against Miami.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-ruled-out-friday-536856"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Good to go Friday",
+   "note": "Nesmith (hamstring) is available to play in Friday's game against Miami.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-good-to-go-friday-536855"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Available to play Friday",
+   "note": "Hachimura (quadriceps) is avalable to play in Friday's game against Minnesota, Ohm Youngmisuk of ESPN.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-available-to-play-friday-536854"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Ruled out Friday",
+   "note": "Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-injury-ruled-out-friday-536853"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Likely to play",
+   "note": "Smart (forearm) is expected to play in Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-likely-to-play-536852"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MEM",
+   "player": "Scotty Pippen",
+   "headline": "Questionable for Saturday",
+   "note": "Pippen (back) is listed as questionable for Saturday's game against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-questionable-for-saturday-536851"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Sergio de Larrea",
+   "headline": "To be re-evaluated next week",
+   "note": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-to-be-re-evaluated-next-week-536850"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MEM",
+   "player": "Ty Jerome",
+   "headline": "Questionable versus Kings",
+   "note": "Jerome (back) is listed as questionable for Saturday's game against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-questionable-versus-kings-536849"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "Remains out for Saturday",
+   "note": "Holmgren (knee) remains out for Saturday's road game against Houston, Justin Martinez of The Oklahoman reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-remains-out-for-saturday-536848"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MEM",
+   "player": "Quinten Post",
+   "headline": "Doubtful for Saturday",
+   "note": "Post (ankle) is doubtful for Saturday's game against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-doubtful-for-saturday-536847"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "headline": "Cleared to play Friday",
+   "note": "Towns (wrist) is available for Friday's meeting with the 76ers, Fred Katz of The Athletic reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-cleared-to-play-friday-536846"
+  },
   {
    "date": "2026-10-30",
    "team": "MIA",
@@ -113,16 +273,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "WAS",
-   "player": "AJ Dybantsa",
-   "headline": "Will remain limited Friday",
-   "note": "Dybantsa (ankle) will remain on a minutes restriction in Friday's game against the Hornets, Greg Finberg of The Wizards Podcast reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-will-remain-limited-friday-536833"
-  },
-  {
-   "date": "2026-10-30",
    "team": "NOP",
    "player": "Yves Missi",
    "headline": "Ruled out Saturday as expected",
@@ -140,16 +290,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-ruled-out-for-saturday-536831"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Absent from injury report",
-   "note": "Murray (personal) is off the injury report for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-absent-from-injury-report-536830"
   },
   {
    "date": "2026-10-30",
@@ -233,106 +373,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Added to injury report",
-   "note": "Toppin (back) is questionable for Friday's game against the Heat.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-added-to-injury-report-536820"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Upgraded to probable",
-   "note": "Marshall (illness) is probable for Friday's game against the Rockets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-upgraded-to-probable-536819"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Downgraded to doubtful",
-   "note": "Brown (knee) is doubtful for Friday's game against the Knicks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-downgraded-to-doubtful-536818"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Out Friday",
-   "note": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-out-friday-536817"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Fourth-year option exercised",
-   "note": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-fourth-year-option-exercised-536816"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Practicing at G League camp",
-   "note": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-practicing-at-g-league-camp-536815"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "Johnny Furphy",
-   "headline": "Practicing in G League",
-   "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-practicing-in-g-league-536814"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "POR",
-   "player": "Ja Morant",
-   "headline": "Out four weeks with hamstring strain",
-   "note": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-injury-out-four-weeks-with-hamstring-strain-536813"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Expected to play Friday",
-   "note": "Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-expected-to-play-friday-536812"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Upgraded to probable",
-   "note": "Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-upgraded-to-probable-536809"
-  },
-  {
-   "date": "2026-10-30",
    "team": "BOS",
    "player": "Baylor Scheierman",
    "headline": "Has option picked up",
@@ -403,6 +443,86 @@
   },
   {
    "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Upgraded to probable",
+   "note": "Marshall (illness) is probable for Friday's game against the Rockets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-upgraded-to-probable-536819"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Expected to play Friday",
+   "note": "Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-expected-to-play-friday-536812"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Fourth-year option exercised",
+   "note": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-fourth-year-option-exercised-536816"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Added to injury report",
+   "note": "Toppin (back) is questionable for Friday's game against the Heat.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-added-to-injury-report-536820"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Practicing at G League camp",
+   "note": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-practicing-at-g-league-camp-536815"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Johnny Furphy",
+   "headline": "Practicing in G League",
+   "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-practicing-in-g-league-536814"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Upgraded to probable",
+   "note": "Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-upgraded-to-probable-536809"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "LAL",
+   "player": "Ziaire Williams",
+   "headline": "Out Friday",
+   "note": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-out-friday-536817"
+  },
+  {
+   "date": "2026-10-30",
    "team": "MEM",
    "player": "Cam Spencer",
    "headline": "Earning more playing time",
@@ -430,6 +550,16 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-team-option-picked-up-536810"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Absent from injury report",
+   "note": "Murray (personal) is off the injury report for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-absent-from-injury-report-536830"
   },
   {
    "date": "2026-10-30",
@@ -470,136 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-surpasses-20-point-mark-again-536791"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "OKC",
-   "player": "Ochai Agbaji",
-   "headline": "To sign with Thunder",
-   "note": "Agbaji will sign a deal with the Thunder, Michael Scotto of HoopsHype.com reports.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ochai-agbaji-news-to-sign-with-thunder-536805"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "POR",
-   "player": "Deni Avdija",
-   "headline": "Strong start continues",
-   "note": "Avdija chipped in 24 points (8-16 FG, 0-4 3Pt, 8-12 FT), nine rebounds, seven assists and one block over 32 minutes during Thursday's 124-103 loss to Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-strong-start-continues-536802"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Scores 21 points in loss",
-   "note": "LaVine tallied 21 points (7-17 FG, 3-10 3Pt, 4-6 FT), three rebounds, five assists and three steals across 39 minutes in Thursday's 132-120 loss to the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-scores-21-points-in-loss-536790"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "SAC",
-   "player": "Precious Achiuwa",
-   "headline": "Goes for 24 points Thursday",
-   "note": "Achiuwa posted 24 points (12-17 FG, 0-2 3Pt, 0-1 FT), nine rebounds, two assists and four steals across 41 minutes in Thursday's 132-120 loss to the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-goes-for-24-points-thursday-536789"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "SAC",
-   "player": "Domantas Sabonis",
-   "headline": "Grabs 15 rebounds in loss",
-   "note": "Sabonis finished with nine points (4-7 FG, 1-2 FT), 15 rebounds, seven assists, two steals and a block across 40 minutes in Thursday's 132-120 loss to the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-grabs-15-rebounds-in-loss-536788"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "FA",
-   "player": "Dwight Powell",
-   "headline": "To sign overseas",
-   "note": "Powell will sign a deal with Turkish club Fenerbahce, according to NBA reporter Marc Stein.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-to-sign-overseas-536798"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Aaron Wiggins",
-   "headline": "Scores 20 points off bench",
-   "note": "Wiggins notched 20 points (8-14 FG, 4-7 3Pt), seven rebounds, three assists and a block across 24 minutes in Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-scores-20-points-off-bench-536787"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Scores 25 points Thursday",
-   "note": "Alexander-Walker delivered 25 points (8-17 FG, 4-12 3Pt, 5-5 FT), three rebounds, an assist and a block across 31 minutes in Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-scores-25-points-thursday-536786"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "headline": "Flirts with triple-double in victory",
-   "note": "Johnson recorded 17 points (7-16 FG, 2-5 3Pt, 1-1 FT), eight rebounds and seven assists across 34 minutes in Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-flirts-with-triple-double-in-victory-536785"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Onyeka Okongwu",
-   "headline": "Drops 29 points in victory",
-   "note": "Okongwu finished with 29 points (11-17 FG, 4-6 3Pt, 3-4 FT), 12 rebounds, two assists, one steal and one block in 32 minutes during Thursday's 114-111 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-drops-29-points-in-victory-536770"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Drains five triples",
-   "note": "Alexander-Walker amassed 23 points (8-18 FG, 5-9 3Pt, 2-2 FT), three rebounds, one assist and one steal across 32 minutes during Wednesday's 129-117 loss to the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-drains-five-triples-536686"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Nolan Traore",
-   "headline": "Team option picked up",
-   "note": "The Nets exercised Traore's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-team-option-picked-up-536678"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "Third-year option picked up",
-   "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-third-year-option-picked-up-536676"
   }
  ]
 }
