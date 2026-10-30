@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-30T21:21:52Z",
+ "updated": "2026-10-30T22:22:00Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "MIA",
+   "player": "Simone Fontecchio",
+   "headline": "Suiting up Friday",
+   "note": "Fontecchio (illness) is available for Friday's game against the Pacers, Anthony Chiang of the Miami Herald reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-news-suiting-up-friday-536845"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Out again Friday",
+   "note": "Aldama (knee) is listed as out for Friday's game against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-out-again-friday-536844"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Tarik Biberovic",
+   "headline": "Ruled out Friday",
+   "note": "Biberovic (heel) is out for Friday's game against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-friday-536843"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Good to go Friday",
+   "note": "Marshall (illness) is available for Friday's game against Houston.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "WAS",
+   "player": "Tre Johnson",
+   "headline": "Available Friday",
+   "note": "Johnson (Achilles) is available for Friday's game against Charlotte.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-news-available-friday-536841"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BKN",
+   "player": "Noah Clowney",
+   "headline": "Available to play Friday",
+   "note": "Clowney (illness) is available for Friday's game against Detroit, Brian Lewis of the New York Post reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-friday-536840"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Will play Friday",
+   "note": "Schroder (foot) is available for Friday's game against the Wizards.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-will-play-friday-536839"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "headline": "Cleared to play Friday",
+   "note": "Smith (finger) is available for Friday's game against the Celtics.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-cleared-to-play-friday-536837"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Out Friday",
+   "note": "Swain (back) has been ruled out for Friday's game against Boston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-out-friday-536836"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "PHI",
+   "player": "Jaylen Brown",
+   "headline": "Downgraded to out",
+   "note": "Brown (knee) is out for Friday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-downgraded-to-out-536835"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "SAS",
+   "player": "Tobias Harris",
+   "headline": "Remains out Saturday",
+   "note": "Harris (calf) is listed as out for Saturday's game against Minnesota.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobias-harris-injury-remains-out-saturday-536834"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "Will remain limited Friday",
+   "note": "Dybantsa (ankle) will remain on a minutes restriction in Friday's game against the Hornets, Greg Finberg of The Wizards Podcast reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-will-remain-limited-friday-536833"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Yves Missi",
+   "headline": "Ruled out Saturday as expected",
+   "note": "Missi (knee) won't play in Saturday's game against Atlanta.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-ruled-out-saturday-as-expected-536832"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Ruled out for Saturday",
+   "note": "Poole (ankle) has been ruled out for Saturday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-ruled-out-for-saturday-536831"
+  },
   {
    "date": "2026-10-30",
    "team": "NOP",
@@ -183,26 +323,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "MIN",
-   "player": "Terrence Shannon",
-   "headline": "Team option exercised",
-   "note": "Shannon's contract option for next season is being exercised by Minnesota, Jon Krawczynski of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-news-team-option-exercised-536811"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIN",
-   "player": "Joan Beringer",
-   "headline": "Team option picked up",
-   "note": "Beringer's contract option for next season is being exercised by Minnesota, Jon Krawczynski of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-team-option-picked-up-536810"
-  },
-  {
-   "date": "2026-10-30",
    "team": "LAC",
    "player": "Rui Hachimura",
    "headline": "Upgraded to probable",
@@ -233,23 +353,13 @@
   },
   {
    "date": "2026-10-30",
-   "team": "MEM",
-   "player": "Cam Spencer",
-   "headline": "Earning more playing time",
-   "note": "Spencer produced eight points (3-6 FG, 1-2 3Pt, 1-1 FT), six rebounds, eight assists and two steals across 23 minutes during Thursday's 124-103 win over Portland.",
-   "kind": "lineup",
+   "team": "BKN",
+   "player": "Noah Clowney",
+   "headline": "Downgraded to questionable",
+   "note": "Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",
+   "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-earning-more-playing-time-536806"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "OKC",
-   "player": "Ochai Agbaji",
-   "headline": "To sign with Thunder",
-   "note": "Agbaji will sign a deal with the Thunder, Michael Scotto of HoopsHype.com reports.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ochai-agbaji-news-to-sign-with-thunder-536805"
+   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-injury-downgraded-to-questionable-536794"
   },
   {
    "date": "2026-10-30",
@@ -273,16 +383,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "headline": "Downgraded to questionable",
-   "note": "Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-injury-downgraded-to-questionable-536794"
-  },
-  {
-   "date": "2026-10-30",
    "team": "CHI",
    "player": "Patrick Williams",
    "headline": "Will play Friday",
@@ -300,6 +400,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/mario-hezonja-news-playing-steady-minutes-536804"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MEM",
+   "player": "Cam Spencer",
+   "headline": "Earning more playing time",
+   "note": "Spencer produced eight points (3-6 FG, 1-2 3Pt, 1-1 FT), six rebounds, eight assists and two steals across 23 minutes during Thursday's 124-103 win over Portland.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-earning-more-playing-time-536806"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MIN",
+   "player": "Terrence Shannon",
+   "headline": "Team option exercised",
+   "note": "Shannon's contract option for next season is being exercised by Minnesota, Jon Krawczynski of The Athletic reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-news-team-option-exercised-536811"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MIN",
+   "player": "Joan Beringer",
+   "headline": "Team option picked up",
+   "note": "Beringer's contract option for next season is being exercised by Minnesota, Jon Krawczynski of The Athletic reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-team-option-picked-up-536810"
   },
   {
    "date": "2026-10-30",
@@ -340,6 +470,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-surpasses-20-point-mark-again-536791"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "OKC",
+   "player": "Ochai Agbaji",
+   "headline": "To sign with Thunder",
+   "note": "Agbaji will sign a deal with the Thunder, Michael Scotto of HoopsHype.com reports.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ochai-agbaji-news-to-sign-with-thunder-536805"
   },
   {
    "date": "2026-10-30",
@@ -390,46 +530,6 @@
    "kind": "transaction",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dwight-powell-news-to-sign-overseas-536798"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MEM",
-   "player": "Quinten Post",
-   "headline": "Unable to return Thursday",
-   "note": "Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5 FG, 2-3 3Pt, 2-2 FT) and four rebounds in seven minutes before exiting.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-unable-to-return-thursday-536774"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "POR",
-   "player": "Ja Morant",
-   "headline": "Departs with hamstring issue",
-   "note": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injury. He'll end with 14 points (6-14 FG, 2-5 3Pt), two rebounds and three assists in 23 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ja-morant-injury-departs-with-hamstring-issue-536773"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MEM",
-   "player": "Quinten Post",
-   "headline": "Doubtful to return Thursday",
-   "note": "Post is doubtful to return to Thursday's game against the Trail Blazers due to a right ankle injury.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-doubtful-to-return-thursday-536772"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MEM",
-   "player": "Ty Jerome",
-   "headline": "Late addition to injury report",
-   "note": "Jerome is questionable for Thursday's game against the Trail Blazers due to back tightness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-late-addition-to-injury-report-536766"
   },
   {
    "date": "2026-10-29",
@@ -500,106 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-third-year-option-picked-up-536676"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Team option exercised",
-   "note": "The Nets exercised Wolf's team option Thursday, per Sharif Phillips-Keaton of USA Today.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-team-option-exercised-536675"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Egor Demin",
-   "headline": "To be re-evaluated in one week",
-   "note": "Demin has been diagnosed with a right leg bone bruise and will be re-evaluated in one week, Ian Begley of SportsNet New York reports Thursday. The injury occurred during Tuesday's game against Boston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/egor-demin-injury-to-be-re-evaluated-in-one-week-536667"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Recalled from Long Island",
-   "note": "The Nets recalled Wolf from the G League's Long Island Nets on Wednesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-recalled-from-long-island-536662"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Questionable for Friday",
-   "note": "Schroder (foot) is questionable for Friday's game against the Wizards.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-questionable-for-friday-536742"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Practicing in G League",
-   "note": "Knueppel (hamstring) will practice with the G League's Greensboro Swarm on Thursday, the Hornets announced.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-practicing-in-g-league-536714"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHA",
-   "player": "Ryan Kalkbrenner",
-   "headline": "Limited run in loss",
-   "note": "Kalkbrenner provided one point (1-2 FT), one rebound, one assist, one block and one steal in 13 minutes during Wednesday's 97-89 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-limited-run-in-loss-536682"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Questionable for Friday",
-   "note": "Williams (adductor) is questionable for Friday's game in Boston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-injury-questionable-for-friday-536725"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Listed as questionable",
-   "note": "Smith is questionable for Friday's game against Boston with a left finger sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-injury-listed-as-questionable-536724"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHI",
-   "player": "Isaac Okoro",
-   "headline": "Muted start to season",
-   "note": "Okoro notched seven points (1-4 FG, 1-2 3Pt, 4-6 FT), one assist and one steal over 18 minutes during Wednesday's 133-127 loss to New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaac-okoro-news-muted-start-to-season-536719"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Productive stretch as starter",
-   "note": "Smith racked up 17 points (7-12 FG, 3-7 3Pt), 11 rebounds, five assists and three blocks over 30 minutes during Wednesday's 133-127 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-productive-stretch-as-starter-536717"
   }
  ]
 }

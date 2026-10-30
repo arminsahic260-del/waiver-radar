@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:21:18Z",
+ "updated": "2026-10-30T22:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -141,6 +141,16 @@
    "status": "GTD",
    "kind": "gtd",
    "ret": null
+  },
+  {
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "pos": "SF",
+   "updated": "2026-10-30",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "CLE",
@@ -554,33 +564,23 @@
   },
   {
    "team": "NOP",
-   "player": "Yves Missi",
-   "pos": "C",
-   "updated": "2026-10-24",
-   "injury": "Knee",
+   "player": "Jordan Poole",
+   "pos": "PG",
+   "updated": "2026-10-30",
+   "injury": "Ankle",
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
   },
   {
    "team": "NOP",
-   "player": "Dejounte Murray",
-   "pos": "PG",
-   "updated": "2026-10-29",
-   "injury": "Personal",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "pos": "PG",
-   "updated": "2026-10-29",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "player": "Yves Missi",
+   "pos": "C",
+   "updated": "2026-10-30",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
   },
   {
    "team": "NYK",
@@ -876,11 +876,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-29",
+   "updated": "2026-10-30",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 6",
+   "kind": "out",
+   "ret": "2026-11-06"
   },
   {
    "team": "TOR",
