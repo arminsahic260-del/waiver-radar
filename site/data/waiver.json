@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:21:57Z",
+ "updated": "2026-10-30T11:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -380,6 +380,28 @@
    "cur": 9.5
   },
   {
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Dejounte Murray (osobni razlozi) je upitan (GTD). Saddiq Bey je sljedeći SF/PF u rotaciji NOP-a za te minute; ~25.7 FP po utakmici (ove sezone 21.8 u 5 utk., prošle sezone 30.7; 27 min).",
+   "role": "Zamjena ako Dejounte Murray ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Dejounte Murray",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397136,
+   "waivers": {
+    "Legendi": "2026-11-01"
+   },
+   "fpts": 25.7,
+   "gp": 5,
+   "cur": 21.8
+  },
+  {
    "player": "Draymond Green",
    "team": "GSW",
    "pos": "PF/C",
@@ -389,10 +411,11 @@
    "horizon": "Do ~1.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kristaps Porzingis",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Legendi)",
    "espnId": 6589,
    "fpts": 21.9,
    "gp": 4,
@@ -572,25 +595,6 @@
    "fpts": 15.2,
    "gp": 2,
    "cur": 6.0
-  },
-  {
-   "player": "Kyle Filipowski",
-   "team": "UTA",
-   "pos": "PF/C",
-   "priority": 3,
-   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~15.0 FP po utakmici (ove sezone -0.3 u 3 utk., prošle sezone 26.4; 17 min).",
-   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
-   "horizon": "Do ~14.12. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4684793,
-   "fpts": 15.0,
-   "gp": 3,
-   "cur": -0.3
   }
  ],
  "days": [
@@ -600,72 +604,15 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
-     "open": 2,
+     "mine": 10,
+     "open": 0,
      "sitting": 0,
-     "adds": 2,
+     "adds": 0,
      "addsLimit": 7,
      "add": false,
-     "addDays": [
-      "2026-10-31",
-      "2026-11-01"
-     ],
+     "addDays": [],
      "planned": [],
-     "picks": [
-      {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 25.0,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 19.8,
-       "matchup": "CHI @ BOS",
-       "dates": [
-        "2026-10-30"
-       ],
-       "value": 25.0,
-       "gtd": false
-      },
-      {
-       "player": "Draymond Green",
-       "team": "GSW",
-       "pos": "PF/C",
-       "espnId": 6589,
-       "fpts": 21.9,
-       "mpg": 27.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 18.2,
-       "matchup": "LAL @ GSW",
-       "dates": [
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 21.9,
-       "gtd": false
-      },
-      {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 21.9,
-       "mpg": 27.0,
-       "basis": "sezona+projekcija",
-       "gp": 3,
-       "cur": 19.0,
-       "matchup": "DET @ BKN",
-       "dates": [
-        "2026-10-30",
-        "2026-11-01"
-       ],
-       "value": 21.9,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
@@ -744,71 +691,15 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 5,
-     "open": 5,
+     "mine": 3,
+     "open": 7,
      "sitting": 0,
-     "adds": 2,
+     "adds": 0,
      "addsLimit": 7,
-     "add": true,
-     "addDays": [
-      "2026-10-31",
-      "2026-11-01"
-     ],
+     "add": false,
+     "addDays": [],
      "planned": [],
-     "picks": [
-      {
-       "player": "Mo Bamba",
-       "team": "UTA",
-       "pos": "C",
-       "espnId": 4277919,
-       "fpts": 30.5,
-       "mpg": 22.5,
-       "basis": "sezona",
-       "gp": 2,
-       "cur": 30.5,
-       "matchup": "POR @ UTA",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 30.5,
-       "gtd": false
-      },
-      {
-       "player": "Tari Eason",
-       "team": "HOU",
-       "pos": "SF/PF",
-       "espnId": 4433192,
-       "fpts": 24.1,
-       "mpg": 25.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 24.8,
-       "matchup": "OKC @ HOU",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 24.1,
-       "gtd": false,
-       "waiver": "2026-10-31"
-      },
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 21.6,
-       "mpg": 21.7,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 15.8,
-       "matchup": "POR @ UTA",
-       "dates": [
-        "2026-10-31"
-       ],
-       "value": 21.6,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
@@ -886,72 +777,15 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 3,
-     "open": 7,
+     "mine": 5,
+     "open": 5,
      "sitting": 0,
-     "adds": 1,
+     "adds": 0,
      "addsLimit": 7,
-     "add": true,
-     "addDays": [
-      "2026-10-31",
-      "2026-11-01"
-     ],
+     "add": false,
+     "addDays": [],
      "planned": [],
-     "picks": [
-      {
-       "player": "Brook Lopez",
-       "team": "LAC",
-       "pos": "C",
-       "espnId": 3448,
-       "fpts": 24.0,
-       "mpg": 22.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 27.8,
-       "matchup": "LAC @ GSW",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 24.0,
-       "gtd": false,
-       "waiver": "2026-10-31"
-      },
-      {
-       "player": "Quentin Grimes",
-       "team": "LAL",
-       "pos": "SG/SF",
-       "espnId": 4397014,
-       "fpts": 23.5,
-       "mpg": 28.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 22.2,
-       "matchup": "TOR @ LAL",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 23.5,
-       "gtd": false,
-       "waiver": "2026-10-31"
-      },
-      {
-       "player": "Draymond Green",
-       "team": "GSW",
-       "pos": "PF/C",
-       "espnId": 6589,
-       "fpts": 21.9,
-       "mpg": 27.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 18.2,
-       "matchup": "LAC @ GSW",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 21.9,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
@@ -1065,9 +899,9 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 11,
+     "mine": 10,
      "open": 0,
-     "sitting": 1,
+     "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
      "add": false,
@@ -1099,8 +933,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 1,
-     "open": 9,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
@@ -1110,24 +944,6 @@
      ],
      "planned": [],
      "picks": [
-      {
-       "player": "Draymond Green",
-       "team": "GSW",
-       "pos": "PF/C",
-       "espnId": 6589,
-       "fpts": 21.9,
-       "mpg": 27.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 18.2,
-       "matchup": "MIA @ GSW",
-       "dates": [
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 21.9,
-       "gtd": false
-      },
       {
        "player": "Luke Kennard",
        "team": "PHX",
@@ -1163,6 +979,24 @@
        ],
        "value": 16.3,
        "gtd": false
+      },
+      {
+       "player": "Gui Santos",
+       "team": "GSW",
+       "pos": "SF",
+       "espnId": 4997536,
+       "fpts": 20.0,
+       "mpg": 22.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 19.8,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-07"
+       ],
+       "value": 15.0,
+       "gtd": true
       }
      ]
     },

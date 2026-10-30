@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:21:56Z",
+ "updated": "2026-10-30T11:21:59Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,10 +8,10 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-30T10:21:56Z",
+   "updated": "2026-10-30T11:21:58Z",
    "adds": {
     "period": 2,
-    "used": 5,
+    "used": 7,
     "limit": 7
    },
    "players": [
@@ -67,33 +67,28 @@
      }
     },
     {
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
+     "slot": "PF",
+     "espnId": 4278355,
+     "gp": 5,
+     "cur": 27.2,
+     "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
      "name": "Paul Reed",
      "team": "DET",
      "pos": "PF/C",
-     "slot": "PF",
+     "slot": "C",
      "espnId": 4278562,
      "gp": 5,
      "cur": 33.0,
      "proj": 20.4,
      "acq": "ADD",
      "draft": null
-    },
-    {
-     "name": "Ivica Zubac",
-     "team": "IND",
-     "pos": "C",
-     "slot": "C",
-     "espnId": 4017837,
-     "gp": 3,
-     "cur": 21.7,
-     "proj": 35.5,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 66,
-      "round": 5,
-      "roundPick": 10,
-      "teamId": 1
-     }
     },
     {
      "name": "Kyrie Irving",
@@ -113,39 +108,10 @@
      }
     },
     {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "F",
-     "espnId": 4278355,
-     "gp": 5,
-     "cur": 27.2,
-     "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Donovan Clingan",
-     "team": "POR",
-     "pos": "C",
-     "slot": "UTIL",
-     "espnId": 5105565,
-     "gp": 4,
-     "cur": 31.0,
-     "proj": 33.9,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 75,
-      "round": 6,
-      "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
      "name": "Yaxel Lendeborg",
      "team": "GSW",
      "pos": "SF/PF",
-     "slot": "UTIL",
+     "slot": "F",
      "espnId": 5175737,
      "gp": 5,
      "cur": 38.6,
@@ -171,6 +137,74 @@
      "draft": null
     },
     {
+     "name": "Draymond Green",
+     "team": "GSW",
+     "pos": "PF/C",
+     "slot": "UTIL",
+     "espnId": 6589,
+     "gp": 4,
+     "cur": 18.2,
+     "proj": 28.5,
+     "acq": "ADD",
+     "draft": {
+      "pick": 146,
+      "round": 11,
+      "roundPick": 6,
+      "teamId": 2
+     }
+    },
+    {
+     "name": "Mikel Brown Jr.",
+     "team": "BKN",
+     "pos": "PG",
+     "slot": "UTIL",
+     "espnId": 5101761,
+     "gp": 3,
+     "cur": 19.0,
+     "proj": 24.0,
+     "acq": "ADD",
+     "draft": {
+      "pick": 151,
+      "round": 11,
+      "roundPick": 11,
+      "teamId": 9
+     }
+    },
+    {
+     "name": "Ivica Zubac",
+     "team": "IND",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 4017837,
+     "gp": 3,
+     "cur": 21.7,
+     "proj": 35.5,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 66,
+      "round": 5,
+      "roundPick": 10,
+      "teamId": 1
+     }
+    },
+    {
+     "name": "Donovan Clingan",
+     "team": "POR",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 5105565,
+     "gp": 4,
+     "cur": 31.0,
+     "proj": 33.9,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 75,
+      "round": 6,
+      "roundPick": 5,
+      "teamId": 1
+     }
+    },
+    {
      "name": "Darius Acuff Jr.",
      "team": "SAC",
      "pos": "PG",
@@ -186,35 +220,6 @@
       "roundPick": 5,
       "teamId": 1
      }
-    },
-    {
-     "name": "Saddiq Bey",
-     "team": "NOP",
-     "pos": "SF/PF",
-     "slot": "BE",
-     "espnId": 4397136,
-     "gp": 5,
-     "cur": 21.8,
-     "proj": 25.9,
-     "acq": "ADD",
-     "draft": {
-      "pick": 149,
-      "round": 11,
-      "roundPick": 9,
-      "teamId": 12
-     }
-    },
-    {
-     "name": "Cam Spencer",
-     "team": "MEM",
-     "pos": "PG/SG",
-     "slot": "BE",
-     "espnId": 4433083,
-     "gp": 5,
-     "cur": 22.0,
-     "proj": null,
-     "acq": "ADD",
-     "draft": null
     },
     {
      "name": "Paolo Banchero",
@@ -242,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-30T10:21:56Z",
+   "updated": "2026-10-30T11:21:59Z",
    "adds": {
     "period": 2,
     "used": 2,
