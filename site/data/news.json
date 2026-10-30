@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-30T16:21:59Z",
+ "updated": "2026-10-30T17:21:56Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "CLE",
+   "player": "Mario Hezonja",
+   "headline": "Playing steady minutes",
+   "note": "Hezonja provided 10 points (4-6 FG, 2-3 3Pt), six rebounds, two assists and one steal in 17 minutes during Thursday's 114-111 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mario-hezonja-news-playing-steady-minutes-536804"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NOP",
+   "player": "Saddiq Bey",
+   "headline": "Solid start to 2026-27",
+   "note": "Bey finished Thursday's 132-120 win over the Kings with 10 points (3-7 FG, 1-2 3Pt, 3-3 FT), four rebounds and three assists across 24 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-solid-start-to-2026-27-536803"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Strong start continues",
+   "note": "Avdija chipped in 24 points (8-16 FG, 0-4 3Pt, 8-12 FT), nine rebounds, seven assists and one block over 32 minutes during Thursday's 124-103 loss to Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-strong-start-continues-536802"
+  },
   {
    "date": "2026-10-30",
    "team": "CHA",
@@ -224,26 +254,6 @@
   {
    "date": "2026-10-29",
    "team": "MEM",
-   "player": "Scotty Pippen",
-   "headline": "Rough night Thursday",
-   "note": "Pippen recorded two points (1-1 FG) across 14 minutes during Thursday's 124-103 win over the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scotty-pippen-news-rough-night-thursday-536776"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MEM",
-   "player": "Cameron Boozer",
-   "headline": "Secures first career triple-double",
-   "note": "Boozer totaled 18 points (6-10 FG, 4-5 3Pt, 2-2 FT), 11 rebounds and 12 assists in 28 minutes during Thursday's 124-103 win over Portland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-secures-first-career-triple-double-536775"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "MEM",
    "player": "Quinten Post",
    "headline": "Unable to return Thursday",
    "note": "Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5 FG, 2-3 3Pt, 2-2 FT) and four rebounds in seven minutes before exiting.",
@@ -300,16 +310,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-iffy-for-friday-536764"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "LAL",
-   "player": "Cameron Carr",
-   "headline": "Labeled out for Friday",
-   "note": "Carr (oblique) has been ruled out for Friday's game against Golden State.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-carr-injury-labeled-out-for-friday-536763"
   },
   {
    "date": "2026-10-29",
@@ -463,6 +463,16 @@
   },
   {
    "date": "2026-10-29",
+   "team": "PHI",
+   "player": "Jabari Walker",
+   "headline": "Out for Friday",
+   "note": "Walker (knee) has been ruled out for Friday's game versus New York.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-out-for-friday-536741"
+  },
+  {
+   "date": "2026-10-29",
    "team": "ATL",
    "player": "Onyeka Okongwu",
    "headline": "Drops 29 points in victory",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-productive-stretch-as-starter-536717"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "CLE",
-   "player": "James Harden",
-   "headline": "Drops 24 points in loss",
-   "note": "Harden recorded 24 points (7-14 FG, 3-8 3Pt, 7-9 FT), five rebounds and four assists across 36 minutes in Thursday's 114-111 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-drops-24-points-in-loss-536771"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:22:04Z",
+ "updated": "2026-10-30T17:22:00Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -168,25 +168,6 @@
    "cur": 27.8
   },
   {
-   "player": "Dennis Schroder",
-   "team": "CHA",
-   "pos": "PG",
-   "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Dennis Schroder je prvi PG u rotaciji CHA-a za te minute; ~22.2 FP po utakmici (ove sezone 22.0 u 5 utk., prošle sezone 22.4; 29 min).",
-   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Coby White",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3032979,
-   "fpts": 22.2,
-   "gp": 5,
-   "cur": 22.0
-  },
-  {
    "player": "Nikola Vucevic",
    "team": "ORL",
    "pos": "C",
@@ -321,6 +302,25 @@
    "fpts": 16.6,
    "gp": 5,
    "cur": 11.8
+  },
+  {
+   "player": "Royce O'Neale",
+   "team": "CHA",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.6 FP po utakmici (ove sezone 10.2 u 5 utk., prošle sezone 24.5; 22 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2583632,
+   "fpts": 16.6,
+   "gp": 5,
+   "cur": 10.2
   },
   {
    "player": "Karlo Matkovic",
@@ -498,25 +498,6 @@
    "cur": 17.8
   },
   {
-   "player": "Royce O'Neale",
-   "team": "CHA",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je sljedeći SF/PF u rotaciji CHA-a za te minute; ~16.6 FP po utakmici (ove sezone 10.2 u 5 utk., prošle sezone 24.5; 22 min).",
-   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2583632,
-   "fpts": 16.6,
-   "gp": 5,
-   "cur": 10.2
-  },
-  {
    "player": "Quenton Jackson",
    "team": "IND",
    "pos": "PG/SG",
@@ -534,6 +515,25 @@
    "fpts": 16.4,
    "gp": 5,
    "cur": 15.4
+  },
+  {
+   "player": "Hannes Steinbach",
+   "team": "CHA",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 2.11. Hannes Steinbach je sljedeći PF u rotaciji CHA-a za te minute; ~16.2 FP po utakmici (ove sezone 11.0 u 1 utk., ESPN projekcija 17.5; 17 min).",
+   "role": "Veća minutaža dok je out Kon Knueppel",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kon Knueppel; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5281370,
+   "fpts": 16.2,
+   "gp": 1,
+   "cur": 11.0
   },
   {
    "player": "Goga Bitadze",
@@ -630,23 +630,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 25.0,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 19.8,
-       "matchup": "CHI @ BOS",
-       "dates": [
-        "2026-10-30"
-       ],
-       "value": 25.0,
-       "gtd": false
-      },
-      {
        "player": "Jordan Goodwin",
        "team": "PHX",
        "pos": "PG/SG",
@@ -679,6 +662,23 @@
         "2026-11-01"
        ],
        "value": 21.9,
+       "gtd": false
+      },
+      {
+       "player": "Max Christie",
+       "team": "DAL",
+       "pos": "SG",
+       "espnId": 4432582,
+       "fpts": 20.0,
+       "mpg": 28.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 5,
+       "cur": 18.6,
+       "matchup": "HOU @ DAL",
+       "dates": [
+        "2026-10-30"
+       ],
+       "value": 20.0,
        "gtd": false
       }
      ]
