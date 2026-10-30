@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:21:58Z",
+ "updated": "2026-10-30T10:21:57Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -95,7 +95,7 @@
    "risk": "Uloga pada kad se vrati Bradley Beal; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-joining-starting-lineup-536359",
    "espnId": 4702352,

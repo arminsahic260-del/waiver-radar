@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:21:58Z",
+ "updated": "2026-10-30T10:21:56Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-30T09:21:58Z",
+   "updated": "2026-10-30T10:21:56Z",
    "adds": {
     "period": 2,
     "used": 5,
@@ -242,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-30T09:21:58Z",
+   "updated": "2026-10-30T10:21:56Z",
    "adds": {
     "period": 2,
     "used": 2,
