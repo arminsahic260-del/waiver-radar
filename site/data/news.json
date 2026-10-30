@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T19:21:55Z",
+ "updated": "2026-10-30T20:21:53Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "LAL",
+   "player": "Ziaire Williams",
+   "headline": "Out Friday",
+   "note": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-out-friday-536817"
+  },
   {
    "date": "2026-10-30",
    "team": "HOU",
@@ -410,16 +420,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-wont-play-thursday-536749"
-  },
-  {
-   "date": "2026-10-29",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Questionable for Friday",
-   "note": "Hachimura (quadriceps) is questionable for Friday's game against Minnesota, Tomer Azarly of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-questionable-for-friday-536748"
   },
   {
    "date": "2026-10-29",

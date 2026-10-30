@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:21:20Z",
+ "updated": "2026-10-30T20:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -754,6 +754,16 @@
   },
   {
    "team": "POR",
+   "player": "Ja Morant",
+   "pos": "PG",
+   "updated": "2026-10-30",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Dec 1",
+   "kind": "out",
+   "ret": "2026-12-01"
+  },
+  {
+   "team": "POR",
    "player": "Shaedon Sharpe",
    "pos": "SG",
    "updated": "2026-09-28",
@@ -768,16 +778,6 @@
    "pos": "SG",
    "updated": "2026-10-30",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "POR",
-   "player": "Ja Morant",
-   "pos": "PG",
-   "updated": "2026-10-30",
-   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

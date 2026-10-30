@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:22:00Z",
+ "updated": "2026-10-30T20:21:58Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -342,6 +342,25 @@
    "cur": 16.0
   },
   {
+   "player": "Scoot Henderson",
+   "team": "POR",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. — nova ozljeda. Scoot Henderson je prvi PG/SG u rotaciji POR-a za te minute; ~15.0 FP po utakmici (ove sezone 6.2 u 4 utk., prošle sezone 23.8; 22 min).",
+   "role": "Veća minutaža dok je out Ja Morant",
+   "horizon": "Do ~1.12. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Ja Morant; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4683678,
+   "fpts": 15.0,
+   "gp": 4,
+   "cur": 6.2
+  },
+  {
    "player": "Jaylin Williams",
    "team": "OKC",
    "pos": "PF/C",
@@ -576,25 +595,6 @@
    "fpts": 15.3,
    "gp": 5,
    "cur": 13.4
-  },
-  {
-   "player": "Leaky Black",
-   "team": "SAC",
-   "pos": "SF",
-   "priority": 3,
-   "reason": "Keegan Murray (gležanj) je out najmanje do 6.11. Leaky Black je sljedeći SF u rotaciji SAC-a za te minute; ~15.2 FP po utakmici (ove sezone 6.0 u 2 utk., prošle sezone 19.7; 20 min).",
-   "role": "Veća minutaža dok je out Keegan Murray",
-   "horizon": "Do ~6.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Keegan Murray; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4395650,
-   "fpts": 15.2,
-   "gp": 2,
-   "cur": 6.0
   }
  ],
  "days": [
