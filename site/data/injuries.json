@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T19:21:23Z",
+ "updated": "2026-10-31T20:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -234,6 +234,16 @@
   },
   {
    "team": "GSW",
+   "player": "Draymond Green",
+   "pos": "PF",
+   "updated": "2026-10-31",
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "GSW",
    "player": "Jimmy Butler",
    "pos": "SF",
    "updated": "2026-10-02",
@@ -261,6 +271,26 @@
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
+  },
+  {
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "pos": "PG",
+   "updated": "2026-10-31",
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "GSW",
+   "player": "Gui Santos",
+   "pos": "SF",
+   "updated": "2026-10-31",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "HOU",
@@ -781,6 +811,16 @@
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
+  },
+  {
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "pos": "SF",
+   "updated": "2026-10-31",
+   "injury": "Head",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "TOR",
