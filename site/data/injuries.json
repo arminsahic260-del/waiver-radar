@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:21:17Z",
+ "updated": "2026-10-31T18:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -264,23 +264,13 @@
   },
   {
    "team": "HOU",
-   "player": "Steven Adams",
-   "pos": "C",
-   "updated": "2026-10-26",
-   "injury": "Calf",
+   "player": "Fred VanVleet",
+   "pos": "PG",
+   "updated": "2026-10-31",
+   "injury": "Knee",
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "pos": "C",
-   "updated": "2026-10-31",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "HOU",
@@ -288,9 +278,19 @@
    "pos": "SG",
    "updated": "2026-10-31",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "HOU",
+   "player": "Steven Adams",
+   "pos": "C",
+   "updated": "2026-10-26",
+   "injury": "Calf",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "IND",
@@ -634,13 +634,23 @@
   },
   {
    "team": "PHI",
-   "player": "Tacko Fall",
+   "player": "Joel Embiid",
    "pos": "C",
-   "updated": "2026-10-27",
-   "injury": "Quadriceps",
-   "status": "Expected return: at least Nov 4",
+   "updated": "2026-10-31",
+   "injury": "Foot",
+   "status": "Expected return: at least Nov 2",
    "kind": "out",
-   "ret": "2026-11-04"
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "PHI",
+   "player": "LeBron James",
+   "pos": "PF",
+   "updated": "2026-10-31",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "PHI",
@@ -664,20 +674,10 @@
   },
   {
    "team": "PHI",
-   "player": "Joel Embiid",
+   "player": "Tacko Fall",
    "pos": "C",
    "updated": "2026-10-31",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHI",
-   "player": "LeBron James",
-   "pos": "PF",
-   "updated": "2026-10-31",
-   "injury": "Rest",
+   "injury": "Quadriceps",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

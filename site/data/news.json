@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-31T17:21:51Z",
+ "updated": "2026-10-31T18:21:51Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "UTA",
+   "player": "Lauri Markkanen",
+   "headline": "Will play Saturday",
+   "note": "Markkanen (wrist) is available for Saturday's game against Portland.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-will-play-saturday-536975"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Chris Youngblood",
+   "headline": "Available to play",
+   "note": "Youngblood (ankle) is available to play Saturday against the Jazz.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-news-available-to-play-536974"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIN",
+   "player": "Rudy Gobert",
+   "headline": "Nursing back spasms",
+   "note": "Gobert (back) is listed as questionable for Saturday's game at San Antonio.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-injury-nursing-back-spasms-536973"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Robert Williams",
+   "headline": "Available to play",
+   "note": "Williams (knee) is available for Saturday's game in Utah.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-news-available-to-play-536972"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Scoot Henderson",
+   "headline": "Starting Saturday",
+   "note": "Henderson will move into the starting lineup for Saturday's game in Utah, Trail Blazers' reporter Sean Highkin reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-starting-saturday-536971"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "headline": "Won't play Saturday",
+   "note": "Sheppard (back) is out for Saturday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-wont-play-saturday-536970"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "HOU",
+   "player": "Fred VanVleet",
+   "headline": "Ruled out for Saturday",
+   "note": "VanVleet (knee) won't play Saturday against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-ruled-out-for-saturday-536969"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Not listed on injury report",
+   "note": "Sengun (back) has been removed from the injury report ahead of Saturday's meeting with the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-not-listed-on-injury-report-536968"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Jabari Walker",
+   "headline": "Questionable for Saturday",
+   "note": "Walker (knee) is questionable for Saturday's game in Charlotte.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-questionable-for-saturday-536967"
+  },
   {
    "date": "2026-10-31",
    "team": "PHI",
@@ -164,92 +254,12 @@
   {
    "date": "2026-10-31",
    "team": "PHI",
-   "player": "Anfernee Simons",
-   "headline": "Another 20-point game",
-   "note": "Simons accumulated 21 points (7-11 FG, 5-8 3Pt, 2-2 FT), two rebounds and one assist over 31 minutes during Friday's 98-93 victory over New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-another-20-point-game-536950"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
    "player": "LeBron James",
    "headline": "Teases triple-double vs. New York",
    "note": "James (rest) closed with 20 points (8-15 FG, 2-6 3Pt, 2-3 FT), nine rebounds, eight assists, one block and one steal across 34 minutes during Friday's 98-93 win over the Knicks.",
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-teases-triple-double-vs-new-york-536949"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Does little in spot start",
-   "note": "Wade finished Friday's 98-93 win over New York with two rebounds, one assist and three steals in 27 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-does-little-in-spot-start-536948"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Efficient scoring night Friday",
-   "note": "Larsson produced 18 points (5-5 FG, 1-1 3Pt, 7-8 FT), three rebounds and three assists over 24 minutes off the bench during Friday's 145-125 victory over Indiana.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-efficient-scoring-night-friday-536947"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Davion Mitchell",
-   "headline": "Double-double in rout of Pacers",
-   "note": "Mitchell closed Friday's 145-125 win over Indiana with 15 points (6-16 FG, 3-8 3Pt), six rebounds, 11 assists and one steal in 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-double-double-in-rout-of-pacers-536946"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Klay Thompson",
-   "headline": "Lights it up from long range",
-   "note": "Thompson supplied 25 points (9-14 FG, 7-12 3Pt) and three assists across 26 minutes during Friday's 145-125 win over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-lights-it-up-from-long-range-536945"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Bam Adebayo",
-   "headline": "Strikes for 27 in Friday's rout",
-   "note": "Adebayo recorded 27 points (11-14 FG, 0-2 3Pt, 5-5 FT), nine rebounds, three assists and three steals over 33 minutes during Friday's 145-125 win over Indiana.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-strikes-for-27-in-fridays-rout-536944"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "IND",
-   "player": "Larry Nance",
-   "headline": "Makes impact on defense Friday",
-   "note": "Nance produced six points (2-4 FG, 2-2 3Pt), two rebounds, one assist, one block and four steals in 18 minutes off the bench during Friday's 145-125 loss to Miami.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-makes-impact-on-defense-friday-536943"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "IND",
-   "player": "Quenton Jackson",
-   "headline": "Leading scorer from second unit Friday",
-   "note": "Jackson contributed 24 points (9-13 FG, 2-4 3Pt, 4-4 FT), four rebounds, one assist and two steals in 24 minutes off the bench during Friday's 145-125 loss to Miami.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-leading-scorer-from-second-unit-friday-536942"
   },
   {
    "date": "2026-10-31",
@@ -403,6 +413,26 @@
   },
   {
    "date": "2026-10-31",
+   "team": "IND",
+   "player": "Larry Nance",
+   "headline": "Makes impact on defense Friday",
+   "note": "Nance produced six points (2-4 FG, 2-2 3Pt), two rebounds, one assist, one block and four steals in 18 minutes off the bench during Friday's 145-125 loss to Miami.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-makes-impact-on-defense-friday-536943"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "IND",
+   "player": "Quenton Jackson",
+   "headline": "Leading scorer from second unit Friday",
+   "note": "Jackson contributed 24 points (9-13 FG, 2-4 3Pt, 4-4 FT), four rebounds, one assist and two steals in 24 minutes off the bench during Friday's 145-125 loss to Miami.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-leading-scorer-from-second-unit-friday-536942"
+  },
+  {
+   "date": "2026-10-31",
    "team": "LAC",
    "player": "Rui Hachimura",
    "headline": "Puts up 12 points Friday",
@@ -473,6 +503,46 @@
   },
   {
    "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Efficient scoring night Friday",
+   "note": "Larsson produced 18 points (5-5 FG, 1-1 3Pt, 7-8 FT), three rebounds and three assists over 24 minutes off the bench during Friday's 145-125 victory over Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-efficient-scoring-night-friday-536947"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Davion Mitchell",
+   "headline": "Double-double in rout of Pacers",
+   "note": "Mitchell closed Friday's 145-125 win over Indiana with 15 points (6-16 FG, 3-8 3Pt), six rebounds, 11 assists and one steal in 35 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-double-double-in-rout-of-pacers-536946"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Klay Thompson",
+   "headline": "Lights it up from long range",
+   "note": "Thompson supplied 25 points (9-14 FG, 7-12 3Pt) and three assists across 26 minutes during Friday's 145-125 win over the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-lights-it-up-from-long-range-536945"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Bam Adebayo",
+   "headline": "Strikes for 27 in Friday's rout",
+   "note": "Adebayo recorded 27 points (11-14 FG, 0-2 3Pt, 5-5 FT), nine rebounds, three assists and three steals over 33 minutes during Friday's 145-125 win over Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-strikes-for-27-in-fridays-rout-536944"
+  },
+  {
+   "date": "2026-10-31",
    "team": "MIN",
    "player": "Rudy Gobert",
    "headline": "Pulls down 13 rebounds",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-scores-17-and-adds-10-dimes-536923"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHX",
-   "player": "Collin Gillespie",
-   "headline": "Tallies 16 points from bench",
-   "note": "Gillespie closed with 16 points (6-11 FG, 4-8 3Pt), three rebounds, 10 assists, one block and four steals in 33 minutes during Friday's 127-120 loss to Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-tallies-16-points-from-bench-536922"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHX",
-   "player": "Devin Booker",
-   "headline": "Fights with accuracy in loss",
-   "note": "Booker totaled 20 points (7-19 FG, 3-7 3Pt, 3-4 FT), two rebounds, five assists and two steals in 39 minutes during Friday's 127-120 loss to Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-fights-with-accuracy-in-loss-536921"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHX",
-   "player": "Miles Bridges",
-   "headline": "Continues to thrive with new team",
-   "note": "Bridges chipped in 24 points (10-19 FG, 2-7 3Pt, 2-2 FT), 10 rebounds, two assists, three blocks and one steal in 37 minutes during Friday's 127-120 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/miles-bridges-news-continues-to-thrive-with-new-team-536920"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "TOR",
-   "player": "Collin Murray-Boyles",
-   "headline": "Efficient output off bench in loss",
-   "note": "Murray-Boyles contributed 15 points (7-10 FG, 1-2 3Pt), five rebounds and one assist across 23 minutes during Friday's 121-114 loss to Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-efficient-output-off-bench-in-loss-536928"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Double-doubles Friday",
-   "note": "Poeltl provided 12 points (5-10 FG, 2-2 FT), 11 rebounds, three assists and one steal across 23 minutes during Friday's 121-114 loss to the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-doubles-friday-536927"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "TOR",
-   "player": "Immanuel Quickley",
-   "headline": "Hits four threes in loss",
-   "note": "Quickley registered 17 points (6-14 FG, 4-9 3Pt, 1-2 FT), six rebounds and eight assists over 37 minutes during Friday's 121-114 loss to the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-news-hits-four-threes-in-loss-536926"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "OKC",
-   "player": "Cason Wallace",
-   "headline": "Undergoes shoulder surgery Friday",
-   "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-undergoes-shoulder-surgery-friday-536873"
   }
  ]
 }
