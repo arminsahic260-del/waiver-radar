@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:36:29Z",
+ "updated": "2026-10-31T23:21:54Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -39,6 +39,27 @@
    "fpts": 20.2,
    "gp": 5,
    "cur": 20.2
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "pos": "PG/SG",
+   "priority": 1,
+   "reason": "RotoWire 31.10.: Starting Saturday. Smart will start Saturday against the Thunder, Will Guillory of The Athletic reports. ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min). Fred VanVleet (koljeno) je out najmanje do 2.11.; Reed Sheppard (leđa) je out najmanje do 2.11. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min). Stream za subotu (OKC @ HOU, tvojih igrača: 2). Marcus Smart je rotacijski PG/SG, ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min); HOU ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-starting-saturday-536995",
+   "espnId": 2990992,
+   "fpts": 19.8,
+   "gp": 3,
+   "cur": 17.0,
+   "expires": "2026-10-31",
+   "note": "igra u subotu"
   },
   {
    "player": "Nolan Traore",
@@ -243,27 +264,6 @@
    "cur": 16.2
   },
   {
-   "player": "Marcus Smart",
-   "team": "HOU",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Fred VanVleet (koljeno) je out najmanje do 2.11.; Reed Sheppard (leđa) je out najmanje do 2.11. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min). Stream za subotu (OKC @ HOU, tvojih igrača: 2). Marcus Smart je rotacijski PG/SG, ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min); HOU ima 4 utakmice ovaj tjedan. Liga: Legendi.",
-   "role": "Veća minutaža dok su out Fred VanVleet i Reed Sheppard",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Fred VanVleet",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2990992,
-   "fpts": 19.8,
-   "gp": 3,
-   "cur": 17.0,
-   "expires": "2026-10-31",
-   "note": "igra u subotu"
-  },
-  {
    "player": "Nikola Vucevic",
    "team": "ORL",
    "pos": "C",
@@ -302,25 +302,6 @@
    "cur": 18.6
   },
   {
-   "player": "Herbert Jones",
-   "team": "NOP",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "RotoWire 29.10.: Starting sans Murray. Jones will start Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. ~16.6 FP po utakmici (ove sezone 11.8 u 5 utk., prošle sezone 22.6; 24 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~17 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-starting-sans-murray-536751",
-   "espnId": 4277813,
-   "fpts": 16.6,
-   "gp": 5,
-   "cur": 11.8
-  },
-  {
    "player": "Clint Capela",
    "team": "HOU",
    "pos": "C",
@@ -340,30 +321,11 @@
    "cur": 18.6
   },
   {
-   "player": "Karlo Matkovic",
-   "team": "NOP",
-   "pos": "PF",
-   "priority": 2,
-   "reason": "RotoWire 29.10.: Starting Thursday. Matkovic is in the starting lineup for Thursday's game against the Kings. ~16.1 FP po utakmici (ove sezone 16.0 u 4 utk., prošle sezone 16.2; 15 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~16 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-starting-thursday-536756",
-   "espnId": 4997538,
-   "fpts": 16.1,
-   "gp": 4,
-   "cur": 16.0
-  },
-  {
    "player": "Royce O'Neale",
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~15.5 FP po utakmici (ove sezone 10.3 u 7 utk., prošle sezone 24.5; 20 min).",
+   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.0 FP po utakmici (ove sezone 11.1 u 7 utk., prošle sezone 24.5; 21 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
@@ -373,9 +335,47 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 2583632,
-   "fpts": 15.5,
+   "fpts": 16.0,
    "gp": 7,
-   "cur": 10.3
+   "cur": 11.1
+  },
+  {
+   "player": "Herbert Jones",
+   "team": "NOP",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "RotoWire 29.10.: Starting sans Murray. Jones will start Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. ~15.6 FP po utakmici (ove sezone 11.0 u 6 utk., prošle sezone 22.6; 22 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~16 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-starting-sans-murray-536751",
+   "espnId": 4277813,
+   "fpts": 15.6,
+   "gp": 6,
+   "cur": 11.0
+  },
+  {
+   "player": "Karlo Matkovic",
+   "team": "NOP",
+   "pos": "PF",
+   "priority": 2,
+   "reason": "RotoWire 29.10.: Starting Thursday. Matkovic is in the starting lineup for Thursday's game against the Kings. ~15.3 FP po utakmici (ove sezone 14.6 u 5 utk., prošle sezone 16.2; 14 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~15 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-starting-thursday-536756",
+   "espnId": 4997538,
+   "fpts": 15.3,
+   "gp": 5,
+   "cur": 14.6
   },
   {
    "player": "Kyle Filipowski",

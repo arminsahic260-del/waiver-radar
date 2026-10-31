@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:35:51Z",
+ "updated": "2026-10-31T23:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -538,9 +538,9 @@
    "pos": "C",
    "updated": "2026-10-31",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "NOP",

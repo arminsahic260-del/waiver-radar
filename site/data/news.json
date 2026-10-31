@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-31T22:36:24Z",
+ "updated": "2026-10-31T23:21:49Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Cleared to play versus Minnesota",
+   "note": "Castle (illness) is listed as available for Saturday's game against Minnesota.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-cleared-to-play-versus-minnesota-536997"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "HOU",
+   "player": "Clint Capela",
+   "headline": "Heading back to bench Saturday",
+   "note": "Capela is not listed in the starting lineup for Saturday's game against Oklahoma City, Will Guillory of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-news-heading-back-to-bench-saturday-536996"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Starting Saturday",
+   "note": "Smart will start Saturday against the Thunder, Will Guillory of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-starting-saturday-536995"
+  },
   {
    "date": "2026-10-31",
    "team": "MIN",
@@ -223,13 +253,13 @@
   },
   {
    "date": "2026-10-31",
-   "team": "POR",
-   "player": "Scoot Henderson",
-   "headline": "Starting Saturday",
-   "note": "Henderson will move into the starting lineup for Saturday's game in Utah, Trail Blazers' reporter Sean Highkin reports.",
-   "kind": "lineup",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Questionable for Saturday",
+   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
+   "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-starting-saturday-536971"
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
   },
   {
    "date": "2026-10-31",
@@ -250,16 +280,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-ruled-out-for-saturday-536969"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Questionable for Saturday",
-   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
   },
   {
    "date": "2026-10-31",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-puts-up-12-points-friday-536931"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAC",
-   "player": "Keaton Wagler",
-   "headline": "Struggles with shot in loss",
-   "note": "Wagler finished Friday's 127-101 loss to the Timberwolves with 12 points (2-11 FG, 1-5 3Pt, 7-8 FT), six rebounds and three assists over 25 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keaton-wagler-news-struggles-with-shot-in-loss-536930"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAC",
-   "player": "Isaiah Jackson",
-   "headline": "Fills stat sheet vs. Minnesota",
-   "note": "Jackson had 10 points (3-6 FG, 4-4 FT), seven rebounds, four assists, four blocks and three steals across 22 minutes during Friday's 127-101 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-fills-stat-sheet-vs-minnesota-536929"
   }
  ]
 }
