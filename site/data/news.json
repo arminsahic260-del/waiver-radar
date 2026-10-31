@@ -1,6 +1,256 @@
 {
- "updated": "2026-10-31T01:21:54Z",
+ "updated": "2026-10-31T07:06:16Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Jamal Murray",
+   "headline": "Erupts for 39 points in win",
+   "note": "Murray finished with 39 points (10-18 FG, 7-9 3Pt, 12-15 FT), eight rebounds, five assists, one steal and one block over 37 minutes in Friday's 127-120 win over Phoenix.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-erupts-for-39-points-in-win-536907"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Tre Jones",
+   "headline": "Logs four steals in Friday's loss",
+   "note": "Jones registered 12 points (4-10 FG, 0-1 3Pt, 4-6 FT), four rebounds, four assists, one block and four steals in 20 minutes during Friday's 125-111 loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-jones-news-logs-four-steals-in-fridays-loss-536906"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Noa Essengue",
+   "headline": "Chips in 10 points vs. Boston",
+   "note": "Essengue chipped in 10 points (3-7 FG, 1-3 3Pt, 3-5 FT) and four rebounds across 16 minutes during Friday's 125-111 loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noa-essengue-news-chips-in-10-points-vs-boston-536905"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Josh Giddey",
+   "headline": "Muted line in loss",
+   "note": "Giddey totaled 13 points (4-8 FG, 2-5 3Pt, 3-4 FT), four rebounds and five assists across 25 minutes during Friday's 125-111 loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-news-muted-line-in-loss-536904"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "headline": "Grabs 12 boards in loss",
+   "note": "Smith ended Friday's 125-111 loss to the Celtics with five points (2-8 FG, 0-5 3Pt, 1-2 FT), 12 rebounds, one assist and two blocks over 27 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-grabs-12-boards-in-loss-536903"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Ties career high in threes Friday",
+   "note": "Nembhard finished with 22 points (8-16 FG, 5-8 3Pt, 1-1 FT), two rebounds and nine assists over 30 minutes in Friday's 145-125 loss to Miami.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-ties-career-high-in-threes-friday-536902"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BOS",
+   "player": "Derrick White",
+   "headline": "Quiet against Chicago",
+   "note": "White finished with nine points (4-6 FG, 1-2 3Pt), two rebounds, four assists and two steals over 26 minutes during Friday's 125-111 win over the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-news-quiet-against-chicago-536901"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BOS",
+   "player": "Neemias Queta",
+   "headline": "Productive off bench",
+   "note": "Queta contributed 13 points (3-5 FG, 7-10 FT), six rebounds, one block and one steal across 20 minutes during Friday's 125-111 win over Chicago.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-productive-off-bench-536900"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "Three swipes vs. Chicago",
+   "note": "George produced 18 points (7-15 FG, 2-7 3Pt, 2-2 FT), six rebounds, eight assists and three steals across 27 minutes during Friday's 125-111 win over Chicago.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-three-swipes-vs-chicago-536899"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BOS",
+   "player": "Payton Pritchard",
+   "headline": "Drops 30 points off bench Friday",
+   "note": "Pritchard had 30 points (9-17 FG, 3-9 3Pt, 9-9 FT), three rebounds, three assists and two steals across 35 minutes during Friday's 125-111 win over the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-drops-30-points-off-bench-friday-536898"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "ORL",
+   "player": "Franz Wagner",
+   "headline": "Ends with 26 points in win",
+   "note": "Wagner ended with 26 points (8-18 FG, 2-7 3Pt, 8-9 FT), five rebounds, 11 assists and one steal across 39 minutes in Friday's 121-114 win over Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-ends-with-26-points-in-win-536897"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "WAS",
+   "player": "Alex Sarr",
+   "headline": "Logs season-high 29 minutes",
+   "note": "Sarr ended with three points (1-5 FG, 1-3 3Pt) and eight rebounds across 29 minutes during Friday's 95-79 victory over Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-logs-season-high-29-minutes-536896"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Solid all-around effort Friday",
+   "note": "Tatum finished with 26 points (9-20 FG, 2-7 3Pt, 6-8 FT), seven rebounds and seven assists across 35 minutes in Friday's 125-111 win over the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-solid-all-around-effort-friday-536895"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "WAS",
+   "player": "Tre Mann",
+   "headline": "Cracks rotation Friday",
+   "note": "Mann registered zero points (0-1 FG) in one minute during Friday's 95-79 victory over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-mann-news-cracks-rotation-friday-536894"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "WAS",
+   "player": "Bilal Coulibaly",
+   "headline": "Tumbles back to earth in win",
+   "note": "Coulibaly accumulated one point (0-2 FG, 0-1 3Pt, 1-2 FT), five rebounds, one assist and one block across 22 minutes during Friday's 95-79 victory over Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-tumbles-back-to-earth-in-win-536893"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MIN",
+   "player": "LaMelo Ball",
+   "headline": "Bounces back Friday",
+   "note": "Ball ended with 24 points (9-20 FG, 6-15 3Pt), four rebounds, seven assists and two steals across 29 minutes in Friday's 127-101 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-bounces-back-friday-536892"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Moussa Diabate",
+   "headline": "Double-double with two steals",
+   "note": "Diabate contributed 10 points (5-11 FG), 12 rebounds, one assist and two steals in 31 minutes during Friday's 95-79 loss to the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-double-double-with-two-steals-536891"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Hannes Steinbach",
+   "headline": "Rare appearance in loss",
+   "note": "Steinbach ended Friday's 95-79 loss to Washington with zero points (0-1 FG) in two minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/hannes-steinbach-news-rare-appearance-in-loss-536890"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Kevin Durant",
+   "headline": "Leads Houston in scoring Friday",
+   "note": "Durant finished with 28 points (9-20 FG, 1-6 3Pt, 9-13 FT), five rebounds and one assist over 37 minutes in Friday's 116-111 loss to Dallas.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-leads-houston-in-scoring-friday-536889"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Grayson Allen",
+   "headline": "Shooting woes continue",
+   "note": "Allen recorded five points (2-10 FG, 1-6 3Pt), three rebounds and two assists over 21 minutes during Friday's 95-79 loss to the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-shooting-woes-continue-536888"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "PHX",
+   "player": "Dillon Brooks",
+   "headline": "Tossed Friday",
+   "note": "Brooks was ejected in the third quarter of Friday's game against the Nuggets after being assessed a Flagrant 2 foul, Bennett Durando of The Denver Post reports. He'll finish with 22 points (9-12 FG, 4-6 3Pt), two assists, one rebound and one steal across 21 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dillon-brooks-news-tossed-friday-536887"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MIA",
+   "player": "Giannis Antetokounmpo",
+   "headline": "Massive triple-double in blowout win",
+   "note": "Antetokounmpo racked up 31 points (13-18 FG, 1-2 3Pt, 4-6 FT), 17 rebounds, 10 assists and one block across 31 minutes in Friday's 145-125 win over the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-massive-triple-double-in-blowout-win-536886"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Logs another full stat line Friday",
+   "note": "Flagg finished Friday's 116-111 win over the Rockets with 33 points (13-19 FG, 0-4 3Pt, 7-10 FT), nine rebounds, six assists, two steals and one block across 39 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-logs-another-full-stat-line-friday-536885"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "NYK",
+   "player": "Karl-Anthony Towns",
+   "headline": "Extends double-double streak Friday",
+   "note": "Towns ended with 22 points (8-15 FG, 3-7 3Pt, 3-3 FT), 12 rebounds, three assists and one block over 35 minutes in Friday's 98-93 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-extends-double-double-streak-friday-536884"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "LAC",
+   "player": "Darius Garland",
+   "headline": "Paces LAC in blowout loss",
+   "note": "Garland notched 24 points (10-22 FG, 4-8 3Pt), five assists, two rebounds and one steal across 31 minutes in Friday's 127-101 loss to the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-garland-news-paces-lac-in-blowout-loss-536883"
+  },
   {
    "date": "2026-10-30",
    "team": "OKC",
@@ -10,26 +260,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-undergoes-shoulder-surgery-friday-536873"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Suiting up Friday",
-   "note": "Johnson (ankle) is available for Friday's game against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-news-suiting-up-friday-536872"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Cleared to return Friday",
-   "note": "Ighodaro (oblique) is available for Friday's game against the Nuggets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-cleared-to-return-friday-536871"
   },
   {
    "date": "2026-10-30",
@@ -43,16 +273,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Available Friday",
-   "note": "Santos (knee) is available for Friday's game against the Lakers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-news-available-friday-536869"
-  },
-  {
-   "date": "2026-10-30",
    "team": "DEN",
    "player": "Alpha Diallo",
    "headline": "Ruled out Friday",
@@ -60,36 +280,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-ruled-out-friday-536868"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Starting sans Sengun",
-   "note": "Capela will start Friday's game against Dallas.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-news-starting-sans-sengun-536866"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "HOU",
-   "player": "Tari Eason",
-   "headline": "Back to bench Friday",
-   "note": "Eason is not listed in the starting lineup for Friday's game against Dallas, Will Guillory of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-back-to-bench-friday-536865"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAC",
-   "player": "Kobe Sanders",
-   "headline": "Shifts back to bench",
-   "note": "Sanders isn't starting Friday against the Timberwolves, Tomer Azarly of ClutchPoints.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-shifts-back-to-bench-536864"
   },
   {
    "date": "2026-10-30",
@@ -103,16 +293,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Good to go Friday",
-   "note": "Smart (forearm) is available for Friday's game against Dallas, Varun Shankar of the Houston Chronicle reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-good-to-go-friday-536861"
-  },
-  {
-   "date": "2026-10-30",
    "team": "POR",
    "player": "Robert Williams",
    "headline": "Questionable to play Saturday",
@@ -123,26 +303,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "PHI",
-   "player": "Dean Wade",
-   "headline": "Will start Friday",
-   "note": "Wade will start Friday's game against the Knicks, Noah Levick of NBC Sports Philadelphia reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-will-start-friday-536858"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "headline": "Upgraded to available",
-   "note": "Nembhard (neck) is listed as available for Friday's game against Miami.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-upgraded-to-available-536857"
-  },
-  {
-   "date": "2026-10-30",
    "team": "IND",
    "player": "Obi Toppin",
    "headline": "Ruled out Friday",
@@ -150,26 +310,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-ruled-out-friday-536856"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Good to go Friday",
-   "note": "Nesmith (hamstring) is available to play in Friday's game against Miami.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-good-to-go-friday-536855"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Available to play Friday",
-   "note": "Hachimura (quadriceps) is available to play in Friday's game against Minnesota, Ohm Youngmisuk of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-available-to-play-friday-536854"
   },
   {
    "date": "2026-10-30",
@@ -240,16 +380,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-doubtful-for-saturday-536847"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NYK",
-   "player": "Karl-Anthony Towns",
-   "headline": "Cleared to play Friday",
-   "note": "Towns (wrist) is available for Friday's meeting with the 76ers, Fred Katz of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-cleared-to-play-friday-536846"
   },
   {
    "date": "2026-10-30",
@@ -414,6 +544,16 @@
   {
    "date": "2026-10-30",
    "team": "CHA",
+   "player": "Brandon Miller",
+   "headline": "Scores team-high 19 points",
+   "note": "Miller notched 19 points (7-24 FG, 3-13 3Pt, 2-2 FT), seven rebounds, two assists, a steal and a block across 37 minutes in Friday's 95-79 loss to the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-team-high-19-points-536879"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
    "player": "Dennis Schroder",
    "headline": "Will play Friday",
    "note": "Schroder (foot) is available for Friday's game against the Wizards.",
@@ -444,162 +584,22 @@
   {
    "date": "2026-10-30",
    "team": "CHI",
+   "player": "Caleb Wilson",
+   "headline": "Full stat line in loss",
+   "note": "Wilson finished Friday's 125-111 loss to the Celtics with 23 points (7-16 FG, 6-11 3Pt, 3-6 FT), five rebounds, four assists, two blocks and one steal across 31 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-full-stat-line-in-loss-536882"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
    "player": "Jalen Smith",
    "headline": "Cleared to play Friday",
    "note": "Smith (finger) is available for Friday's game against the Celtics.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-cleared-to-play-friday-536837"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Will play Friday",
-   "note": "Williams (groin) said he will play Friday against Boston, K.C. Johnson of Chicago Sports Network reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-will-play-friday-536799"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CLE",
-   "player": "Mario Hezonja",
-   "headline": "Playing steady minutes",
-   "note": "Hezonja provided 10 points (4-6 FG, 2-3 3Pt), six rebounds, two assists and one steal in 17 minutes during Thursday's 114-111 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mario-hezonja-news-playing-steady-minutes-536804"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Good to go Friday",
-   "note": "Marshall (illness) is available for Friday's game against Houston.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Upgraded to probable",
-   "note": "Marshall (illness) is probable for Friday's game against the Rockets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-upgraded-to-probable-536819"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "headline": "Unlikely to play Friday",
-   "note": "Diallo (personal) is doubtful for Friday's game against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-unlikely-to-play-friday-536822"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Expected to play Friday",
-   "note": "Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-expected-to-play-friday-536812"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "headline": "Fourth-year option exercised",
-   "note": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-fourth-year-option-exercised-536816"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Added to injury report",
-   "note": "Toppin (back) is questionable for Friday's game against the Heat.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-added-to-injury-report-536820"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Practicing at G League camp",
-   "note": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-practicing-at-g-league-camp-536815"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "IND",
-   "player": "Johnny Furphy",
-   "headline": "Practicing in G League",
-   "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-practicing-in-g-league-536814"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Upgraded to probable",
-   "note": "Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-upgraded-to-probable-536809"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Out Friday",
-   "note": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-out-friday-536817"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MEM",
-   "player": "Cam Spencer",
-   "headline": "Earning more playing time",
-   "note": "Spencer produced eight points (3-6 FG, 1-2 3Pt, 1-1 FT), six rebounds, eight assists and two steals across 23 minutes during Thursday's 124-103 win over Portland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-earning-more-playing-time-536806"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIA",
-   "player": "Simone Fontecchio",
-   "headline": "Suiting up Friday",
-   "note": "Fontecchio (illness) is available for Friday's game against the Pacers, Anthony Chiang of the Miami Herald reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-news-suiting-up-friday-536845"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIA",
-   "player": "Simone Fontecchio",
-   "headline": "Probable with illness",
-   "note": "Fontecchio (illness) is probable for Friday's against the Pacers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-probable-with-illness-536821"
   }
  ]
 }
