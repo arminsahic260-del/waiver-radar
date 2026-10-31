@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-31T21:21:54Z",
+ "updated": "2026-10-31T22:21:51Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "MIN",
+   "player": "Rudy Gobert",
+   "headline": "Won't play Saturday",
+   "note": "Gobert (back) is out for Saturday's game against the Spurs, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-injury-wont-play-saturday-536994"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Scoot Henderson",
+   "headline": "Nets 14 points with three swipes",
+   "note": "Henderson finished with 14 points (4-11 FG, 1-4 3Pt, 5-6 FT), three rebounds, one assist and three steals over 31 minutes during Saturday's 112-90 victory over the Jazz.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-nets-14-points-with-three-swipes-536993"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Adem Bona",
+   "headline": "Starting versus Charlotte",
+   "note": "Bona will start in Saturday's game against Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-starting-versus-charlotte-536992"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Jabari Walker",
+   "headline": "Upgraded to available Saturday",
+   "note": "Walker (knee) is available for Saturday's game versus the Hornets, Chris Hine of The Philly Inquirer reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-news-upgraded-to-available-saturday-536991"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Tacko Fall",
+   "headline": "Available to play",
+   "note": "Fall (quadriceps) is available for Saturday's game against the Hornets, Chris Hine of The Philly Inquirer reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tacko-fall-news-available-to-play-536990"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Ruled out Saturday",
+   "note": "Murray (personal) won't play in Saturday's game against the Hawks, Jim Eichenhofer of the Pelicans' official site reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-ruled-out-saturday-536989"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Jaylen Brown",
+   "headline": "Available to play",
+   "note": "Brown (knee) is available for Saturday's game in Charlotte.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-available-to-play-536988"
+  },
   {
    "date": "2026-10-31",
    "team": "IND",
@@ -183,13 +253,13 @@
   },
   {
    "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "headline": "Not listed on injury report",
-   "note": "Sengun (back) has been removed from the injury report ahead of Saturday's meeting with the Thunder.",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Questionable for Saturday",
+   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-not-listed-on-injury-report-536968"
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
   },
   {
    "date": "2026-10-31",
@@ -243,26 +313,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Julius Randle",
-   "headline": "Turnover woes continue Friday",
-   "note": "Randle ended with 15 points (4-13 FG, 3-6 3Pt, 4-4 FT), eight rebounds and three assists over 25 minutes in Friday's 110-94 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/julius-randle-news-turnover-woes-continue-friday-536962"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Questionable for Saturday",
-   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
-  },
-  {
-   "date": "2026-10-31",
    "team": "PHI",
    "player": "Joel Embiid",
    "headline": "Fills up box score Friday",
@@ -280,6 +330,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-teases-triple-double-vs-new-york-536949"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "BKN",
+   "player": "Julius Randle",
+   "headline": "Turnover woes continue Friday",
+   "note": "Randle ended with 15 points (4-13 FG, 3-6 3Pt, 4-4 FT), eight rebounds and three assists over 25 minutes in Friday's 110-94 loss to Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/julius-randle-news-turnover-woes-continue-friday-536962"
   },
   {
    "date": "2026-10-31",
@@ -444,6 +504,16 @@
   {
    "date": "2026-10-31",
    "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Not listed on injury report",
+   "note": "Sengun (back) has been removed from the injury report ahead of Saturday's meeting with the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-not-listed-on-injury-report-536968"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "HOU",
    "player": "Clint Capela",
    "headline": "Cleans up glass in first start of season",
    "note": "Capela ended Friday's 116-111 loss to the Mavericks with five points (2-6 FG, 1-2 FT), 11 rebounds, five assists, two blocks and two steals over 30 minutes.",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-fills-stat-sheet-vs-minnesota-536929"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAL",
-   "player": "Matisse Thybulle",
-   "headline": "Moderate line in defeat",
-   "note": "Thybulle racked up 10 points (2-6 FG, 1-3 3Pt, 5-5 FT), three rebounds and three steals over 28 minutes during Friday's 112-95 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-moderate-line-in-defeat-536911"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAL",
-   "player": "Walker Kessler",
-   "headline": "Records double-double in loss",
-   "note": "Kessler finished Friday's 112-95 loss to the Warriors with 10 points (4-7 FG, 2-3 FT), 13 rebounds, two assists and five blocks across 31 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-records-double-double-in-loss-536910"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAL",
-   "player": "Austin Reaves",
-   "headline": "Costly mistakes pile up in loss",
-   "note": "Reaves chipped in 21 points (9-19 FG, 1-6 3Pt, 2-2 FT), four rebounds, five assists, one block and one steal across 37 minutes during Friday's 112-95 loss to Golden State.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-costly-mistakes-pile-up-in-loss-536909"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAL",
-   "player": "Luka Doncic",
-   "headline": "Explosive with 37 points",
-   "note": "Doncic accumulated 37 points (12-27 FG, 6-16 3Pt, 7-8 FT), seven rebounds, five assists, two blocks and one steal in 37 minutes during Friday's 112-95 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-explosive-with-37-points-536908"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Pelle Larsson",
-   "headline": "Efficient scoring night Friday",
-   "note": "Larsson produced 18 points (5-5 FG, 1-1 3Pt, 7-8 FT), three rebounds and three assists over 24 minutes off the bench during Friday's 145-125 victory over Indiana.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-efficient-scoring-night-friday-536947"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Davion Mitchell",
-   "headline": "Double-double in rout of Pacers",
-   "note": "Mitchell closed Friday's 145-125 win over Indiana with 15 points (6-16 FG, 3-8 3Pt), six rebounds, 11 assists and one steal in 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-double-double-in-rout-of-pacers-536946"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Klay Thompson",
-   "headline": "Lights it up from long range",
-   "note": "Thompson supplied 25 points (9-14 FG, 7-12 3Pt) and three assists across 26 minutes during Friday's 145-125 win over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-lights-it-up-from-long-range-536945"
   }
  ]
 }
