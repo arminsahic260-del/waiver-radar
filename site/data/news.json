@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-31T14:21:55Z",
+ "updated": "2026-10-31T15:21:51Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "VJ Edgecombe",
+   "headline": "Grabs eight boards Friday",
+   "note": "Edgecombe closed Friday's 98-93 win over New York with 13 points (6-10 FG, 1-4 3Pt), eight rebounds and two assists across 36 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-grabs-eight-boards-friday-536957"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DET",
+   "player": "Cade Cunningham",
+   "headline": "Scores 20 points in win",
+   "note": "Cunningham finished with 20 points (6-15 FG, 1-6 3Pt, 7-7 FT), five rebounds, four assists and one block across 28 minutes in Friday's 110-94 win over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-scores-20-points-in-win-536956"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "NYK",
+   "player": "Mikal Bridges",
+   "headline": "Logs three steals in Friday's loss",
+   "note": "Bridges finished with 12 points (5-8 FG, 2-4 3Pt), five rebounds, two assists and three steals across 30 minutes during Friday's 98-93 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikal-bridges-news-logs-three-steals-in-fridays-loss-536955"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "BKN",
+   "player": "Moritz Wagner",
+   "headline": "Solid production off bench Friday",
+   "note": "Wagner finished with 16 points (7-10 FG, 1-2 3Pt, 1-1 FT), eight rebounds, one assist and one steal over 23 minutes in Friday's 110-94 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moritz-wagner-news-solid-production-off-bench-friday-536954"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "NYK",
+   "player": "Miles McBride",
+   "headline": "Chips in 10 points off bench",
+   "note": "McBride registered 10 points (4-8 FG, 2-5 3Pt), three rebounds and one assist in 24 minutes during Friday's 98-93 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/miles-mcbride-news-chips-in-10-points-off-bench-536953"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "NYK",
+   "player": "Jalen Brunson",
+   "headline": "Tallies 24 points in Friday's loss",
+   "note": "Brunson recorded 24 points (8-22 FG, 3-10 3Pt, 5-6 FT), five rebounds, six assists and two steals over 35 minutes during Friday's 98-93 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-tallies-24-points-in-fridays-loss-536952"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Joel Embiid",
+   "headline": "Fills up box score Friday",
+   "note": "Embiid closed Friday's 98-93 victory over the Knicks with 10 points (3-12 FG, 0-4 3Pt, 4-4 FT), seven rebounds, seven assists, one block and one steal in 33 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-injury-fills-up-box-score-friday-536951"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Anfernee Simons",
+   "headline": "Another 20-point game",
+   "note": "Simons accumulated 21 points (7-11 FG, 5-8 3Pt, 2-2 FT), two rebounds and one assist over 31 minutes during Friday's 98-93 victory over New York.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-another-20-point-game-536950"
+  },
   {
    "date": "2026-10-31",
    "team": "PHI",
@@ -173,86 +253,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "MIN",
-   "player": "Jaden McDaniels",
-   "headline": "Scores season-high 23 points",
-   "note": "McDaniels recorded 23 points (11-15 FG, 1-2 3Pt), six rebounds, seven assists, one block and one steal over 33 minutes during Friday's 127-101 win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-scores-season-high-23-points-536932"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Puts up 12 points Friday",
-   "note": "Hachimura ended with 12 points (4-11 FG, 2-5 3Pt, 2-3 FT), five rebounds and two steals across 26 minutes during Friday's 127-101 loss to Minnesota.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-puts-up-12-points-friday-536931"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAC",
-   "player": "Keaton Wagler",
-   "headline": "Struggles with shot in loss",
-   "note": "Wagler finished Friday's 127-101 loss to the Timberwolves with 12 points (2-11 FG, 1-5 3Pt, 7-8 FT), six rebounds and three assists over 25 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/keaton-wagler-news-struggles-with-shot-in-loss-536930"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAC",
-   "player": "Isaiah Jackson",
-   "headline": "Fills stat sheet vs. Minnesota",
-   "note": "Jackson had 10 points (3-6 FG, 4-4 FT), seven rebounds, four assists, four blocks and three steals across 22 minutes during Friday's 127-101 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-fills-stat-sheet-vs-minnesota-536929"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "TOR",
-   "player": "Collin Murray-Boyles",
-   "headline": "Efficient output off bench in loss",
-   "note": "Murray-Boyles contributed 15 points (7-10 FG, 1-2 3Pt), five rebounds and one assist across 23 minutes during Friday's 121-114 loss to Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-efficient-output-off-bench-in-loss-536928"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Double-doubles Friday",
-   "note": "Poeltl provided 12 points (5-10 FG, 2-2 FT), 11 rebounds, three assists and one steal across 23 minutes during Friday's 121-114 loss to the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-doubles-friday-536927"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "TOR",
-   "player": "Immanuel Quickley",
-   "headline": "Hits four threes in loss",
-   "note": "Quickley registered 17 points (6-14 FG, 4-9 3Pt, 1-2 FT), six rebounds and eight assists over 37 minutes during Friday's 121-114 loss to the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-news-hits-four-threes-in-loss-536926"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "ORL",
-   "player": "Wendell Carter",
-   "headline": "Comes close to double-double",
-   "note": "Carter finished with 20 points (6-11 FG, 1-3 3Pt, 7-8 FT), seven rebounds, one assist and two steals in 39 minutes during Friday's 121-114 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-comes-close-to-double-double-536925"
-  },
-  {
-   "date": "2026-10-31",
    "team": "DEN",
    "player": "Cameron Johnson",
    "headline": "Struggles with shot in victory",
@@ -333,6 +333,36 @@
   },
   {
    "date": "2026-10-31",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Puts up 12 points Friday",
+   "note": "Hachimura ended with 12 points (4-11 FG, 2-5 3Pt, 2-3 FT), five rebounds and two steals across 26 minutes during Friday's 127-101 loss to Minnesota.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-puts-up-12-points-friday-536931"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAC",
+   "player": "Keaton Wagler",
+   "headline": "Struggles with shot in loss",
+   "note": "Wagler finished Friday's 127-101 loss to the Timberwolves with 12 points (2-11 FG, 1-5 3Pt, 7-8 FT), six rebounds and three assists over 25 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keaton-wagler-news-struggles-with-shot-in-loss-536930"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAC",
+   "player": "Isaiah Jackson",
+   "headline": "Fills stat sheet vs. Minnesota",
+   "note": "Jackson had 10 points (3-6 FG, 4-4 FT), seven rebounds, four assists, four blocks and three steals across 22 minutes during Friday's 127-101 loss to the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-fills-stat-sheet-vs-minnesota-536929"
+  },
+  {
+   "date": "2026-10-31",
    "team": "LAL",
    "player": "Matisse Thybulle",
    "headline": "Moderate line in defeat",
@@ -370,6 +400,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-explosive-with-37-points-536908"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIN",
+   "player": "Jaden McDaniels",
+   "headline": "Scores season-high 23 points",
+   "note": "McDaniels recorded 23 points (11-15 FG, 1-2 3Pt), six rebounds, seven assists, one block and one steal over 33 minutes during Friday's 127-101 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-scores-season-high-23-points-536932"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "ORL",
+   "player": "Wendell Carter",
+   "headline": "Comes close to double-double",
+   "note": "Carter finished with 20 points (6-11 FG, 1-3 3Pt, 7-8 FT), seven rebounds, one assist and two steals in 39 minutes during Friday's 121-114 win over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-comes-close-to-double-double-536925"
   },
   {
    "date": "2026-10-31",
@@ -420,6 +470,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/miles-bridges-news-continues-to-thrive-with-new-team-536920"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "TOR",
+   "player": "Collin Murray-Boyles",
+   "headline": "Efficient output off bench in loss",
+   "note": "Murray-Boyles contributed 15 points (7-10 FG, 1-2 3Pt), five rebounds and one assist across 23 minutes during Friday's 121-114 loss to Orlando.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-efficient-output-off-bench-in-loss-536928"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "headline": "Double-doubles Friday",
+   "note": "Poeltl provided 12 points (5-10 FG, 2-2 FT), 11 rebounds, three assists and one steal across 23 minutes during Friday's 121-114 loss to the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-doubles-friday-536927"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "TOR",
+   "player": "Immanuel Quickley",
+   "headline": "Hits four threes in loss",
+   "note": "Quickley registered 17 points (6-14 FG, 4-9 3Pt, 1-2 FT), six rebounds and eight assists over 37 minutes during Friday's 121-114 loss to the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-news-hits-four-threes-in-loss-536926"
   },
   {
    "date": "2026-10-30",
@@ -520,86 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-to-be-re-evaluated-next-week-536850"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MEM",
-   "player": "Ty Jerome",
-   "headline": "Questionable versus Kings",
-   "note": "Jerome (back) is listed as questionable for Saturday's game against the Kings.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-questionable-versus-kings-536849"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "OKC",
-   "player": "Chet Holmgren",
-   "headline": "Remains out for Saturday",
-   "note": "Holmgren (knee) remains out for Saturday's road game against Houston, Justin Martinez of The Oklahoman reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-remains-out-for-saturday-536848"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MEM",
-   "player": "Quinten Post",
-   "headline": "Doubtful for Saturday",
-   "note": "Post (ankle) is doubtful for Saturday's game against the Kings.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-doubtful-for-saturday-536847"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Out again Friday",
-   "note": "Aldama (knee) is listed as out for Friday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-out-again-friday-536844"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Tarik Biberovic",
-   "headline": "Ruled out Friday",
-   "note": "Biberovic (heel) is out for Friday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-friday-536843"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Out Friday",
-   "note": "Swain (back) has been ruled out for Friday's game against Boston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-out-friday-536836"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Downgraded to out",
-   "note": "Brown (knee) is out for Friday's game against the Knicks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-downgraded-to-out-536835"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "SAS",
-   "player": "Tobias Harris",
-   "headline": "Remains out Saturday",
-   "note": "Harris (calf) is listed as out for Saturday's game against Minnesota.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobias-harris-injury-remains-out-saturday-536834"
   }
  ]
 }

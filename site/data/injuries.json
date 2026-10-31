@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:21:20Z",
+ "updated": "2026-10-31T15:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -36,11 +36,11 @@
    "team": "BKN",
    "player": "Tyler Bilodeau",
    "pos": "SF",
-   "updated": "2026-10-29",
+   "updated": "2026-10-31",
    "injury": "Shoulder",
-   "status": "Expected return: at least Nov 1",
+   "status": "Expected return: at least Nov 6",
    "kind": "out",
-   "ret": "2026-11-01"
+   "ret": "2026-11-06"
   },
   {
    "team": "BOS",
@@ -144,26 +144,6 @@
   },
   {
    "team": "DAL",
-   "player": "Dereck Lively II",
-   "pos": "C",
-   "updated": "2026-10-26",
-   "injury": "Foot",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-10-30",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "DAL",
    "player": "Sergio de Larrea",
    "pos": "SG",
    "updated": "2026-10-30",
@@ -171,6 +151,26 @@
    "status": "Expected return: at least Nov 4",
    "kind": "out",
    "ret": "2026-11-04"
+  },
+  {
+   "team": "DAL",
+   "player": "Dereck Lively II",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Foot",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
@@ -194,20 +194,20 @@
   },
   {
    "team": "DEN",
-   "player": "Spencer Jones",
-   "pos": "SF",
-   "updated": "2026-10-27",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "DEN",
    "player": "Alpha Diallo",
    "pos": "SF",
    "updated": "2026-10-31",
    "injury": "Personal",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "pos": "SF",
+   "updated": "2026-10-31",
+   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
