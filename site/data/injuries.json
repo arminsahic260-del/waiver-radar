@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:21:19Z",
+ "updated": "2026-10-31T21:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -51,6 +51,16 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",

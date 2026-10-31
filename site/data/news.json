@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-31T20:21:55Z",
+ "updated": "2026-10-31T21:21:54Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "headline": "Ruled out for Sunday",
+   "note": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-ruled-out-for-sunday-536987"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Probable versus Nets",
+   "note": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-versus-nets-536986"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Questionable for Sunday",
+   "note": "Toppin (back) is questionable for Sunday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-sunday-536985"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Won't play Sunday",
+   "note": "Brown (rest) is out for Sunday's game in Indiana.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-536984"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Questionable for Sunday",
+   "note": "Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-questionable-for-sunday-536983"
+  },
   {
    "date": "2026-10-31",
    "team": "GSW",
@@ -203,56 +253,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "FA",
-   "player": "Ochai Agbaji",
-   "headline": "No longer bound for OKC",
-   "note": "The Thunder are no longer signing Agbaji to a contract, Shams Charania of ESPN reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ochai-agbaji-news-no-longer-bound-for-okc-536961"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Struggles shooting in loss",
-   "note": "Brown finished with 10 points (2-9 FG, 0-4 3Pt, 6-8 FT), four assists and one steal across 23 minutes in Friday's 110-94 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-struggles-shooting-in-loss-536960"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DET",
-   "player": "Ronald Holland",
-   "headline": "Strong two-way showing Friday",
-   "note": "Holland finished with 18 points (6-10 FG, 2-5 3Pt, 4-7 FT), three rebounds, two assists, four steals and one block across 22 minutes in Friday's 110-94 victory over the Nets.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ronald-holland-news-strong-two-way-showing-friday-536959"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DET",
-   "player": "Duncan Robinson",
-   "headline": "Scores 17 points in win Friday",
-   "note": "Robinson finished with 17 points (5-11 FG, 2-7 3Pt, 5-5 FT), four rebounds, two assists and three steals across 26 minutes in Friday's 110-94 victory over the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scores-17-points-in-win-friday-536958"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "VJ Edgecombe",
-   "headline": "Grabs eight boards Friday",
-   "note": "Edgecombe closed Friday's 98-93 win over New York with 13 points (6-10 FG, 1-4 3Pt), eight rebounds and two assists across 36 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-grabs-eight-boards-friday-536957"
-  },
-  {
-   "date": "2026-10-31",
    "team": "SAS",
    "player": "Stephon Castle",
    "headline": "Questionable for Saturday",
@@ -280,6 +280,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-teases-triple-double-vs-new-york-536949"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Shooting struggles in loss",
+   "note": "Brown finished with 10 points (2-9 FG, 0-4 3Pt, 6-8 FT), four assists and one steal across 23 minutes in Friday's 110-94 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-shooting-struggles-in-loss-536960"
   },
   {
    "date": "2026-10-31",
@@ -360,6 +370,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-stellar-with-31-points-536916"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DET",
+   "player": "Ronald Holland",
+   "headline": "Strong two-way showing Friday",
+   "note": "Holland finished with 18 points (6-10 FG, 2-5 3Pt, 4-7 FT), three rebounds, two assists, four steals and one block across 22 minutes in Friday's 110-94 victory over the Nets.",
+   "kind": "transaction",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ronald-holland-news-strong-two-way-showing-friday-536959"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DET",
+   "player": "Duncan Robinson",
+   "headline": "Scores 17 points in win Friday",
+   "note": "Robinson finished with 17 points (5-11 FG, 2-7 3Pt, 5-5 FT), four rebounds, two assists and three steals across 26 minutes in Friday's 110-94 victory over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scores-17-points-in-win-friday-536958"
   },
   {
    "date": "2026-10-31",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-lights-it-up-from-long-range-536945"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIA",
-   "player": "Bam Adebayo",
-   "headline": "Strikes for 27 in Friday's rout",
-   "note": "Adebayo recorded 27 points (11-14 FG, 0-2 3Pt, 5-5 FT), nine rebounds, three assists and three steals over 33 minutes during Friday's 145-125 win over Indiana.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-strikes-for-27-in-fridays-rout-536944"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIN",
-   "player": "Rudy Gobert",
-   "headline": "Pulls down 13 rebounds",
-   "note": "Gobert amassed nine points (4-7 FG, 1-3 FT), 13 rebounds, four assists, one block and one steal in 30 minutes during Friday's 127-101 win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-news-pulls-down-13-rebounds-536934"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIN",
-   "player": "Bones Hyland",
-   "headline": "Sniffs double-double Friday",
-   "note": "Hyland racked up 19 points (8-16 FG, 3-9 3Pt), eight assists and one steal across 20 minutes during Friday's 127-101 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bones-hyland-news-sniffs-double-double-friday-536933"
   }
  ]
 }
