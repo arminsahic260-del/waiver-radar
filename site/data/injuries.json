@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:38:28Z",
+ "updated": "2026-10-31T19:21:23Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -473,6 +473,16 @@
    "ret": "2027-04-02"
   },
   {
+   "team": "MIN",
+   "player": "Rudy Gobert",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "NOP",
    "player": "Jordan Poole",
    "pos": "PG",
@@ -713,26 +723,6 @@
    "ret": "2027-03-02"
   },
   {
-   "team": "POR",
-   "player": "Chris Youngblood",
-   "pos": "SG",
-   "updated": "2026-10-30",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "POR",
-   "player": "Robert Williams III",
-   "pos": "C",
-   "updated": "2026-10-30",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "SAC",
    "player": "Ben Simmons",
    "pos": "SF",
@@ -841,16 +831,6 @@
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
-  },
-  {
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "pos": "PF",
-   "updated": "2026-10-29",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "WAS",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:39:08Z",
+ "updated": "2026-10-31T19:22:08Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -45,7 +45,7 @@
    "team": "POR",
    "pos": "PG/SG",
    "priority": 1,
-   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. Scoot Henderson je prvi PG/SG u rotaciji POR-a za te minute; ~15.0 FP po utakmici (ove sezone 6.2 u 4 utk., prošle sezone 23.8; 22 min). RotoWire 31.10.: Starting Saturday. Henderson will move into the starting lineup for Saturday's game in Utah, Trail Blazers' reporter Sean Highkin reports.",
+   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. Scoot Henderson je prvi PG/SG u rotaciji POR-a za te minute; ~13.6 FP po utakmici (ove sezone 5.4 u 5 utk., prošle sezone 23.8; 20 min). RotoWire 31.10.: Starting Saturday. Henderson will move into the starting lineup for Saturday's game in Utah, Trail Blazers' reporter Sean Highkin reports.",
    "role": "Starter dok je out Ja Morant",
    "horizon": "Do ~1.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Ja Morant; nizak bodovni plafon",
@@ -55,9 +55,9 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-starting-saturday-536971",
    "espnId": 4683678,
-   "fpts": 15.0,
-   "gp": 4,
-   "cur": 6.2
+   "fpts": 13.6,
+   "gp": 5,
+   "cur": 5.4
   },
   {
    "player": "Julian Reese",

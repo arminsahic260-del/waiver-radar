@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-31T18:39:03Z",
+ "updated": "2026-10-31T19:22:03Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Dealing with migraine, iffy for Saturday",
+   "note": "Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-dealing-with-migraine-iffy-for-saturday-536979"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Questionable for Saturday",
+   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "UTA",
+   "player": "Josh Green",
+   "headline": "Headed to bench",
+   "note": "Green will come off the bench Saturday against the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-green-news-headed-to-bench-536977"
+  },
   {
    "date": "2026-10-31",
    "team": "CLE",
@@ -223,36 +253,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Moritz Wagner",
-   "headline": "Solid production off bench Friday",
-   "note": "Wagner finished with 16 points (7-10 FG, 1-2 3Pt, 1-1 FT), eight rebounds, one assist and one steal over 23 minutes in Friday's 110-94 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moritz-wagner-news-solid-production-off-bench-friday-536954"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "NYK",
-   "player": "Miles McBride",
-   "headline": "Chips in 10 points off bench",
-   "note": "McBride registered 10 points (4-8 FG, 2-5 3Pt), three rebounds and one assist in 24 minutes during Friday's 98-93 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/miles-mcbride-news-chips-in-10-points-off-bench-536953"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "NYK",
-   "player": "Jalen Brunson",
-   "headline": "Tallies 24 points in Friday's loss",
-   "note": "Brunson recorded 24 points (8-22 FG, 3-10 3Pt, 5-6 FT), five rebounds, six assists and two steals over 35 minutes during Friday's 98-93 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-tallies-24-points-in-fridays-loss-536952"
-  },
-  {
-   "date": "2026-10-31",
    "team": "PHI",
    "player": "Joel Embiid",
    "headline": "Fills up box score Friday",
@@ -270,6 +270,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-teases-triple-double-vs-new-york-536949"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "BKN",
+   "player": "Moritz Wagner",
+   "headline": "Solid production off bench Friday",
+   "note": "Wagner finished with 16 points (7-10 FG, 1-2 3Pt, 1-1 FT), eight rebounds, one assist and one steal over 23 minutes in Friday's 110-94 loss to the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moritz-wagner-news-solid-production-off-bench-friday-536954"
   },
   {
    "date": "2026-10-31",
@@ -583,23 +593,13 @@
   },
   {
    "date": "2026-10-31",
-   "team": "ORL",
-   "player": "Wendell Carter",
-   "headline": "Comes close to double-double",
-   "note": "Carter finished with 20 points (6-11 FG, 1-3 3Pt, 7-8 FT), seven rebounds, one assist and two steals in 39 minutes during Friday's 121-114 win over the Raptors.",
+   "team": "NYK",
+   "player": "Miles McBride",
+   "headline": "Chips in 10 points off bench",
+   "note": "McBride registered 10 points (4-8 FG, 2-5 3Pt), three rebounds and one assist in 24 minutes during Friday's 98-93 loss to the 76ers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-comes-close-to-double-double-536925"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "ORL",
-   "player": "Desmond Bane",
-   "headline": "Drains six threes in win",
-   "note": "Bane provided 28 points (8-18 FG, 6-12 3Pt, 6-6 FT), two rebounds, six assists and one block in 39 minutes during Friday's 121-114 victory over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-news-drains-six-threes-in-win-536924"
+   "url": "https://www.rotowire.com/basketball/headlines/miles-mcbride-news-chips-in-10-points-off-bench-536953"
   }
  ]
 }
