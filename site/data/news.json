@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-31T07:06:16Z",
+ "updated": "2026-10-31T11:48:14Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "PHX",
+   "player": "Collin Gillespie",
+   "headline": "Tallies 16 points from bench",
+   "note": "Gillespie closed with 16 points (6-11 FG, 4-8 3Pt), three rebounds, 10 assists, one block and four steals in 33 minutes during Friday's 127-120 loss to Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-tallies-16-points-from-bench-536922"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Fights with accuracy in loss",
+   "note": "Booker totaled 20 points (7-19 FG, 3-7 3Pt, 3-4 FT), two rebounds, five assists and two steals in 39 minutes during Friday's 127-120 loss to Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-fights-with-accuracy-in-loss-536921"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHX",
+   "player": "Miles Bridges",
+   "headline": "Continues to thrive with new team",
+   "note": "Bridges chipped in 24 points (10-19 FG, 2-7 3Pt, 2-2 FT), 10 rebounds, two assists, three blocks and one steal in 37 minutes during Friday's 127-120 loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/miles-bridges-news-continues-to-thrive-with-new-team-536920"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Struggles with shot in victory",
+   "note": "Johnson accumulated 12 points (5-13 FG, 2-8 3Pt, 0-2 FT), nine rebounds, three assists and one steal over 34 minutes during Friday's 127-120 victory over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-news-struggles-with-shot-in-victory-536919"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DEN",
+   "player": "Aaron Gordon",
+   "headline": "Solid perfornance in win",
+   "note": "Gordon notched 15 points (4-9 FG, 2-4 3Pt, 5-5 FT), four rebounds and five assists in 29 minutes during Friday's 127-120 win over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-gordon-news-solid-perfornance-in-win-536918"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DEN",
+   "player": "Nikola Jokic",
+   "headline": "Logs double-double in victory",
+   "note": "Jokic posted 18 points (8-13 FG, 0-1 3Pt, 2-2 FT), seven rebounds, 10 assists and three steals in 37 minutes during Friday's 127-120 win over Phoenix.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-logs-double-double-in-victory-536917"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DEN",
+   "player": "Christian Braun",
+   "headline": "Stellar with 31 points",
+   "note": "Braun registered 31 points (11-16 FG, 7-9 3Pt, 2-2 FT), three rebounds, one assist and three steals in 37 minutes during Friday's 127-120 win over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-stellar-with-31-points-536916"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "GSW",
+   "player": "Georges Niang",
+   "headline": "Provides 11 points from bench",
+   "note": "Niang accumulated 11 points (4-5 FG, 3-3 3Pt), five rebounds, one assist and one block across 19 minutes during Friday's 112-95 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/georges-niang-news-provides-11-points-from-bench-536915"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "GSW",
+   "player": "De'Anthony Melton",
+   "headline": "Logs 16 points off bench",
+   "note": "Melton logged 16 points (5-10 FG, 4-6 3Pt, 2-2 FT), five rebounds, three assists and two steals across 21 minutes during Friday's 112-95 victory over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-logs-16-points-off-bench-536914"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Key production in comeback",
+   "note": "Podziemski closed Friday's 112-95 win over the Lakers with 21 points (7-15 FG, 4-9 3Pt, 3-5 FT), five rebounds, six assists, one block and two steals in 33 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-key-production-in-comeback-536913"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Drills eight threes in victory",
+   "note": "Curry recorded 31 points (11-23 FG, 8-14 3Pt, 1-1 FT), four rebounds, six assists, one block and one steal over 31 minutes during Friday's 112-95 win over the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-drills-eight-threes-in-victory-536912"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAL",
+   "player": "Matisse Thybulle",
+   "headline": "Moderate line in defeat",
+   "note": "Thybulle racked up 10 points (2-6 FG, 1-3 3Pt, 5-5 FT), three rebounds and three steals over 28 minutes during Friday's 112-95 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-moderate-line-in-defeat-536911"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAL",
+   "player": "Walker Kessler",
+   "headline": "Records double-double in loss",
+   "note": "Kessler finished Friday's 112-95 loss to the Warriors with 10 points (4-7 FG, 2-3 FT), 13 rebounds, two assists and five blocks across 31 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-records-double-double-in-loss-536910"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAL",
+   "player": "Austin Reaves",
+   "headline": "Costly mistakes pile up in loss",
+   "note": "Reaves chipped in 21 points (9-19 FG, 1-6 3Pt, 2-2 FT), four rebounds, five assists, one block and one steal across 37 minutes during Friday's 112-95 loss to Golden State.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-costly-mistakes-pile-up-in-loss-536909"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAL",
+   "player": "Luka Doncic",
+   "headline": "Explosive with 37 points",
+   "note": "Doncic accumulated 37 points (12-27 FG, 6-16 3Pt, 7-8 FT), seven rebounds, five assists, two blocks and one steal in 37 minutes during Friday's 112-95 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-explosive-with-37-points-536908"
+  },
   {
    "date": "2026-10-30",
    "team": "DEN",
@@ -100,156 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-drops-30-points-off-bench-friday-536898"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "ORL",
-   "player": "Franz Wagner",
-   "headline": "Ends with 26 points in win",
-   "note": "Wagner ended with 26 points (8-18 FG, 2-7 3Pt, 8-9 FT), five rebounds, 11 assists and one steal across 39 minutes in Friday's 121-114 win over Toronto.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-ends-with-26-points-in-win-536897"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "WAS",
-   "player": "Alex Sarr",
-   "headline": "Logs season-high 29 minutes",
-   "note": "Sarr ended with three points (1-5 FG, 1-3 3Pt) and eight rebounds across 29 minutes during Friday's 95-79 victory over Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-logs-season-high-29-minutes-536896"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Solid all-around effort Friday",
-   "note": "Tatum finished with 26 points (9-20 FG, 2-7 3Pt, 6-8 FT), seven rebounds and seven assists across 35 minutes in Friday's 125-111 win over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-solid-all-around-effort-friday-536895"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "WAS",
-   "player": "Tre Mann",
-   "headline": "Cracks rotation Friday",
-   "note": "Mann registered zero points (0-1 FG) in one minute during Friday's 95-79 victory over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-mann-news-cracks-rotation-friday-536894"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "WAS",
-   "player": "Bilal Coulibaly",
-   "headline": "Tumbles back to earth in win",
-   "note": "Coulibaly accumulated one point (0-2 FG, 0-1 3Pt, 1-2 FT), five rebounds, one assist and one block across 22 minutes during Friday's 95-79 victory over Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-tumbles-back-to-earth-in-win-536893"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIN",
-   "player": "LaMelo Ball",
-   "headline": "Bounces back Friday",
-   "note": "Ball ended with 24 points (9-20 FG, 6-15 3Pt), four rebounds, seven assists and two steals across 29 minutes in Friday's 127-101 win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-bounces-back-friday-536892"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHA",
-   "player": "Moussa Diabate",
-   "headline": "Double-double with two steals",
-   "note": "Diabate contributed 10 points (5-11 FG), 12 rebounds, one assist and two steals in 31 minutes during Friday's 95-79 loss to the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-double-double-with-two-steals-536891"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHA",
-   "player": "Hannes Steinbach",
-   "headline": "Rare appearance in loss",
-   "note": "Steinbach ended Friday's 95-79 loss to Washington with zero points (0-1 FG) in two minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/hannes-steinbach-news-rare-appearance-in-loss-536890"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "HOU",
-   "player": "Kevin Durant",
-   "headline": "Leads Houston in scoring Friday",
-   "note": "Durant finished with 28 points (9-20 FG, 1-6 3Pt, 9-13 FT), five rebounds and one assist over 37 minutes in Friday's 116-111 loss to Dallas.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-leads-houston-in-scoring-friday-536889"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHA",
-   "player": "Grayson Allen",
-   "headline": "Shooting woes continue",
-   "note": "Allen recorded five points (2-10 FG, 1-6 3Pt), three rebounds and two assists over 21 minutes during Friday's 95-79 loss to the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-shooting-woes-continue-536888"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "PHX",
-   "player": "Dillon Brooks",
-   "headline": "Tossed Friday",
-   "note": "Brooks was ejected in the third quarter of Friday's game against the Nuggets after being assessed a Flagrant 2 foul, Bennett Durando of The Denver Post reports. He'll finish with 22 points (9-12 FG, 4-6 3Pt), two assists, one rebound and one steal across 21 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dillon-brooks-news-tossed-friday-536887"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIA",
-   "player": "Giannis Antetokounmpo",
-   "headline": "Massive triple-double in blowout win",
-   "note": "Antetokounmpo racked up 31 points (13-18 FG, 1-2 3Pt, 4-6 FT), 17 rebounds, 10 assists and one block across 31 minutes in Friday's 145-125 win over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-massive-triple-double-in-blowout-win-536886"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Logs another full stat line Friday",
-   "note": "Flagg finished Friday's 116-111 win over the Rockets with 33 points (13-19 FG, 0-4 3Pt, 7-10 FT), nine rebounds, six assists, two steals and one block across 39 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-logs-another-full-stat-line-friday-536885"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NYK",
-   "player": "Karl-Anthony Towns",
-   "headline": "Extends double-double streak Friday",
-   "note": "Towns ended with 22 points (8-15 FG, 3-7 3Pt, 3-3 FT), 12 rebounds, three assists and one block over 35 minutes in Friday's 98-93 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-extends-double-double-streak-friday-536884"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "LAC",
-   "player": "Darius Garland",
-   "headline": "Paces LAC in blowout loss",
-   "note": "Garland notched 24 points (10-22 FG, 4-8 3Pt), five assists, two rebounds and one steal across 31 minutes in Friday's 127-101 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-garland-news-paces-lac-in-blowout-loss-536883"
   },
   {
    "date": "2026-10-30",
@@ -504,6 +504,16 @@
   {
    "date": "2026-10-30",
    "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Solid all-around effort Friday",
+   "note": "Tatum finished with 26 points (9-20 FG, 2-7 3Pt, 6-8 FT), seven rebounds and seven assists across 35 minutes in Friday's 125-111 win over the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-solid-all-around-effort-friday-536895"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BOS",
    "player": "Baylor Scheierman",
    "headline": "Has option picked up",
    "note": "Scheierman had his 2027-28 rookie-scale team option picked up by Boston on Friday, Keith Smith of Spotrac.com reports",
@@ -544,6 +554,36 @@
   {
    "date": "2026-10-30",
    "team": "CHA",
+   "player": "Moussa Diabate",
+   "headline": "Double-double with two steals",
+   "note": "Diabate contributed 10 points (5-11 FG), 12 rebounds, one assist and two steals in 31 minutes during Friday's 95-79 loss to the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-news-double-double-with-two-steals-536891"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Hannes Steinbach",
+   "headline": "Rare appearance in loss",
+   "note": "Steinbach ended Friday's 95-79 loss to Washington with zero points (0-1 FG) in two minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/hannes-steinbach-news-rare-appearance-in-loss-536890"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Grayson Allen",
+   "headline": "Shooting woes continue",
+   "note": "Allen recorded five points (2-10 FG, 1-6 3Pt), three rebounds and two assists over 21 minutes during Friday's 95-79 loss to the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-shooting-woes-continue-536888"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
    "player": "Brandon Miller",
    "headline": "Scores team-high 19 points",
    "note": "Miller notched 19 points (7-24 FG, 3-13 3Pt, 2-2 FT), seven rebounds, two assists, a steal and a block across 37 minutes in Friday's 95-79 loss to the Wizards.",
@@ -560,46 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-will-play-friday-536839"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Upgraded to probable",
-   "note": "Schroder (foot) is probable for Friday against the Wizards.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-upgraded-to-probable-536800"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Remains out for Friday",
-   "note": "Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remains out for Friday's contest against the Wizards.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-remains-out-for-friday-536796"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Caleb Wilson",
-   "headline": "Full stat line in loss",
-   "note": "Wilson finished Friday's 125-111 loss to the Celtics with 23 points (7-16 FG, 6-11 3Pt, 3-6 FT), five rebounds, four assists, two blocks and one steal across 31 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-full-stat-line-in-loss-536882"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Cleared to play Friday",
-   "note": "Smith (finger) is available for Friday's game against the Celtics.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-cleared-to-play-friday-536837"
   }
  ]
 }
