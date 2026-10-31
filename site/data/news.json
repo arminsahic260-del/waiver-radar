@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-31T18:21:51Z",
+ "updated": "2026-10-31T18:39:03Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "headline": "Upgraded to probable",
+   "note": "Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-upgraded-to-probable-536976"
+  },
   {
    "date": "2026-10-31",
    "team": "UTA",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-news-drains-six-threes-in-win-536924"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Scores 17 and adds 10 dimes",
-   "note": "Black amassed 17 points (5-8 FG, 3-4 3Pt, 4-6 FT), six rebounds, 10 assists and one block over 31 minutes during Friday's 121-114 victory over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-scores-17-and-adds-10-dimes-536923"
   }
  ]
 }

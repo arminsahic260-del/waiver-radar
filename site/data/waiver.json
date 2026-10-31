@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:21:56Z",
+ "updated": "2026-10-31T18:39:08Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -165,7 +165,7 @@
    "team": "HOU",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Fred VanVleet (koljeno) je out najmanje do 2.11. — nova ozljeda; Reed Sheppard (leđa) je out najmanje do 2.11. — nova ozljeda. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min). Stream za subotu (OKC @ HOU, tvojih igrača: 2). Marcus Smart je rotacijski PG/SG, ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min); HOU ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "reason": "Fred VanVleet (koljeno) je out najmanje do 2.11.; Reed Sheppard (leđa) je out najmanje do 2.11. Marcus Smart je prvi PG/SG u rotaciji HOU-a za te minute; ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min). Stream za subotu (OKC @ HOU, tvojih igrača: 2). Marcus Smart je rotacijski PG/SG, ~19.8 FP po utakmici (ove sezone 17.0 u 3 utk., prošle sezone 21.8; 25 min); HOU ima 4 utakmice ovaj tjedan. Liga: Legendi.",
    "role": "Veća minutaža dok su out Fred VanVleet i Reed Sheppard",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Fred VanVleet",
