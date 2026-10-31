@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-31T00:53:17Z",
+ "updated": "2026-10-31T01:21:59Z",
  "engine": "heuristika",
  "picks": [
+  {
+   "player": "Tari Eason",
+   "team": "HOU",
+   "pos": "SF/PF",
+   "priority": 1,
+   "reason": "RotoWire 28.10.: Starting sans Sengun. Eason will start Wednesday's game against the Bucks, Lachard Binkley of SI.com reports. ~23.5 FP po utakmici (ove sezone 23.7 u 6 utk., prošle sezone 23.3; 24 min). Alperen Sengun (leđa) je out najmanje do 31.10.; Reed Sheppard (leđa) je out najmanje do 31.10. Tari Eason je prvi SF/PF u rotaciji HOU-a za te minute; ~23.5 FP po utakmici (ove sezone 23.7 u 6 utk., prošle sezone 23.3; 24 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/tari-eason-news-starting-sans-sengun-536551",
+   "espnId": 4433192,
+   "waivers": {
+    "Legendi": "2026-10-31"
+   },
+   "fpts": 23.5,
+   "gp": 6,
+   "cur": 23.7
+  },
   {
    "player": "Quentin Grimes",
    "team": "LAL",
@@ -23,28 +45,6 @@
    "fpts": 23.5,
    "gp": 5,
    "cur": 22.2
-  },
-  {
-   "player": "Tari Eason",
-   "team": "HOU",
-   "pos": "SF/PF",
-   "priority": 1,
-   "reason": "RotoWire 28.10.: Starting sans Sengun. Eason will start Wednesday's game against the Bucks, Lachard Binkley of SI.com reports. ~22.1 FP po utakmici (ove sezone 21.3 u 6 utk., prošle sezone 23.3; 24 min). Alperen Sengun (leđa) je out najmanje do 31.10.; Reed Sheppard (leđa) je out najmanje do 31.10. Tari Eason je sljedeći SF/PF u rotaciji HOU-a za te minute; ~22.1 FP po utakmici (ove sezone 21.3 u 6 utk., prošle sezone 23.3; 24 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/tari-eason-news-starting-sans-sengun-536551",
-   "espnId": 4433192,
-   "waivers": {
-    "Legendi": "2026-10-31"
-   },
-   "fpts": 22.1,
-   "gp": 6,
-   "cur": 21.3
   },
   {
    "player": "Trevon Brazile",
@@ -232,30 +232,11 @@
    "cur": 16.4
   },
   {
-   "player": "Oscar Tshiebwe",
-   "team": "HOU",
-   "pos": "C",
-   "priority": 2,
-   "reason": "Alperen Sengun (leđa) je out najmanje do 31.10. Oscar Tshiebwe je prvi C u rotaciji HOU-a za te minute; ~20.0 FP po utakmici (ove sezone 24.0 u 1 utk., prošle sezone 19.0; 16 min).",
-   "role": "Veća minutaža dok je out Alperen Sengun",
-   "horizon": "Do ~31.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Alperen Sengun",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432827,
-   "fpts": 20.0,
-   "gp": 1,
-   "cur": 24.0
-  },
-  {
    "player": "Nikola Vucevic",
    "team": "ORL",
    "pos": "C",
    "priority": 2,
-   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~19.0 FP po utakmici (ove sezone 7.4 u 5 utk., prošle sezone 33.6; 17 min).",
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~19.6 FP po utakmici (ove sezone 8.4 u 5 utk., prošle sezone 33.6; 18 min).",
    "role": "Veća minutaža dok je out Paolo Banchero",
    "horizon": "Do ~22.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Paolo Banchero",
@@ -268,16 +249,16 @@
    "waivers": {
     "Legendi": "2026-10-31"
    },
-   "fpts": 19.0,
+   "fpts": 19.6,
    "gp": 5,
-   "cur": 7.4
+   "cur": 8.4
   },
   {
    "player": "Collin Murray-Boyles",
    "team": "TOR",
    "pos": "PF",
    "priority": 2,
-   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. Collin Murray-Boyles je prvi PF u rotaciji TOR-a za te minute; ~18.6 FP po utakmici (ove sezone 15.0 u 5 utk., prošle sezone 23.1; 19 min).",
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. Collin Murray-Boyles je prvi PF u rotaciji TOR-a za te minute; ~19.2 FP po utakmici (ove sezone 16.0 u 5 utk., prošle sezone 23.1; 19 min).",
    "role": "Veća minutaža dok je out Kawhi Leonard",
    "horizon": "Do ~23.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
@@ -287,9 +268,9 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 5093267,
-   "fpts": 18.6,
+   "fpts": 19.2,
    "gp": 5,
-   "cur": 15.0
+   "cur": 16.0
   },
   {
    "player": "Aaron Nesmith",
@@ -332,6 +313,25 @@
    "cur": 11.8
   },
   {
+   "player": "Nolan Traore",
+   "team": "BKN",
+   "pos": "PG",
+   "priority": 2,
+   "reason": "RotoWire 27.10.: Draws first start of season. Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports. ~16.2 FP po utakmici (ove sezone 15.4 u 5 utk., prošle sezone 17.2; 20 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~16 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-draws-first-start-of-season-536400",
+   "espnId": 5279130,
+   "fpts": 16.2,
+   "gp": 5,
+   "cur": 15.4
+  },
+  {
    "player": "Karlo Matkovic",
    "team": "NOP",
    "pos": "PF",
@@ -368,25 +368,6 @@
    "fpts": 15.8,
    "gp": 6,
    "cur": 10.0
-  },
-  {
-   "player": "Nolan Traore",
-   "team": "BKN",
-   "pos": "PG",
-   "priority": 2,
-   "reason": "RotoWire 27.10.: Draws first start of season. Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports. ~15.3 FP po utakmici (ove sezone 13.8 u 5 utk., prošle sezone 17.2; 19 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~15 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-draws-first-start-of-season-536400",
-   "espnId": 5279130,
-   "fpts": 15.3,
-   "gp": 5,
-   "cur": 13.8
   },
   {
    "player": "Scoot Henderson",
@@ -549,19 +530,57 @@
    "team": "PHI",
    "pos": "PG/SG",
    "priority": 3,
-   "reason": "Jaylen Brown (koljeno) je out najmanje do 31.10. Anfernee Simons je sljedeći PG/SG u rotaciji PHI-a za te minute; ~17.6 FP po utakmici (ove sezone 14.2 u 6 utk., prošle sezone 22.8; 23 min).",
+   "reason": "Jaylen Brown (koljeno) je out najmanje do 31.10. Anfernee Simons je sljedeći PG/SG u rotaciji PHI-a za te minute; ~18.8 FP po utakmici (ove sezone 16.2 u 6 utk., prošle sezone 22.8; 23 min).",
    "role": "Veća minutaža dok je out Jaylen Brown",
    "horizon": "Do ~31.10. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jaylen Brown; nizak bodovni plafon",
+   "risk": "Uloga pada kad se vrati Jaylen Brown",
    "avail": {
     "Legendi": true,
     "Banijska": false
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4351851,
-   "fpts": 17.6,
+   "fpts": 18.8,
    "gp": 6,
-   "cur": 14.2
+   "cur": 16.2
+  },
+  {
+   "player": "Oscar Tshiebwe",
+   "team": "HOU",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Alperen Sengun (leđa) je out najmanje do 31.10. Oscar Tshiebwe je sljedeći C u rotaciji HOU-a za te minute; ~17.3 FP po utakmici (ove sezone 14.0 u 2 utk., prošle sezone 19.0; 14 min).",
+   "role": "Veća minutaža dok je out Alperen Sengun",
+   "horizon": "Do ~31.10. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Alperen Sengun; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432827,
+   "fpts": 17.3,
+   "gp": 2,
+   "cur": 14.0
+  },
+  {
+   "player": "Quenton Jackson",
+   "team": "IND",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. Quenton Jackson je sljedeći PG/SG u rotaciji IND-a za te minute; ~16.8 FP po utakmici (ove sezone 16.2 u 6 utk., prošle sezone 17.7; 18 min).",
+   "role": "Veća minutaža dok je out Tyrese Haliburton",
+   "horizon": "Do ~13.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Tyrese Haliburton; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4592829,
+   "fpts": 16.8,
+   "gp": 6,
+   "cur": 16.2
   },
   {
    "player": "Allen Graves",
@@ -581,25 +600,6 @@
    "fpts": 16.8,
    "gp": 5,
    "cur": 16.8
-  },
-  {
-   "player": "Quenton Jackson",
-   "team": "IND",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. Quenton Jackson je sljedeći PG/SG u rotaciji IND-a za te minute; ~16.5 FP po utakmici (ove sezone 15.7 u 6 utk., prošle sezone 17.7; 17 min).",
-   "role": "Veća minutaža dok je out Tyrese Haliburton",
-   "horizon": "Do ~13.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Tyrese Haliburton; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4592829,
-   "fpts": 16.5,
-   "gp": 6,
-   "cur": 15.7
   }
  ],
  "days": [
@@ -961,17 +961,17 @@
        "team": "CHI",
        "pos": "PG",
        "espnId": 4395626,
-       "fpts": 24.5,
-       "mpg": 21.0,
+       "fpts": 24.9,
+       "mpg": 21.3,
        "basis": "sezona+prošla sezona",
        "gp": 6,
-       "cur": 19.8,
+       "cur": 20.5,
        "matchup": "CHI @ NYK",
        "dates": [
         "2026-11-04",
         "2026-11-08"
        ],
-       "value": 24.5,
+       "value": 24.9,
        "gtd": false
       }
      ]

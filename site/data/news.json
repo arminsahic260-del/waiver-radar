@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-31T00:53:12Z",
+ "updated": "2026-10-31T01:21:54Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "OKC",
+   "player": "Cason Wallace",
+   "headline": "Undergoes shoulder surgery Friday",
+   "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cason-wallace-injury-undergoes-shoulder-surgery-friday-536873"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Suiting up Friday",
+   "note": "Johnson (ankle) is available for Friday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-news-suiting-up-friday-536872"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Cleared to return Friday",
+   "note": "Ighodaro (oblique) is available for Friday's game against the Nuggets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-cleared-to-return-friday-536871"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "OKC",
+   "player": "Chet Holmgren",
+   "headline": "To miss at least 8-10 weeks",
+   "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-to-miss-at-least-8-10-weeks-536870"
+  },
   {
    "date": "2026-10-30",
    "team": "GSW",
@@ -213,16 +253,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "MIA",
-   "player": "Simone Fontecchio",
-   "headline": "Suiting up Friday",
-   "note": "Fontecchio (illness) is available for Friday's game against the Pacers, Anthony Chiang of the Miami Herald reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-news-suiting-up-friday-536845"
-  },
-  {
-   "date": "2026-10-30",
    "team": "DAL",
    "player": "Santi Aldama",
    "headline": "Out again Friday",
@@ -240,16 +270,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-friday-536843"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Good to go Friday",
-   "note": "Marshall (illness) is available for Friday's game against Houston.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842"
   },
   {
    "date": "2026-10-30",
@@ -350,26 +370,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-ruled-out-friday-536824"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NYK",
-   "player": "Karl-Anthony Towns",
-   "headline": "Likely to play Friday",
-   "note": "Towns (wrist) is listed as probable for Friday's game against Philadelphia.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-likely-to-play-friday-536823"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "headline": "Unlikely to play Friday",
-   "note": "Diallo (personal) is doubtful for Friday's game against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-unlikely-to-play-friday-536822"
   },
   {
    "date": "2026-10-30",
@@ -475,11 +475,31 @@
    "date": "2026-10-30",
    "team": "DAL",
    "player": "Naji Marshall",
+   "headline": "Good to go Friday",
+   "note": "Marshall (illness) is available for Friday's game against Houston.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DAL",
+   "player": "Naji Marshall",
    "headline": "Upgraded to probable",
    "note": "Marshall (illness) is probable for Friday's game against the Rockets.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-injury-upgraded-to-probable-536819"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Unlikely to play Friday",
+   "note": "Diallo (personal) is doubtful for Friday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-unlikely-to-play-friday-536822"
   },
   {
    "date": "2026-10-30",
@@ -565,41 +585,21 @@
    "date": "2026-10-30",
    "team": "MIA",
    "player": "Simone Fontecchio",
+   "headline": "Suiting up Friday",
+   "note": "Fontecchio (illness) is available for Friday's game against the Pacers, Anthony Chiang of the Miami Herald reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-news-suiting-up-friday-536845"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "MIA",
+   "player": "Simone Fontecchio",
    "headline": "Probable with illness",
    "note": "Fontecchio (illness) is probable for Friday's against the Pacers.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-probable-with-illness-536821"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIN",
-   "player": "Terrence Shannon",
-   "headline": "Team option exercised",
-   "note": "Shannon's contract option for next season is being exercised by Minnesota, Jon Krawczynski of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-news-team-option-exercised-536811"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "MIN",
-   "player": "Joan Beringer",
-   "headline": "Team option picked up",
-   "note": "Beringer's contract option for next season is being exercised by Minnesota, Jon Krawczynski of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-team-option-picked-up-536810"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Absent from injury report",
-   "note": "Murray (personal) is off the injury report for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-absent-from-injury-report-536830"
   }
  ]
 }
