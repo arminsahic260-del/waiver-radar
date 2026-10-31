@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:21:56Z",
+ "updated": "2026-10-31T22:36:29Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -45,7 +45,7 @@
    "team": "BKN",
    "pos": "PG",
    "priority": 1,
-   "reason": "Mikel Brown Jr. (odmor) je out najmanje do 2.11. — nova ozljeda. Nolan Traore je prvi PG u rotaciji BKN-a za te minute; ~16.7 FP po utakmici (ove sezone 16.2 u 5 utk., prošle sezone 17.2; 21 min). RotoWire 27.10.: Draws first start of season. Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports.",
+   "reason": "Mikel Brown Jr. (odmor) je out najmanje do 2.11. Nolan Traore je prvi PG u rotaciji BKN-a za te minute; ~16.7 FP po utakmici (ove sezone 16.2 u 5 utk., prošle sezone 17.2; 21 min). RotoWire 27.10.: Draws first start of season. Traore will start Tuesday's game at Boston, C.J. Holmes of the New York Daily News reports.",
    "role": "Starter dok je out Mikel Brown Jr.",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Mikel Brown Jr.; nizak bodovni plafon",
@@ -102,7 +102,7 @@
    "team": "NOP",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. — nova ozljeda. Saddiq Bey je prvi SF/PF u rotaciji NOP-a za te minute; ~25.7 FP po utakmici (ove sezone 21.8 u 5 utk., prošle sezone 30.7; 27 min).",
+   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. Saddiq Bey je prvi SF/PF u rotaciji NOP-a za te minute; ~25.7 FP po utakmici (ove sezone 21.8 u 5 utk., prošle sezone 30.7; 27 min).",
    "role": "Veća minutaža dok je out Dejounte Murray",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Dejounte Murray",
@@ -228,7 +228,7 @@
    "team": "IND",
    "pos": "C",
    "priority": 2,
-   "reason": "Ivica Zubac (gležanj) je out najmanje do 2.11. — nova ozljeda. Jay Huff je prvi C u rotaciji IND-a za te minute; ~20.1 FP po utakmici (ove sezone 16.2 u 5 utk., prošle sezone 25.0; 19 min).",
+   "reason": "Ivica Zubac (gležanj) je out najmanje do 2.11. Jay Huff je prvi C u rotaciji IND-a za te minute; ~20.1 FP po utakmici (ove sezone 16.2 u 5 utk., prošle sezone 25.0; 19 min).",
    "role": "Veća minutaža dok je out Ivica Zubac",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Ivica Zubac",
@@ -363,7 +363,7 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~15.7 FP po utakmici (ove sezone 9.8 u 6 utk., prošle sezone 24.5; 22 min).",
+   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~15.5 FP po utakmici (ove sezone 10.3 u 7 utk., prošle sezone 24.5; 20 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
@@ -373,9 +373,9 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 2583632,
-   "fpts": 15.7,
-   "gp": 6,
-   "cur": 9.8
+   "fpts": 15.5,
+   "gp": 7,
+   "cur": 10.3
   },
   {
    "player": "Kyle Filipowski",
@@ -477,7 +477,7 @@
    "team": "BKN",
    "pos": "SG/SF",
    "priority": 3,
-   "reason": "Mikel Brown Jr. (odmor) je out najmanje do 2.11. — nova ozljeda. Keon Ellis je sljedeći SG/SF u rotaciji BKN-a za te minute; ~19.9 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 16.9; 23 min).",
+   "reason": "Mikel Brown Jr. (odmor) je out najmanje do 2.11. Keon Ellis je sljedeći SG/SF u rotaciji BKN-a za te minute; ~19.9 FP po utakmici (ove sezone 22.2 u 5 utk., prošle sezone 16.9; 23 min).",
    "role": "Veća minutaža dok je out Mikel Brown Jr.",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Mikel Brown Jr.",
@@ -535,7 +535,7 @@
    "team": "NOP",
    "pos": "SG/SF",
    "priority": 3,
-   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. — nova ozljeda. Bennedict Mathurin je sljedeći SG/SF u rotaciji NOP-a za te minute; ~18.9 FP po utakmici (ove sezone 13.0 u 5 utk., prošle sezone 26.4; 23 min).",
+   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. Bennedict Mathurin je sljedeći SG/SF u rotaciji NOP-a za te minute; ~18.9 FP po utakmici (ove sezone 13.0 u 5 utk., prošle sezone 26.4; 23 min).",
    "role": "Veća minutaža dok je out Dejounte Murray",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Dejounte Murray",
