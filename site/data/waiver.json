@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:44:45Z",
+ "updated": "2026-10-31T14:22:01Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -102,25 +102,6 @@
    "fpts": 20.7,
    "gp": 5,
    "cur": 18.8
-  },
-  {
-   "player": "Jay Huff",
-   "team": "IND",
-   "pos": "C",
-   "priority": 2,
-   "reason": "Ivica Zubac (gležanj) je out najmanje do 1.11. Jay Huff je prvi C u rotaciji IND-a za te minute; ~20.1 FP po utakmici (ove sezone 16.2 u 5 utk., prošle sezone 25.0; 19 min).",
-   "role": "Veća minutaža dok je out Ivica Zubac",
-   "horizon": "Do ~1.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Ivica Zubac",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4065731,
-   "fpts": 20.1,
-   "gp": 5,
-   "cur": 16.2
   },
   {
    "player": "Nikola Vucevic",
@@ -235,6 +216,25 @@
    "fpts": 16.1,
    "gp": 4,
    "cur": 16.0
+  },
+  {
+   "player": "Royce O'Neale",
+   "team": "CHA",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Coby White (list) je out najmanje do 2.11. — nova ozljeda; Kon Knueppel (stražnja loža) je out najmanje do 2.11. — nova ozljeda. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~15.7 FP po utakmici (ove sezone 9.8 u 6 utk., prošle sezone 24.5; 22 min).",
+   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 2583632,
+   "fpts": 15.7,
+   "gp": 6,
+   "cur": 9.8
   },
   {
    "player": "Scoot Henderson",
@@ -668,8 +668,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 5,
-     "open": 5,
+     "mine": 6,
+     "open": 4,
      "sitting": 0,
      "adds": 0,
      "addsLimit": 7,
@@ -754,9 +754,9 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 12,
+     "mine": 13,
      "open": 0,
-     "sitting": 2,
+     "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
      "add": false,
@@ -789,9 +789,9 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 10,
+     "mine": 11,
      "open": 0,
-     "sitting": 0,
+     "sitting": 1,
      "adds": 7,
      "addsLimit": 7,
      "add": false,

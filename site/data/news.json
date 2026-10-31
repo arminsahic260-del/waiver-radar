@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-31T13:44:40Z",
+ "updated": "2026-10-31T14:21:55Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "LeBron James",
+   "headline": "Teases triple-double vs. New York",
+   "note": "James (rest) closed with 20 points (8-15 FG, 2-6 3Pt, 2-3 FT), nine rebounds, eight assists, one block and one steal across 34 minutes during Friday's 98-93 win over the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-teases-triple-double-vs-new-york-536949"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Dean Wade",
+   "headline": "Does little in spot start",
+   "note": "Wade finished Friday's 98-93 win over New York with two rebounds, one assist and three steals in 27 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-does-little-in-spot-start-536948"
+  },
   {
    "date": "2026-10-31",
    "team": "MIA",
@@ -233,26 +253,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "ORL",
-   "player": "Desmond Bane",
-   "headline": "Drains six threes in win",
-   "note": "Bane provided 28 points (8-18 FG, 6-12 3Pt, 6-6 FT), two rebounds, six assists and one block in 39 minutes during Friday's 121-114 victory over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-news-drains-six-threes-in-win-536924"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Scores 17 and adds 10 dimes",
-   "note": "Black amassed 17 points (5-8 FG, 3-4 3Pt, 4-6 FT), six rebounds, 10 assists and one block over 31 minutes during Friday's 121-114 victory over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-scores-17-and-adds-10-dimes-536923"
-  },
-  {
-   "date": "2026-10-31",
    "team": "DEN",
    "player": "Cameron Johnson",
    "headline": "Struggles with shot in victory",
@@ -370,6 +370,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-explosive-with-37-points-536908"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "ORL",
+   "player": "Desmond Bane",
+   "headline": "Drains six threes in win",
+   "note": "Bane provided 28 points (8-18 FG, 6-12 3Pt, 6-6 FT), two rebounds, six assists and one block in 39 minutes during Friday's 121-114 victory over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-news-drains-six-threes-in-win-536924"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Scores 17 and adds 10 dimes",
+   "note": "Black amassed 17 points (5-8 FG, 3-4 3Pt, 4-6 FT), six rebounds, 10 assists and one block over 31 minutes during Friday's 121-114 victory over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-scores-17-and-adds-10-dimes-536923"
   },
   {
    "date": "2026-10-31",
@@ -580,26 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tobias-harris-injury-remains-out-saturday-536834"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Yves Missi",
-   "headline": "Ruled out Saturday as expected",
-   "note": "Missi (knee) won't play in Saturday's game against Atlanta.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-ruled-out-saturday-as-expected-536832"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "Ruled out for Saturday",
-   "note": "Poole (ankle) has been ruled out for Saturday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-ruled-out-for-saturday-536831"
   }
  ]
 }

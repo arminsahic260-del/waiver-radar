@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:44:07Z",
+ "updated": "2026-10-31T14:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -54,9 +54,29 @@
   },
   {
    "team": "CHA",
+   "player": "Coby White",
+   "pos": "PG",
+   "updated": "2026-10-31",
+   "injury": "Calf",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "CHA",
    "player": "Grant Williams",
    "pos": "PF",
    "updated": "2026-10-27",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "pos": "SF",
+   "updated": "2026-10-31",
    "injury": "Hamstring",
    "status": "Expected return: at least Nov 2",
    "kind": "out",
@@ -71,26 +91,6 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
-  },
-  {
-   "team": "CHA",
-   "player": "Coby White",
-   "pos": "PG",
-   "updated": "2026-10-31",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "pos": "SF",
-   "updated": "2026-10-31",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "CHI",
@@ -304,16 +304,6 @@
   },
   {
    "team": "IND",
-   "player": "Ivica Zubac",
-   "pos": "C",
-   "updated": "2026-10-29",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 1",
-   "kind": "out",
-   "ret": "2026-11-01"
-  },
-  {
-   "team": "IND",
    "player": "Johnny Furphy",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -341,6 +331,16 @@
    "status": "Expected return: at least Nov 13",
    "kind": "out",
    "ret": "2026-11-13"
+  },
+  {
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "IND",
@@ -658,6 +658,26 @@
    "pos": "SF",
    "updated": "2026-10-31",
    "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHI",
+   "player": "Joel Embiid",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHI",
+   "player": "LeBron James",
+   "pos": "PF",
+   "updated": "2026-10-31",
+   "injury": "Rest",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
