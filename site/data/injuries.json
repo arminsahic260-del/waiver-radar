@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:21:20Z",
+ "updated": "2026-10-31T00:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -313,16 +313,6 @@
    "ret": "2026-11-02"
   },
   {
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "pos": "PG",
-   "updated": "2026-10-29",
-   "injury": "Forearm",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "IND",
    "player": "Ben Sheppard",
    "pos": "SG",
@@ -354,6 +344,16 @@
   },
   {
    "team": "IND",
+   "player": "Obi Toppin",
+   "pos": "PF",
+   "updated": "2026-10-30",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 1",
+   "kind": "out",
+   "ret": "2026-11-01"
+  },
+  {
+   "team": "IND",
    "player": "T.J. McConnell",
    "pos": "PG",
    "updated": "2026-10-28",
@@ -371,36 +371,6 @@
    "status": "Expected return: at least Nov 13",
    "kind": "out",
    "ret": "2026-11-13"
-  },
-  {
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "pos": "SF",
-   "updated": "2026-10-29",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "pos": "SG",
-   "updated": "2026-10-29",
-   "injury": "Neck",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Obi Toppin",
-   "pos": "PF",
-   "updated": "2026-10-30",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "LAC",

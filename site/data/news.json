@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-30T23:21:54Z",
+ "updated": "2026-10-31T00:21:52Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Clint Capela",
+   "headline": "Starting sans Sengun",
+   "note": "Capela will start Friday's game against Dallas.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-news-starting-sans-sengun-536866"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "HOU",
+   "player": "Tari Eason",
+   "headline": "Back to bench Friday",
+   "note": "Eason is not listed in the starting lineup for Friday's game against Dallas, Will Guillory of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-back-to-bench-friday-536865"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "LAC",
+   "player": "Kobe Sanders",
+   "headline": "Shifts back to bench",
+   "note": "Sanders isn't starting Friday against the Timberwolves, Tomer Azarly of ClutchPoints.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-shifts-back-to-bench-536864"
+  },
   {
    "date": "2026-10-30",
    "team": "UTA",
@@ -76,7 +106,7 @@
    "team": "LAC",
    "player": "Rui Hachimura",
    "headline": "Available to play Friday",
-   "note": "Hachimura (quadriceps) is avalable to play in Friday's game against Minnesota, Ohm Youngmisuk of ESPN.com reports.",
+   "note": "Hachimura (quadriceps) is available to play in Friday's game against Minnesota, Ohm Youngmisuk of ESPN.com reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-available-to-play-friday-536854"
@@ -220,26 +250,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-friday-536840"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Will play Friday",
-   "note": "Schroder (foot) is available for Friday's game against the Wizards.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-will-play-friday-536839"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Cleared to play Friday",
-   "note": "Smith (finger) is available for Friday's game against the Celtics.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-cleared-to-play-friday-536837"
   },
   {
    "date": "2026-10-30",
@@ -405,6 +415,16 @@
    "date": "2026-10-30",
    "team": "CHA",
    "player": "Dennis Schroder",
+   "headline": "Will play Friday",
+   "note": "Schroder (foot) is available for Friday's game against the Wizards.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-will-play-friday-536839"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHA",
+   "player": "Dennis Schroder",
    "headline": "Upgraded to probable",
    "note": "Schroder (foot) is probable for Friday against the Wizards.",
    "kind": "other",
@@ -420,6 +440,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-remains-out-for-friday-536796"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "headline": "Cleared to play Friday",
+   "note": "Smith (finger) is available for Friday's game against the Celtics.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-cleared-to-play-friday-536837"
   },
   {
    "date": "2026-10-30",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-solid-start-to-2026-27-536803"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Trey Murphy",
-   "headline": "Bounces back Thursday",
-   "note": "Murphy finished with 19 points (6-12 FG, 2-7 3Pt, 5-8 FT), five rebounds, three assists and a steal across 32 minutes in Thursday's 132-120 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-news-bounces-back-thursday-536793"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Herbert Jones",
-   "headline": "Strong two-way effort",
-   "note": "Jones contributed 16 points (7-12 FG, 0-3 3Pt, 2-3 FT), four rebounds, an assist and two steals across 32 minutes in Thursday's 132-120 win over the Kings.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-strong-two-way-effort-536792"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Zion Williamson",
-   "headline": "Surpasses 20-point mark again",
-   "note": "Williamson registered 22 points (10-12 FG, 2-4 FT), six rebounds, two assists, five steals and a block across 31 minutes in Thursday's 132-120 win over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-surpasses-20-point-mark-again-536791"
   }
  ]
 }
