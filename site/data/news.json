@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-31T00:21:52Z",
+ "updated": "2026-10-31T00:53:12Z",
  "items": [
+  {
+   "date": "2026-10-30",
+   "team": "GSW",
+   "player": "Gui Santos",
+   "headline": "Available Friday",
+   "note": "Santos (knee) is available for Friday's game against the Lakers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-news-available-friday-536869"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Ruled out Friday",
+   "note": "Diallo (personal/wrist) has been ruled out for Friday's game against Phoenix, Vic Lombardi of Altitude Sports reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-ruled-out-friday-536868"
+  },
   {
    "date": "2026-10-30",
    "team": "HOU",
@@ -233,26 +253,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "WAS",
-   "player": "Tre Johnson",
-   "headline": "Available Friday",
-   "note": "Johnson (Achilles) is available for Friday's game against Charlotte.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-news-available-friday-536841"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "headline": "Available to play Friday",
-   "note": "Clowney (illness) is available for Friday's game against Detroit, Brian Lewis of the New York Post reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-friday-536840"
-  },
-  {
-   "date": "2026-10-30",
    "team": "CHI",
    "player": "Dailyn Swain",
    "headline": "Out Friday",
@@ -373,16 +373,6 @@
   },
   {
    "date": "2026-10-30",
-   "team": "MIA",
-   "player": "Simone Fontecchio",
-   "headline": "Probable with illness",
-   "note": "Fontecchio (illness) is probable for Friday's against the Pacers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-probable-with-illness-536821"
-  },
-  {
-   "date": "2026-10-30",
    "team": "BOS",
    "player": "Baylor Scheierman",
    "headline": "Has option picked up",
@@ -400,6 +390,16 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-team-option-picked-up-536807"
+  },
+  {
+   "date": "2026-10-30",
+   "team": "BKN",
+   "player": "Noah Clowney",
+   "headline": "Available to play Friday",
+   "note": "Clowney (illness) is available for Friday's game against Detroit, Brian Lewis of the New York Post reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-friday-536840"
   },
   {
    "date": "2026-10-30",
@@ -563,6 +563,16 @@
   },
   {
    "date": "2026-10-30",
+   "team": "MIA",
+   "player": "Simone Fontecchio",
+   "headline": "Probable with illness",
+   "note": "Fontecchio (illness) is probable for Friday's against the Pacers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-probable-with-illness-536821"
+  },
+  {
+   "date": "2026-10-30",
    "team": "MIN",
    "player": "Terrence Shannon",
    "headline": "Team option exercised",
@@ -590,16 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-absent-from-injury-report-536830"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "NOP",
-   "player": "Saddiq Bey",
-   "headline": "Solid start to 2026-27",
-   "note": "Bey finished Thursday's 132-120 win over the Kings with 10 points (3-7 FG, 1-2 3Pt, 3-3 FT), four rebounds and three assists across 24 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-solid-start-to-2026-27-536803"
   }
  ]
 }

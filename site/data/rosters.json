@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:21:57Z",
+ "updated": "2026-10-31T00:53:17Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-10-31T00:21:57Z",
+   "updated": "2026-10-31T00:53:17Z",
    "adds": {
     "period": 2,
     "used": 7,
@@ -22,7 +22,7 @@
      "slot": "PG",
      "espnId": 4277905,
      "gp": 6,
-     "cur": 37.8,
+     "cur": 40.5,
      "proj": 44.4,
      "acq": "DRAFT",
      "draft": {
@@ -39,7 +39,7 @@
      "slot": "SG",
      "espnId": 2991230,
      "gp": 5,
-     "cur": 31.2,
+     "cur": 31.0,
      "proj": 33.4,
      "acq": "DRAFT",
      "draft": {
@@ -56,7 +56,7 @@
      "slot": "SF",
      "espnId": 5041939,
      "gp": 5,
-     "cur": 49.0,
+     "cur": 50.4,
      "proj": 45.4,
      "acq": "DRAFT",
      "draft": {
@@ -97,7 +97,7 @@
      "slot": "G",
      "espnId": 6442,
      "gp": 5,
-     "cur": 28.6,
+     "cur": 30.8,
      "proj": 44.2,
      "acq": "DRAFT",
      "draft": {
@@ -160,7 +160,7 @@
      "slot": "UTIL",
      "espnId": 5101761,
      "gp": 4,
-     "cur": 14.8,
+     "cur": 16.0,
      "proj": 24.0,
      "acq": "ADD",
      "draft": {
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-10-31T00:21:57Z",
+   "updated": "2026-10-31T00:53:17Z",
    "adds": {
     "period": 2,
     "used": 2,
@@ -295,7 +295,7 @@
      "slot": "SF",
      "espnId": 5041939,
      "gp": 5,
-     "cur": 49.0,
+     "cur": 50.4,
      "proj": 45.4,
      "acq": "DRAFT",
      "draft": {
@@ -312,7 +312,7 @@
      "slot": "PF",
      "espnId": 4431671,
      "gp": 6,
-     "cur": 31.0,
+     "cur": 31.5,
      "proj": 29.7,
      "acq": "DRAFT",
      "draft": {
@@ -329,7 +329,7 @@
      "slot": "C",
      "espnId": 4397424,
      "gp": 5,
-     "cur": 19.4,
+     "cur": 20.6,
      "proj": 27.2,
      "acq": "DRAFT",
      "draft": {
@@ -346,7 +346,7 @@
      "slot": "G",
      "espnId": 5124612,
      "gp": 5,
-     "cur": 24.4,
+     "cur": 25.0,
      "proj": 33.7,
      "acq": "DRAFT",
      "draft": {
@@ -408,8 +408,8 @@
      "pos": "C",
      "slot": "UTIL",
      "espnId": 3448,
-     "gp": 4,
-     "cur": 27.8,
+     "gp": 5,
+     "cur": 24.6,
      "proj": 26.2,
      "acq": "DRAFT",
      "draft": {
