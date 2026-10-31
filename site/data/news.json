@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-31T13:21:49Z",
+ "updated": "2026-10-31T13:44:40Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Efficient scoring night Friday",
+   "note": "Larsson produced 18 points (5-5 FG, 1-1 3Pt, 7-8 FT), three rebounds and three assists over 24 minutes off the bench during Friday's 145-125 victory over Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-efficient-scoring-night-friday-536947"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Davion Mitchell",
+   "headline": "Double-double in rout of Pacers",
+   "note": "Mitchell closed Friday's 145-125 win over Indiana with 15 points (6-16 FG, 3-8 3Pt), six rebounds, 11 assists and one steal in 35 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-double-double-in-rout-of-pacers-536946"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIA",
+   "player": "Klay Thompson",
+   "headline": "Lights it up from long range",
+   "note": "Thompson supplied 25 points (9-14 FG, 7-12 3Pt) and three assists across 26 minutes during Friday's 145-125 win over the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-lights-it-up-from-long-range-536945"
+  },
   {
    "date": "2026-10-31",
    "team": "MIA",
@@ -223,36 +253,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "PHX",
-   "player": "Collin Gillespie",
-   "headline": "Tallies 16 points from bench",
-   "note": "Gillespie closed with 16 points (6-11 FG, 4-8 3Pt), three rebounds, 10 assists, one block and four steals in 33 minutes during Friday's 127-120 loss to Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-tallies-16-points-from-bench-536922"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHX",
-   "player": "Devin Booker",
-   "headline": "Fights with accuracy in loss",
-   "note": "Booker totaled 20 points (7-19 FG, 3-7 3Pt, 3-4 FT), two rebounds, five assists and two steals in 39 minutes during Friday's 127-120 loss to Denver.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-fights-with-accuracy-in-loss-536921"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHX",
-   "player": "Miles Bridges",
-   "headline": "Continues to thrive with new team",
-   "note": "Bridges chipped in 24 points (10-19 FG, 2-7 3Pt, 2-2 FT), 10 rebounds, two assists, three blocks and one steal in 37 minutes during Friday's 127-120 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/miles-bridges-news-continues-to-thrive-with-new-team-536920"
-  },
-  {
-   "date": "2026-10-31",
    "team": "DEN",
    "player": "Cameron Johnson",
    "headline": "Struggles with shot in victory",
@@ -370,6 +370,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-explosive-with-37-points-536908"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHX",
+   "player": "Collin Gillespie",
+   "headline": "Tallies 16 points from bench",
+   "note": "Gillespie closed with 16 points (6-11 FG, 4-8 3Pt), three rebounds, 10 assists, one block and four steals in 33 minutes during Friday's 127-120 loss to Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-tallies-16-points-from-bench-536922"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Fights with accuracy in loss",
+   "note": "Booker totaled 20 points (7-19 FG, 3-7 3Pt, 3-4 FT), two rebounds, five assists and two steals in 39 minutes during Friday's 127-120 loss to Denver.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-fights-with-accuracy-in-loss-536921"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHX",
+   "player": "Miles Bridges",
+   "headline": "Continues to thrive with new team",
+   "note": "Bridges chipped in 24 points (10-19 FG, 2-7 3Pt, 2-2 FT), 10 rebounds, two assists, three blocks and one steal in 37 minutes during Friday's 127-120 loss to the Nuggets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/miles-bridges-news-continues-to-thrive-with-new-team-536920"
   },
   {
    "date": "2026-10-30",
@@ -570,36 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-ruled-out-for-saturday-536831"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "Ruled out for Saturday",
-   "note": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-ruled-out-for-saturday-536828"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Iffy for Saturday",
-   "note": "Thomas (foot) is questionable for Saturday's game against the Bucks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-iffy-for-saturday-536827"
-  },
-  {
-   "date": "2026-10-30",
-   "team": "CHI",
-   "player": "Dailyn Swain",
-   "headline": "Late addition to injury report",
-   "note": "Swain is listed as questionable for Friday's game at Boston due to lower-back soreness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-late-addition-to-injury-report-536826"
   }
  ]
 }
