@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-01T16:21:59Z",
+ "updated": "2026-11-01T16:51:59Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "ATL",
+   "player": "Asa Newell",
+   "headline": "Gets option picked up",
+   "note": "Atlanta exercised Newell's third-year option Sunday, Brad Rowland of the Locked On Podcast Network reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/asa-newell-news-gets-option-picked-up-537068"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Back with NBA team",
+   "note": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-back-with-nba-team-537067"
+  },
   {
    "date": "2026-11-01",
    "team": "MEM",
@@ -233,6 +253,16 @@
   },
   {
    "date": "2026-11-01",
+   "team": "IND",
+   "player": "Johnny Furphy",
+   "headline": "Recalled Saturday",
+   "note": "Indiana recalled Furphy (knee) from the G League's Noblesville Boom on Saturday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-recalled-saturday-537065"
+  },
+  {
+   "date": "2026-11-01",
    "team": "BOS",
    "player": "Mitchell Robinson",
    "headline": "Downgraded to out",
@@ -250,16 +280,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-wont-play-sunday-537035"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "IND",
-   "player": "Johnny Furphy",
-   "headline": "Recalled Saturday",
-   "note": "Indiana recalled Furphy (knee) from the G League's Noblesville Boom on Saturday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-recalled-saturday-537065"
   },
   {
    "date": "2026-11-01",
@@ -513,16 +533,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Questionable for Saturday",
-   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
-  },
-  {
-   "date": "2026-10-31",
    "team": "CLE",
    "player": "Meleek Thomas",
    "headline": "Upgraded to probable",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-24-points-in-loss-537019"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "CHA",
-   "player": "Naz Reid",
-   "headline": "Another rough shooting night",
-   "note": "Reid finished with 14 points (4-12 FG, 0-6 3Pt, 6-6 FT), five rebounds, two assists and one block across 36 minutes in Saturday's 109-104 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-another-rough-shooting-night-537017"
   }
  ]
 }
