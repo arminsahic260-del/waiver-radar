@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:21:21Z",
+ "updated": "2026-11-01T22:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -134,20 +134,20 @@
   },
   {
    "team": "CHI",
-   "player": "Nicolas Claxton",
-   "pos": "C",
-   "updated": "2026-10-19",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
-  },
-  {
-   "team": "CHI",
    "player": "Dailyn Swain",
    "pos": "SF",
    "updated": "2026-10-31",
    "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
+   "player": "Nicolas Claxton",
+   "pos": "C",
+   "updated": "2026-11-01",
+   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -334,10 +334,10 @@
   },
   {
    "team": "HOU",
-   "player": "Fred VanVleet",
-   "pos": "PG",
+   "player": "Clint Capela",
+   "pos": "C",
    "updated": "2026-11-01",
-   "injury": "Knee",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -384,6 +384,16 @@
   },
   {
    "team": "IND",
+   "player": "Obi Toppin",
+   "pos": "PF",
+   "updated": "2026-11-01",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "IND",
    "player": "T.J. McConnell",
    "pos": "PG",
    "updated": "2026-10-28",
@@ -403,31 +413,21 @@
    "ret": "2026-11-13"
   },
   {
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "pos": "SF",
-   "updated": "2026-10-31",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Obi Toppin",
-   "pos": "PF",
-   "updated": "2026-10-31",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "LAC",
    "player": "Bradley Beal",
    "pos": "SG",
    "updated": "2026-10-22",
    "injury": "Knee",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
+  },
+  {
+   "team": "LAC",
+   "player": "Brandon Ingram",
+   "pos": "SF",
+   "updated": "2026-11-01",
+   "injury": "Achilles",
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
@@ -453,6 +453,16 @@
    "ret": "2026-11-08"
   },
   {
+   "team": "LAC",
+   "player": "Yanic Konan Niederhauser",
+   "pos": "C",
+   "updated": "2026-11-01",
+   "injury": "Foot",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
+  },
+  {
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
@@ -466,11 +476,11 @@
    "team": "LAL",
    "player": "Ziaire Williams",
    "pos": "PF",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "MEM",
@@ -554,10 +564,10 @@
   },
   {
    "team": "NOP",
-   "player": "Dejounte Murray",
-   "pos": "PG",
+   "player": "Trey Murphy III",
+   "pos": "SF",
    "updated": "2026-11-01",
-   "injury": "Personal",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
