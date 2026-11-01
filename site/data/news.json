@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-01T02:21:02Z",
+ "updated": "2026-11-01T09:26:54Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "OKC",
+   "player": "Shai Gilgeous-Alexander",
+   "headline": "Scores 26 points in loss",
+   "note": "Gilgeous-Alexander ended with 26 points (10-20 FG, 3-6 3Pt, 3-4 FT), four rebounds, three assists and one steal over 31 minutes in Saturday's 119-98 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-scores-26-points-in-loss-537028"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIN",
+   "player": "Ayo Dosunmu",
+   "headline": "Leads team in scoring in loss",
+   "note": "Dosunmu finished with 27 points (11-17 FG, 2-5 3Pt, 3-3 FT), nine rebounds, three assists and three steals over 38 minutes in Saturday's 121-111 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-leads-team-in-scoring-in-loss-537027"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MEM",
+   "player": "Cameron Boozer",
+   "headline": "Leads Memphis to another win",
+   "note": "Boozer finished with 27 points (8-14 FG, 3-7 3Pt, 8-8 FT), nine rebounds, three assists and one block over 26 minutes in Saturday's 136-105 win over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-leads-memphis-to-another-win-537026"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Logs another double-double",
+   "note": "Allen finished with 25 points (12-16 FG, 0-1 3Pt, 1-4 FT), 11 rebounds, four assists and one steal across 24 minutes in Saturday's 136-111 win over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-logs-another-double-double-537025"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "UTA",
+   "player": "Ace Bailey",
+   "headline": "Big defensive effort in loss to Blazers",
+   "note": "Bailey registered nine points (4-10 FG, 1-6 3Pt), seven rebounds, one assist, three blocks and two steals across 37 minutes during Saturday's 112-90 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-big-defensive-effort-in-loss-to-blazers-537024"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "UTA",
+   "player": "Darryn Peterson",
+   "headline": "Leading scorer in Saturday's loss",
+   "note": "Peterson amassed 16 points (6-15 FG, 3-8 3Pt, 1-2 FT), four rebounds, four assists, one block and one steal across 36 minutes during Saturday's 112-90 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-leading-scorer-in-saturdays-loss-537023"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "UTA",
+   "player": "Lauri Markkanen",
+   "headline": "Struggles in return",
+   "note": "Markkanen finished with 13 points (3-14 FG, 2-11 3Pt, 5-6 FT), six rebounds, one assist, two steals and two blocks over 29 minutes in Saturday's 112-90 loss to Portland.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-struggles-in-return-537022"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Toumani Camara",
+   "headline": "Sinks four treys in Saturday's win",
+   "note": "Camara ended Saturday's 112-90 victory over Utah with 14 points (4-9 FG, 4-9 3Pt, 2-2 FT), four rebounds and two steals in 31 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/toumani-camara-news-sinks-four-treys-in-saturdays-win-537021"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Damian Lillard",
+   "headline": "Drops 22 points in Utah",
+   "note": "Lillard produced 22 points (6-17 FG, 3-10 3Pt, 7-8 FT), five rebounds, four assists, one block and two steals over 27 minutes during Saturday's 112-90 victory over the Jazz.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-drops-22-points-in-utah-537020"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "CHA",
+   "player": "Brandon Miller",
+   "headline": "Scores 24 points in loss",
+   "note": "Miller ended with 24 points (8-20 FG, 5-12 3Pt, 3-4 FT), five rebounds, five assists, two steals and one block over 33 minutes in Saturday's 109-104 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-24-points-in-loss-537019"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Hits for game-high 24 in win",
+   "note": "Avdija posted 24 points (6-12 FG, 2-4 3Pt, 10-13 FT), five rebounds, two assists and one steal over 30 minutes during Saturday's 112-90 win over Utah.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-hits-for-game-high-24-in-win-537018"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "CHA",
+   "player": "Naz Reid",
+   "headline": "Another rough shooting night",
+   "note": "Reid finished with 14 points (4-12 FG, 0-6 3Pt, 6-6 FT), five rebounds, two assists and one block across 36 minutes in Saturday's 109-104 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-another-rough-shooting-night-537017"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "CHA",
+   "player": "Grayson Allen",
+   "headline": "Catches fire from deep Saturday",
+   "note": "Allen ended with 27 points (9-12 FG, 7-10 3Pt, 2-2 FT), four rebounds, three assists, one steal and one block over 30 minutes in Saturday's 109-104 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-catches-fire-from-deep-saturday-537016"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "SAC",
+   "player": "Darius Acuff",
+   "headline": "Drops 38 points in Saturday's loss",
+   "note": "Acuff finished Saturday's 136-105 loss to the Grizzlies with 38 points (12-25 FG, 9-14 3Pt, 5-5 FT), five assists and five rebounds over 37 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-drops-38-points-in-saturdays-loss-537015"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Sensational in Saturday's victory",
+   "note": "Wembanyama finished Saturday's 121-111 win over the Timberwolves with 43 points (17-34 FG, 3-8 3Pt, 6-9 FT), seven rebounds, four assists, six blocks and one steal over 33 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-sensational-in-saturdays-victory-537014"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIL",
+   "player": "Kel'el Ware",
+   "headline": "Double-doubles off bench",
+   "note": "Ware finished Saturday's 136-111 loss to the Cavaliers with 19 points (6-16 FG, 3-8 3Pt, 4-5 FT), 10 rebounds, two assists, two blocks and one steal over 24 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelel-ware-news-double-doubles-off-bench-537013"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "PHI",
+   "player": "Anfernee Simons",
+   "headline": "Productive on both ends Saturday",
+   "note": "Simons finished with 19 points (6-12 FG, 5-9 3Pt, 2-2 FT), two assists and three steals across 25 minutes in Saturday's 109-104 victory over Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-productive-on-both-ends-saturday-537012"
+  },
   {
    "date": "2026-10-31",
    "team": "PHI",
@@ -84,29 +254,9 @@
   {
    "date": "2026-10-31",
    "team": "MEM",
-   "player": "Cam Spencer",
-   "headline": "Starting vs. Sacramento",
-   "note": "Spencer is in the Grizzlies' starting lineup against the Kings on Saturday.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-starting-vs-sacramento-537002"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIN",
-   "player": "Joan Beringer",
-   "headline": "Starting Saturday",
-   "note": "Beringer will start Saturday against the Spurs, Jack Borman of Lockedon Wolves reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-starting-saturday-537001"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MEM",
    "player": "Ty Jerome",
    "headline": "Ruled out Saturday",
-   "note": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian.",
+   "note": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-ruled-out-saturday-537000"
@@ -133,36 +283,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Cleared to play versus Minnesota",
-   "note": "Castle (illness) is listed as available for Saturday's game against Minnesota.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-cleared-to-play-versus-minnesota-536997"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Heading back to bench Saturday",
-   "note": "Capela is not listed in the starting lineup for Saturday's game against Oklahoma City, Will Guillory of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-news-heading-back-to-bench-saturday-536996"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Starting Saturday",
-   "note": "Smart will start Saturday against the Thunder, Will Guillory of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-starting-saturday-536995"
-  },
-  {
-   "date": "2026-10-31",
    "team": "MIN",
    "player": "Rudy Gobert",
    "headline": "Won't play Saturday",
@@ -173,46 +293,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "POR",
-   "player": "Scoot Henderson",
-   "headline": "Nets 14 points with three swipes",
-   "note": "Henderson finished with 14 points (4-11 FG, 1-4 3Pt, 5-6 FT), three rebounds, one assist and three steals over 31 minutes during Saturday's 112-90 victory over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-nets-14-points-with-three-swipes-536993"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Adem Bona",
-   "headline": "Starting versus Charlotte",
-   "note": "Bona will start in Saturday's game against Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-starting-versus-charlotte-536992"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Upgraded to available Saturday",
-   "note": "Walker (knee) is available for Saturday's game versus the Hornets, Chris Hine of The Philly Inquirer reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-news-upgraded-to-available-saturday-536991"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Tacko Fall",
-   "headline": "Available to play",
-   "note": "Fall (quadriceps) is available for Saturday's game against the Hornets, Chris Hine of The Philly Inquirer reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tacko-fall-news-available-to-play-536990"
-  },
-  {
-   "date": "2026-10-31",
    "team": "NOP",
    "player": "Dejounte Murray",
    "headline": "Ruled out Saturday",
@@ -220,16 +300,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-ruled-out-saturday-536989"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Available to play",
-   "note": "Brown (knee) is available for Saturday's game in Charlotte.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-available-to-play-536988"
   },
   {
    "date": "2026-10-31",
@@ -266,7 +336,7 @@
    "team": "BKN",
    "player": "Mikel Brown",
    "headline": "Won't play Sunday",
-   "note": "Brown (rest) is out for Sunday's game in Indiana.",
+   "note": "Brown (rest) is out for Sunday's game in Indiana, Brian Lewis of the New York Post reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-536984"
@@ -435,11 +505,11 @@
    "date": "2026-10-31",
    "team": "DAL",
    "player": "Daniel Gafford",
-   "headline": "Drops 18 in Friday's win",
+   "headline": "Drops 18 points in Friday's win",
    "note": "Gafford amassed 18 points (6-7 FG, 6-9 FT), seven rebounds, two assists and two blocks in 29 minutes during Friday's 116-111 victory over the Rockets.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-drops-18-in-fridays-win-536940"
+   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-drops-18-points-in-fridays-win-536940"
   },
   {
    "date": "2026-10-31",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/georges-niang-news-provides-11-points-from-bench-536915"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "GSW",
-   "player": "De'Anthony Melton",
-   "headline": "Logs 16 points off bench",
-   "note": "Melton logged 16 points (5-10 FG, 4-6 3Pt, 2-2 FT), five rebounds, three assists and two steals across 21 minutes during Friday's 112-95 victory over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-logs-16-points-off-bench-536914"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Key production in comeback",
-   "note": "Podziemski closed Friday's 112-95 win over the Lakers with 21 points (7-15 FG, 4-9 3Pt, 3-5 FT), five rebounds, six assists, one block and two steals in 33 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-key-production-in-comeback-536913"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Drills eight threes in victory",
-   "note": "Curry recorded 31 points (11-23 FG, 8-14 3Pt, 1-1 FT), four rebounds, six assists, one block and one steal over 31 minutes during Friday's 112-95 win over the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-drills-eight-threes-in-victory-536912"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "headline": "Not listed on injury report",
-   "note": "Sengun (back) has been removed from the injury report ahead of Saturday's meeting with the Thunder.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-not-listed-on-injury-report-536968"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Cleans up glass in first start of season",
-   "note": "Capela ended Friday's 116-111 loss to the Mavericks with five points (2-6 FG, 1-2 FT), 11 rebounds, five assists, two blocks and two steals over 30 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-news-cleans-up-glass-in-first-start-of-season-536938"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Tari Eason",
-   "headline": "Double-double off bench Friday",
-   "note": "Eason posted 11 points (4-12 FG, 0-2 3Pt, 3-3 FT), 13 rebounds, two assists and one steal across 26 minutes off the bench during Friday's 116-111 loss to the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-double-double-off-bench-friday-536937"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Amen Thompson",
-   "headline": "Productive night in Dallas",
-   "note": "Thompson accumulated 15 points (7-15 FG, 0-1 3Pt, 1-4 FT), three rebounds, six assists and four steals across 39 minutes during Friday's 116-111 loss to the Mavericks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-productive-night-in-dallas-536936"
   }
  ]
 }

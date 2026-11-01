@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T02:20:29Z",
+ "updated": "2026-11-01T09:26:22Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -11,16 +11,6 @@
    "status": "Out for season",
    "kind": "out_season",
    "ret": null
-  },
-  {
-   "team": "ATL",
-   "player": "Jock Landale",
-   "pos": "C",
-   "updated": "2026-10-31",
-   "injury": "Hip",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
   },
   {
    "team": "ATL",
@@ -38,6 +28,16 @@
    "pos": "PF",
    "updated": "2026-10-31",
    "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "ATL",
+   "player": "Jock Landale",
+   "pos": "C",
+   "updated": "2026-11-01",
+   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -154,16 +154,6 @@
   },
   {
    "team": "CLE",
-   "player": "Jaylon Tyson",
-   "pos": "SF",
-   "updated": "2026-10-30",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "CLE",
    "player": "Nae'Qwan Tomlin",
    "pos": "PF",
    "updated": "2026-10-20",
@@ -171,6 +161,16 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
+  },
+  {
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "pos": "SF",
+   "updated": "2026-11-01",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
@@ -324,26 +324,6 @@
   },
   {
    "team": "HOU",
-   "player": "Fred VanVleet",
-   "pos": "PG",
-   "updated": "2026-10-31",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "pos": "SG",
-   "updated": "2026-10-31",
-   "injury": "Back",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-10-26",
@@ -351,6 +331,26 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "HOU",
+   "player": "Fred VanVleet",
+   "pos": "PG",
+   "updated": "2026-11-01",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "HOU",
+   "player": "Reed Sheppard",
+   "pos": "SG",
+   "updated": "2026-11-01",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "IND",
@@ -496,31 +496,31 @@
    "team": "MEM",
    "player": "Quinten Post",
    "pos": "C",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Ankle",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MEM",
    "player": "Scotty Pippen Jr.",
    "pos": "PG",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Back",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MEM",
    "player": "Ty Jerome",
    "pos": "PG",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Back",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MIN",
@@ -546,31 +546,11 @@
    "team": "MIN",
    "player": "Rudy Gobert",
    "pos": "C",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Back",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "pos": "PG",
-   "updated": "2026-10-31",
-   "injury": "Personal",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "pos": "PG",
-   "updated": "2026-10-30",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "NOP",
@@ -581,6 +561,26 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
+  },
+  {
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "pos": "PG",
+   "updated": "2026-11-01",
+   "injury": "Personal",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "pos": "PG",
+   "updated": "2026-11-01",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "NYK",
@@ -726,21 +726,21 @@
    "team": "PHI",
    "player": "Joel Embiid",
    "pos": "C",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Foot",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHI",
    "player": "LeBron James",
    "pos": "PF",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Back",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHX",
