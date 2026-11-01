@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-01T18:21:55Z",
+ "updated": "2026-11-01T19:21:54Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "WAS",
+   "player": "Tre Johnson",
+   "headline": "Third-year option picked up",
+   "note": "Washington has exercised the third-year team option on Johnson on Sunday, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-johnson-news-third-year-option-picked-up-537078"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "WAS",
+   "player": "Will Riley",
+   "headline": "Third-year option picked up",
+   "note": "Washington exercised the third-year team option on Riley on Sunday, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/will-riley-news-third-year-option-picked-up-537077"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "WAS",
+   "player": "Kyshawn George",
+   "headline": "Fourth-year option picked up",
+   "note": "The Wizards exercised the fourth-year team option on George on Sunday, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyshawn-george-news-fourth-year-option-picked-up-537076"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "WAS",
+   "player": "Bub Carrington",
+   "headline": "Fourth-year option picked up",
+   "note": "The Wizards exercised the fourth-year team option on Carrington on Sunday, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bub-carrington-news-fourth-year-option-picked-up-537075"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "WAS",
+   "player": "Alex Sarr",
+   "headline": "Gets fourth-year option picked up",
+   "note": "The Wizards exercised the fourth-year team option on Sarr on Tuesday, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-gets-fourth-year-option-picked-up-537074"
+  },
   {
    "date": "2026-11-01",
    "team": "POR",
@@ -203,6 +253,36 @@
   },
   {
    "date": "2026-11-01",
+   "team": "IND",
+   "player": "Johnny Furphy",
+   "headline": "Recalled Saturday",
+   "note": "Indiana recalled Furphy (knee) from the G League's Noblesville Boom on Saturday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-recalled-saturday-537065"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Downgraded to out",
+   "note": "Robinson (rest) has been ruled out for Sunday's game against the Magic.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-downgraded-to-out-537036"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "headline": "Won't play Sunday",
+   "note": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-wont-play-sunday-537035"
+  },
+  {
+   "date": "2026-11-01",
    "team": "ATL",
    "player": "CJ McCollum",
    "headline": "Team-high 14 points",
@@ -240,46 +320,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-hauls-in-10-boards-saturday-537042"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "NOP",
-   "player": "Karlo Matkovic",
-   "headline": "Grabs 10 boards against Atlanta",
-   "note": "Matkovic closed Saturday's 121-99 victory over Atlanta with eight points (3-4 FG, 2-2 3Pt), 10 rebounds, one assist, one block and one steal across 18 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-grabs-10-boards-against-atlanta-537041"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "IND",
-   "player": "Johnny Furphy",
-   "headline": "Recalled Saturday",
-   "note": "Indiana recalled Furphy (knee) from the G League's Noblesville Boom on Saturday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-recalled-saturday-537065"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Downgraded to out",
-   "note": "Robinson (rest) has been ruled out for Sunday's game against the Magic.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-downgraded-to-out-537036"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "LAL",
-   "player": "Adou Thiero",
-   "headline": "Won't play Sunday",
-   "note": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-wont-play-sunday-537035"
   },
   {
    "date": "2026-11-01",
@@ -340,6 +380,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ryan-rollins-news-another-rough-night-saturday-537032"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Karlo Matkovic",
+   "headline": "Grabs 10 boards against Atlanta",
+   "note": "Matkovic closed Saturday's 121-99 victory over Atlanta with eight points (3-4 FG, 2-2 3Pt), 10 rebounds, one assist, one block and one steal across 18 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-grabs-10-boards-against-atlanta-537041"
   },
   {
    "date": "2026-11-01",
@@ -550,56 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-wont-play-sunday-536981"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Ruled out for Sunday",
-   "note": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-injury-ruled-out-for-sunday-536980"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Dealing with migraine, iffy for Saturday",
-   "note": "Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-dealing-with-migraine-iffy-for-saturday-536979"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Upgraded to probable",
-   "note": "Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-upgraded-to-probable-536976"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIN",
-   "player": "Rudy Gobert",
-   "headline": "Nursing back spasms",
-   "note": "Gobert (back) is listed as questionable for Saturday's game at San Antonio.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-injury-nursing-back-spasms-536973"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Julius Randle",
-   "headline": "Turnover woes continue Friday",
-   "note": "Randle ended with 15 points (4-13 FG, 3-6 3Pt, 4-4 FT), eight rebounds and three assists over 25 minutes in Friday's 110-94 loss to Detroit.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/julius-randle-news-turnover-woes-continue-friday-536962"
   }
  ]
 }
