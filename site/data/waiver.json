@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-01T19:21:59Z",
+ "updated": "2026-11-01T20:22:02Z",
  "engine": "heuristika",
  "picks": [
+  {
+   "player": "Neemias Queta",
+   "team": "BOS",
+   "pos": "C",
+   "priority": 1,
+   "reason": "RotoWire 1.11.: Starting on Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~24.9 FP po utakmici (ove sezone 21.0 u 5 utk., prošle sezone 29.7; 22 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-starting-on-sunday-537082",
+   "espnId": 4397424,
+   "waivers": {
+    "Banijska": "2026-11-03"
+   },
+   "fpts": 24.9,
+   "gp": 5,
+   "cur": 21.0
+  },
   {
    "player": "Marcus Smart",
    "team": "HOU",
@@ -579,25 +601,6 @@
    "fpts": 18.0,
    "gp": 6,
    "cur": 18.2
-  },
-  {
-   "player": "Graham Ike",
-   "team": "GSW",
-   "pos": "PF",
-   "priority": 3,
-   "reason": "Draymond Green (odmor) je out najmanje do 2.11. Graham Ike je sljedeći PF u rotaciji GSW-a za te minute; ~18.0 FP po utakmici (ove sezone, 4 utk., 13 min).",
-   "role": "Veća minutaža dok je out Draymond Green",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Draymond Green",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4703396,
-   "fpts": 18.0,
-   "gp": 4,
-   "cur": 18.0
   }
  ],
  "days": [

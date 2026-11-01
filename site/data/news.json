@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-01T19:21:54Z",
+ "updated": "2026-11-01T20:21:56Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Probable for Monday",
+   "note": "Murphy (knee) is listed as probable for Monday's game against the Grizzlies.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-injury-probable-for-monday-537084"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Jordan Poole",
+   "headline": "Out again Monday",
+   "note": "Poole (ankle) has been ruled out for Monday's game against the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-out-again-monday-537083"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "BOS",
+   "player": "Neemias Queta",
+   "headline": "Starting on Sunday",
+   "note": "Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-starting-on-sunday-537082"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "POR",
+   "player": "Yang Hansen",
+   "headline": "Hits two triples on Saturday",
+   "note": "Hansen accumulated six points (2-5 FG, 2-3 3Pt), five rebounds, one assist and one steal in 13 minutes during Saturday's 112-90 win over Utah.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yang-hansen-news-hits-two-triples-on-saturday-537081"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "POR",
+   "player": "Vit Krejci",
+   "headline": "Season-high 24 minutes on Saturday",
+   "note": "Krejčí finished with five points (2-6 FG, 1-4 3Pt), four rebounds, two assists and one steal in 24 minutes during Saturday's 112-90 victory over Utah.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vit-krejci-news-season-high-24-minutes-on-saturday-537080"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "POR",
+   "player": "Donovan Clingan",
+   "headline": "Struggles with foul trouble",
+   "note": "Clingan ended Saturday's 112-90 win over the Jazz with four points (1-3 FG, 0-1 3Pt, 2-2 FT), nine rebounds and one block in 15 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/donovan-clingan-news-struggles-with-foul-trouble-537079"
+  },
   {
    "date": "2026-11-01",
    "team": "WAS",
@@ -193,66 +253,6 @@
   },
   {
    "date": "2026-11-01",
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "headline": "Flirts with triple-double in return",
-   "note": "Sengun racked up 16 points (6-17 FG, 0-2 3Pt, 4-6 FT), nine rebounds, nine assists and one block over 33 minutes during Saturday's 119-98 victory over the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-flirts-with-triple-double-in-return-537055"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "HOU",
-   "player": "Marcus Smart",
-   "headline": "Lethal from deep in spot start",
-   "note": "Smart posted 24 points (7-10 FG, 7-10 3Pt, 3-3 FT), five rebounds, three assists and one steal in 36 minutes during Saturday's 119-98 win over the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-lethal-from-deep-in-spot-start-537054"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "OKC",
-   "player": "Jared McCain",
-   "headline": "Struggles from deep in start",
-   "note": "McCain closed with 10 points (5-14 FG, 0-5 3Pt), four rebounds, two assists and one steal over 28 minutes during Saturday's 119-98 loss to Houston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-struggles-from-deep-in-start-537052"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "OKC",
-   "player": "Kenrich Williams",
-   "headline": "Hits three triples in start",
-   "note": "Williams ended with 11 points (3-7 FG, 3-6 3Pt, 2-2 FT), seven rebounds and three assists across 21 minutes during Saturday's 119-98 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-hits-three-triples-in-start-537051"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "OKC",
-   "player": "Aday Mara",
-   "headline": "Swats four shots off bench",
-   "note": "Mara closed Saturday's 119-98 loss to the Rockets with seven points (3-7 FG, 1-1 FT), nine rebounds, three assists and four blocks over 28 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aday-mara-news-swats-four-shots-off-bench-537050"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "OKC",
-   "player": "Bennett Stirtz",
-   "headline": "Hits three triples off bench",
-   "note": "Stirtz racked up 11 points (4-8 FG, 3-6 3Pt), one rebound and three assists across 26 minutes during Saturday's 119-98 loss to the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bennett-stirtz-news-hits-three-triples-off-bench-537049"
-  },
-  {
-   "date": "2026-11-01",
    "team": "IND",
    "player": "Johnny Furphy",
    "headline": "Recalled Saturday",
@@ -353,6 +353,26 @@
   },
   {
    "date": "2026-11-01",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Flirts with triple-double in return",
+   "note": "Sengun racked up 16 points (6-17 FG, 0-2 3Pt, 4-6 FT), nine rebounds, nine assists and one block over 33 minutes during Saturday's 119-98 victory over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-flirts-with-triple-double-in-return-537055"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Lethal from deep in spot start",
+   "note": "Smart posted 24 points (7-10 FG, 7-10 3Pt, 3-3 FT), five rebounds, three assists and one steal in 36 minutes during Saturday's 119-98 win over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-lethal-from-deep-in-spot-start-537054"
+  },
+  {
+   "date": "2026-11-01",
    "team": "MIL",
    "player": "Kasparas Jakucionis",
    "headline": "Quiet in loss Saturday",
@@ -420,6 +440,46 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-strong-performance-off-bench-537037"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Jared McCain",
+   "headline": "Struggles from deep in start",
+   "note": "McCain closed with 10 points (5-14 FG, 0-5 3Pt), four rebounds, two assists and one steal over 28 minutes during Saturday's 119-98 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-struggles-from-deep-in-start-537052"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Kenrich Williams",
+   "headline": "Hits three triples in start",
+   "note": "Williams ended with 11 points (3-7 FG, 3-6 3Pt, 2-2 FT), seven rebounds and three assists across 21 minutes during Saturday's 119-98 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-hits-three-triples-in-start-537051"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Aday Mara",
+   "headline": "Swats four shots off bench",
+   "note": "Mara closed Saturday's 119-98 loss to the Rockets with seven points (3-7 FG, 1-1 FT), nine rebounds, three assists and four blocks over 28 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aday-mara-news-swats-four-shots-off-bench-537050"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Bennett Stirtz",
+   "headline": "Hits three triples off bench",
+   "note": "Stirtz racked up 11 points (4-8 FG, 3-6 3Pt), one rebound and three assists across 26 minutes during Saturday's 119-98 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bennett-stirtz-news-hits-three-triples-off-bench-537049"
   },
   {
    "date": "2026-11-01",
@@ -540,66 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-ruled-out-for-sunday-536987"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Probable versus Nets",
-   "note": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-versus-nets-536986"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Questionable for Sunday",
-   "note": "Toppin (back) is questionable for Sunday's game against the Nets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-sunday-536985"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Won't play Sunday",
-   "note": "Brown (rest) is out for Sunday's game in Indiana, Brian Lewis of the New York Post reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-536984"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Questionable for Sunday",
-   "note": "Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-questionable-for-sunday-536983"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Probable for Sunday",
-   "note": "Santos (knee) is probable for Sunday's game against the Clippers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-probable-for-sunday-536982"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Won't play Sunday",
-   "note": "Green (back) is out for Sunday's game against the Clippers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-injury-wont-play-sunday-536981"
   }
  ]
 }
