@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:16:09Z",
+ "updated": "2026-11-01T21:22:02Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -26,7 +26,7 @@
    "team": "BOS",
    "pos": "C",
    "priority": 1,
-   "reason": "RotoWire 1.11.: Starting on Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~22.5 FP po utakmici (ove sezone 17.7 u 6 utk., prošle sezone 29.7; 21 min).",
+   "reason": "RotoWire 1.11.: Starting on Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~22.8 FP po utakmici (ove sezone 18.2 u 6 utk., prošle sezone 29.7; 21 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -39,9 +39,9 @@
    "waivers": {
     "Banijska": "2026-11-03"
    },
-   "fpts": 22.5,
+   "fpts": 22.8,
    "gp": 6,
-   "cur": 17.7
+   "cur": 18.2
   },
   {
    "player": "Trevon Brazile",
@@ -251,7 +251,7 @@
    "team": "ORL",
    "pos": "C",
    "priority": 2,
-   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~18.4 FP po utakmici (ove sezone 8.3 u 6 utk., prošle sezone 33.6; 16 min).",
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~18.4 FP po utakmici (ove sezone 8.3 u 6 utk., prošle sezone 33.6; 17 min).",
    "role": "Veća minutaža dok je out Paolo Banchero",
    "horizon": "Do ~22.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Paolo Banchero",

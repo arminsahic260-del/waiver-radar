@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-01T21:16:04Z",
+ "updated": "2026-11-01T21:21:56Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "CHI",
+   "player": "Tobe Awaka",
+   "headline": "Probable for Monday",
+   "note": "Awaka (ankle) is probable for Monday's game against Philadelphia.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-monday-537098"
+  },
   {
    "date": "2026-11-01",
    "team": "BOS",
@@ -240,16 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-news-makes-season-debut-saturday-537073"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Plays 19 minutes in return",
-   "note": "Walker supplied 12 points (5-8 FG, 1-4 3Pt, 1-1 FT) and six rebounds across 19 minutes during Saturday's 109-104 win over Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-news-plays-19-minutes-in-return-537072"
   },
   {
    "date": "2026-11-01",
@@ -563,6 +563,16 @@
   },
   {
    "date": "2026-11-01",
+   "team": "PHI",
+   "player": "Jabari Walker",
+   "headline": "Plays 19 minutes in return",
+   "note": "Walker supplied 12 points (5-8 FG, 1-4 3Pt, 1-1 FT) and six rebounds across 19 minutes during Saturday's 109-104 win over Charlotte.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-news-plays-19-minutes-in-return-537072"
+  },
+  {
+   "date": "2026-11-01",
    "team": "PHX",
    "player": "Koa Peat",
    "headline": "Recalled by Phoenix",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-goes-for-19-points-vs-memphis-537059"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Quiet against Memphis",
-   "note": "LaVine chipped in 11 points (4-9 FG, 0-3 3Pt, 3-3 FT) and one assist over 21 minutes during Saturday's 136-105 loss to Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-quiet-against-memphis-537058"
   }
  ]
 }
