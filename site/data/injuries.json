@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:21:20Z",
+ "updated": "2026-11-01T02:20:29Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -14,6 +14,16 @@
   },
   {
    "team": "ATL",
+   "player": "Jock Landale",
+   "pos": "C",
+   "updated": "2026-10-31",
+   "injury": "Hip",
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
+  },
+  {
+   "team": "ATL",
    "player": "Mouhamed Gueye",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -21,6 +31,16 @@
    "status": "Expected return: at least Nov 20",
    "kind": "out",
    "ret": "2026-11-20"
+  },
+  {
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "pos": "PF",
+   "updated": "2026-10-31",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "BKN",
@@ -151,16 +171,6 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
-  },
-  {
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "pos": "PG",
-   "updated": "2026-10-29",
-   "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -486,31 +496,31 @@
    "team": "MEM",
    "player": "Quinten Post",
    "pos": "C",
-   "updated": "2026-10-30",
+   "updated": "2026-10-31",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "MEM",
    "player": "Scotty Pippen Jr.",
    "pos": "PG",
-   "updated": "2026-10-30",
+   "updated": "2026-10-31",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "MEM",
    "player": "Ty Jerome",
    "pos": "PG",
-   "updated": "2026-10-30",
+   "updated": "2026-10-31",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "MIN",
@@ -821,16 +831,6 @@
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
-  },
-  {
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "pos": "SF",
-   "updated": "2026-10-31",
-   "injury": "Head",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "TOR",
