@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:21:54Z",
+ "updated": "2026-11-01T00:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -100,6 +100,25 @@
    "cur": 9.0
   },
   {
+   "player": "Adem Bona",
+   "team": "PHI",
+   "pos": "C",
+   "priority": 1,
+   "reason": "Joel Embiid (stopalo) je out najmanje do 2.11. Adem Bona je prvi C u rotaciji PHI-a za te minute; ~12.3 FP po utakmici (ove sezone 10.9 u 7 utk., prošle sezone 15.0; 15 min). RotoWire 31.10.: Starting versus Charlotte. Bona will start in Saturday's game against Charlotte.",
+   "role": "Starter dok je out Joel Embiid",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Joel Embiid; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/adem-bona-news-starting-versus-charlotte-536992",
+   "espnId": 5105637,
+   "fpts": 12.3,
+   "gp": 7,
+   "cur": 10.9
+  },
+  {
    "player": "Julian Reese",
    "team": "NOP",
    "pos": "PF",
@@ -123,7 +142,7 @@
    "team": "NOP",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. Saddiq Bey je prvi SF/PF u rotaciji NOP-a za te minute; ~25.7 FP po utakmici (ove sezone 21.8 u 5 utk., prošle sezone 30.7; 27 min).",
+   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. Saddiq Bey je prvi SF/PF u rotaciji NOP-a za te minute; ~25.8 FP po utakmici (ove sezone 22.5 u 6 utk., prošle sezone 30.7; 26 min).",
    "role": "Veća minutaža dok je out Dejounte Murray",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Dejounte Murray",
@@ -136,9 +155,9 @@
    "waivers": {
     "Legendi": "2026-11-01"
    },
-   "fpts": 25.7,
-   "gp": 5,
-   "cur": 21.8
+   "fpts": 25.8,
+   "gp": 6,
+   "cur": 22.5
   },
   {
    "player": "De'Anthony Melton",
@@ -325,7 +344,7 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.0 FP po utakmici (ove sezone 11.1 u 7 utk., prošle sezone 24.5; 21 min).",
+   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.4 FP po utakmici (ove sezone 11.7 u 7 utk., prošle sezone 24.5; 22 min).",
    "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
@@ -335,16 +354,16 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 2583632,
-   "fpts": 16.0,
+   "fpts": 16.4,
    "gp": 7,
-   "cur": 11.1
+   "cur": 11.7
   },
   {
    "player": "Herbert Jones",
    "team": "NOP",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "RotoWire 29.10.: Starting sans Murray. Jones will start Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. ~15.6 FP po utakmici (ove sezone 11.0 u 6 utk., prošle sezone 22.6; 22 min).",
+   "reason": "RotoWire 29.10.: Starting sans Murray. Jones will start Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. ~16.0 FP po utakmici (ove sezone 11.7 u 6 utk., prošle sezone 22.6; 23 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "I kao starter nizak plafon (~16 FP)",
@@ -354,16 +373,16 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-starting-sans-murray-536751",
    "espnId": 4277813,
-   "fpts": 15.6,
+   "fpts": 16.0,
    "gp": 6,
-   "cur": 11.0
+   "cur": 11.7
   },
   {
    "player": "Karlo Matkovic",
    "team": "NOP",
    "pos": "PF",
    "priority": 2,
-   "reason": "RotoWire 29.10.: Starting Thursday. Matkovic is in the starting lineup for Thursday's game against the Kings. ~15.3 FP po utakmici (ove sezone 14.6 u 5 utk., prošle sezone 16.2; 14 min).",
+   "reason": "RotoWire 29.10.: Starting Thursday. Matkovic is in the starting lineup for Thursday's game against the Kings. ~15.4 FP po utakmici (ove sezone 14.8 u 5 utk., prošle sezone 16.2; 14 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "I kao starter nizak plafon (~15 FP)",
@@ -373,9 +392,9 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-starting-thursday-536756",
    "espnId": 4997538,
-   "fpts": 15.3,
+   "fpts": 15.4,
    "gp": 5,
-   "cur": 14.6
+   "cur": 14.8
   },
   {
    "player": "Kyle Filipowski",
@@ -531,25 +550,6 @@
    "fpts": 19.4
   },
   {
-   "player": "Bennedict Mathurin",
-   "team": "NOP",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Dejounte Murray (osobni razlozi) je out najmanje do 2.11. Bennedict Mathurin je sljedeći SG/SF u rotaciji NOP-a za te minute; ~18.9 FP po utakmici (ove sezone 13.0 u 5 utk., prošle sezone 26.4; 23 min).",
-   "role": "Veća minutaža dok je out Dejounte Murray",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Dejounte Murray",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4683634,
-   "fpts": 18.9,
-   "gp": 5,
-   "cur": 13.0
-  },
-  {
    "player": "Brice Sensabaugh",
    "team": "UTA",
    "pos": "SG/SF",
@@ -654,20 +654,20 @@
        "gtd": false
       },
       {
-       "player": "Bennedict Mathurin",
-       "team": "NOP",
-       "pos": "SG/SF",
-       "espnId": 4683634,
-       "fpts": 18.9,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 13.0,
+       "player": "Kingston Flemings",
+       "team": "ATL",
+       "pos": "SG/PG",
+       "espnId": 5149077,
+       "fpts": 18.8,
+       "mpg": 20.7,
+       "basis": "sezona+projekcija",
+       "gp": 7,
+       "cur": 16.9,
        "matchup": "ATL @ NOP",
        "dates": [
         "2026-10-31"
        ],
-       "value": 18.9,
+       "value": 18.8,
        "gtd": false
       }
      ]
@@ -804,11 +804,11 @@
        "team": "NOP",
        "pos": "SF/PF",
        "espnId": 4397136,
-       "fpts": 25.7,
-       "mpg": 27.3,
+       "fpts": 25.8,
+       "mpg": 26.1,
        "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 21.8,
+       "gp": 6,
+       "cur": 22.5,
        "matchup": "NOP @ MEM",
        "dates": [
         "2026-11-02",
@@ -816,7 +816,7 @@
         "2026-11-06",
         "2026-11-08"
        ],
-       "value": 25.7,
+       "value": 25.8,
        "gtd": false,
        "waiver": "2026-11-01"
       },
@@ -890,18 +890,18 @@
        "team": "NOP",
        "pos": "SF/PF",
        "espnId": 4397136,
-       "fpts": 25.7,
-       "mpg": 27.3,
+       "fpts": 25.8,
+       "mpg": 26.1,
        "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 21.8,
+       "gp": 6,
+       "cur": 22.5,
        "matchup": "UTA @ NOP",
        "dates": [
         "2026-11-04",
         "2026-11-06",
         "2026-11-08"
        ],
-       "value": 25.7,
+       "value": 25.8,
        "gtd": false,
        "waiver": "2026-11-01"
       },

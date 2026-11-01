@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-31T23:21:49Z",
+ "updated": "2026-11-01T00:21:54Z",
  "items": [
+  {
+   "date": "2026-10-31",
+   "team": "ATL",
+   "player": "Jock Landale",
+   "headline": "Won't return Saturday",
+   "note": "Landale (hip) won't return to Saturday's game against the Pelicans.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-injury-wont-return-saturday-537006"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "LAL",
+   "player": "Ziaire Williams",
+   "headline": "Questionable for Sunday",
+   "note": "Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-questionable-for-sunday-537004"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "headline": "Available against Milwaukee",
+   "note": "Thomas (foot) is listed as available for Saturday's game against the Bucks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-news-available-against-milwaukee-537003"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MEM",
+   "player": "Cam Spencer",
+   "headline": "Starting vs. Sacramento",
+   "note": "Spencer is in the Grizzlies' starting lineup against the Kings on Saturday.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-starting-vs-sacramento-537002"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MIN",
+   "player": "Joan Beringer",
+   "headline": "Starting Saturday",
+   "note": "Beringer will start Saturday against the Spurs, Jack Borman of Lockedon Wolves reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-starting-saturday-537001"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MEM",
+   "player": "Ty Jerome",
+   "headline": "Ruled out Saturday",
+   "note": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-ruled-out-saturday-537000"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MEM",
+   "player": "Scotty Pippen",
+   "headline": "Won't play against Sacramento",
+   "note": "Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-wont-play-against-sacramento-536999"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "MEM",
+   "player": "Quinten Post",
+   "headline": "Won't play Saturday",
+   "note": "Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-wont-play-saturday-536998"
+  },
   {
    "date": "2026-10-31",
    "team": "SAS",
@@ -193,13 +273,13 @@
   },
   {
    "date": "2026-10-31",
-   "team": "UTA",
-   "player": "Josh Green",
-   "headline": "Headed to bench",
-   "note": "Green will come off the bench Saturday against the Trail Blazers.",
-   "kind": "lineup",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Questionable for Saturday",
+   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
+   "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-green-news-headed-to-bench-536977"
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
   },
   {
    "date": "2026-10-31",
@@ -213,26 +293,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "headline": "Will play Saturday",
-   "note": "Markkanen (wrist) is available for Saturday's game against Portland.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-will-play-saturday-536975"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "POR",
-   "player": "Chris Youngblood",
-   "headline": "Available to play",
-   "note": "Youngblood (ankle) is available to play Saturday against the Jazz.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-news-available-to-play-536974"
-  },
-  {
-   "date": "2026-10-31",
    "team": "MIN",
    "player": "Rudy Gobert",
    "headline": "Nursing back spasms",
@@ -240,26 +300,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rudy-gobert-injury-nursing-back-spasms-536973"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "POR",
-   "player": "Robert Williams",
-   "headline": "Available to play",
-   "note": "Williams (knee) is available for Saturday's game in Utah.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-news-available-to-play-536972"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Questionable for Saturday",
-   "note": "Castle is questionable for Saturday's game against the Timberwolves due to a migraine.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978"
   },
   {
    "date": "2026-10-31",
@@ -320,36 +360,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-injury-ruled-out-for-saturday-536964"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Questionable for Saturday",
-   "note": "Brown (knee) is questionable for Saturday's game in Charlotte.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-questionable-for-saturday-536963"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Joel Embiid",
-   "headline": "Fills up box score Friday",
-   "note": "Embiid closed Friday's 98-93 victory over the Knicks with 10 points (3-12 FG, 0-4 3Pt, 4-4 FT), seven rebounds, seven assists, one block and one steal in 33 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-injury-fills-up-box-score-friday-536951"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Teases triple-double vs. New York",
-   "note": "James (rest) closed with 20 points (8-15 FG, 2-6 3Pt, 2-3 FT), nine rebounds, eight assists, one block and one steal across 34 minutes during Friday's 98-93 win over the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-teases-triple-double-vs-new-york-536949"
   },
   {
    "date": "2026-10-31",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-leading-scorer-from-second-unit-friday-536942"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "headline": "Puts up 12 points Friday",
-   "note": "Hachimura ended with 12 points (4-11 FG, 2-5 3Pt, 2-3 FT), five rebounds and two steals across 26 minutes during Friday's 127-101 loss to Minnesota.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-puts-up-12-points-friday-536931"
   }
  ]
 }
