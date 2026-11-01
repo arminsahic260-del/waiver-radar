@@ -1,29 +1,7 @@
 {
- "updated": "2026-11-01T20:22:02Z",
+ "updated": "2026-11-01T21:16:09Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Neemias Queta",
-   "team": "BOS",
-   "pos": "C",
-   "priority": 1,
-   "reason": "RotoWire 1.11.: Starting on Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~24.9 FP po utakmici (ove sezone 21.0 u 5 utk., prošle sezone 29.7; 22 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-starting-on-sunday-537082",
-   "espnId": 4397424,
-   "waivers": {
-    "Banijska": "2026-11-03"
-   },
-   "fpts": 24.9,
-   "gp": 5,
-   "cur": 21.0
-  },
   {
    "player": "Marcus Smart",
    "team": "HOU",
@@ -42,6 +20,28 @@
    "fpts": 23.3,
    "gp": 4,
    "cur": 24.8
+  },
+  {
+   "player": "Neemias Queta",
+   "team": "BOS",
+   "pos": "C",
+   "priority": 1,
+   "reason": "RotoWire 1.11.: Starting on Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~22.5 FP po utakmici (ove sezone 17.7 u 6 utk., prošle sezone 29.7; 21 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-starting-on-sunday-537082",
+   "espnId": 4397424,
+   "waivers": {
+    "Banijska": "2026-11-03"
+   },
+   "fpts": 22.5,
+   "gp": 6,
+   "cur": 17.7
   },
   {
    "player": "Trevon Brazile",
@@ -99,27 +99,6 @@
    "fpts": 15.6,
    "gp": 5,
    "cur": 9.0
-  },
-  {
-   "player": "De'Anthony Melton",
-   "team": "GSW",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Stephen Curry (odmor) je out najmanje do 2.11. De'Anthony Melton je prvi PG/SG u rotaciji GSW-a za te minute; ~24.1 FP po utakmici (ove sezone 24.3 u 6 utk., prošle sezone 23.9; 22 min). Stream za nedjelju (LAC @ GSW, tvojih igrača: 2). De'Anthony Melton je rotacijski PG/SG, ~24.1 FP po utakmici (ove sezone 24.3 u 6 utk., prošle sezone 23.9; 22 min); GSW ima 4 utakmice ovaj tjedan. Liga: Banijska.",
-   "role": "Veća minutaža dok je out Stephen Curry",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Stephen Curry",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4066436,
-   "fpts": 24.1,
-   "gp": 6,
-   "cur": 24.3,
-   "expires": "2026-11-01",
-   "note": "igra u nedjelju"
   },
   {
    "player": "Keaton Wagler",
@@ -204,6 +183,25 @@
    "cur": 16.2
   },
   {
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Stephen Curry (odmor) je out najmanje do 2.11. Brandon Williams je prvi PG/SG u rotaciji GSW-a za te minute; ~20.0 FP po utakmici (ove sezone 17.3 u 6 utk., prošle sezone 23.9; 19 min).",
+   "role": "Veća minutaža dok je out Stephen Curry",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Stephen Curry",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397040,
+   "fpts": 20.0,
+   "gp": 6,
+   "cur": 17.3
+  },
+  {
    "player": "Aaron Nesmith",
    "team": "IND",
    "pos": "SG/SF",
@@ -253,7 +251,7 @@
    "team": "ORL",
    "pos": "C",
    "priority": 2,
-   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~19.6 FP po utakmici (ove sezone 8.4 u 5 utk., prošle sezone 33.6; 18 min).",
+   "reason": "Paolo Banchero (gležanj) je out najmanje do 22.11. Nikola Vucevic je prvi C u rotaciji ORL-a za te minute; ~18.4 FP po utakmici (ove sezone 8.3 u 6 utk., prošle sezone 33.6; 16 min).",
    "role": "Veća minutaža dok je out Paolo Banchero",
    "horizon": "Do ~22.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Paolo Banchero",
@@ -263,9 +261,30 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 6478,
-   "fpts": 19.6,
+   "fpts": 18.4,
+   "gp": 6,
+   "cur": 8.3
+  },
+  {
+   "player": "Gui Santos",
+   "team": "GSW",
+   "pos": "SF",
+   "priority": 2,
+   "reason": "Stream za nedjelju (LAC @ GSW, tvojih igrača: 2). Gui Santos je rotacijski SF, ~18.1 FP po utakmici (ove sezone 16.4 u 5 utk., prošle sezone 20.3; 22 min); GSW ima 4 utakmice ovaj tjedan. Liga: Banijska.",
+   "role": "Streamer (22 min)",
+   "horizon": "1.11.",
+   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u nedjelju",
+   "espnId": 4997536,
+   "fpts": 18.1,
    "gp": 5,
-   "cur": 8.4
+   "cur": 16.4,
+   "expires": "2026-11-01"
   },
   {
    "player": "Karlo Matkovic",
@@ -291,7 +310,7 @@
    "team": "NOP",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "RotoWire 29.10.: Starting sans Murray. Jones will start Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. ~17.0 FP po utakmici (ove sezone 13.3 u 6 utk., prošle sezone 22.6; 24 min).",
+   "reason": "RotoWire 29.10.: Starting sans Murray. Jones will start Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. ~17.0 FP po utakmici (ove sezone 13.3 u 6 utk., prošle sezone 22.6; 24 min). Dejounte Murray (osobni razlozi) je upitan (GTD). Herbert Jones je sljedeći SF/PF u rotaciji NOP-a za te minute; ~17.0 FP po utakmici (ove sezone 13.3 u 6 utk., prošle sezone 22.6; 24 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "I kao starter nizak plafon (~17 FP)",
@@ -339,6 +358,9 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/clint-capela-news-starting-sans-sengun-536866",
    "espnId": 3102529,
+   "waivers": {
+    "Banijska": "2026-11-03"
+   },
    "fpts": 15.3,
    "gp": 6,
    "cur": 16.5
@@ -483,25 +505,6 @@
    "cur": 14.0
   },
   {
-   "player": "Brandon Williams",
-   "team": "GSW",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Stephen Curry (odmor) je out najmanje do 2.11. Brandon Williams je sljedeći PG/SG u rotaciji GSW-a za te minute; ~20.0 FP po utakmici (ove sezone 17.3 u 6 utk., prošle sezone 23.9; 19 min).",
-   "role": "Veća minutaža dok je out Stephen Curry",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Stephen Curry",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397040,
-   "fpts": 20.0,
-   "gp": 6,
-   "cur": 17.3
-  },
-  {
    "player": "Keon Ellis",
    "team": "BKN",
    "pos": "SG/SF",
@@ -543,28 +546,6 @@
    "cur": 17.2
   },
   {
-   "player": "Jordan Poole",
-   "team": "NOP",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Dejounte Murray (osobni razlozi) je upitan (GTD). Jordan Poole je sljedeći PG/SG u rotaciji NOP-a za te minute; ~18.8 FP po utakmici (ove sezone 16.8 u 4 utk., prošle sezone 20.9; 20 min).",
-   "role": "Zamjena ako Dejounte Murray ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Dejounte Murray",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4277956,
-   "waivers": {
-    "Legendi": "2026-11-03"
-   },
-   "fpts": 18.8,
-   "gp": 4,
-   "cur": 16.8
-  },
-  {
    "player": "Brice Sensabaugh",
    "team": "UTA",
    "pos": "SG/SF",
@@ -601,6 +582,25 @@
    "fpts": 18.0,
    "gp": 6,
    "cur": 18.2
+  },
+  {
+   "player": "Graham Ike",
+   "team": "GSW",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Draymond Green (odmor) je out najmanje do 2.11. Graham Ike je sljedeći PF u rotaciji GSW-a za te minute; ~18.0 FP po utakmici (ove sezone, 4 utk., 13 min).",
+   "role": "Veća minutaža dok je out Draymond Green",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Draymond Green",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4703396,
+   "fpts": 18.0,
+   "gp": 4,
+   "cur": 18.0
   }
  ],
  "days": [
@@ -634,23 +634,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "De'Anthony Melton",
-       "team": "GSW",
-       "pos": "PG/SG",
-       "espnId": 4066436,
-       "fpts": 24.1,
-       "mpg": 22.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 24.3,
-       "matchup": "LAC @ GSW",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 24.1,
-       "gtd": false
-      },
-      {
        "player": "Collin Murray-Boyles",
        "team": "TOR",
        "pos": "PF",
@@ -682,6 +665,23 @@
         "2026-11-01"
        ],
        "value": 20.3,
+       "gtd": false
+      },
+      {
+       "player": "Keon Ellis",
+       "team": "BKN",
+       "pos": "SG/SF",
+       "espnId": 4702177,
+       "fpts": 19.9,
+       "mpg": 23.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 5,
+       "cur": 22.2,
+       "matchup": "BKN @ IND",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 19.9,
        "gtd": false
       }
      ]
@@ -911,24 +911,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "De'Anthony Melton",
-       "team": "GSW",
-       "pos": "PG/SG",
-       "espnId": 4066436,
-       "fpts": 24.1,
-       "mpg": 22.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 24.3,
-       "matchup": "MIA @ GSW",
-       "dates": [
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 24.1,
-       "gtd": false
-      },
-      {
        "player": "Oso Ighodaro",
        "team": "PHX",
        "pos": "PF",
@@ -962,6 +944,24 @@
         "2026-11-08"
        ],
        "value": 16.8,
+       "gtd": false
+      },
+      {
+       "player": "Tim Hardaway Jr.",
+       "team": "MIA",
+       "pos": "SG/SF",
+       "espnId": 2528210,
+       "fpts": 14.9,
+       "mpg": 21.7,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 10.5,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-08"
+       ],
+       "value": 14.9,
        "gtd": false
       }
      ]
@@ -1156,8 +1156,8 @@
      ],
      "planned": [
       {
-       "player": "De'Anthony Melton",
-       "team": "GSW",
+       "player": "Oso Ighodaro",
+       "team": "PHX",
        "from": "2026-11-05"
       }
      ],

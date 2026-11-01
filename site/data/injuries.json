@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:21:22Z",
+ "updated": "2026-11-01T21:15:29Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -534,6 +534,16 @@
   },
   {
    "team": "NOP",
+   "player": "Jordan Poole",
+   "pos": "PG",
+   "updated": "2026-11-01",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "NOP",
    "player": "Yves Missi",
    "pos": "C",
    "updated": "2026-10-30",
@@ -548,16 +558,6 @@
    "pos": "PG",
    "updated": "2026-11-01",
    "injury": "Personal",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "pos": "PG",
-   "updated": "2026-11-01",
-   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
