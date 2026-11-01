@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-01T15:21:58Z",
+ "updated": "2026-11-01T16:21:59Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "MEM",
+   "player": "Jaylen Wells",
+   "headline": "Quiet performance against Sacramento",
+   "note": "Wells logged four points (2-5 FG, 0-3 3Pt), two rebounds and one steal over 22 minutes during Saturday's 136-105 win over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-wells-news-quiet-performance-against-sacramento-537066"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "MEM",
+   "player": "GG Jackson",
+   "headline": "Drops 21 points against Sacramento",
+   "note": "Jackson logged 21 points (7-10 FG, 5-5 3Pt, 2-2 FT), three rebounds and two assists in 21 minutes during Saturday's 136-105 win over the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gg-jackson-news-drops-21-points-against-sacramento-537064"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "MEM",
+   "player": "Cam Spencer",
+   "headline": "Double-doubles in spot start",
+   "note": "Spencer closed Saturday's 136-105 victory over the Kings with 10 points (4-9 FG, 2-4 3Pt), five rebounds, 13 assists and one steal in 25 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-double-doubles-in-spot-start-537063"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "headline": "Strong performance off bench",
+   "note": "Stewart recorded 24 points (8-9 FG, 2-3 3Pt, 6-6 FT) and four rebounds across 21 minutes during Saturday's 136-105 victory over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-news-strong-performance-off-bench-537062"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "SAC",
+   "player": "Precious Achiuwa",
+   "headline": "Swats two shots vs. Memphis",
+   "note": "Achiuwa registered six points (2-6 FG, 2-4 FT), five rebounds, one assist, two blocks and one steal over 25 minutes during Saturday's 136-105 loss to Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-swats-two-shots-vs-memphis-537061"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "SAC",
+   "player": "De'Andre Hunter",
+   "headline": "Goes for 19 points vs. Memphis",
+   "note": "Hunter chipped in 19 points (8-18 FG, 2-8 3Pt, 1-3 FT), three rebounds and one steal across 32 minutes during Saturday's 136-105 loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-goes-for-19-points-vs-memphis-537059"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "SAC",
+   "player": "Zach LaVine",
+   "headline": "Quiet against Memphis",
+   "note": "LaVine chipped in 11 points (4-9 FG, 0-3 3Pt, 3-3 FT) and one assist over 21 minutes during Saturday's 136-105 loss to Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-quiet-against-memphis-537058"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "SAC",
+   "player": "Domantas Sabonis",
+   "headline": "Fills box score in Saturday's loss",
+   "note": "Sabonis racked up 11 points (3-5 FG, 0-1 3Pt, 5-6 FT), 14 rebounds, eight assists and one steal in 38 minutes during Saturday's 136-105 loss to the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-fills-box-score-in-saturdays-loss-537057"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "HOU",
+   "player": "Jabari Smith",
+   "headline": "Pours in 30 points in rout",
+   "note": "Smith finished with 30 points (10-18 FG, 6-12 3Pt, 4-5 FT), nine rebounds, five assists and one block in 33 minutes during Saturday's 119-98 win over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jabari-smith-news-pours-in-30-points-in-rout-537056"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "HOU",
+   "player": "Alperen Sengun",
+   "headline": "Flirts with triple-double in return",
+   "note": "Sengun racked up 16 points (6-17 FG, 0-2 3Pt, 4-6 FT), nine rebounds, nine assists and one block over 33 minutes during Saturday's 119-98 victory over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-flirts-with-triple-double-in-return-537055"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Lethal from deep in spot start",
+   "note": "Smart posted 24 points (7-10 FG, 7-10 3Pt, 3-3 FT), five rebounds, three assists and one steal in 36 minutes during Saturday's 119-98 win over the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-lethal-from-deep-in-spot-start-537054"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Jared McCain",
+   "headline": "Struggles from deep in start",
+   "note": "McCain closed with 10 points (5-14 FG, 0-5 3Pt), four rebounds, two assists and one steal over 28 minutes during Saturday's 119-98 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-struggles-from-deep-in-start-537052"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Kenrich Williams",
+   "headline": "Hits three triples in start",
+   "note": "Williams ended with 11 points (3-7 FG, 3-6 3Pt, 2-2 FT), seven rebounds and three assists across 21 minutes during Saturday's 119-98 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-hits-three-triples-in-start-537051"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Aday Mara",
+   "headline": "Swats four shots off bench",
+   "note": "Mara closed Saturday's 119-98 loss to the Rockets with seven points (3-7 FG, 1-1 FT), nine rebounds, three assists and four blocks over 28 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aday-mara-news-swats-four-shots-off-bench-537050"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "OKC",
+   "player": "Bennett Stirtz",
+   "headline": "Hits three triples off bench",
+   "note": "Stirtz racked up 11 points (4-8 FG, 3-6 3Pt), one rebound and three assists across 26 minutes during Saturday's 119-98 loss to the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bennett-stirtz-news-hits-three-triples-off-bench-537049"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "ATL",
+   "player": "CJ McCollum",
+   "headline": "Team-high 14 points",
+   "note": "McCollum finished Saturday's 121-99 loss to New Orleans with 14 points (5-9 FG, 2-5 3Pt, 2-2 FT), two rebounds, two assists and one steal over 24 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cj-mccollum-news-team-high-14-points-537047"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Poor display from deep vs. NOLA",
+   "note": "Alexander-Walker racked up 12 points (3-12 FG, 0-7 3Pt, 6-6 FT), two rebounds, one assist and one steal across 29 minutes during Saturday's 121-99 loss to New Orleans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-poor-display-from-deep-vs-nola-537045"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Active defensively in loss",
+   "note": "Daniels provided eight points (3-6 FG, 0-2 3Pt, 2-3 FT), four rebounds, three assists and three steals in 27 minutes during Saturday's 121-99 loss to New Orleans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-active-defensively-in-loss-537044"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "ATL",
+   "player": "Onyeka Okongwu",
+   "headline": "Hauls in 10 boards Saturday",
+   "note": "Okongwu posted six points (3-12 FG, 0-5 3Pt), 10 rebounds, one assist and one block over 28 minutes during Saturday's 121-99 loss to the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-hauls-in-10-boards-saturday-537042"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Karlo Matkovic",
+   "headline": "Grabs 10 boards against Atlanta",
+   "note": "Matkovic closed Saturday's 121-99 victory over Atlanta with eight points (3-4 FG, 2-2 3Pt), 10 rebounds, one assist, one block and one steal across 18 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-grabs-10-boards-against-atlanta-537041"
+  },
   {
    "date": "2026-11-01",
    "team": "NOP",
@@ -53,33 +253,13 @@
   },
   {
    "date": "2026-11-01",
-   "team": "MIL",
-   "player": "Kasparas Jakucionis",
-   "headline": "Quiet in loss Saturday",
-   "note": "Jakucionis recorded five points (2-7 FG, 1-4 3Pt), three rebounds and three assists over 21 minutes during Saturday's 136-111 loss to the Cavaliers.",
-   "kind": "lineup",
+   "team": "IND",
+   "player": "Johnny Furphy",
+   "headline": "Recalled Saturday",
+   "note": "Indiana recalled Furphy (knee) from the G League's Noblesville Boom on Saturday.",
+   "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kasparas-jakucionis-news-quiet-in-loss-saturday-537034"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "MIL",
-   "player": "Gary Trent",
-   "headline": "Another garbage time special",
-   "note": "Trent logged three points (1-2 FG, 1-2 3Pt), one rebound and one assist in six minutes during Saturday's 136-111 loss to the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gary-trent-news-another-garbage-time-special-537033"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "MIL",
-   "player": "Ryan Rollins",
-   "headline": "Another rough night Saturday",
-   "note": "Rollins chipped in nine points (4-11 FG, 1-5 3Pt), three rebounds and seven assists over 26 minutes during Saturday's 136-111 loss to the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ryan-rollins-news-another-rough-night-saturday-537032"
+   "url": "https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-recalled-saturday-537065"
   },
   {
    "date": "2026-11-01",
@@ -113,153 +293,43 @@
   },
   {
    "date": "2026-11-01",
-   "team": "NOP",
-   "player": "Karlo Matkovic",
-   "headline": "Grabs 10 boards against Atlanta",
-   "note": "Matkovic closed Saturday's 121-99 victory over Atlanta with eight points (3-4 FG, 2-2 3Pt), 10 rebounds, one assist, one block and one steal across 18 minutes.",
+   "team": "MIL",
+   "player": "Kasparas Jakucionis",
+   "headline": "Quiet in loss Saturday",
+   "note": "Jakucionis recorded five points (2-7 FG, 1-4 3Pt), three rebounds and three assists over 21 minutes during Saturday's 136-111 loss to the Cavaliers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-grabs-10-boards-against-atlanta-537041"
+   "url": "https://www.rotowire.com/basketball/headlines/kasparas-jakucionis-news-quiet-in-loss-saturday-537034"
   },
   {
-   "date": "2026-10-31",
-   "team": "OKC",
-   "player": "Shai Gilgeous-Alexander",
-   "headline": "Scores 26 points in loss",
-   "note": "Gilgeous-Alexander ended with 26 points (10-20 FG, 3-6 3Pt, 3-4 FT), four rebounds, three assists and one steal over 31 minutes in Saturday's 119-98 loss to Houston.",
+   "date": "2026-11-01",
+   "team": "MIL",
+   "player": "Gary Trent",
+   "headline": "Another garbage time special",
+   "note": "Trent logged three points (1-2 FG, 1-2 3Pt), one rebound and one assist in six minutes during Saturday's 136-111 loss to the Cavaliers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-scores-26-points-in-loss-537028"
+   "url": "https://www.rotowire.com/basketball/headlines/gary-trent-news-another-garbage-time-special-537033"
   },
   {
-   "date": "2026-10-31",
-   "team": "MIN",
-   "player": "Ayo Dosunmu",
-   "headline": "Leads team in scoring in loss",
-   "note": "Dosunmu finished with 27 points (11-17 FG, 2-5 3Pt, 3-3 FT), nine rebounds, three assists and three steals over 38 minutes in Saturday's 121-111 loss to the Spurs.",
+   "date": "2026-11-01",
+   "team": "MIL",
+   "player": "Ryan Rollins",
+   "headline": "Another rough night Saturday",
+   "note": "Rollins chipped in nine points (4-11 FG, 1-5 3Pt), three rebounds and seven assists over 26 minutes during Saturday's 136-111 loss to the Cavaliers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-leads-team-in-scoring-in-loss-537027"
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-rollins-news-another-rough-night-saturday-537032"
   },
   {
-   "date": "2026-10-31",
-   "team": "MEM",
-   "player": "Cameron Boozer",
-   "headline": "Leads Memphis to another win",
-   "note": "Boozer finished with 27 points (8-14 FG, 3-7 3Pt, 8-8 FT), nine rebounds, three assists and one block over 26 minutes in Saturday's 136-105 win over Sacramento.",
-   "kind": "lineup",
+   "date": "2026-11-01",
+   "team": "PHX",
+   "player": "Koa Peat",
+   "headline": "Recalled by Phoenix",
+   "note": "Phoenix recalled Peat from the G League's Valley Suns on Friday.",
+   "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-leads-memphis-to-another-win-537026"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Logs another double-double",
-   "note": "Allen finished with 25 points (12-16 FG, 0-1 3Pt, 1-4 FT), 11 rebounds, four assists and one steal across 24 minutes in Saturday's 136-111 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-logs-another-double-double-537025"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "UTA",
-   "player": "Ace Bailey",
-   "headline": "Big defensive effort in loss to Blazers",
-   "note": "Bailey registered nine points (4-10 FG, 1-6 3Pt), seven rebounds, one assist, three blocks and two steals across 37 minutes during Saturday's 112-90 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-big-defensive-effort-in-loss-to-blazers-537024"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "UTA",
-   "player": "Darryn Peterson",
-   "headline": "Leading scorer in Saturday's loss",
-   "note": "Peterson amassed 16 points (6-15 FG, 3-8 3Pt, 1-2 FT), four rebounds, four assists, one block and one steal across 36 minutes during Saturday's 112-90 loss to the Trail Blazers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-leading-scorer-in-saturdays-loss-537023"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "UTA",
-   "player": "Lauri Markkanen",
-   "headline": "Struggles in return",
-   "note": "Markkanen finished with 13 points (3-14 FG, 2-11 3Pt, 5-6 FT), six rebounds, one assist, two steals and two blocks over 29 minutes in Saturday's 112-90 loss to Portland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-struggles-in-return-537022"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "POR",
-   "player": "Toumani Camara",
-   "headline": "Sinks four treys in Saturday's win",
-   "note": "Camara ended Saturday's 112-90 victory over Utah with 14 points (4-9 FG, 4-9 3Pt, 2-2 FT), four rebounds and two steals in 31 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/toumani-camara-news-sinks-four-treys-in-saturdays-win-537021"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "POR",
-   "player": "Damian Lillard",
-   "headline": "Drops 22 points in Utah",
-   "note": "Lillard produced 22 points (6-17 FG, 3-10 3Pt, 7-8 FT), five rebounds, four assists, one block and two steals over 27 minutes during Saturday's 112-90 victory over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-drops-22-points-in-utah-537020"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "CHA",
-   "player": "Brandon Miller",
-   "headline": "Scores 24 points in loss",
-   "note": "Miller ended with 24 points (8-20 FG, 5-12 3Pt, 3-4 FT), five rebounds, five assists, two steals and one block over 33 minutes in Saturday's 109-104 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-24-points-in-loss-537019"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "POR",
-   "player": "Deni Avdija",
-   "headline": "Hits for game-high 24 in win",
-   "note": "Avdija posted 24 points (6-12 FG, 2-4 3Pt, 10-13 FT), five rebounds, two assists and one steal over 30 minutes during Saturday's 112-90 win over Utah.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-hits-for-game-high-24-in-win-537018"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "CHA",
-   "player": "Naz Reid",
-   "headline": "Another rough shooting night",
-   "note": "Reid finished with 14 points (4-12 FG, 0-6 3Pt, 6-6 FT), five rebounds, two assists and one block across 36 minutes in Saturday's 109-104 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-another-rough-shooting-night-537017"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "CHA",
-   "player": "Grayson Allen",
-   "headline": "Catches fire from deep Saturday",
-   "note": "Allen ended with 27 points (9-12 FG, 7-10 3Pt, 2-2 FT), four rebounds, three assists, one steal and one block over 30 minutes in Saturday's 109-104 loss to Philadelphia.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-catches-fire-from-deep-saturday-537016"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Drops 38 points in Saturday's loss",
-   "note": "Acuff finished Saturday's 136-105 loss to the Grizzlies with 38 points (12-25 FG, 9-14 3Pt, 5-5 FT), five assists and five rebounds over 37 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-drops-38-points-in-saturdays-loss-537015"
+   "url": "https://www.rotowire.com/basketball/headlines/koa-peat-news-recalled-by-phoenix-537043"
   },
   {
    "date": "2026-10-31",
@@ -483,16 +553,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "HOU",
-   "player": "Fred VanVleet",
-   "headline": "Ruled out for Saturday",
-   "note": "VanVleet (knee) won't play Saturday against the Thunder.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-ruled-out-for-saturday-536969"
-  },
-  {
-   "date": "2026-10-31",
    "team": "BKN",
    "player": "Julius Randle",
    "headline": "Turnover woes continue Friday",
@@ -523,83 +583,23 @@
   },
   {
    "date": "2026-10-31",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Available against Milwaukee",
-   "note": "Thomas (foot) is listed as available for Saturday's game against the Bucks.",
-   "kind": "other",
+   "team": "CHA",
+   "player": "Brandon Miller",
+   "headline": "Scores 24 points in loss",
+   "note": "Miller ended with 24 points (8-20 FG, 5-12 3Pt, 3-4 FT), five rebounds, five assists, two steals and one block over 33 minutes in Saturday's 109-104 loss to Philadelphia.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-news-available-against-milwaukee-537003"
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-scores-24-points-in-loss-537019"
   },
   {
    "date": "2026-10-31",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Strong showing off bench Friday",
-   "note": "Risacher recorded 12 points (4-9 FG, 3-6 3Pt, 1-2 FT), six rebounds, three assists, one block and three steals across 28 minutes off the bench during Friday's 116-111 win over the Rockets.",
+   "team": "CHA",
+   "player": "Naz Reid",
+   "headline": "Another rough shooting night",
+   "note": "Reid finished with 14 points (4-12 FG, 0-6 3Pt, 6-6 FT), five rebounds, two assists and one block across 36 minutes in Saturday's 109-104 loss to the 76ers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-strong-showing-off-bench-friday-536941"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "headline": "Drops 18 points in Friday's win",
-   "note": "Gafford amassed 18 points (6-7 FG, 6-9 FT), seven rebounds, two assists and two blocks in 29 minutes during Friday's 116-111 victory over the Rockets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-drops-18-points-in-fridays-win-536940"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Pours in game-high 35 in win",
-   "note": "Irving closed Friday's 116-111 win over Houston with 35 points (12-19 FG, 5-8 3Pt, 6-6 FT), four rebounds and nine assists across 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-pours-in-game-high-35-in-win-536939"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Struggles with shot in victory",
-   "note": "Johnson accumulated 12 points (5-13 FG, 2-8 3Pt, 0-2 FT), nine rebounds, three assists and one steal over 34 minutes during Friday's 127-120 victory over the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-news-struggles-with-shot-in-victory-536919"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DEN",
-   "player": "Aaron Gordon",
-   "headline": "Solid perfornance in win",
-   "note": "Gordon notched 15 points (4-9 FG, 2-4 3Pt, 5-5 FT), four rebounds and five assists in 29 minutes during Friday's 127-120 win over the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-gordon-news-solid-perfornance-in-win-536918"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DEN",
-   "player": "Nikola Jokic",
-   "headline": "Logs double-double in victory",
-   "note": "Jokic posted 18 points (8-13 FG, 0-1 3Pt, 2-2 FT), seven rebounds, 10 assists and three steals in 37 minutes during Friday's 127-120 win over Phoenix.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-logs-double-double-in-victory-536917"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "DEN",
-   "player": "Christian Braun",
-   "headline": "Stellar with 31 points",
-   "note": "Braun registered 31 points (11-16 FG, 7-9 3Pt, 2-2 FT), three rebounds, one assist and three steals in 37 minutes during Friday's 127-120 win over the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-stellar-with-31-points-536916"
+   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-another-rough-shooting-night-537017"
   }
  ]
 }

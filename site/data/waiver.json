@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:22:03Z",
+ "updated": "2026-11-01T16:22:04Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -100,34 +100,12 @@
    "note": "igra u nedjelju"
   },
   {
-   "player": "Brook Lopez",
-   "team": "LAC",
-   "pos": "C",
-   "priority": 2,
-   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Brook Lopez je prvi C u rotaciji LAC-a za te minute; ~23.6 FP po utakmici (ove sezone 26.2 u 5 utk., prošle sezone 20.3; 22 min).",
-   "role": "Veća minutaža dok je out Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Brandon Ingram",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3448,
-   "waivers": {
-    "Banijska": "2026-11-03"
-   },
-   "fpts": 23.6,
-   "gp": 5,
-   "cur": 26.2
-  },
-  {
    "player": "Keaton Wagler",
    "team": "LAC",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (ove sezone 21.8 u 5 utk., ESPN projekcija 24.4; 27 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
+   "reason": "Bradley Beal (koljeno) je out najmanje do 8.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~22.9 FP po utakmici (ove sezone 21.8 u 5 utk., ESPN projekcija 24.4; 27 min).",
+   "role": "Veća minutaža dok je out Bradley Beal",
    "horizon": "Do ~8.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Bradley Beal",
    "avail": {
@@ -323,25 +301,6 @@
    "fpts": 17.0,
    "gp": 6,
    "cur": 17.0
-  },
-  {
-   "player": "Royce O'Neale",
-   "team": "CHA",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Coby White (list) je out najmanje do 2.11.; Kon Knueppel (stražnja loža) je out najmanje do 2.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~16.4 FP po utakmici (ove sezone 11.7 u 7 utk., prošle sezone 24.5; 22 min).",
-   "role": "Veća minutaža dok su out Coby White i Kon Knueppel",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Coby White; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2583632,
-   "fpts": 16.4,
-   "gp": 7,
-   "cur": 11.7
   },
   {
    "player": "Clint Capela",
@@ -601,6 +560,44 @@
    "fpts": 18.5,
    "gp": 6,
    "cur": 15.7
+  },
+  {
+   "player": "Ronald Holland II",
+   "team": "DET",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Jalen Duren (stražnja loža) je out najmanje do 9.11. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~18.0 FP po utakmici (ove sezone 18.2 u 6 utk., prošle sezone 17.6; 17 min).",
+   "role": "Veća minutaža dok je out Jalen Duren",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jalen Duren",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4683771,
+   "fpts": 18.0,
+   "gp": 6,
+   "cur": 18.2
+  },
+  {
+   "player": "Graham Ike",
+   "team": "GSW",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Draymond Green (odmor) je out najmanje do 2.11. Graham Ike je sljedeći PF u rotaciji GSW-a za te minute; ~18.0 FP po utakmici (ove sezone, 4 utk., 13 min).",
+   "role": "Veća minutaža dok je out Draymond Green",
+   "horizon": "Do ~2.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Draymond Green",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4703396,
+   "fpts": 18.0,
+   "gp": 4,
+   "cur": 18.0
   }
  ],
  "days": [

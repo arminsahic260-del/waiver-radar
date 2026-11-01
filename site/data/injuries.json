@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:21:23Z",
+ "updated": "2026-11-01T16:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -96,41 +96,41 @@
    "team": "CHA",
    "player": "Coby White",
    "pos": "PG",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Calf",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",
    "player": "Grant Williams",
    "pos": "PF",
-   "updated": "2026-10-27",
+   "updated": "2026-11-01",
    "injury": "Hamstring",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",
    "player": "Kon Knueppel",
    "pos": "SF",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Hamstring",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",
    "player": "Kylan Boswell",
    "pos": "PG",
-   "updated": "2026-10-20",
+   "updated": "2026-11-01",
    "injury": "Knee",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
@@ -326,11 +326,11 @@
    "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
-   "updated": "2026-10-26",
+   "updated": "2026-11-01",
    "injury": "Calf",
-   "status": "Expected return: at least Nov 2",
+   "status": "Expected return: at least Nov 9",
    "kind": "out",
-   "ret": "2026-11-02"
+   "ret": "2026-11-09"
   },
   {
    "team": "HOU",
@@ -434,16 +434,6 @@
   },
   {
    "team": "LAC",
-   "player": "Brandon Ingram",
-   "pos": "SF",
-   "updated": "2026-10-26",
-   "injury": "Achilles",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
-  },
-  {
-   "team": "LAC",
    "player": "Jordan Miller",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -456,16 +446,6 @@
    "team": "LAC",
    "player": "Max Strus",
    "pos": "SG",
-   "updated": "2026-10-15",
-   "injury": "Foot",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
-  },
-  {
-   "team": "LAC",
-   "player": "Yanic Konan Niederhauser",
-   "pos": "C",
    "updated": "2026-10-15",
    "injury": "Foot",
    "status": "Expected return: at least Nov 8",
@@ -906,11 +886,11 @@
    "team": "WAS",
    "player": "Tristan Vukcevic",
    "pos": "PF",
-   "updated": "2026-10-01",
+   "updated": "2026-11-01",
    "injury": "Hip",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   }
  ]
 }
