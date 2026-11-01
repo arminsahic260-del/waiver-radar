@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T09:26:59Z",
+ "updated": "2026-11-01T11:06:55Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -294,6 +294,28 @@
    "cur": 16.5
   },
   {
+   "player": "Joan Beringer",
+   "team": "MIN",
+   "pos": "C",
+   "priority": 2,
+   "reason": "RotoWire 31.10.: Starting Saturday. Beringer will start Saturday against the Spurs, Jack Borman of Lockedon Wolves reports. ~15.2 FP po utakmici (ove sezone 18.1 u 7 utk., prošle sezone 10.1; 15 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~15 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-starting-saturday-537001",
+   "espnId": 5279133,
+   "waivers": {
+    "Legendi": "2026-11-03"
+   },
+   "fpts": 15.2,
+   "gp": 7,
+   "cur": 18.1
+  },
+  {
    "player": "Kyle Filipowski",
    "team": "UTA",
    "pos": "PF/C",
@@ -370,23 +392,26 @@
    "cur": 10.9
   },
   {
-   "player": "Saddiq Bey",
-   "team": "NOP",
-   "pos": "SF/PF",
+   "player": "Jaylen Wells",
+   "team": "MEM",
+   "pos": "SG/SF",
    "priority": 3,
-   "reason": "Dejounte Murray (osobni razlozi) je upitan (GTD). Saddiq Bey je sljedeći SF/PF u rotaciji NOP-a za te minute; ~28.0 FP po utakmici (ove sezone 26.2 u 6 utk., prošle sezone 30.7; 27 min).",
-   "role": "Zamjena ako Dejounte Murray ne igra",
+   "reason": "Ty Jerome (leđa) je upitan (GTD). Jaylen Wells je sljedeći SG/SF u rotaciji MEM-a za te minute; ~22.4 FP po utakmici (ove sezone 23.5 u 6 utk., prošle sezone 20.8; 27 min).",
+   "role": "Zamjena ako Ty Jerome ne igra",
    "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Dejounte Murray",
+   "risk": "Uloga pada kad se vrati Ty Jerome",
    "avail": {
     "Legendi": true,
     "Banijska": false
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397136,
-   "fpts": 28.0,
+   "espnId": 5112087,
+   "waivers": {
+    "Legendi": "2026-11-03"
+   },
+   "fpts": 22.4,
    "gp": 6,
-   "cur": 26.2
+   "cur": 23.5
   },
   {
    "player": "Javon Small",
@@ -487,23 +512,6 @@
    "cur": 17.2
   },
   {
-   "player": "DeJon Jarreau",
-   "team": "MEM",
-   "pos": "PG",
-   "priority": 3,
-   "reason": "Ty Jerome (leđa) je upitan (GTD). DeJon Jarreau je sljedeći PG u rotaciji MEM-a za te minute; ~19.4 FP po utakmici (prošle sezone, 21 min).",
-   "role": "Zamjena ako Ty Jerome ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Ty Jerome",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4066796,
-   "fpts": 19.4
-  },
-  {
    "player": "Jordan Poole",
    "team": "NOP",
    "pos": "PG/SG",
@@ -513,11 +521,14 @@
    "horizon": "Dan-dva, ovisi o statusu",
    "risk": "I sam je upitan (GTD); uloga pada kad se vrati Dejounte Murray",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4277956,
+   "waivers": {
+    "Legendi": "2026-11-03"
+   },
    "fpts": 18.8,
    "gp": 4,
    "cur": 16.8
@@ -724,25 +735,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Saddiq Bey",
-       "team": "NOP",
-       "pos": "SF/PF",
-       "espnId": 4397136,
-       "fpts": 28.0,
-       "mpg": 27.2,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 26.2,
-       "matchup": "UTA @ NOP",
-       "dates": [
-        "2026-11-04",
-        "2026-11-06",
-        "2026-11-08"
-       ],
-       "value": 28.0,
-       "gtd": false
-      },
-      {
        "player": "Tre Jones",
        "team": "CHI",
        "pos": "PG",
@@ -777,6 +769,24 @@
         "2026-11-07"
        ],
        "value": 23.9,
+       "gtd": false
+      },
+      {
+       "player": "Marcus Smart",
+       "team": "HOU",
+       "pos": "PG/SG",
+       "espnId": 2990992,
+       "fpts": 23.3,
+       "mpg": 26.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 4,
+       "cur": 24.8,
+       "matchup": "MIN @ HOU",
+       "dates": [
+        "2026-11-04",
+        "2026-11-07"
+       ],
+       "value": 23.3,
        "gtd": false
       }
      ]
@@ -953,7 +963,7 @@
     {
      "league": "Legendi",
      "mine": 6,
-     "open": 3,
+     "open": 4,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -964,32 +974,8 @@
       "2026-11-06",
       "2026-11-07"
      ],
-     "planned": [
-      {
-       "player": "Saddiq Bey",
-       "team": "NOP",
-       "from": "2026-11-04"
-      }
-     ],
+     "planned": [],
      "picks": [
-      {
-       "player": "Sandro Mamukelashvili",
-       "team": "LAL",
-       "pos": "PF/C",
-       "espnId": 4278580,
-       "fpts": 23.2,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 22.2,
-       "matchup": "POR @ LAL",
-       "dates": [
-        "2026-11-06",
-        "2026-11-08"
-       ],
-       "value": 23.2,
-       "gtd": false
-      },
       {
        "player": "Julian Reese",
        "team": "NOP",
@@ -1007,6 +993,24 @@
        ],
        "value": 23.2,
        "gtd": false
+      },
+      {
+       "player": "Jaylen Wells",
+       "team": "MEM",
+       "pos": "SG/SF",
+       "espnId": 5112087,
+       "fpts": 22.4,
+       "mpg": 26.9,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 23.5,
+       "matchup": "OKC @ MEM",
+       "dates": [
+        "2026-11-06"
+       ],
+       "value": 22.4,
+       "gtd": false,
+       "waiver": "2026-11-03"
       },
       {
        "player": "Jerami Grant",
