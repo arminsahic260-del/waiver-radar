@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:22:39Z",
+ "updated": "2026-11-01T14:22:01Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -83,7 +83,7 @@
    "team": "GSW",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Stephen Curry (odmor) je out najmanje do 2.11. De'Anthony Melton je prvi PG/SG u rotaciji GSW-a za te minute; ~24.1 FP po utakmici (ove sezone 24.3 u 6 utk., prošle sezone 23.9; 22 min).",
+   "reason": "Stephen Curry (odmor) je out najmanje do 2.11. De'Anthony Melton je prvi PG/SG u rotaciji GSW-a za te minute; ~24.1 FP po utakmici (ove sezone 24.3 u 6 utk., prošle sezone 23.9; 22 min). Stream za nedjelju (LAC @ GSW, tvojih igrača: 2). De'Anthony Melton je rotacijski PG/SG, ~24.1 FP po utakmici (ove sezone 24.3 u 6 utk., prošle sezone 23.9; 22 min); GSW ima 4 utakmice ovaj tjedan. Liga: Banijska.",
    "role": "Veća minutaža dok je out Stephen Curry",
    "horizon": "Do ~2.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Stephen Curry",
@@ -95,7 +95,31 @@
    "espnId": 4066436,
    "fpts": 24.1,
    "gp": 6,
-   "cur": 24.3
+   "cur": 24.3,
+   "expires": "2026-11-01",
+   "note": "igra u nedjelju"
+  },
+  {
+   "player": "Brook Lopez",
+   "team": "LAC",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Brook Lopez je prvi C u rotaciji LAC-a za te minute; ~23.6 FP po utakmici (ove sezone 26.2 u 5 utk., prošle sezone 20.3; 22 min).",
+   "role": "Veća minutaža dok je out Brandon Ingram",
+   "horizon": "Do ~8.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Brandon Ingram",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3448,
+   "waivers": {
+    "Banijska": "2026-11-03"
+   },
+   "fpts": 23.6,
+   "gp": 5,
+   "cur": 26.2
   },
   {
    "player": "Keaton Wagler",
@@ -178,6 +202,51 @@
    "fpts": 20.1,
    "gp": 5,
    "cur": 16.2
+  },
+  {
+   "player": "Aaron Nesmith",
+   "team": "IND",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Stream za nedjelju (BKN @ IND, tvojih igrača: 2). Aaron Nesmith je rotacijski SG/SF, ~19.9 FP po utakmici (ove sezone 17.2 u 5 utk., prošle sezone 23.3; 25 min); IND ima 4 utakmice ovaj tjedan. Liga: Banijska. Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. Aaron Nesmith je sljedeći SG/SF u rotaciji IND-a za te minute; ~19.9 FP po utakmici (ove sezone 17.2 u 5 utk., prošle sezone 23.3; 25 min).",
+   "role": "Streamer (25 min)",
+   "horizon": "1.11.",
+   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u nedjelju",
+   "espnId": 4396909,
+   "fpts": 19.9,
+   "gp": 5,
+   "cur": 17.2,
+   "expires": "2026-11-01"
+  },
+  {
+   "player": "Collin Sexton",
+   "team": "LAL",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Stream za nedjelju (TOR @ LAL, tvojih igrača: 2). Collin Sexton je rotacijski PG/SG, ~19.7 FP po utakmici (ove sezone 14.6 u 5 utk., prošle sezone 26.0; 20 min); LAL ima 4 utakmice ovaj tjedan. Liga: Banijska.",
+   "role": "Streamer (20 min)",
+   "horizon": "1.11.",
+   "risk": "Nizak plafon, čisti kratkoročni stream",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u nedjelju",
+   "espnId": 4277811,
+   "waivers": {
+    "Legendi": "2026-11-02"
+   },
+   "fpts": 19.7,
+   "gp": 5,
+   "cur": 14.6,
+   "expires": "2026-11-01"
   },
   {
    "player": "Nikola Vucevic",
@@ -471,25 +540,6 @@
    "cur": 22.2
   },
   {
-   "player": "Aaron Nesmith",
-   "team": "IND",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. Aaron Nesmith je sljedeći SG/SF u rotaciji IND-a za te minute; ~19.9 FP po utakmici (ove sezone 17.2 u 5 utk., prošle sezone 23.3; 25 min).",
-   "role": "Veća minutaža dok je out Tyrese Haliburton",
-   "horizon": "Do ~13.11. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Tyrese Haliburton",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4396909,
-   "fpts": 19.9,
-   "gp": 5,
-   "cur": 17.2
-  },
-  {
    "player": "Keldon Johnson",
    "team": "SAS",
    "pos": "SF/PF",
@@ -551,44 +601,6 @@
    "fpts": 18.5,
    "gp": 6,
    "cur": 15.7
-  },
-  {
-   "player": "Ronald Holland II",
-   "team": "DET",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Jalen Duren (stražnja loža) je out najmanje do 9.11. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~18.0 FP po utakmici (ove sezone 18.2 u 6 utk., prošle sezone 17.6; 17 min).",
-   "role": "Veća minutaža dok je out Jalen Duren",
-   "horizon": "Do ~9.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jalen Duren",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4683771,
-   "fpts": 18.0,
-   "gp": 6,
-   "cur": 18.2
-  },
-  {
-   "player": "Graham Ike",
-   "team": "GSW",
-   "pos": "PF",
-   "priority": 3,
-   "reason": "Draymond Green (odmor) je out najmanje do 2.11. Graham Ike je sljedeći PF u rotaciji GSW-a za te minute; ~18.0 FP po utakmici (ove sezone, 4 utk., 13 min).",
-   "role": "Veća minutaža dok je out Draymond Green",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Draymond Green",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4703396,
-   "fpts": 18.0,
-   "gp": 4,
-   "cur": 18.0
   }
  ],
  "days": [
@@ -610,10 +622,10 @@
     },
     {
      "league": "Banijska",
-     "mine": 3,
-     "open": 7,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
-     "adds": 5,
+     "adds": 3,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -639,23 +651,6 @@
        "gtd": false
       },
       {
-       "player": "Sandro Mamukelashvili",
-       "team": "LAL",
-       "pos": "PF/C",
-       "espnId": 4278580,
-       "fpts": 23.2,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 22.2,
-       "matchup": "TOR @ LAL",
-       "dates": [
-        "2026-11-01"
-       ],
-       "value": 23.2,
-       "gtd": false
-      },
-      {
        "player": "Collin Murray-Boyles",
        "team": "TOR",
        "pos": "PF",
@@ -670,6 +665,23 @@
         "2026-11-01"
        ],
        "value": 20.7,
+       "gtd": false
+      },
+      {
+       "player": "Jakob Poeltl",
+       "team": "TOR",
+       "pos": "C",
+       "espnId": 3134908,
+       "fpts": 20.3,
+       "mpg": 22.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 5,
+       "cur": 14.6,
+       "matchup": "TOR @ LAL",
+       "dates": [
+        "2026-11-01"
+       ],
+       "value": 20.3,
        "gtd": false
       }
      ]
@@ -886,8 +898,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 0,
-     "open": 10,
+     "mine": 1,
+     "open": 9,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
@@ -917,24 +929,6 @@
        "gtd": false
       },
       {
-       "player": "Jordan Goodwin",
-       "team": "PHX",
-       "pos": "PG/SG",
-       "espnId": 4278402,
-       "fpts": 23.9,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 25.0,
-       "matchup": "ORL @ PHX",
-       "dates": [
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 23.9,
-       "gtd": false
-      },
-      {
        "player": "Oso Ighodaro",
        "team": "PHX",
        "pos": "PF",
@@ -950,6 +944,24 @@
         "2026-11-07"
        ],
        "value": 18.4,
+       "gtd": false
+      },
+      {
+       "player": "Klay Thompson",
+       "team": "MIA",
+       "pos": "SG/SF",
+       "espnId": 6475,
+       "fpts": 16.8,
+       "mpg": 21.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 15.7,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-08"
+       ],
+       "value": 16.8,
        "gtd": false
       }
      ]
@@ -1132,8 +1144,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 4,
-     "open": 5,
+     "mine": 5,
+     "open": 4,
      "sitting": 0,
      "adds": 6,
      "addsLimit": 7,
@@ -1169,23 +1181,6 @@
        "waiver": "2026-11-02"
       },
       {
-       "player": "Jordan Goodwin",
-       "team": "PHX",
-       "pos": "PG/SG",
-       "espnId": 4278402,
-       "fpts": 23.9,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 25.0,
-       "matchup": "HOU @ PHX",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 23.9,
-       "gtd": false
-      },
-      {
        "player": "Meleek Thomas",
        "team": "CLE",
        "pos": "SG",
@@ -1200,6 +1195,23 @@
         "2026-11-07"
        ],
        "value": 23.3,
+       "gtd": false
+      },
+      {
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 21.2,
+       "mpg": 24.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 19.5,
+       "matchup": "NYK @ CLE",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 21.2,
        "gtd": false
       }
      ]
