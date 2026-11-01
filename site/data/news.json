@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-01T17:21:57Z",
+ "updated": "2026-11-01T18:21:55Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "POR",
+   "player": "Chris Youngblood",
+   "headline": "Makes season debut Saturday",
+   "note": "Youngblood supplied three points (1-4 FG, 1-4 3Pt) in seven minutes during Saturday's 112-90 victory over the Jazz.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/chris-youngblood-news-makes-season-debut-saturday-537073"
+  },
   {
    "date": "2026-11-01",
    "team": "PHI",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-11-01",
-   "team": "NOP",
-   "player": "Derik Queen",
-   "headline": "Grabs eight boards Saturday",
-   "note": "Queen posted eight points (3-6 FG, 2-2 FT), eight rebounds, four assists and one steal in 23 minutes during Saturday's 121-99 win over Atlanta.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-grabs-eight-boards-saturday-537040"
-  },
-  {
-   "date": "2026-11-01",
    "team": "IND",
    "player": "Johnny Furphy",
    "headline": "Recalled Saturday",
@@ -325,7 +325,7 @@
    "date": "2026-11-01",
    "team": "MIL",
    "player": "Gary Trent",
-   "headline": "Another garbage time special",
+   "headline": "Another garbage-time special",
    "note": "Trent logged three points (1-2 FG, 1-2 3Pt), one rebound and one assist in six minutes during Saturday's 136-111 loss to the Cavaliers.",
    "kind": "lineup",
    "source": "RotoWire",
@@ -340,6 +340,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ryan-rollins-news-another-rough-night-saturday-537032"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Derik Queen",
+   "headline": "Grabs eight boards Saturday",
+   "note": "Queen posted eight points (3-6 FG, 2-2 FT), eight rebounds, four assists and one steal in 23 minutes during Saturday's 121-99 win over Atlanta.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-grabs-eight-boards-saturday-537040"
   },
   {
    "date": "2026-11-01",
@@ -370,6 +380,16 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/koa-peat-news-recalled-by-phoenix-537043"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "MIL",
+   "player": "Gary Trent",
+   "headline": "Another garbage time special",
+   "note": "Trent logged three points (1-2 FG, 1-2 3Pt), one rebound and one assist in six minutes during Saturday's 136-111 loss to the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gary-trent-news-another-garbage-time-special-537033"
   },
   {
    "date": "2026-10-31",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/julius-randle-news-turnover-woes-continue-friday-536962"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Shooting struggles in loss",
-   "note": "Brown finished with 10 points (2-9 FG, 0-4 3Pt, 6-8 FT), four assists and one steal across 23 minutes in Friday's 110-94 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-shooting-struggles-in-loss-536960"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "BKN",
-   "player": "Moritz Wagner",
-   "headline": "Solid production off bench Friday",
-   "note": "Wagner finished with 16 points (7-10 FG, 1-2 3Pt, 1-1 FT), eight rebounds, one assist and one steal over 23 minutes in Friday's 110-94 loss to the Pistons.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moritz-wagner-news-solid-production-off-bench-friday-536954"
   }
  ]
 }
