@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-01T14:21:56Z",
+ "updated": "2026-11-01T15:21:58Z",
  "items": [
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Derik Queen",
+   "headline": "Grabs eight boards Saturday",
+   "note": "Queen posted eight points (3-6 FG, 2-2 FT), eight rebounds, four assists and one steal in 23 minutes during Saturday's 121-99 win over Atlanta.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-grabs-eight-boards-saturday-537040"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Zion Williamson",
+   "headline": "Tallies three steals against Atlanta",
+   "note": "Williamson chipped in 15 points (5-8 FG, 5-8 FT), six rebounds, four assists and three steals across 30 minutes during Saturday's 121-99 win over the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-tallies-three-steals-against-atlanta-537038"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Saddiq Bey",
+   "headline": "Strong performance off bench",
+   "note": "Bey ended with 25 points (9-13 FG, 1-2 3Pt, 6-7 FT), six rebounds, one assist and four steals across 26 minutes during Saturday's 121-99 win over Atlanta.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-strong-performance-off-bench-537037"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Downgraded to out",
+   "note": "Robinson (rest) has been ruled out for Sunday's game against the Magic.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-downgraded-to-out-537036"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "headline": "Won't play Sunday",
+   "note": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-wont-play-sunday-537035"
+  },
   {
    "date": "2026-11-01",
    "team": "MIL",
@@ -60,6 +110,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-limited-again-in-win-537029"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "NOP",
+   "player": "Karlo Matkovic",
+   "headline": "Grabs 10 boards against Atlanta",
+   "note": "Matkovic closed Saturday's 121-99 victory over Atlanta with eight points (3-4 FG, 2-2 3Pt), 10 rebounds, one assist, one block and one steal across 18 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-grabs-10-boards-against-atlanta-537041"
   },
   {
    "date": "2026-10-31",
@@ -200,56 +260,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-drops-38-points-in-saturdays-loss-537015"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "SAS",
-   "player": "Victor Wembanyama",
-   "headline": "Sensational in Saturday's victory",
-   "note": "Wembanyama finished Saturday's 121-111 win over the Timberwolves with 43 points (17-34 FG, 3-8 3Pt, 6-9 FT), seven rebounds, four assists, six blocks and one steal over 33 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-sensational-in-saturdays-victory-537014"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "MIL",
-   "player": "Kel'el Ware",
-   "headline": "Double-doubles off bench",
-   "note": "Ware finished Saturday's 136-111 loss to the Cavaliers with 19 points (6-16 FG, 3-8 3Pt, 4-5 FT), 10 rebounds, two assists, two blocks and one steal over 24 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kelel-ware-news-double-doubles-off-bench-537013"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Anfernee Simons",
-   "headline": "Productive on both ends Saturday",
-   "note": "Simons finished with 19 points (6-12 FG, 5-9 3Pt, 2-2 FT), two assists and three steals across 25 minutes in Saturday's 109-104 victory over Charlotte.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anfernee-simons-news-productive-on-both-ends-saturday-537012"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Jaylen Brown",
-   "headline": "Underwhelms in 38 minutes Saturday",
-   "note": "Brown ended with 16 points (6-15 FG, 0-2 3Pt, 4-7 FT), four rebounds, four assists and two steals across 38 minutes in Saturday's 109-104 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-underwhelms-in-38-minutes-saturday-537011"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "NOP",
-   "player": "Jeremiah Fears",
-   "headline": "Scores 20 points against New Orleans",
-   "note": "Fears posted 20 points (9-12 FG, 1-2 3Pt, 1-2 FT), seven assists, five rebounds and one steal over 31 minutes during the Pelicans' 121-99 win over the Hawks on Saturday.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-scores-20-points-against-new-orleans-537010"
   },
   {
    "date": "2026-10-31",
@@ -483,26 +493,6 @@
   },
   {
    "date": "2026-10-31",
-   "team": "PHI",
-   "player": "Jabari Walker",
-   "headline": "Questionable for Saturday",
-   "note": "Walker (knee) is questionable for Saturday's game in Charlotte.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-walker-injury-questionable-for-saturday-536967"
-  },
-  {
-   "date": "2026-10-31",
-   "team": "PHI",
-   "player": "LeBron James",
-   "headline": "Won't play Saturday",
-   "note": "James (back) has been ruled out for Saturday's meeting in Charlotte.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lebron-james-injury-wont-play-saturday-536966"
-  },
-  {
-   "date": "2026-10-31",
    "team": "BKN",
    "player": "Julius Randle",
    "headline": "Turnover woes continue Friday",
@@ -600,6 +590,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-logs-double-double-in-victory-536917"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "DEN",
+   "player": "Christian Braun",
+   "headline": "Stellar with 31 points",
+   "note": "Braun registered 31 points (11-16 FG, 7-9 3Pt, 2-2 FT), three rebounds, one assist and three steals in 37 minutes during Friday's 127-120 win over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-stellar-with-31-points-536916"
   }
  ]
 }

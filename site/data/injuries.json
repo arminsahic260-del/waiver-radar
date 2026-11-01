@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:21:21Z",
+ "updated": "2026-11-01T15:21:23Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -86,11 +86,11 @@
    "team": "BOS",
    "player": "Mitchell Robinson",
    "pos": "C",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 2",
+   "kind": "out",
+   "ret": "2026-11-02"
   },
   {
    "team": "CHA",
@@ -476,11 +476,11 @@
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "LAL",
