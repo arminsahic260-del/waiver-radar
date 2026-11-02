@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:22:03Z",
+ "updated": "2026-11-02T22:22:10Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-02T21:22:03Z",
+   "updated": "2026-11-02T22:22:10Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -96,33 +96,33 @@
      }
     },
     {
-     "name": "Kyrie Irving",
-     "team": "DAL",
-     "pos": "PG",
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
      "slot": "G",
-     "espnId": 6442,
-     "gp": 5,
-     "cur": 41.2,
-     "proj": 44.2,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 47,
-      "round": 4,
-      "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "F",
-     "espnId": 4278355,
-     "gp": 5,
-     "cur": 27.2,
-     "proj": 21.9,
+     "espnId": 4433137,
+     "gp": 4,
+     "cur": 26.8,
+     "proj": 19.7,
      "acq": "ADD",
      "draft": null
+    },
+    {
+     "name": "Draymond Green",
+     "team": "GSW",
+     "pos": "PF/C",
+     "slot": "F",
+     "espnId": 6589,
+     "gp": 5,
+     "cur": 22.0,
+     "proj": 28.5,
+     "acq": "ADD",
+     "draft": {
+      "pick": 146,
+      "round": 11,
+      "roundPick": 6,
+      "teamId": 2
+     }
     },
     {
      "name": "Darius Acuff Jr.",
@@ -176,6 +176,23 @@
      }
     },
     {
+     "name": "Kyrie Irving",
+     "team": "DAL",
+     "pos": "PG",
+     "slot": "BE",
+     "espnId": 6442,
+     "gp": 5,
+     "cur": 41.2,
+     "proj": 44.2,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 47,
+      "round": 4,
+      "roundPick": 5,
+      "teamId": 1
+     }
+    },
+    {
      "name": "Ivica Zubac",
      "team": "IND",
      "pos": "C",
@@ -193,33 +210,16 @@
      }
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
      "slot": "BE",
-     "espnId": 4433137,
-     "gp": 4,
-     "cur": 26.8,
-     "proj": 19.7,
+     "espnId": 4278355,
+     "gp": 5,
+     "cur": 27.2,
+     "proj": 21.9,
      "acq": "ADD",
      "draft": null
-    },
-    {
-     "name": "Draymond Green",
-     "team": "GSW",
-     "pos": "PF/C",
-     "slot": "BE",
-     "espnId": 6589,
-     "gp": 5,
-     "cur": 22.0,
-     "proj": 28.5,
-     "acq": "ADD",
-     "draft": {
-      "pick": 146,
-      "round": 11,
-      "roundPick": 6,
-      "teamId": 2
-     }
     },
     {
      "name": "Paolo Banchero",
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-02T21:22:03Z",
+   "updated": "2026-11-02T22:22:10Z",
    "adds": {
     "period": 3,
     "used": 0,

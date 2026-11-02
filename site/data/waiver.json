@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:22:03Z",
+ "updated": "2026-11-02T22:22:10Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -120,26 +120,21 @@
    "fpts": 23.0
   },
   {
-   "player": "Brook Lopez",
+   "player": "Max Strus",
    "team": "LAC",
-   "pos": "C",
+   "pos": "SF",
    "priority": 2,
-   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Brook Lopez je prvi C u rotaciji LAC-a za te minute; ~22.4 FP po utakmici (ove sezone 23.8 u 6 utk., prošle sezone 20.3; 22 min).",
-   "role": "Veća minutaža dok je out Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Brandon Ingram",
+   "reason": "Derrick Jones Jr. (koljeno) je out najmanje do 4.11. — nova ozljeda; Rui Hachimura (kvadriceps) je out najmanje do 4.11. — nova ozljeda; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Max Strus je prvi SF u rotaciji LAC-a za te minute; ~21.7 FP po utakmici (prošle sezone, 24 min).",
+   "role": "Veća minutaža dok su out Derrick Jones Jr. i Rui Hachimura",
+   "horizon": "Do ~4.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Derrick Jones Jr.",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3448,
-   "waivers": {
-    "Banijska": "2026-11-03"
-   },
-   "fpts": 22.4,
-   "gp": 6,
-   "cur": 23.8
+   "espnId": 4065778,
+   "fpts": 21.7
   },
   {
    "player": "Kelly Oubre Jr.",
@@ -165,8 +160,8 @@
    "team": "TOR",
    "pos": "PF",
    "priority": 2,
-   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. Collin Murray-Boyles je prvi PF u rotaciji TOR-a za te minute; ~20.1 FP po utakmici (ove sezone 18.2 u 6 utk., prošle sezone 23.1; 20 min).",
-   "role": "Veća minutaža dok je out Kawhi Leonard",
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11.; Scottie Barnes (kuk) je upitan (GTD). Collin Murray-Boyles je prvi PF u rotaciji TOR-a za te minute; ~20.1 FP po utakmici (ove sezone 18.2 u 6 utk., prošle sezone 23.1; 20 min).",
+   "role": "Veća minutaža dok su out Kawhi Leonard i Scottie Barnes",
    "horizon": "Do ~23.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kawhi Leonard",
    "avail": {
@@ -443,42 +438,26 @@
    "cur": 10.9
   },
   {
-   "player": "Keaton Wagler",
+   "player": "Brook Lopez",
    "team": "LAC",
-   "pos": "PG/SG",
+   "pos": "C",
    "priority": 3,
-   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Keaton Wagler je sljedeći PG/SG u rotaciji LAC-a za te minute; ~21.9 FP po utakmici (ove sezone 20.3 u 6 utk., ESPN projekcija 24.4; 26 min).",
-   "role": "Veća minutaža dok je out Brandon Ingram",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Brandon Ingram",
+   "reason": "Derrick Jones Jr. (koljeno) je out najmanje do 4.11. — nova ozljeda; Rui Hachimura (kvadriceps) je out najmanje do 4.11. — nova ozljeda; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Brook Lopez je sljedeći C u rotaciji LAC-a za te minute; ~22.4 FP po utakmici (ove sezone 23.8 u 6 utk., prošle sezone 20.3; 22 min).",
+   "role": "Veća minutaža dok su out Derrick Jones Jr. i Rui Hachimura",
+   "horizon": "Do ~4.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Derrick Jones Jr.",
    "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 5254165,
-   "fpts": 21.9,
-   "gp": 6,
-   "cur": 20.3
-  },
-  {
-   "player": "Brandon Williams",
-   "team": "GSW",
-   "pos": "PG/SG",
-   "priority": 3,
-   "reason": "Stephen Curry (odmor) je upitan (GTD). Brandon Williams je sljedeći PG/SG u rotaciji GSW-a za te minute; ~21.1 FP po utakmici (ove sezone 19.4 u 7 utk., prošle sezone 23.9; 19 min).",
-   "role": "Zamjena ako Stephen Curry ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Stephen Curry",
-   "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397040,
-   "fpts": 21.1,
-   "gp": 7,
-   "cur": 19.4
+   "espnId": 3448,
+   "waivers": {
+    "Banijska": "2026-11-03"
+   },
+   "fpts": 22.4,
+   "gp": 6,
+   "cur": 23.8
   },
   {
    "player": "Jakob Poeltl",
@@ -498,6 +477,25 @@
    "fpts": 20.3,
    "gp": 5,
    "cur": 14.6
+  },
+  {
+   "player": "Jamal Shead",
+   "team": "TOR",
+   "pos": "PG",
+   "priority": 3,
+   "reason": "Scottie Barnes (kuk) je upitan (GTD). Jamal Shead je sljedeći PG u rotaciji TOR-a za te minute; ~20.0 FP po utakmici (ove sezone 20.0 u 6 utk., prošle sezone 20.0; 22 min).",
+   "role": "Zamjena ako Scottie Barnes ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Scottie Barnes",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4432241,
+   "fpts": 20.0,
+   "gp": 6,
+   "cur": 20.0
   },
   {
    "player": "Keldon Johnson",
@@ -945,24 +943,6 @@
        "gtd": false
       },
       {
-       "player": "Day'Ron Sharpe",
-       "team": "BKN",
-       "pos": "C",
-       "espnId": 4432194,
-       "fpts": 22.2,
-       "mpg": 21.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 21.5,
-       "matchup": "BKN @ ATL",
-       "dates": [
-        "2026-11-07",
-        "2026-11-08"
-       ],
-       "value": 22.2,
-       "gtd": false
-      },
-      {
        "player": "Sam Merrill",
        "team": "CLE",
        "pos": "SG",
@@ -977,6 +957,23 @@
         "2026-11-07"
        ],
        "value": 21.2,
+       "gtd": false
+      },
+      {
+       "player": "Trevon Brazile",
+       "team": "DEN",
+       "pos": "SF/PF",
+       "espnId": 4698719,
+       "fpts": 20.2,
+       "mpg": 22.8,
+       "basis": "sezona",
+       "gp": 5,
+       "cur": 20.2,
+       "matchup": "DEN @ IND",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 20.2,
        "gtd": false
       }
      ]
@@ -1101,23 +1098,6 @@
        "gtd": false
       },
       {
-       "player": "Day'Ron Sharpe",
-       "team": "BKN",
-       "pos": "C",
-       "espnId": 4432194,
-       "fpts": 22.2,
-       "mpg": 21.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 21.5,
-       "matchup": "BKN @ DAL",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 22.2,
-       "gtd": false
-      },
-      {
        "player": "Keaton Wagler",
        "team": "LAC",
        "pos": "PG/SG",
@@ -1132,6 +1112,23 @@
         "2026-11-08"
        ],
        "value": 21.9,
+       "gtd": false
+      },
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 21.2,
+       "mpg": 21.5,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 16.2,
+       "matchup": "UTA @ MIN",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 21.2,
        "gtd": false
       }
      ]

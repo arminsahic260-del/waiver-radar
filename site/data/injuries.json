@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:21:23Z",
+ "updated": "2026-11-02T22:21:24Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -254,6 +254,16 @@
   },
   {
    "team": "GSW",
+   "player": "Al Horford",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 5",
+   "kind": "out",
+   "ret": "2026-11-05"
+  },
+  {
+   "team": "GSW",
    "player": "Gui Santos",
    "pos": "SF",
    "updated": "2026-11-02",
@@ -294,20 +304,10 @@
   },
   {
    "team": "GSW",
-   "player": "Draymond Green",
-   "pos": "PF",
-   "updated": "2026-11-02",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "GSW",
-   "player": "Stephen Curry",
+   "player": "Brandon Williams",
    "pos": "PG",
    "updated": "2026-11-02",
-   "injury": "Rest",
+   "injury": "Quadriceps",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -464,6 +464,16 @@
   },
   {
    "team": "LAC",
+   "player": "Derrick Jones Jr.",
+   "pos": "SF",
+   "updated": "2026-11-02",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "LAC",
    "player": "Jordan Miller",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -474,13 +484,13 @@
   },
   {
    "team": "LAC",
-   "player": "Max Strus",
-   "pos": "SG",
-   "updated": "2026-10-15",
-   "injury": "Foot",
-   "status": "Expected return: at least Nov 8",
+   "player": "Rui Hachimura",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Quadriceps",
+   "status": "Expected return: at least Nov 4",
    "kind": "out",
-   "ret": "2026-11-08"
+   "ret": "2026-11-04"
   },
   {
    "team": "LAC",
@@ -493,16 +503,6 @@
    "ret": "2026-11-08"
   },
   {
-   "team": "LAC",
-   "player": "Derrick Jones Jr.",
-   "pos": "SF",
-   "updated": "2026-11-01",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
@@ -511,16 +511,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "pos": "PF",
-   "updated": "2026-11-02",
-   "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "MEM",
@@ -898,6 +888,16 @@
    "pos": "C",
    "updated": "2026-11-01",
    "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "TOR",
+   "player": "Scottie Barnes",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

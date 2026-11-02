@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-02T21:22:02Z",
+ "updated": "2026-11-02T22:22:09Z",
  "items": [
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
+   "player": "Scottie Barnes",
+   "headline": "Questionable to face LAC",
+   "note": "Barnes (hip) is listed as questionable for Monday's game against the Clippers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-questionable-to-face-lac-537229"
+  },
   {
    "date": "2026-11-02",
    "team": "LAC",
@@ -303,16 +313,6 @@
   },
   {
    "date": "2026-11-02",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Will rest Monday",
-   "note": "Black will be rested Monday against the Wizards.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-will-rest-monday-537195"
-  },
-  {
-   "date": "2026-11-02",
    "team": "BOS",
    "player": "Luka Garza",
    "headline": "Solid production off bench",
@@ -584,22 +584,22 @@
   {
    "date": "2026-11-02",
    "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Will rest Monday",
+   "note": "Black will be rested Monday against the Wizards.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-will-rest-monday-537195"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "ORL",
    "player": "Nikola Vucevic",
    "headline": "Quiet outing in loss",
    "note": "Vucevic racked up two points (1-2 FG), four rebounds, two assists and one block across seven minutes during Sunday's 108-97 loss to Boston.",
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/nikola-vucevic-news-quiet-outing-in-loss-537194"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "ORL",
-   "player": "Goga Bitadze",
-   "headline": "Barely sees floor",
-   "note": "Bitadze totaled zero points (0-1 FG) and one rebound across five minutes during Sunday's 108-97 loss to Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/goga-bitadze-news-barely-sees-floor-537193"
   }
  ]
 }
