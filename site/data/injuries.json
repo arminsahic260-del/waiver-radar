@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:21:19Z",
+ "updated": "2026-11-02T18:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -644,6 +644,16 @@
   },
   {
    "team": "ORL",
+   "player": "Anthony Black",
+   "pos": "SG",
+   "updated": "2026-11-02",
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 5",
+   "kind": "out",
+   "ret": "2026-11-05"
+  },
+  {
+   "team": "ORL",
    "player": "Izaiyah Nelson",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -766,11 +776,11 @@
    "team": "SAC",
    "player": "Keegan Murray",
    "pos": "PF",
-   "updated": "2026-10-26",
+   "updated": "2026-11-02",
    "injury": "Ankle",
-   "status": "Expected return: at least Nov 6",
+   "status": "Expected return: at least Nov 10",
    "kind": "out",
-   "ret": "2026-11-06"
+   "ret": "2026-11-10"
   },
   {
    "team": "SAC",

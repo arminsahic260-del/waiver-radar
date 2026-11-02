@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:21:54Z",
+ "updated": "2026-11-02T18:21:56Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-02T17:21:54Z",
+   "updated": "2026-11-02T18:21:56Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-02T17:21:54Z",
+   "updated": "2026-11-02T18:21:56Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -289,21 +289,16 @@
      }
     },
     {
-     "name": "Peyton Watson",
-     "team": "CLE",
+     "name": "De'Andre Hunter",
+     "team": "SAC",
      "pos": "SF/PF",
      "slot": "SF",
-     "espnId": 4576087,
+     "espnId": 4065732,
      "gp": 6,
-     "cur": 25.5,
-     "proj": 29.3,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 123,
-      "round": 9,
-      "roundPick": 11,
-      "teamId": 5
-     }
+     "cur": 21.3,
+     "proj": 23.9,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Jaden McDaniels",
@@ -408,16 +403,33 @@
      }
     },
     {
-     "name": "De'Andre Hunter",
-     "team": "SAC",
-     "pos": "SF/PF",
+     "name": "Jordan Goodwin",
+     "team": "PHX",
+     "pos": "PG/SG",
      "slot": "UTIL",
-     "espnId": 4065732,
-     "gp": 6,
-     "cur": 21.3,
-     "proj": 23.9,
+     "espnId": 4278402,
+     "gp": 4,
+     "cur": 25.0,
+     "proj": null,
      "acq": "ADD",
      "draft": null
+    },
+    {
+     "name": "Peyton Watson",
+     "team": "CLE",
+     "pos": "SF/PF",
+     "slot": "BE",
+     "espnId": 4576087,
+     "gp": 6,
+     "cur": 25.5,
+     "proj": 29.3,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 123,
+      "round": 9,
+      "roundPick": 11,
+      "teamId": 5
+     }
     },
     {
      "name": "Obi Toppin",
@@ -428,18 +440,6 @@
      "gp": 5,
      "cur": 27.2,
      "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Jordan Goodwin",
-     "team": "PHX",
-     "pos": "PG/SG",
-     "slot": "BE",
-     "espnId": 4278402,
-     "gp": 4,
-     "cur": 25.0,
-     "proj": null,
      "acq": "ADD",
      "draft": null
     },
