@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:22:10Z",
+ "updated": "2026-11-02T14:22:03Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-02T13:22:10Z",
+   "updated": "2026-11-02T14:22:03Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -149,7 +149,7 @@
      "espnId": 5175737,
      "gp": 7,
      "cur": 36.6,
-     "proj": 23.5,
+     "proj": 33.7,
      "acq": "DRAFT",
      "draft": {
       "pick": 122,
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-02T13:22:10Z",
+   "updated": "2026-11-02T14:22:03Z",
    "adds": {
     "period": 3,
     "used": 0,
