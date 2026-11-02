@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:21:56Z",
+ "updated": "2026-11-02T18:32:19Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -388,7 +388,7 @@
    "team": "ORL",
    "pos": "PG",
    "priority": 2,
-   "reason": "Anthony Black (odmor) je out najmanje do 5.11. — nova ozljeda; Jalen Suggs (koljeno) je out najmanje do 10.11. Jevon Carter je prvi PG u rotaciji ORL-a za te minute; ~12.5 FP po utakmici (ove sezone 9.5 u 2 utk., prošle sezone 14.0; 17 min).",
+   "reason": "Anthony Black (odmor) je out najmanje do 5.11.; Jalen Suggs (koljeno) je out najmanje do 10.11. Jevon Carter je prvi PG u rotaciji ORL-a za te minute; ~12.5 FP po utakmici (ove sezone 9.5 u 2 utk., prošle sezone 14.0; 17 min).",
    "role": "Veća minutaža dok su out Anthony Black i Jalen Suggs",
    "horizon": "Do ~5.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Anthony Black; nizak bodovni plafon",
