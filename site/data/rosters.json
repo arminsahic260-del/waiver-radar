@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:53:35Z",
+ "updated": "2026-11-02T06:48:03Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-02T00:53:34Z",
+   "updated": "2026-11-02T06:48:03Z",
    "adds": {
     "period": 2,
     "used": 7,
@@ -50,8 +50,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 5175737,
-     "gp": 6,
-     "cur": 31.8,
+     "gp": 7,
+     "cur": 36.6,
      "proj": 23.5,
      "acq": "DRAFT",
      "draft": {
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-02T00:53:35Z",
+   "updated": "2026-11-02T06:48:03Z",
    "adds": {
     "period": 2,
     "used": 4,
@@ -323,8 +323,8 @@
      "pos": "PF/C",
      "slot": "C",
      "espnId": 4278580,
-     "gp": 6,
-     "cur": 22.2,
+     "gp": 7,
+     "cur": 21.4,
      "proj": null,
      "acq": "ADD",
      "draft": null

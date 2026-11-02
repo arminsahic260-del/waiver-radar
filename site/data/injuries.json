@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:52:55Z",
+ "updated": "2026-11-02T06:47:30Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -54,16 +54,6 @@
   },
   {
    "team": "BKN",
-   "player": "Mikel Brown Jr.",
-   "pos": "PG",
-   "updated": "2026-10-31",
-   "injury": "Rest",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "BKN",
    "player": "Tyler Bilodeau",
    "pos": "SF",
    "updated": "2026-10-31",
@@ -71,6 +61,16 @@
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
+  },
+  {
+   "team": "BKN",
+   "player": "Mikel Brown Jr.",
+   "pos": "PG",
+   "updated": "2026-11-01",
+   "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "BOS",
@@ -326,7 +326,7 @@
    "team": "GSW",
    "player": "Gui Santos",
    "pos": "SF",
-   "updated": "2026-10-31",
+   "updated": "2026-11-01",
    "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
@@ -394,26 +394,6 @@
   },
   {
    "team": "IND",
-   "player": "Obi Toppin",
-   "pos": "PF",
-   "updated": "2026-11-01",
-   "injury": "Back",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "pos": "PG",
-   "updated": "2026-10-28",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "IND",
    "player": "Tyrese Haliburton",
    "pos": "PG",
    "updated": "2026-10-28",
@@ -421,6 +401,26 @@
    "status": "Expected return: at least Nov 13",
    "kind": "out",
    "ret": "2026-11-13"
+  },
+  {
+   "team": "IND",
+   "player": "Obi Toppin",
+   "pos": "PF",
+   "updated": "2026-11-01",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "pos": "PG",
+   "updated": "2026-11-01",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "LAC",
@@ -473,6 +473,16 @@
    "ret": "2026-11-08"
   },
   {
+   "team": "LAC",
+   "player": "Derrick Jones Jr.",
+   "pos": "SF",
+   "updated": "2026-11-01",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
@@ -508,6 +518,16 @@
    "pos": "PG",
    "updated": "2026-11-01",
    "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "MIA",
+   "player": "Tim Hardaway Jr.",
+   "pos": "SG",
+   "updated": "2026-11-01",
+   "injury": "Personal",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -831,6 +851,16 @@
    "status": "Expected return: at least Nov 2",
    "kind": "out",
    "ret": "2026-11-02"
+  },
+  {
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "pos": "C",
+   "updated": "2026-11-01",
+   "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "UTA",
