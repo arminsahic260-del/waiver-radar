@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:21:20Z",
+ "updated": "2026-11-02T20:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -74,13 +74,13 @@
   },
   {
    "team": "BOS",
-   "player": "Mitchell Robinson",
-   "pos": "C",
+   "player": "Paul George",
+   "pos": "SF",
    "updated": "2026-11-02",
    "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "CHA",
@@ -186,7 +186,7 @@
    "team": "DAL",
    "player": "Kyrie Irving",
    "pos": "PG",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
@@ -314,6 +314,16 @@
   },
   {
    "team": "HOU",
+   "player": "Clint Capela",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-11-01",
@@ -321,16 +331,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "HOU",
-   "player": "Clint Capela",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "HOU",
@@ -573,6 +573,26 @@
    "ret": "2027-04-02"
   },
   {
+   "team": "MIN",
+   "player": "LaMelo Ball",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "MIN",
+   "player": "Terrence Shannon Jr.",
+   "pos": "SF",
+   "updated": "2026-11-02",
+   "injury": "Hip",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "NOP",
    "player": "Jordan Poole",
    "pos": "PG",
@@ -594,10 +614,10 @@
   },
   {
    "team": "NOP",
-   "player": "Trey Murphy III",
-   "pos": "SF",
-   "updated": "2026-11-01",
-   "injury": "Knee",
+   "player": "Dejounte Murray",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Personal",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

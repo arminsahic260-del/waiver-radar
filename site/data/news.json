@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-02T19:21:55Z",
+ "updated": "2026-11-02T20:22:01Z",
  "items": [
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
+   "player": "Nate Bittle",
+   "headline": "Remains without timetable",
+   "note": "Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nate-bittle-injury-remains-without-timetable-537218"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIA",
+   "player": "Tim Hardaway",
+   "headline": "Good to go Monday",
+   "note": "Hardaway (personal) is good to go for Monday against the Lakers, Ira Winderman of the South Florida Sun Sentinel reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-news-good-to-go-monday-537217"
+  },
   {
    "date": "2026-11-02",
    "team": "BOS",
@@ -234,26 +254,6 @@
   {
    "date": "2026-11-02",
    "team": "LAC",
-   "player": "Brook Lopez",
-   "headline": "Struggles in defeat",
-   "note": "Lopez racked up seven points (3-8 FG, 1-2 3Pt), two rebounds and two steals in 19 minutes during Sunday's 124-112 loss to Golden State.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-struggles-in-defeat-537192"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAC",
-   "player": "Nick Martinelli",
-   "headline": "Scores 10 points",
-   "note": "Martinelli chipped in 10 points (4-5 FG, 2-3 3Pt) and three rebounds across six minutes during Sunday's 124-112 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nick-martinelli-news-scores-10-points-537191"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAC",
    "player": "Yanic Konan Niederhauser",
    "headline": "Recalled from G League",
    "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
@@ -434,6 +434,26 @@
   {
    "date": "2026-11-02",
    "team": "LAC",
+   "player": "Brook Lopez",
+   "headline": "Struggles in defeat",
+   "note": "Lopez racked up seven points (3-8 FG, 1-2 3Pt), two rebounds and two steals in 19 minutes during Sunday's 124-112 loss to Golden State.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-struggles-in-defeat-537192"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
+   "player": "Nick Martinelli",
+   "headline": "Scores 10 points",
+   "note": "Martinelli chipped in 10 points (4-5 FG, 2-3 3Pt) and three rebounds across six minutes during Sunday's 124-112 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nick-martinelli-news-scores-10-points-537191"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
    "player": "Kobe Sanders",
    "headline": "Drains four treys in Sunday's loss",
    "note": "Sanders totaled 16 points (6-9 FG, 4-6 3Pt), three rebounds and one steal in 30 minutes off the bench during Sunday's 124-112 loss to the Warriors.",
@@ -534,6 +554,16 @@
   {
    "date": "2026-11-02",
    "team": "TOR",
+   "player": "Jakob Poeltl",
+   "headline": "Iffy to play Monday",
+   "note": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-iffy-to-play-monday-537219"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
    "player": "Jamal Shead",
    "headline": "Solid production in loss",
    "note": "Shead racked up nine points (3-6 FG, 2-4 3Pt, 1-1 FT), two rebounds, six assists and three steals in 25 minutes during Sunday's 131-125 loss to the Lakers.",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-hits-for-22-in-loss-to-lakers-537159"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "UTA",
-   "player": "Ace Bailey",
-   "headline": "Team option exercised",
-   "note": "The Jazz have exercised Bailey's $9.98 million rookie-scale team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-team-option-exercised-537188"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "UTA",
-   "player": "Isaiah Collier",
-   "headline": "Utah to decline option",
-   "note": "The Jazz will decline Collier's $4.99 million team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-collier-news-utah-to-decline-option-537187"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Won't play Monday",
-   "note": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-wont-play-monday-537150"
   }
  ]
 }
