@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:31:44Z",
+ "updated": "2026-11-02T19:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -61,16 +61,6 @@
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
-  },
-  {
-   "team": "BKN",
-   "player": "Mikel Brown Jr.",
-   "pos": "PG",
-   "updated": "2026-11-01",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "BOS",
@@ -244,6 +234,16 @@
   },
   {
    "team": "DET",
+   "player": "Isaiah Joe",
+   "pos": "SG",
+   "updated": "2026-11-02",
+   "injury": "Hip",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
    "updated": "2026-10-25",
@@ -251,16 +251,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "pos": "SG",
-   "updated": "2026-10-31",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "GSW",
@@ -354,6 +344,26 @@
   },
   {
    "team": "IND",
+   "player": "Aaron Nesmith",
+   "pos": "SF",
+   "updated": "2026-11-02",
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "pos": "SG",
+   "updated": "2026-11-02",
+   "injury": "Neck",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "IND",
    "player": "Ben Sheppard",
    "pos": "SG",
    "updated": "2026-10-28",
@@ -361,6 +371,16 @@
    "status": "Expected return: at least Jan 2",
    "kind": "out",
    "ret": "2027-01-02"
+  },
+  {
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "IND",
@@ -374,6 +394,26 @@
   },
   {
    "team": "IND",
+   "player": "Pascal Siakam",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Hamstring",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "IND",
    "player": "Tyrese Haliburton",
    "pos": "PG",
    "updated": "2026-10-28",
@@ -384,10 +424,10 @@
   },
   {
    "team": "IND",
-   "player": "Ivica Zubac",
-   "pos": "C",
+   "player": "Larry Nance Jr.",
+   "pos": "PF",
    "updated": "2026-11-02",
-   "injury": "Ankle",
+   "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -398,16 +438,6 @@
    "pos": "PF",
    "updated": "2026-11-01",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "pos": "PG",
-   "updated": "2026-11-01",
-   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -894,6 +924,26 @@
   },
   {
    "team": "WAS",
+   "player": "Alex Sarr",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "WAS",
+   "player": "Anthony Gill",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -914,6 +964,16 @@
   },
   {
    "team": "WAS",
+   "player": "Reece Beekman",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Shoulder",
+   "status": "Expected return: at least Dec 3",
+   "kind": "out",
+   "ret": "2026-12-03"
+  },
+  {
+   "team": "WAS",
    "player": "Tristan Vukcevic",
    "pos": "PF",
    "updated": "2026-11-01",
@@ -921,26 +981,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "WAS",
-   "player": "Alex Sarr",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "WAS",
-   "player": "Anthony Gill",
-   "pos": "PF",
-   "updated": "2026-11-01",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }

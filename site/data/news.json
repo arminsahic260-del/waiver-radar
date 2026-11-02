@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-02T18:32:18Z",
+ "updated": "2026-11-02T19:21:55Z",
  "items": [
+  {
+   "date": "2026-11-02",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Available to play",
+   "note": "Robinson (rest) is not listed on the Celtics' injury report ahead of Monday's game against Houston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-available-to-play-537216"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "HOU",
+   "player": "Clint Capela",
+   "headline": "Won't play Monday",
+   "note": "Capela (ankle) has been ruled out for Monday's game against the Celtics.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-injury-wont-play-monday-537215"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "SAC",
+   "player": "Dylan Cardwell",
+   "headline": "Upgraded to probable",
+   "note": "Cardwell is probable for Monday's game against Dallas due to a left calf strain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-upgraded-to-probable-537214"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIN",
+   "player": "Terrence Shannon",
+   "headline": "Questionable due to hip",
+   "note": "Shannon has a left hip contusion and is questionable to face the Bucks on Monday.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-questionable-due-to-hip-537213"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIN",
+   "player": "LaMelo Ball",
+   "headline": "Iffy with wrist issue",
+   "note": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-injury-iffy-with-wrist-issue-537212"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "Will sit out Monday",
+   "note": "George will be rested Monday against Houston.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-injury-will-sit-out-monday-537211"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "headline": "Downgraded to questionable",
+   "note": "Murray (personal) is now questionable for Monday against Memphis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-downgraded-to-questionable-537210"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Will play Monday",
+   "note": "Murphy (knee) will play Monday against the Grizzlies.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-news-will-play-monday-537209"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Downgraded to doubtful",
+   "note": "Irving (knee) is now doubtful for Monday against the Kings.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-downgraded-to-doubtful-537208"
+  },
   {
    "date": "2026-11-02",
    "team": "IND",
@@ -163,96 +253,6 @@
   },
   {
    "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Al Horford",
-   "headline": "Knocks down three triples",
-   "note": "Horford had nine points (3-7 FG, 3-7 3Pt, 0-1 FT), five rebounds, two assists and one block across 22 minutes during Sunday's 124-112 win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/al-horford-news-knocks-down-three-triples-537190"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Gary Payton",
-   "headline": "Provides defensive spark",
-   "note": "Payton accumulated five points (2-4 FG, 1-3 3Pt), two rebounds, two assists and one steal over 15 minutes during Sunday's 124-112 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gary-payton-news-provides-defensive-spark-537189"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "UTA",
-   "player": "Ace Bailey",
-   "headline": "Team option exercised",
-   "note": "The Jazz have exercised Bailey's $9.98 million rookie-scale team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-team-option-exercised-537188"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "UTA",
-   "player": "Isaiah Collier",
-   "headline": "Utah to decline option",
-   "note": "The Jazz will decline Collier's $4.99 million team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-collier-news-utah-to-decline-option-537187"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "TOR",
-   "player": "Jamal Shead",
-   "headline": "Solid production in loss",
-   "note": "Shead racked up nine points (3-6 FG, 2-4 3Pt, 1-1 FT), two rebounds, six assists and three steals in 25 minutes during Sunday's 131-125 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jamal-shead-news-solid-production-in-loss-537186"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAL",
-   "player": "Sandro Mamukelashvili",
-   "headline": "Hits two triples in victory",
-   "note": "Mamukelashvili contributed 11 points (4-7 FG, 2-5 3Pt, 1-1 FT), one rebound and one assist over 24 minutes during Sunday's 131-125 victory over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-hits-two-triples-in-victory-537185"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAL",
-   "player": "Collin Sexton",
-   "headline": "Strong effort off bench",
-   "note": "Sexton ended Sunday's 131-125 victory over the Raptors with 14 points (6-10 FG, 1-3 3Pt, 1-2 FT), three rebounds, three assists and one steal across 19 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-strong-effort-off-bench-537184"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAL",
-   "player": "Jake LaRavia",
-   "headline": "Contributes across board",
-   "note": "LaRavia registered eight points (3-6 FG, 2-3 3Pt), two rebounds, four assists, one block and one steal in 25 minutes during Sunday's 131-125 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-contributes-across-board-537183"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Quenton Jackson",
-   "headline": "Scores in double digits again",
-   "note": "Jackson notched 12 points (4-8 FG, 3-4 3Pt, 1-2 FT), three rebounds and two assists across 23 minutes in Sunday's 98-90 loss to the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-scores-in-double-digits-again-537181"
-  },
-  {
-   "date": "2026-11-02",
    "team": "LAC",
    "player": "Yanic Konan Niederhauser",
    "headline": "Recalled from G League",
@@ -354,6 +354,26 @@
   {
    "date": "2026-11-02",
    "team": "GSW",
+   "player": "Al Horford",
+   "headline": "Knocks down three triples",
+   "note": "Horford had nine points (3-7 FG, 3-7 3Pt, 0-1 FT), five rebounds, two assists and one block across 22 minutes during Sunday's 124-112 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/al-horford-news-knocks-down-three-triples-537190"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Gary Payton",
+   "headline": "Provides defensive spark",
+   "note": "Payton accumulated five points (2-4 FG, 1-3 3Pt), two rebounds, two assists and one steal over 15 minutes during Sunday's 124-112 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gary-payton-news-provides-defensive-spark-537189"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
    "player": "Brandon Williams",
    "headline": "Pops for 17 off bench Sunday",
    "note": "Williams ended with 17 points (7-11 FG, 2-3 3Pt, 1-2 FT), three rebounds, three assists and one block across 25 minutes off the bench during Sunday's 124-112 victory over the Clippers.",
@@ -380,6 +400,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-big-night-from-downtown-sunday-537156"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "IND",
+   "player": "Quenton Jackson",
+   "headline": "Scores in double digits again",
+   "note": "Jackson notched 12 points (4-8 FG, 3-4 3Pt, 1-2 FT), three rebounds and two assists across 23 minutes in Sunday's 98-90 loss to the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-scores-in-double-digits-again-537181"
   },
   {
    "date": "2026-11-02",
@@ -420,6 +450,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-hits-for-team-high-24-in-sundays-loss-537154"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Sandro Mamukelashvili",
+   "headline": "Hits two triples in victory",
+   "note": "Mamukelashvili contributed 11 points (4-7 FG, 2-5 3Pt, 1-1 FT), one rebound and one assist over 24 minutes during Sunday's 131-125 victory over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-news-hits-two-triples-in-victory-537185"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Collin Sexton",
+   "headline": "Strong effort off bench",
+   "note": "Sexton ended Sunday's 131-125 victory over the Raptors with 14 points (6-10 FG, 1-3 3Pt, 1-2 FT), three rebounds, three assists and one steal across 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-sexton-news-strong-effort-off-bench-537184"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "headline": "Contributes across board",
+   "note": "LaRavia registered eight points (3-6 FG, 2-3 3Pt), two rebounds, four assists, one block and one steal in 25 minutes during Sunday's 131-125 win over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-contributes-across-board-537183"
   },
   {
    "date": "2026-11-02",
@@ -474,6 +534,16 @@
   {
    "date": "2026-11-02",
    "team": "TOR",
+   "player": "Jamal Shead",
+   "headline": "Solid production in loss",
+   "note": "Shead racked up nine points (3-6 FG, 2-4 3Pt, 1-1 FT), two rebounds, six assists and three steals in 25 minutes during Sunday's 131-125 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-shead-news-solid-production-in-loss-537186"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
    "player": "Jamison Battle",
    "headline": "Pops for 20 off bench Sunday",
    "note": "Battle had 20 points (7-14 FG, 4-10 3Pt, 2-2 FT) and five rebounds over 17 minutes off the bench during Sunday's 131-125 loss to the Lakers.",
@@ -502,6 +572,26 @@
    "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-hits-for-22-in-loss-to-lakers-537159"
   },
   {
+   "date": "2026-11-02",
+   "team": "UTA",
+   "player": "Ace Bailey",
+   "headline": "Team option exercised",
+   "note": "The Jazz have exercised Bailey's $9.98 million rookie-scale team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ace-bailey-news-team-option-exercised-537188"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "UTA",
+   "player": "Isaiah Collier",
+   "headline": "Utah to decline option",
+   "note": "The Jazz will decline Collier's $4.99 million team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-collier-news-utah-to-decline-option-537187"
+  },
+  {
    "date": "2026-11-01",
    "team": "GSW",
    "player": "Gui Santos",
@@ -510,96 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-wont-play-monday-537150"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "LAC",
-   "player": "Derrick Jones",
-   "headline": "Leaves game with knee injury",
-   "note": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-injury-leaves-game-with-knee-injury-537147"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "ATL",
-   "player": "Kingston Flemings",
-   "headline": "Suspended one game",
-   "note": "Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kingston-flemings-injury-suspended-one-game-537146"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Late scratch Sunday",
-   "note": "Poeltl (shoulder) won't play in Sunday's game against the Lakers, Vivek Jacob of the Raptors' official site reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-late-scratch-sunday-537143"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "OKC",
-   "player": "Thomas Sorber",
-   "headline": "Third-year option exercised by OKC",
-   "note": "Oklahoma City exercised the third-year team option on Sorber (knee) on Sunday, Clemente Almanza of USA Today reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/thomas-sorber-injury-third-year-option-exercised-by-okc-537137"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "MIA",
-   "player": "Tim Hardaway",
-   "headline": "Might not play Monday",
-   "note": "Hardaway (personal) is listed as questionable for Monday's game against the Lakers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-injury-might-not-play-monday-537133"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "DEN",
-   "player": "Spencer Jones",
-   "headline": "Still out for Monday",
-   "note": "Jones (hamstring) is listed as out for Monday's game against the Trail Blazers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-still-out-for-monday-537129"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "headline": "Questionable to play Monday",
-   "note": "Diallo (wrist) is listed as questionable for Monday's game versus Portland.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-questionable-to-play-monday-537128"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "SAC",
-   "player": "Dylan Cardwell",
-   "headline": "Questionable versus Dallas",
-   "note": "Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-questionable-versus-dallas-537127"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Dealing with elbow soreness",
-   "note": "LaVine (elbow) is questionable to play in Monday's game against Dallas.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-injury-dealing-with-elbow-soreness-537126"
   }
  ]
 }
