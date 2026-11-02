@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:21:27Z",
+ "updated": "2026-11-02T15:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -86,11 +86,11 @@
    "team": "BOS",
    "player": "Mitchell Robinson",
    "pos": "C",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Rest",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHA",
@@ -274,13 +274,13 @@
   },
   {
    "team": "GSW",
-   "player": "Draymond Green",
-   "pos": "PF",
-   "updated": "2026-10-31",
-   "injury": "Rest",
-   "status": "Expected return: at least Nov 2",
+   "player": "Gui Santos",
+   "pos": "SF",
+   "updated": "2026-11-02",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 5",
    "kind": "out",
-   "ret": "2026-11-02"
+   "ret": "2026-11-05"
   },
   {
    "team": "GSW",
@@ -314,20 +314,20 @@
   },
   {
    "team": "GSW",
-   "player": "Stephen Curry",
-   "pos": "PG",
-   "updated": "2026-10-31",
+   "player": "Draymond Green",
+   "pos": "PF",
+   "updated": "2026-11-02",
    "injury": "Rest",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "GSW",
-   "player": "Gui Santos",
-   "pos": "SF",
-   "updated": "2026-11-01",
-   "injury": "Knee",
+   "player": "Stephen Curry",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Rest",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -374,16 +374,6 @@
   },
   {
    "team": "IND",
-   "player": "Ivica Zubac",
-   "pos": "C",
-   "updated": "2026-10-31",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "IND",
    "player": "Johnny Furphy",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -401,6 +391,16 @@
    "status": "Expected return: at least Nov 13",
    "kind": "out",
    "ret": "2026-11-13"
+  },
+  {
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "IND",
@@ -496,11 +496,11 @@
    "team": "LAL",
    "player": "Ziaire Williams",
    "pos": "PF",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Foot",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MEM",
@@ -844,20 +844,20 @@
   },
   {
    "team": "TOR",
-   "player": "Nate Bittle",
-   "pos": "C",
-   "updated": "2026-10-27",
-   "injury": "Foot",
-   "status": "Expected return: at least Nov 2",
-   "kind": "out",
-   "ret": "2026-11-02"
-  },
-  {
-   "team": "TOR",
    "player": "Jakob Poeltl",
    "pos": "C",
    "updated": "2026-11-01",
    "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "TOR",
+   "player": "Nate Bittle",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Foot",
    "status": "GTD",
    "kind": "gtd",
    "ret": null

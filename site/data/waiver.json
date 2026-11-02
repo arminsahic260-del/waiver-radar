@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:22:03Z",
+ "updated": "2026-11-02T15:22:02Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -84,7 +84,7 @@
    "team": "PHX",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Stream za četvrtak (ORL @ PHX, tvojih igrača: 1). Jordan Goodwin je rotacijski PG/SG, ~23.9 FP po utakmici (ove sezone 25.0 u 4 utk., prošle sezone 22.8; 22 min); PHX ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "reason": "Stream za četvrtak (ORL @ PHX, tvojih igrača: 2). Jordan Goodwin je rotacijski PG/SG, ~23.9 FP po utakmici (ove sezone 25.0 u 4 utk., prošle sezone 22.8; 22 min); PHX ima 4 utakmice ovaj tjedan. Liga: Legendi.",
    "role": "Streamer (22 min)",
    "horizon": "5.11.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
@@ -138,44 +138,6 @@
    "fpts": 22.4,
    "gp": 6,
    "cur": 23.8
-  },
-  {
-   "player": "Brandon Williams",
-   "team": "GSW",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Stephen Curry (odmor) je out najmanje do 2.11. Brandon Williams je prvi PG/SG u rotaciji GSW-a za te minute; ~21.1 FP po utakmici (ove sezone 19.4 u 7 utk., prošle sezone 23.9; 19 min).",
-   "role": "Veća minutaža dok je out Stephen Curry",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Stephen Curry",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397040,
-   "fpts": 21.1,
-   "gp": 7,
-   "cur": 19.4
-  },
-  {
-   "player": "Collin Sexton",
-   "team": "LAL",
-   "pos": "PG/SG",
-   "priority": 2,
-   "reason": "Ziaire Williams (stopalo) je out najmanje do 2.11. Collin Sexton je prvi PG/SG u rotaciji LAL-a za te minute; ~20.4 FP po utakmici (ove sezone 16.7 u 6 utk., prošle sezone 26.0; 20 min).",
-   "role": "Veća minutaža dok je out Ziaire Williams",
-   "horizon": "Do ~2.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Ziaire Williams",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4277811,
-   "fpts": 20.4,
-   "gp": 6,
-   "cur": 16.7
   },
   {
    "player": "Collin Murray-Boyles",
@@ -256,27 +218,6 @@
    "cur": 18.4
   },
   {
-   "player": "Gui Santos",
-   "team": "GSW",
-   "pos": "SF",
-   "priority": 2,
-   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Gui Santos je rotacijski SF, ~17.4 FP po utakmici (ove sezone 15.5 u 6 utk., prošle sezone 20.3; 20 min). Liga: Banijska, Legendi.",
-   "role": "Streamer (20 min)",
-   "horizon": "5.11.",
-   "risk": "Upitan (GTD) — provjeri status prije utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
-   "note": "igra u četvrtak",
-   "espnId": 4997536,
-   "fpts": 17.4,
-   "gp": 6,
-   "cur": 15.5,
-   "expires": "2026-11-05"
-  },
-  {
    "player": "Herbert Jones",
    "team": "NOP",
    "pos": "SF/PF",
@@ -322,7 +263,7 @@
    "team": "MIA",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Klay Thompson je rotacijski SG/SF, ~16.8 FP po utakmici (ove sezone 15.7 u 6 utk., prošle sezone 18.5; 21 min); MIA ima 4 utakmice ovaj tjedan. Liga: Legendi.",
+   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 2). Klay Thompson je rotacijski SG/SF, ~16.8 FP po utakmici (ove sezone 15.7 u 6 utk., prošle sezone 18.5; 21 min); MIA ima 4 utakmice ovaj tjedan. Liga: Legendi.",
    "role": "Streamer (21 min)",
    "horizon": "5.11.",
    "risk": "Nizak plafon, čisti kratkoročni stream",
@@ -518,6 +459,25 @@
    "cur": 20.3
   },
   {
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "pos": "PG/SG",
+   "priority": 3,
+   "reason": "Stephen Curry (odmor) je upitan (GTD). Brandon Williams je sljedeći PG/SG u rotaciji GSW-a za te minute; ~21.1 FP po utakmici (ove sezone 19.4 u 7 utk., prošle sezone 23.9; 19 min).",
+   "role": "Zamjena ako Stephen Curry ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Stephen Curry",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397040,
+   "fpts": 21.1,
+   "gp": 7,
+   "cur": 19.4
+  },
+  {
    "player": "Kelly Oubre Jr.",
    "team": "IND",
    "pos": "SG/SF",
@@ -595,6 +555,44 @@
    "fpts": 18.7,
    "gp": 6,
    "cur": 16.7
+  },
+  {
+   "player": "Brice Sensabaugh",
+   "team": "UTA",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Brice Sensabaugh je sljedeći SG/SF u rotaciji UTA-a za te minute; ~18.5 FP po utakmici (ove sezone 15.7 u 6 utk., prošle sezone 22.8; 19 min).",
+   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
+   "horizon": "Do ~14.12. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5105839,
+   "fpts": 18.5,
+   "gp": 6,
+   "cur": 15.7
+  },
+  {
+   "player": "Ronald Holland II",
+   "team": "DET",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Jalen Duren (stražnja loža) je out najmanje do 9.11. Ronald Holland II je sljedeći SF/PF u rotaciji DET-a za te minute; ~18.0 FP po utakmici (ove sezone 18.2 u 6 utk., prošle sezone 17.6; 17 min).",
+   "role": "Veća minutaža dok je out Jalen Duren",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jalen Duren",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4683771,
+   "fpts": 18.0,
+   "gp": 6,
+   "cur": 18.2
   }
  ],
  "days": [
@@ -604,14 +602,13 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 10,
+     "mine": 13,
      "open": 0,
-     "sitting": 0,
+     "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
      "add": false,
      "addDays": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
@@ -644,77 +641,20 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 9,
-     "open": 1,
-     "sitting": 0,
+     "mine": 11,
+     "open": 0,
+     "sitting": 1,
      "adds": 7,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
       "2026-11-08"
      ],
      "planned": [],
-     "picks": [
-      {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 26.3,
-       "mpg": 21.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 22.8,
-       "matchup": "CHI @ NYK",
-       "dates": [
-        "2026-11-04",
-        "2026-11-08"
-       ],
-       "value": 26.3,
-       "gtd": false
-      },
-      {
-       "player": "Jordan Goodwin",
-       "team": "PHX",
-       "pos": "PG/SG",
-       "espnId": 4278402,
-       "fpts": 23.9,
-       "mpg": 21.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 25.0,
-       "matchup": "POR @ PHX",
-       "dates": [
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 23.9,
-       "gtd": false
-      },
-      {
-       "player": "Marcus Smart",
-       "team": "HOU",
-       "pos": "PG/SG",
-       "espnId": 2990992,
-       "fpts": 23.3,
-       "mpg": 26.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 4,
-       "cur": 24.8,
-       "matchup": "MIN @ HOU",
-       "dates": [
-        "2026-11-04",
-        "2026-11-07"
-       ],
-       "value": 23.3,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
@@ -740,14 +680,13 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 1,
-     "open": 9,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
-     "adds": 6,
+     "adds": 7,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
@@ -845,24 +784,6 @@
        "gtd": false
       },
       {
-       "player": "Gui Santos",
-       "team": "GSW",
-       "pos": "SF",
-       "espnId": 4997536,
-       "fpts": 17.4,
-       "mpg": 20.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 15.5,
-       "matchup": "MIA @ GSW",
-       "dates": [
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 13.0,
-       "gtd": true
-      },
-      {
        "player": "Tim Hardaway Jr.",
        "team": "MIA",
        "pos": "SG/SF",
@@ -890,14 +811,13 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 5,
-     "open": 5,
+     "mine": 6,
+     "open": 4,
      "sitting": 0,
-     "adds": 5,
+     "adds": 6,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
@@ -984,14 +904,13 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 6,
-     "open": 3,
+     "mine": 8,
+     "open": 1,
      "sitting": 0,
-     "adds": 4,
+     "adds": 5,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
@@ -1141,14 +1060,13 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 5,
+     "mine": 6,
      "open": 3,
      "sitting": 0,
-     "adds": 3,
+     "adds": 4,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
@@ -1156,17 +1074,29 @@
      ],
      "planned": [
       {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "from": "2026-11-04"
-      },
-      {
        "player": "Julian Reese",
        "team": "NOP",
        "from": "2026-11-06"
       }
      ],
      "picks": [
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "pos": "PG",
+       "espnId": 4395626,
+       "fpts": 26.3,
+       "mpg": 21.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 22.8,
+       "matchup": "PHI @ CHI",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 26.3,
+       "gtd": false
+      },
       {
        "player": "Day'Ron Sharpe",
        "team": "BKN",
@@ -1199,23 +1129,6 @@
         "2026-11-08"
        ],
        "value": 21.9,
-       "gtd": false
-      },
-      {
-       "player": "Isaiah Collier",
-       "team": "UTA",
-       "pos": "PG",
-       "espnId": 4683766,
-       "fpts": 21.2,
-       "mpg": 21.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 16.2,
-       "matchup": "UTA @ MIN",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 21.2,
        "gtd": false
       }
      ]

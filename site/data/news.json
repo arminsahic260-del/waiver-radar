@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-02T14:22:02Z",
+ "updated": "2026-11-02T15:21:55Z",
  "items": [
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Austin Reaves",
+   "headline": "Pops for 19 against Raptors",
+   "note": "Reaves ended Sunday's 131-125 victory over Toronto with 19 points (6-16 FG, 2-7 3Pt, 5-6 FT), three rebounds and four assists in 39 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-pops-for-19-against-raptors-537164"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Walker Kessler",
+   "headline": "Big double-double in Sunday's win",
+   "note": "Kessler supplied 16 points (6-6 FG, 4-4 FT), 15 rebounds, one assist, three blocks and one steal over 31 minutes during Sunday's 131-125 win over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-big-double-double-in-sundays-win-537163"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
+   "player": "Jamison Battle",
+   "headline": "Pops for 20 off bench Sunday",
+   "note": "Battle had 20 points (7-14 FG, 4-10 3Pt, 2-2 FT) and five rebounds over 17 minutes off the bench during Sunday's 131-125 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamison-battle-news-pops-for-20-off-bench-sunday-537162"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
+   "player": "Ja'Kobe Walter",
+   "headline": "Busy from long range in Sunday's loss",
+   "note": "Walter contributed 11 points (4-12 FG, 3-9 3Pt), four rebounds, two assists, one block and one steal in 33 minutes during Sunday's 131-125 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakobe-walter-news-busy-from-long-range-in-sundays-loss-537160"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
+   "player": "RJ Barrett",
+   "headline": "Hits for 22 in loss to Lakers",
+   "note": "Barrett closed with 22 points (9-18 FG, 4-9 3Pt), 10 rebounds and five assists across 32 minutes during Sunday's 131-125 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-hits-for-22-in-loss-to-lakers-537159"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Pops for 17 off bench Sunday",
+   "note": "Williams ended with 17 points (7-11 FG, 2-3 3Pt, 1-2 FT), three rebounds, three assists and one block across 25 minutes off the bench during Sunday's 124-112 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-pops-for-17-off-bench-sunday-537158"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Teases triple-double in Sunday's win",
+   "note": "Podziemski supplied 17 points (7-14 FG, 2-7 3Pt, 1-1 FT), eight rebounds and eight assists over 37 minutes during Sunday's 124-112 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-teases-triple-double-in-sundays-win-537157"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "De'Anthony Melton",
+   "headline": "Big night from downtown Sunday",
+   "note": "Melton had 21 points (6-9 FG, 6-8 3Pt, 3-4 FT), six rebounds, three assists, one block and two steals across 28 minutes during Sunday's 124-112 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-big-night-from-downtown-sunday-537156"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
+   "player": "Kobe Sanders",
+   "headline": "Drains four treys in Sunday's loss",
+   "note": "Sanders totaled 16 points (6-9 FG, 4-6 3Pt), three rebounds and one steal in 30 minutes off the bench during Sunday's 124-112 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-drains-four-treys-in-sundays-loss-537155"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Hits for team-high 24 in Sunday's loss",
+   "note": "Hachimura amassed a team-high 24 points (10-16 FG, 4-7 3Pt) and seven rebounds over 30 minutes during Sunday's 124-112 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-hits-for-team-high-24-in-sundays-loss-537154"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "CHI",
+   "player": "Dailyn Swain",
+   "headline": "Not listed on injury report",
+   "note": "Swain (back) isn't listed on the injury report for Monday's game against the 76ers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dailyn-swain-news-not-listed-on-injury-report-537153"
+  },
   {
    "date": "2026-11-01",
    "team": "TOR",
@@ -143,16 +253,6 @@
   },
   {
    "date": "2026-11-01",
-   "team": "GSW",
-   "player": "De'Anthony Melton",
-   "headline": "Starting Sunday",
-   "note": "Melton will start in Sunday's game against the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-starting-sunday-537138"
-  },
-  {
-   "date": "2026-11-01",
    "team": "OKC",
    "player": "Thomas Sorber",
    "headline": "Third-year option exercised by OKC",
@@ -163,26 +263,6 @@
   },
   {
    "date": "2026-11-01",
-   "team": "OKC",
-   "player": "Jared McCain",
-   "headline": "Thunder pick up fourth-year option",
-   "note": "Oklahoma City exercised its fourth-year option on McCain for the 2027-28 season Sunday, Clemente Almanza of USA Today reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jared-mccain-news-thunder-pick-up-fourth-year-option-537136"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "GSW",
-   "player": "Gui Santos",
-   "headline": "Good to go Sunday",
-   "note": "Santos (knee) is active for Sunday's game against the Clippers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gui-santos-news-good-to-go-sunday-537134"
-  },
-  {
-   "date": "2026-11-01",
    "team": "MIA",
    "player": "Tim Hardaway",
    "headline": "Might not play Monday",
@@ -190,36 +270,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tim-hardaway-injury-might-not-play-monday-537133"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "ORL",
-   "player": "Tristan da Silva",
-   "headline": "Posts double-double off bench",
-   "note": "Da Silva ended with 23 points (9-14 FG, 5-8 3Pt), 10 rebounds and two assists across 35 minutes during Sunday's 108-97 loss to the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-posts-double-double-off-bench-537132"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Season-high 23 points in defeat",
-   "note": "Black closed Sunday's 108-97 loss to Boston with 23 points (6-12 FG, 1-5 3Pt, 10-11 FT), eight rebounds, three assists and two steals over 33 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-season-high-23-points-in-defeat-537131"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Scores game-high 32 points in win",
-   "note": "Tatum racked up 32 points (8-19 FG, 1-5 3Pt, 15-17 FT), four rebounds, seven assists and two blocks over 34 minutes during Sunday's 108-97 victory over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-scores-game-high-32-points-in-win-537130"
   },
   {
    "date": "2026-11-01",
@@ -465,6 +515,16 @@
    "date": "2026-11-01",
    "team": "BOS",
    "player": "Jayson Tatum",
+   "headline": "Scores game-high 32 points in win",
+   "note": "Tatum racked up 32 points (8-19 FG, 1-5 3Pt, 15-17 FT), four rebounds, seven assists and two blocks over 34 minutes during Sunday's 108-97 victory over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-scores-game-high-32-points-in-win-537130"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "BOS",
+   "player": "Jayson Tatum",
    "headline": "Returns versus Orlando",
    "note": "Tatum (head) returned to Sunday's game against Orlando, Gary Washburn of The Boston Globe reports.",
    "kind": "other",
@@ -540,66 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-not-on-injury-report-for-monday-537109"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "CHA",
-   "player": "Liam McNeeley",
-   "headline": "Third-year option picked up",
-   "note": "The Hornets exercised the third-year team option on McNeeley on Sunday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/liam-mcneeley-news-third-year-option-picked-up-537100"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Third-year option picked up",
-   "note": "The Hornets exercised Knueppel's (hamstring) third-year team option on Sunday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-third-year-option-picked-up-537096"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Expected to play Monday",
-   "note": "Smith (finger) is listed as probable for Monday's game against Philadelphia.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-injury-expected-to-play-monday-537102"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "CHI",
-   "player": "Tobe Awaka",
-   "headline": "Probable for Monday",
-   "note": "Awaka (ankle) is probable for Monday's game against Philadelphia.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-monday-537098"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "CHI",
-   "player": "Nic Claxton",
-   "headline": "Doubtful against Philadelphia",
-   "note": "Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nic-claxton-injury-doubtful-against-philadelphia-537095"
-  },
-  {
-   "date": "2026-11-01",
-   "team": "CHI",
-   "player": "Nic Claxton",
-   "headline": "Log full practice Sunday",
-   "note": "Claxton (hamstring) was a full participant in Sunday's practice, K.C. Johnson of Chicago Sports Network.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nic-claxton-injury-log-full-practice-sunday-537071"
   }
  ]
 }
