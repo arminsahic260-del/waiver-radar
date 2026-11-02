@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-02T20:22:01Z",
+ "updated": "2026-11-02T21:22:02Z",
  "items": [
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Won't play Monday",
+   "note": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-wont-play-monday-537228"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
+   "player": "Derrick Jones",
+   "headline": "Ruled out Monday",
+   "note": "Jones (knee) has been ruled out for Monday's game against the Raptors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-injury-ruled-out-monday-537226"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Iffy to play Monday",
+   "note": "Williams (quadriceps) is listed as questionable for Monday's game against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-injury-iffy-to-play-monday-537225"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Al Horford",
+   "headline": "Taking night off",
+   "note": "Horford will be rested Monday against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/al-horford-injury-taking-night-off-537224"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Cleared to suit up",
+   "note": "Green (back) is available Monday against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-cleared-to-suit-up-537223"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Set to return Monday",
+   "note": "Curry (rest) is available Monday against the Suns.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-set-to-return-monday-537222"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Ziaire Williams",
+   "headline": "Good to go Monday",
+   "note": "Williams (foot) is good to go for Monday against the Heat.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-good-to-go-monday-537221"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "SAC",
+   "player": "Dylan Cardwell",
+   "headline": "Downgraded to questionable",
+   "note": "Cardwell (calf) has been downgraded to questionable for Monday's game against Dallas.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-downgraded-to-questionable-537220"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "headline": "Iffy to play Monday",
+   "note": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-iffy-to-play-monday-537219"
+  },
   {
    "date": "2026-11-02",
    "team": "TOR",
@@ -55,11 +145,11 @@
    "date": "2026-11-02",
    "team": "MIN",
    "player": "Terrence Shannon",
-   "headline": "Questionable due to hip",
+   "headline": "Questionable due to hip injury",
    "note": "Shannon has a left hip contusion and is questionable to face the Bucks on Monday.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-questionable-due-to-hip-537213"
+   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-questionable-due-to-hip-injury-537213"
   },
   {
    "date": "2026-11-02",
@@ -203,16 +293,6 @@
   },
   {
    "date": "2026-11-02",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Available for Monday",
-   "note": "Brown (rest) is available for Monday's game against the Knicks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-available-for-monday-537197"
-  },
-  {
-   "date": "2026-11-02",
    "team": "DET",
    "player": "Isaiah Joe",
    "headline": "Sitting out Monday",
@@ -230,56 +310,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/anthony-black-injury-will-rest-monday-537195"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "ORL",
-   "player": "Nikola Vucevic",
-   "headline": "Quiet outing in loss",
-   "note": "Vucevic racked up two points (1-2 FG), four rebounds, two assists and one block across seven minutes during Sunday's 108-97 loss to Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-vucevic-news-quiet-outing-in-loss-537194"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "ORL",
-   "player": "Goga Bitadze",
-   "headline": "Barely sees floor",
-   "note": "Bitadze totaled zero points (0-1 FG) and one rebound across five minutes during Sunday's 108-97 loss to Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/goga-bitadze-news-barely-sees-floor-537193"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAC",
-   "player": "Yanic Konan Niederhauser",
-   "headline": "Recalled from G League",
-   "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yanic-konan-niederhauser-injury-recalled-from-g-league-537175"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAC",
-   "player": "Brandon Ingram",
-   "headline": "Returns from G League assignment",
-   "note": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-returns-from-g-league-assignment-537174"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "ORL",
-   "player": "Jonathan Isaac",
-   "headline": "Recalled from G League",
-   "note": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Sunday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-recalled-from-g-league-537165"
   },
   {
    "date": "2026-11-02",
@@ -310,6 +340,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-loaded-stat-line-sunday-537166"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Available for Monday",
+   "note": "Brown (rest) is available for Monday's game against the Knicks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-available-for-monday-537197"
   },
   {
    "date": "2026-11-02",
@@ -454,6 +494,26 @@
   {
    "date": "2026-11-02",
    "team": "LAC",
+   "player": "Yanic Konan Niederhauser",
+   "headline": "Recalled from G League",
+   "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yanic-konan-niederhauser-injury-recalled-from-g-league-537175"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
+   "player": "Brandon Ingram",
+   "headline": "Returns from G League assignment",
+   "note": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-returns-from-g-league-assignment-537174"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAC",
    "player": "Kobe Sanders",
    "headline": "Drains four treys in Sunday's loss",
    "note": "Sanders totaled 16 points (6-9 FG, 4-6 3Pt), three rebounds and one steal in 30 minutes off the bench during Sunday's 124-112 loss to the Warriors.",
@@ -524,82 +584,22 @@
   {
    "date": "2026-11-02",
    "team": "ORL",
-   "player": "Jase Richardson",
-   "headline": "Subpar scoring effort again",
-   "note": "Richardson contributed four points (2-8 FG, 0-4 3Pt), a rebound and three assists across 26 minutes in Sunday's 108-97 loss to the Celtics.",
+   "player": "Nikola Vucevic",
+   "headline": "Quiet outing in loss",
+   "note": "Vucevic racked up two points (1-2 FG), four rebounds, two assists and one block across seven minutes during Sunday's 108-97 loss to Boston.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-subpar-scoring-effort-again-537173"
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-vucevic-news-quiet-outing-in-loss-537194"
   },
   {
    "date": "2026-11-02",
    "team": "ORL",
-   "player": "Franz Wagner",
-   "headline": "Shines in playmaking role",
-   "note": "Wagner finished with 14 points (5-20 FG, 1-4 3Pt, 3-4 FT), six rebounds and 12 assists across 40 minutes in Sunday's 108-97 loss to the Celtics.",
+   "player": "Goga Bitadze",
+   "headline": "Barely sees floor",
+   "note": "Bitadze totaled zero points (0-1 FG) and one rebound across five minutes during Sunday's 108-97 loss to Boston.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-shines-in-playmaking-role-537172"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "ORL",
-   "player": "Desmond Bane",
-   "headline": "Stays hot from deep",
-   "note": "Bane delivered 19 points (7-13 FG, 5-9 3Pt), two rebounds, an assist, two steals and a block across 40 minutes in Sunday's 108-97 loss to the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-news-stays-hot-from-deep-537171"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Iffy to play Monday",
-   "note": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-iffy-to-play-monday-537219"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "TOR",
-   "player": "Jamal Shead",
-   "headline": "Solid production in loss",
-   "note": "Shead racked up nine points (3-6 FG, 2-4 3Pt, 1-1 FT), two rebounds, six assists and three steals in 25 minutes during Sunday's 131-125 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jamal-shead-news-solid-production-in-loss-537186"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "TOR",
-   "player": "Jamison Battle",
-   "headline": "Pops for 20 off bench Sunday",
-   "note": "Battle had 20 points (7-14 FG, 4-10 3Pt, 2-2 FT) and five rebounds over 17 minutes off the bench during Sunday's 131-125 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jamison-battle-news-pops-for-20-off-bench-sunday-537162"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "TOR",
-   "player": "Ja'Kobe Walter",
-   "headline": "Busy from long range in Sunday's loss",
-   "note": "Walter contributed 11 points (4-12 FG, 3-9 3Pt), four rebounds, two assists, one block and one steal in 33 minutes during Sunday's 131-125 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakobe-walter-news-busy-from-long-range-in-sundays-loss-537160"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "TOR",
-   "player": "RJ Barrett",
-   "headline": "Hits for 22 in loss to Lakers",
-   "note": "Barrett closed with 22 points (9-18 FG, 4-9 3Pt), 10 rebounds and five assists across 32 minutes during Sunday's 131-125 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-hits-for-22-in-loss-to-lakers-537159"
+   "url": "https://www.rotowire.com/basketball/headlines/goga-bitadze-news-barely-sees-floor-537193"
   }
  ]
 }

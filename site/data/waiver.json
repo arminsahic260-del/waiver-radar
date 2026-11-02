@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:22:02Z",
+ "updated": "2026-11-02T21:22:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -7,7 +7,7 @@
    "team": "BOS",
    "pos": "C",
    "priority": 1,
-   "reason": "RotoWire 1.11.: Starting Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~24.7 FP po utakmici (ove sezone 21.3 u 6 utk., prošle sezone 29.7; 23 min). Paul George (odmor) je out najmanje do 4.11. — nova ozljeda. Neemias Queta je prvi C u rotaciji BOS-a za te minute; ~24.7 FP po utakmici (ove sezone 21.3 u 6 utk., prošle sezone 29.7; 23 min).",
+   "reason": "RotoWire 1.11.: Starting Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~24.7 FP po utakmici (ove sezone 21.3 u 6 utk., prošle sezone 29.7; 23 min). Paul George (odmor) je out najmanje do 4.11. Neemias Queta je prvi C u rotaciji BOS-a za te minute; ~24.7 FP po utakmici (ove sezone 21.3 u 6 utk., prošle sezone 29.7; 23 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -372,7 +372,7 @@
    "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Tim Hardaway Jr. je rotacijski SG/SF, ~14.9 FP po utakmici (ove sezone 10.5 u 6 utk., prošle sezone 21.6; 22 min); MIA ima 4 utakmice ovaj tjedan. Liga: Banijska, Legendi.",
    "role": "Streamer (22 min)",
    "horizon": "5.11.",
-   "risk": "Upitan (GTD) — provjeri status prije utakmice",
+   "risk": "Nizak plafon, čisti kratkoročni stream",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -469,7 +469,7 @@
    "reason": "Stephen Curry (odmor) je upitan (GTD). Brandon Williams je sljedeći PG/SG u rotaciji GSW-a za te minute; ~21.1 FP po utakmici (ove sezone 19.4 u 7 utk., prošle sezone 23.9; 19 min).",
    "role": "Zamjena ako Stephen Curry ne igra",
    "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Stephen Curry",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Stephen Curry",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -748,8 +748,8 @@
         "2026-11-05",
         "2026-11-08"
        ],
-       "value": 11.2,
-       "gtd": true
+       "value": 14.9,
+       "gtd": false
       }
      ]
     },
@@ -801,8 +801,8 @@
         "2026-11-05",
         "2026-11-08"
        ],
-       "value": 11.2,
-       "gtd": true
+       "value": 14.9,
+       "gtd": false
       }
      ]
     }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:21:21Z",
+ "updated": "2026-11-02T21:21:23Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -543,16 +543,6 @@
    "ret": null
   },
   {
-   "team": "MIA",
-   "player": "Tim Hardaway Jr.",
-   "pos": "SG",
-   "updated": "2026-11-01",
-   "injury": "Personal",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "MIN",
    "player": "Anthony Edwards",
    "pos": "SG",
@@ -894,20 +884,20 @@
   },
   {
    "team": "TOR",
-   "player": "Jakob Poeltl",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "TOR",
    "player": "Nate Bittle",
    "pos": "C",
    "updated": "2026-11-02",
    "injury": "Foot",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "pos": "C",
+   "updated": "2026-11-01",
+   "injury": "Shoulder",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
