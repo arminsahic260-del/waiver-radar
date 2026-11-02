@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T22:22:10Z",
+ "updated": "2026-11-02T23:22:32Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -124,7 +124,7 @@
    "team": "LAC",
    "pos": "SF",
    "priority": 2,
-   "reason": "Derrick Jones Jr. (koljeno) je out najmanje do 4.11. — nova ozljeda; Rui Hachimura (kvadriceps) je out najmanje do 4.11. — nova ozljeda; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Max Strus je prvi SF u rotaciji LAC-a za te minute; ~21.7 FP po utakmici (prošle sezone, 24 min).",
+   "reason": "Derrick Jones Jr. (koljeno) je out najmanje do 4.11.; Rui Hachimura (kvadriceps) je out najmanje do 4.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Max Strus je prvi SF u rotaciji LAC-a za te minute; ~21.7 FP po utakmici (prošle sezone, 24 min).",
    "role": "Veća minutaža dok su out Derrick Jones Jr. i Rui Hachimura",
    "horizon": "Do ~4.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Derrick Jones Jr.",
@@ -442,7 +442,7 @@
    "team": "LAC",
    "pos": "C",
    "priority": 3,
-   "reason": "Derrick Jones Jr. (koljeno) je out najmanje do 4.11. — nova ozljeda; Rui Hachimura (kvadriceps) je out najmanje do 4.11. — nova ozljeda; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Brook Lopez je sljedeći C u rotaciji LAC-a za te minute; ~22.4 FP po utakmici (ove sezone 23.8 u 6 utk., prošle sezone 20.3; 22 min).",
+   "reason": "Derrick Jones Jr. (koljeno) je out najmanje do 4.11.; Rui Hachimura (kvadriceps) je out najmanje do 4.11.; Brandon Ingram (Ahilova tetiva) je out najmanje do 8.11. Brook Lopez je sljedeći C u rotaciji LAC-a za te minute; ~22.4 FP po utakmici (ove sezone 23.8 u 6 utk., prošle sezone 20.3; 22 min).",
    "role": "Veća minutaža dok su out Derrick Jones Jr. i Rui Hachimura",
    "horizon": "Do ~4.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Derrick Jones Jr.",
