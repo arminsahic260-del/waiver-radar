@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:21:21Z",
+ "updated": "2026-11-02T16:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -114,16 +114,6 @@
   },
   {
    "team": "CHI",
-   "player": "Dailyn Swain",
-   "pos": "SF",
-   "updated": "2026-10-31",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
    "player": "Jalen Smith",
    "pos": "C",
    "updated": "2026-11-01",
@@ -136,7 +126,7 @@
    "team": "CHI",
    "player": "Nicolas Claxton",
    "pos": "C",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
@@ -216,7 +206,7 @@
    "team": "DAL",
    "player": "Santi Aldama",
    "pos": "C",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
