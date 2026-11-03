@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:22:00Z",
+ "updated": "2026-11-03T08:21:56Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -213,6 +213,30 @@
    "fpts": 13.1,
    "gp": 7,
    "cur": 8.9
+  },
+  {
+   "player": "Bobby Portis",
+   "team": "MIA",
+   "pos": "PF/C",
+   "priority": 2,
+   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Bobby Portis je rotacijski PF/C, ~24.0 FP po utakmici (ove sezone 23.0 u 7 utk., prošle sezone 25.8; 23 min); MIA ima 4 utakmice ovaj tjedan. Liga: Banijska.",
+   "role": "Streamer (23 min)",
+   "horizon": "5.11.",
+   "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+   "note": "igra u četvrtak",
+   "espnId": 3064482,
+   "waivers": {
+    "Banijska": "2026-11-04"
+   },
+   "fpts": 24.0,
+   "gp": 7,
+   "cur": 23.0,
+   "expires": "2026-11-05"
   },
   {
    "player": "Dylan Cardwell",
@@ -508,7 +532,7 @@
    "team": "MIA",
    "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Tim Hardaway Jr. je rotacijski SG/SF, ~14.2 FP po utakmici (ove sezone 10.0 u 7 utk., prošle sezone 21.6; 21 min); MIA ima 4 utakmice ovaj tjedan. Liga: Banijska, Legendi.",
+   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 2). Tim Hardaway Jr. je rotacijski SG/SF, ~14.2 FP po utakmici (ove sezone 10.0 u 7 utk., prošle sezone 21.6; 21 min); MIA ima 4 utakmice ovaj tjedan. Liga: Legendi.",
    "role": "Streamer (21 min)",
    "horizon": "5.11.",
    "risk": "Nizak plafon, čisti kratkoročni stream",
@@ -561,25 +585,6 @@
    "fpts": 13.2,
    "gp": 7,
    "cur": 12.7
-  },
-  {
-   "player": "Will Richard",
-   "team": "GSW",
-   "pos": "SG/SF",
-   "priority": 2,
-   "reason": "RotoWire 2.11.: Moves into starting lineup Monday. Richard will start Monday's game against the Suns, John Dickinson of 95.7 The Game San Francisco reports. ~12.4 FP po utakmici (ove sezone 10.8 u 8 utk., prošle sezone 15.8; 19 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~12 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/will-richard-news-moves-into-starting-lineup-monday-537294",
-   "espnId": 4897262,
-   "fpts": 12.4,
-   "gp": 8,
-   "cur": 10.8
   }
  ],
  "days": [
@@ -714,6 +719,25 @@
      "planned": [],
      "picks": [
       {
+       "player": "Bobby Portis",
+       "team": "MIA",
+       "pos": "PF/C",
+       "espnId": 3064482,
+       "fpts": 24.0,
+       "mpg": 22.9,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 23.0,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-08"
+       ],
+       "value": 24.0,
+       "gtd": false,
+       "waiver": "2026-11-04"
+      },
+      {
        "player": "Oso Ighodaro",
        "team": "PHX",
        "pos": "PF",
@@ -748,24 +772,6 @@
        ],
        "value": 14.2,
        "gtd": false
-      },
-      {
-       "player": "Gui Santos",
-       "team": "GSW",
-       "pos": "SF",
-       "espnId": 4997536,
-       "fpts": 17.4,
-       "mpg": 20.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 15.5,
-       "matchup": "MIA @ GSW",
-       "dates": [
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 13.0,
-       "gtd": true
       }
      ]
     }
@@ -945,7 +951,7 @@
     {
      "league": "Banijska",
      "mine": 5,
-     "open": 4,
+     "open": 5,
      "sitting": 0,
      "adds": 6,
      "addsLimit": 7,
@@ -955,13 +961,7 @@
       "2026-11-07",
       "2026-11-08"
      ],
-     "planned": [
-      {
-       "player": "Oso Ighodaro",
-       "team": "PHX",
-       "from": "2026-11-05"
-      }
-     ],
+     "planned": [],
      "picks": [
       {
        "player": "Meleek Thomas",
@@ -1094,7 +1094,7 @@
     {
      "league": "Banijska",
      "mine": 8,
-     "open": 2,
+     "open": 1,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -1104,7 +1104,13 @@
       "2026-11-07",
       "2026-11-08"
      ],
-     "planned": [],
+     "planned": [
+      {
+       "player": "Bobby Portis",
+       "team": "MIA",
+       "from": "2026-11-05"
+      }
+     ],
      "picks": [
       {
        "player": "Tre Jones",

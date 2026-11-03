@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:22:00Z",
+ "updated": "2026-11-03T08:21:56Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-03T07:22:00Z",
+   "updated": "2026-11-03T08:21:56Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -67,16 +67,21 @@
      }
     },
     {
-     "name": "Paul Reed",
-     "team": "DET",
+     "name": "Draymond Green",
+     "team": "GSW",
      "pos": "PF/C",
      "slot": "PF",
-     "espnId": 4278562,
-     "gp": 7,
-     "cur": 32.0,
-     "proj": 20.4,
+     "espnId": 6589,
+     "gp": 6,
+     "cur": 20.7,
+     "proj": 28.5,
      "acq": "ADD",
-     "draft": null
+     "draft": {
+      "pick": 146,
+      "round": 11,
+      "roundPick": 6,
+      "teamId": 2
+     }
     },
     {
      "name": "Donovan Clingan",
@@ -96,32 +101,54 @@
      }
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
+     "name": "Kyrie Irving",
+     "team": "DAL",
+     "pos": "PG",
      "slot": "G",
-     "espnId": 4433137,
+     "espnId": 6442,
      "gp": 5,
-     "cur": 25.8,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
+     "cur": 41.2,
+     "proj": 44.2,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 47,
+      "round": 4,
+      "roundPick": 5,
+      "teamId": 1
+     }
     },
     {
-     "name": "Draymond Green",
+     "name": "Yaxel Lendeborg",
      "team": "GSW",
-     "pos": "PF/C",
+     "pos": "SF/PF",
      "slot": "F",
-     "espnId": 6589,
-     "gp": 6,
-     "cur": 20.7,
-     "proj": 28.5,
-     "acq": "ADD",
+     "espnId": 5175737,
+     "gp": 8,
+     "cur": 36.0,
+     "proj": 33.7,
+     "acq": "DRAFT",
      "draft": {
-      "pick": 146,
-      "round": 11,
-      "roundPick": 6,
-      "teamId": 2
+      "pick": 122,
+      "round": 9,
+      "roundPick": 10,
+      "teamId": 1
+     }
+    },
+    {
+     "name": "Ivica Zubac",
+     "team": "IND",
+     "pos": "C",
+     "slot": "UTIL",
+     "espnId": 4017837,
+     "gp": 3,
+     "cur": 21.7,
+     "proj": 35.5,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 66,
+      "round": 5,
+      "roundPick": 10,
+      "teamId": 1
      }
     },
     {
@@ -138,23 +165,6 @@
       "pick": 103,
       "round": 8,
       "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
-     "pos": "SF/PF",
-     "slot": "UTIL",
-     "espnId": 5175737,
-     "gp": 8,
-     "cur": 36.0,
-     "proj": 33.7,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 122,
-      "round": 9,
-      "roundPick": 10,
       "teamId": 1
      }
     },
@@ -176,38 +186,16 @@
      }
     },
     {
-     "name": "Kyrie Irving",
-     "team": "DAL",
-     "pos": "PG",
+     "name": "Paul Reed",
+     "team": "DET",
+     "pos": "PF/C",
      "slot": "BE",
-     "espnId": 6442,
-     "gp": 5,
-     "cur": 41.2,
-     "proj": 44.2,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 47,
-      "round": 4,
-      "roundPick": 5,
-      "teamId": 1
-     }
-    },
-    {
-     "name": "Ivica Zubac",
-     "team": "IND",
-     "pos": "C",
-     "slot": "BE",
-     "espnId": 4017837,
-     "gp": 3,
-     "cur": 21.7,
-     "proj": 35.5,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 66,
-      "round": 5,
-      "roundPick": 10,
-      "teamId": 1
-     }
+     "espnId": 4278562,
+     "gp": 7,
+     "cur": 32.0,
+     "proj": 20.4,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Obi Toppin",
@@ -218,6 +206,18 @@
      "gp": 5,
      "cur": 27.2,
      "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
+     "slot": "BE",
+     "espnId": 4433137,
+     "gp": 5,
+     "cur": 25.8,
+     "proj": 19.7,
      "acq": "ADD",
      "draft": null
     },
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-03T07:22:00Z",
+   "updated": "2026-11-03T08:21:56Z",
    "adds": {
     "period": 3,
     "used": 0,
