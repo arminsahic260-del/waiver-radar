@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:21:29Z",
+ "updated": "2026-11-03T22:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -74,10 +74,20 @@
   },
   {
    "team": "BOS",
-   "player": "Paul George",
-   "pos": "SF",
+   "player": "Jayson Tatum",
+   "pos": "PF",
    "updated": "2026-11-03",
    "injury": "Rest",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "BOS",
+   "player": "Payton Pritchard",
+   "pos": "PG",
+   "updated": "2026-11-03",
+   "injury": "Shoulder",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -101,6 +111,16 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
+  },
+  {
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "pos": "C",
+   "updated": "2026-11-03",
+   "injury": "Finger",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
@@ -224,6 +244,16 @@
   },
   {
    "team": "DET",
+   "player": "Isaiah Joe",
+   "pos": "SG",
+   "updated": "2026-11-03",
+   "injury": "Hip",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
+  },
+  {
+   "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
    "updated": "2026-10-25",
@@ -231,16 +261,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "pos": "SG",
-   "updated": "2026-11-03",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "GSW",
@@ -541,6 +561,16 @@
    "status": "Expected return: at least Apr 2",
    "kind": "out",
    "ret": "2027-04-02"
+  },
+  {
+   "team": "MIN",
+   "player": "Enrique Freeman",
+   "pos": "PF",
+   "updated": "2026-11-03",
+   "injury": "Undisclosed",
+   "status": "Expected return: at least Jan 1",
+   "kind": "out",
+   "ret": "2027-01-01"
   },
   {
    "team": "MIN",

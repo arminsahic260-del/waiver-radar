@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-03T21:22:05Z",
+ "updated": "2026-11-03T22:21:56Z",
  "items": [
+  {
+   "date": "2026-11-03",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Not listed on injury report",
+   "note": "Irving (knee) has been removed from the injury report ahead of Wednesday's meeting in Sacramento.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-not-listed-on-injury-report-537477"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Questionable for Wednesday",
+   "note": "Aldama (knee) is questionable for Wednesday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-questionable-for-wednesday-537476"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "HOU",
+   "player": "Clint Capela",
+   "headline": "Questionable against Minnesota",
+   "note": "Capela (ankle) is listed as questionable for Wednesday's game against the Timberwolves.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-injury-questionable-against-minnesota-537475"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Expected to play Wednesday",
+   "note": "Knueppel (hamstring) is listed as probable for Wednesday's game against the Nets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-expected-to-play-wednesday-537474"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "headline": "Out with ankle sprain",
+   "note": "Tyson is out for Wednesday's game against the Thunder due to a right ankle sprain.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-with-ankle-sprain-537473"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CLE",
+   "player": "Peyton Watson",
+   "headline": "Ruled out for Wednesday",
+   "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-injury-ruled-out-for-wednesday-537472"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "ATL",
+   "player": "Jock Landale",
+   "headline": "Ruled out for Wednesday",
+   "note": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-injury-ruled-out-for-wednesday-537471"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Questionable for Wednesday",
+   "note": "Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-questionable-for-wednesday-537470"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Probable for Wednesday",
+   "note": "White (calf) is probable for Wednesday's game in Brooklyn.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-probable-for-wednesday-537469"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "PHI",
+   "player": "Dominick Barlow",
+   "headline": "Still sidelined",
+   "note": "Barlow (back) won't play in Wednesday's game against the Pistons, Austin Krell of OnPattison.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-still-sidelined-537468"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "NYK",
+   "player": "Josh Hart",
+   "headline": "Iffy for Wednesday",
+   "note": "Hart is questionable for Wednesday's game against the Bulls due to right ankle soreness.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-injury-iffy-for-wednesday-537467"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "WAS",
+   "player": "Anthony Gill",
+   "headline": "Iffy for Wednesday",
+   "note": "Gill (back) is questionable for Wednesday against the Hawks.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-gill-injury-iffy-for-wednesday-537466"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "WAS",
+   "player": "Alex Sarr",
+   "headline": "Listed as questionable",
+   "note": "Sarr (knee) is listed as questionable for Wednesday's game against Atlanta.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-injury-listed-as-questionable-537465"
+  },
   {
    "date": "2026-11-03",
    "team": "DET",
@@ -120,136 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/keldon-johnson-news-scores-season-high-15-points-537453"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIN",
-   "player": "Trey Lyles",
-   "headline": "Drops 12 points off bench",
-   "note": "Lyles had 12 points (4-9 FG, 2-7 3Pt, 2-2 FT) and four rebounds over 21 minutes during Monday's 112-100 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trey-lyles-news-drops-12-points-off-bench-537452"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIN",
-   "player": "Jaden McDaniels",
-   "headline": "Posts 13 points in win",
-   "note": "McDaniels provided 13 points (5-14 FG, 2-4 3Pt, 1-3 FT), six rebounds and three assists across 29 minutes during Monday's 112-100 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-posts-13-points-in-win-537451"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Steadies ship in easy win",
-   "note": "Castle produced 16 points (7-16 FG, 2-7 3Pt), five rebounds, four assists and one block over 26 minutes during Monday's 119-97 win over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-steadies-ship-in-easy-win-537450"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "NOP",
-   "player": "Herbert Jones",
-   "headline": "Limited impact in win",
-   "note": "Jones amassed nine points (3-8 FG, 3-7 3Pt), four rebounds, three assists and one steal in 28 minutes during Monday's 135-134 overtime win over the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/herbert-jones-news-limited-impact-in-win-537449"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "UTA",
-   "player": "Josh Okogie",
-   "headline": "Chips in nine points",
-   "note": "Okogie closed with nine points (1-2 FG, 1-1 3Pt, 6-6 FT), three rebounds, two assists and one steal in 19 minutes during Monday's 119-97 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-okogie-news-chips-in-nine-points-537448"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MEM",
-   "player": "Jerami Grant",
-   "headline": "Adds 11 points off bench",
-   "note": "Grant had 11 points (4-8 FG, 2-4 3Pt, 1-2 FT), four rebounds, two assists and one block in 24 minutes during Monday's 135-134 overtime loss to New Orleans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-news-adds-11-points-off-bench-537447"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CHI",
-   "player": "Matas Buzelis",
-   "headline": "Poor showing in loss",
-   "note": "Buzelis contributed four points (2-5 FG, 0-1 3Pt), three rebounds, two assists and one block across 23 minutes during Monday's 126-107 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-poor-showing-in-loss-537446"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MEM",
-   "player": "Cameron Boozer",
-   "headline": "Flirts with double-double",
-   "note": "Boozer contributed 18 points (5-11 FG, 2-5 3Pt, 6-7 FT), nine rebounds, five assists and two blocks across 38 minutes during Monday's 135-134 overtime loss to the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-flirts-with-double-double-537445"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "NYK",
-   "player": "Josh Hart",
-   "headline": "Modest effort in win",
-   "note": "Hart closed with eight points (3-6 FG, 2-5 3Pt), six rebounds, seven assists and three steals across 27 minutes before fouling out of Monday's 103-90 victory over the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-news-modest-effort-in-win-537444"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Lives at free-throw line",
-   "note": "Flagg ended Monday's 115-100 loss to the Kings with 17 points (3-19 FG, 0-4 3Pt, 11-11 FT), four rebounds, six assists and two steals in 40 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-lives-at-free-throw-line-537443"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Hanging onto starting role",
-   "note": "Washington logged 12 points (2-9 FG, 2-8 3Pt, 6-8 FT), five rebounds, one assist and two steals across 38 minutes during Monday's 115-100 loss to the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-hanging-onto-starting-role-537442"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Solid showing despite loss",
-   "note": "Allen accumulated 14 points (5-10 FG, 4-6 FT), six rebounds, one assist, one block and one steal across 28 minutes during Monday's 117-112 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-solid-showing-despite-loss-537441"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIA",
-   "player": "Bobby Portis",
-   "headline": "Quiets down in loss",
-   "note": "Portis ended with two points (1-3 FG, 0-2 3Pt), three rebounds and two assists in 18 minutes during Monday's 138-117 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bobby-portis-news-quiets-down-in-loss-537440"
   },
   {
    "date": "2026-11-03",
@@ -384,6 +384,16 @@
   {
    "date": "2026-11-03",
    "team": "CHI",
+   "player": "Matas Buzelis",
+   "headline": "Poor showing in loss",
+   "note": "Buzelis contributed four points (2-5 FG, 0-1 3Pt), three rebounds, two assists and one block across 23 minutes during Monday's 126-107 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-poor-showing-in-loss-537446"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHI",
    "player": "Jalen Smith",
    "headline": "Comes close to double-double",
    "note": "Smith registered 13 points (6-10 FG, 1-4 3Pt, 0-1 FT), seven rebounds and four assists across 28 minutes in Monday's 126-107 loss to the 76ers.",
@@ -414,6 +424,16 @@
   {
    "date": "2026-11-03",
    "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Solid showing despite loss",
+   "note": "Allen accumulated 14 points (5-10 FG, 4-6 FT), six rebounds, one assist, one block and one steal across 28 minutes during Monday's 117-112 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-solid-showing-despite-loss-537441"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CLE",
    "player": "James Harden",
    "headline": "Hits three triples in loss",
    "note": "Harden closed with 14 points (5-10 FG, 3-7 3Pt, 1-3 FT), four rebounds, six assists and one steal over 33 minutes during Monday's 117-112 loss to the Thunder.",
@@ -440,6 +460,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-efficient-in-reserve-role-537372"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DAL",
+   "player": "Cooper Flagg",
+   "headline": "Lives at free-throw line",
+   "note": "Flagg ended Monday's 115-100 loss to the Kings with 17 points (3-19 FG, 0-4 3Pt, 11-11 FT), four rebounds, six assists and two steals in 40 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-lives-at-free-throw-line-537443"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DAL",
+   "player": "P.J. Washington",
+   "headline": "Hanging onto starting role",
+   "note": "Washington logged 12 points (2-9 FG, 2-8 3Pt, 6-8 FT), five rebounds, one assist and two steals across 38 minutes during Monday's 115-100 loss to the Kings.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-hanging-onto-starting-role-537442"
   },
   {
    "date": "2026-11-03",
@@ -560,46 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/charles-bassey-news-erupts-for-19-points-537423"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "GSW",
-   "player": "Yaxel Lendeborg",
-   "headline": "Scores 16 in comeback win",
-   "note": "Lendeborg logged 16 points (3-10 FG, 2-6 3Pt, 8-9 FT), five rebounds, five assists, one block and one steal across 29 minutes during Monday's 116-113 win over the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-scores-16-in-comeback-win-537422"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Tari Eason",
-   "headline": "Delivers strong performance",
-   "note": "Eason contributed 13 points (5-8 FG, 3-6 3Pt), four rebounds, three assists and two blocks in 27 minutes during Monday's 109-93 victory over Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-delivers-strong-performance-537412"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Kevin Durant",
-   "headline": "Low usage in win",
-   "note": "Durant totaled 12 points (5-6 FG, 2-3 FT), three rebounds, three assists, one block and two steals across 33 minutes during Monday's 109-93 win over the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-low-usage-in-win-537411"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Amen Thompson",
-   "headline": "Efficient in victory",
-   "note": "Thompson closed with 14 points (5-9 FG, 4-5 FT), three rebounds, three assists and one steal across 25 minutes during Monday's 109-93 win over Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-efficient-in-victory-537410"
   }
  ]
 }
