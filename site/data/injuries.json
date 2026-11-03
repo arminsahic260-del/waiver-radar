@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:21:24Z",
+ "updated": "2026-11-03T16:21:31Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -154,26 +154,6 @@
   },
   {
    "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-11-02",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
-  },
-  {
-   "team": "DAL",
-   "player": "Sergio de Larrea",
-   "pos": "SG",
-   "updated": "2026-10-30",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
-  },
-  {
-   "team": "DAL",
    "player": "Tarik Biberovic",
    "pos": "SF",
    "updated": "2026-11-01",
@@ -203,6 +183,26 @@
    "ret": null
   },
   {
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "pos": "C",
+   "updated": "2026-11-03",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DAL",
+   "player": "Sergio de Larrea",
+   "pos": "SG",
+   "updated": "2026-11-03",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
@@ -216,11 +216,11 @@
    "team": "DEN",
    "player": "Spencer Jones",
    "pos": "SF",
-   "updated": "2026-11-01",
+   "updated": "2026-11-03",
    "injury": "Hamstring",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DET",
@@ -304,16 +304,6 @@
   },
   {
    "team": "HOU",
-   "player": "Clint Capela",
-   "pos": "C",
-   "updated": "2026-11-02",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
-  },
-  {
-   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-11-01",
@@ -321,6 +311,16 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
+  },
+  {
+   "team": "HOU",
+   "player": "Clint Capela",
+   "pos": "C",
+   "updated": "2026-11-03",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "IND",
@@ -716,11 +716,11 @@
    "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
-   "updated": "2026-10-28",
+   "updated": "2026-11-03",
    "injury": "Back",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHX",
@@ -816,11 +816,11 @@
    "team": "SAS",
    "player": "Tobias Harris",
    "pos": "PF",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "injury": "Calf",
-   "status": "Expected return: at least Nov 6",
+   "status": "Expected return: at least Nov 9",
    "kind": "out",
-   "ret": "2026-11-06"
+   "ret": "2026-11-09"
   },
   {
    "team": "TOR",
@@ -864,16 +864,6 @@
   },
   {
    "team": "UTA",
-   "player": "Jusuf Nurkic",
-   "pos": "C",
-   "updated": "2026-10-07",
-   "injury": "Foot",
-   "status": "Expected return: at least Nov 4",
-   "kind": "out",
-   "ret": "2026-11-04"
-  },
-  {
-   "team": "UTA",
    "player": "Trey Alexander",
    "pos": "SG",
    "updated": "2026-10-27",
@@ -881,6 +871,16 @@
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
+  },
+  {
+   "team": "UTA",
+   "player": "Jusuf Nurkic",
+   "pos": "C",
+   "updated": "2026-11-03",
+   "injury": "Foot",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "WAS",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:21:57Z",
+ "updated": "2026-11-03T16:22:14Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -194,6 +194,23 @@
    "fpts": 13.1,
    "gp": 7,
    "cur": 8.9
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "team": "UTA",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Jusuf Nurkic je prvi C u rotaciji UTA-a za te minute; ~32.5 FP po utakmici (prošle sezone, 26 min).",
+   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
+   "horizon": "Do ~14.12. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Jaren Jackson Jr.",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3102530,
+   "fpts": 32.5
   },
   {
    "player": "Bobby Portis",
@@ -391,25 +408,6 @@
    "fpts": 17.7,
    "gp": 7,
    "cur": 17.7
-  },
-  {
-   "player": "Brice Sensabaugh",
-   "team": "UTA",
-   "pos": "SG/SF",
-   "priority": 2,
-   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Brice Sensabaugh je prvi SG/SF u rotaciji UTA-a za te minute; ~17.4 FP po utakmici (ove sezone 14.3 u 7 utk., prošle sezone 22.8; 18 min).",
-   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
-   "horizon": "Do ~14.12. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 5105839,
-   "fpts": 17.4,
-   "gp": 7,
-   "cur": 14.3
   },
   {
    "player": "Gui Santos",
