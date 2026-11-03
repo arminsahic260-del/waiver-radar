@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-03T17:55:25Z",
+ "updated": "2026-11-03T18:22:01Z",
  "items": [
+  {
+   "date": "2026-11-03",
+   "team": "LAC",
+   "player": "Darius Garland",
+   "headline": "Hands out eight dimes",
+   "note": "Garland ended with 16 points (5-14 FG, 1-5 3Pt, 5-6 FT), four rebounds and eight assists in 36 minutes during Monday's 125-118 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-garland-news-hands-out-eight-dimes-537430"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "TOR",
+   "player": "Collin Murray-Boyles",
+   "headline": "Strong outing in win",
+   "note": "Murray-Boyles posted 18 points (7-14 FG, 1-3 3Pt, 3-4 FT), seven rebounds and two blocks over 28 minutes during Monday's 125-118 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-strong-outing-in-win-537429"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "TOR",
+   "player": "RJ Barrett",
+   "headline": "Scores 26 in comeback win",
+   "note": "Barrett closed with 26 points (10-19 FG, 2-6 3Pt, 4-8 FT), six rebounds, three assists and two blocks in 37 minutes during Monday's 125-118 win over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-scores-26-in-comeback-win-537428"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "TOR",
+   "player": "Immanuel Quickley",
+   "headline": "Pours in 27 points",
+   "note": "Quickley registered 27 points (8-13 FG, 1-4 3Pt, 10-11 FT), four rebounds, two assists and one steal in 38 minutes during Monday's 125-118 victory over the Clippers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-news-pours-in-27-points-537427"
+  },
   {
    "date": "2026-11-03",
    "team": "PHX",
@@ -210,46 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylen-clark-news-limited-output-in-win-537404"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIN",
-   "player": "Jonathan Kuminga",
-   "headline": "Swats four shots in win",
-   "note": "Kuminga registered eight points (3-8 FG, 2-4 3Pt), 10 rebounds, three assists and four blocks in 33 minutes during Monday's 112-100 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jonathan-kuminga-news-swats-four-shots-in-win-537403"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIN",
-   "player": "Ayo Dosunmu",
-   "headline": "Flirts with triple-double",
-   "note": "Dosunmu registered 19 points (8-18 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, eight assists, one block and one steal in 37 minutes during Monday's 112-100 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-flirts-with-triple-double-537402"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIL",
-   "player": "Kyle Kuzma",
-   "headline": "Struggles against Minnesota",
-   "note": "Kuzma ended with two points (1-6 FG, 0-4 3Pt), two rebounds, three assists and one steal over 22 minutes during Monday's 112-100 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyle-kuzma-news-struggles-against-minnesota-537401"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIL",
-   "player": "AJ Green",
-   "headline": "Connects on four triples",
-   "note": "Green posted 13 points (4-8 FG, 4-8 3Pt, 1-1 FT), three rebounds and three assists over 24 minutes during Monday's 112-100 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-connects-on-four-triples-537400"
   },
   {
    "date": "2026-11-03",
@@ -584,22 +584,22 @@
   {
    "date": "2026-11-03",
    "team": "MIL",
-   "player": "Jaime Jaquez",
-   "headline": "Posts 19 points in loss",
-   "note": "Jaquez ended with 19 points (8-17 FG, 2-4 3Pt, 1-1 FT), eight rebounds, two assists and one steal in 28 minutes during Monday's 112-100 loss to the Timberwolves.",
+   "player": "Kyle Kuzma",
+   "headline": "Struggles against Minnesota",
+   "note": "Kuzma ended with two points (1-6 FG, 0-4 3Pt), two rebounds, three assists and one steal over 22 minutes during Monday's 112-100 loss to the Timberwolves.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaime-jaquez-news-posts-19-points-in-loss-537399"
+   "url": "https://www.rotowire.com/basketball/headlines/kyle-kuzma-news-struggles-against-minnesota-537401"
   },
   {
    "date": "2026-11-03",
    "team": "MIL",
-   "player": "Brayden Burries",
-   "headline": "Nears double-double in start",
-   "note": "Burries notched nine points (4-15 FG, 1-7 3Pt), nine rebounds and one assist across 26 minutes during Monday's 112-100 loss to the Timberwolves.",
+   "player": "AJ Green",
+   "headline": "Connects on four triples",
+   "note": "Green posted 13 points (4-8 FG, 4-8 3Pt, 1-1 FT), three rebounds and three assists over 24 minutes during Monday's 112-100 loss to the Timberwolves.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brayden-burries-news-nears-double-double-in-start-537398"
+   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-connects-on-four-triples-537400"
   }
  ]
 }
