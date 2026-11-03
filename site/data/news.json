@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-03T10:21:52Z",
+ "updated": "2026-11-03T11:21:54Z",
  "items": [
+  {
+   "date": "2026-11-03",
+   "team": "MEM",
+   "player": "Cedric Coward",
+   "headline": "Flirts with double-double",
+   "note": "Coward logged 10 points (3-6 FG, 2-5 3Pt, 2-4 FT), nine rebounds and three assists over 31 minutes during Monday's 135-134 overtime loss to the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-news-flirts-with-double-double-537345"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MEM",
+   "player": "Zach Edey",
+   "headline": "Another frustrating performance",
+   "note": "Edey provided six points (2-6 FG, 2-2 FT), nine rebounds, one assist and two blocks in 19 minutes before fouling out of Monday's 135-134 overtime loss to New Orleans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-another-frustrating-performance-537343"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "NOP",
+   "player": "Jeremiah Fears",
+   "headline": "Ice cold in victory Monday",
+   "note": "Fears contributed 12 points (5-17 FG, 0-6 3Pt, 2-2 FT), four rebounds and seven assists over 38 minutes during Monday's 135-134 overtime victory over Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-ice-cold-in-victory-monday-537342"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "NOP",
+   "player": "Derik Queen",
+   "headline": "Drops season-high 20 points",
+   "note": "Queen notched 20 points (7-13 FG, 1-2 3Pt, 5-6 FT), seven rebounds, five assists, one block and two steals across 24 minutes during Monday's 135-134 overtime victory over Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-drops-season-high-20-points-537341"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "NOP",
+   "player": "Karlo Matkovic",
+   "headline": "Busts out in OT win",
+   "note": "Matkovic finished Monday's 135-134 overtime win over the Grizzlies with 25 points (9-13 FG, 5-8 3Pt, 2-4 FT), six rebounds, one assist, one block and two steals over 29 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-busts-out-in-ot-win-537340"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Limited off bench in loss",
+   "note": "Schroder recorded five points (2-4 FG, 0-2 3Pt, 1-2 FT), two rebounds, one assist and two steals in 23 minutes during Monday's 124-91 loss to Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-limited-off-bench-in-loss-537339"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
+   "player": "Grayson Allen",
+   "headline": "Passive performance Monday",
+   "note": "Allen ended Monday's 124-91 loss to Detroit with 11 points (3-7 FG, 3-7 3Pt, 2-2 FT) and one rebound over 19 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-passive-performance-monday-537338"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Logs 16 minutes in return",
+   "note": "White finished Monday's 124-91 loss to Detroit with seven points (3-9 FG, 1-5 3Pt) and three assists in 16 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-logs-16-minutes-in-return-537337"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DET",
+   "player": "Paul Reed",
+   "headline": "Strong production continues in win",
+   "note": "Reed racked up 11 points (5-6 FG, 1-2 FT), five rebounds, four assists, two blocks and two steals across 28 minutes during Monday's 124-91 victory over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-reed-news-strong-production-continues-in-win-537336"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DET",
+   "player": "John Collins",
+   "headline": "Struggles again Monday",
+   "note": "Collins racked up four points (1-4 FG, 0-1 3Pt, 2-2 FT), three rebounds, one assist, one block and one steal over 19 minutes during Monday's 124-91 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/john-collins-news-struggles-again-monday-537335"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DET",
+   "player": "Duncan Robinson",
+   "headline": "Drops season-high 24 points",
+   "note": "Robinson accumulated 24 points (8-11 FG, 6-9 3Pt, 2-2 FT), two rebounds, three assists and three steals over 32 minutes during Monday's 124-91 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-drops-season-high-24-points-537334"
+  },
   {
    "date": "2026-11-02",
    "team": "LAC",
@@ -140,116 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-flirts-with-triple-double-537320"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Struggles from downtown",
-   "note": "Tatum totaled 19 points (5-16 FG, 1-7 3Pt, 8-8 FT), six rebounds, nine assists and one steal in 32 minutes during Monday's 109-93 loss to Houston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-struggles-from-downtown-537319"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "HOU",
-   "player": "Alperen Sengun",
-   "headline": "Posts third double-double of season",
-   "note": "Sengun finished with 26 points (12-15 FG, 1-2 3Pt, 1-2 FT), seven rebounds, 10 assists, two blocks and two steals across 38 minutes during Monday's 109-93 win over Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alperen-sengun-news-posts-third-double-double-of-season-537318"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "CHA",
-   "player": "Tidjane Salaun",
-   "headline": "Team option declined",
-   "note": "The Hornets are declining their fourth-year team option on Salaun's contract Monday, Rod Boone of The Charlotte Observer reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-team-option-declined-537317"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "NOP",
-   "player": "Zion Williamson",
-   "headline": "Double-doubles in OT win",
-   "note": "Williamson closed Monday's 135-134 overtime win over the Grizzlies with 25 points (9-15 FG, 7-9 FT), 11 rebounds and four assists across 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-double-doubles-in-ot-win-537316"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "DAL",
-   "player": "Daniel Gafford",
-   "headline": "Scores 20 points in Monday's loss",
-   "note": "Gafford finished with 20 points (9-10 FG, 2-2 FT), seven rebounds, one steal and one block across 26 minutes in Monday's 115-100 loss to the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/daniel-gafford-news-scores-20-points-in-mondays-loss-537315"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "MEM",
-   "player": "Ty Jerome",
-   "headline": "Strikes for 40 points in OT loss",
-   "note": "Jerome recorded 40 points (14-22 FG, 5-6 3Pt, 7-8 FT), five rebounds, five assists and two steals in 37 minutes during Monday's 135-134 overtime loss to New Orleans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-news-strikes-for-40-points-in-ot-loss-537314"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Another strong offensive effort in win",
-   "note": "Acuff notched 25 points (10-21 FG, 2-8 3Pt, 3-4 FT), six assists, five rebounds and one steal across 37 minutes in Monday's 115-100 win over Dallas.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-another-strong-offensive-effort-in-win-537313"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "MIN",
-   "player": "LaMelo Ball",
-   "headline": "Pops for 34 points",
-   "note": "Ball tallied 34 points (12-21 FG, 6-13 3Pt, 4-5 FT), six rebounds, three assists and one steal in 33 minutes during Monday's 112-100 win over Milwaukee.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-pops-for-34-points-537312"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "BKN",
-   "player": "Julius Randle",
-   "headline": "Notches first double-double of season",
-   "note": "Randle compiled 21 points (5-16 FG, 0-4 3Pt, 11-15 FT), 11 rebounds, two assists and one steal across 36 minutes in Monday's 103-90 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/julius-randle-news-notches-first-double-double-of-season-537311"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "MIL",
-   "player": "Tyler Herro",
-   "headline": "Paces Milwaukee in loss",
-   "note": "Herro had 21 points (8-18 FG, 4-11 3Pt, 1-2 FT), six rebounds, three assists and three steals across 31 minutes in Monday's 112-100 loss to Minnesota.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-paces-milwaukee-in-loss-537310"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "NYK",
-   "player": "Jalen Brunson",
-   "headline": "Adds 19 points despite struggles",
-   "note": "Brunson collected 19 points (6-16 FG, 4-11 3Pt, 3-6 FT), two rebounds and six assists in 34 minutes during Monday's 103-90 win over Brooklyn.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-adds-19-points-despite-struggles-537309"
   },
   {
    "date": "2026-11-02",
@@ -514,6 +514,16 @@
   {
    "date": "2026-11-02",
    "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Struggles from downtown",
+   "note": "Tatum totaled 19 points (5-16 FG, 1-7 3Pt, 8-8 FT), six rebounds, nine assists and one steal in 32 minutes during Monday's 109-93 loss to Houston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-struggles-from-downtown-537319"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "BOS",
    "player": "Mitchell Robinson",
    "headline": "Returns Monday",
    "note": "Robinson (thumb) returned to Monday's game against the Rockets with 5:47 remaining in the second quarter, per the broadcast.",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-loaded-stat-line-sunday-537166"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Available for Monday",
-   "note": "Brown (rest) is available for Monday's game against the Knicks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-available-for-monday-537197"
   }
  ]
 }
