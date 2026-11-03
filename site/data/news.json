@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-03T18:22:01Z",
+ "updated": "2026-11-03T19:22:17Z",
  "items": [
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Bobby Portis",
+   "headline": "Quiets down in loss",
+   "note": "Portis ended with two points (1-3 FG, 0-2 3Pt), three rebounds and two assists in 18 minutes during Monday's 138-117 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bobby-portis-news-quiets-down-in-loss-537440"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Pelle Larsson",
+   "headline": "Stays productive in loss",
+   "note": "Larsson produced nine points (2-6 FG, 1-3 3Pt, 4-4 FT), three rebounds, two assists and one steal across 30 minutes during Monday's 138-117 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pelle-larsson-news-stays-productive-in-loss-537439"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Klay Thompson",
+   "headline": "Keeps foot on gas Monday",
+   "note": "Thompson amassed 19 points (7-11 FG, 4-7 3Pt, 1-1 FT), one rebound and one assist in 27 minutes during Monday's 138-117 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-keeps-foot-on-gas-monday-537438"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "LAL",
+   "player": "Quentin Grimes",
+   "headline": "Quiet start continues",
+   "note": "Grimes contributed seven points (2-4 FG, 1-3 3Pt, 2-3 FT), four rebounds and four assists in 23 minutes during Monday's 138-117 win over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quentin-grimes-news-quiet-start-continues-537437"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "LAL",
+   "player": "Matisse Thybulle",
+   "headline": "Continues to start",
+   "note": "Thybulle closed with six points (2-6 FG, 2-6 3Pt), one rebound, two assists and one block across 19 minutes during Monday's 138-117 victory over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-continues-to-start-537436"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Davion Mitchell",
+   "headline": "Continues to excel",
+   "note": "Mitchell closed Monday's 138-117 loss to the Lakers with 15 points (5-5 FG, 4-4 3Pt, 1-2 FT), seven assists and one block across 29 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-continues-to-excel-537435"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "LAC",
+   "player": "Isaiah Jackson",
+   "headline": "Shines off bench",
+   "note": "Jackson chipped in 19 points (9-11 FG, 1-1 3Pt), eight rebounds and two assists in 26 minutes during Monday's 125-118 loss to the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-shines-off-bench-537434"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "LAC",
+   "player": "Gradey Dick",
+   "headline": "Strong outing in loss",
+   "note": "Dick racked up 12 points (5-11 FG, 0-1 3Pt, 2-2 FT), four rebounds, three assists and two steals in 29 minutes during Monday's 125-118 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gradey-dick-news-strong-outing-in-loss-537433"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Bam Adebayo",
+   "headline": "Strong start continues",
+   "note": "Adebayo recorded 16 points (5-10 FG, 1-2 3Pt, 5-7 FT), nine rebounds, four assists, two blocks and two steals in 31 minutes during Monday's 138-117 loss to the Lakers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-strong-start-continues-537432"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Andrew Wiggins",
+   "headline": "Sluggish start continues",
+   "note": "Wiggins finished Monday's 138-117 loss to the Lakers with seven points (2-7 FG, 2-6 3Pt, 1-2 FT) and two assists across 24 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-wiggins-news-sluggish-start-continues-537431"
+  },
   {
    "date": "2026-11-03",
    "team": "LAC",
@@ -153,53 +253,23 @@
   },
   {
    "date": "2026-11-03",
-   "team": "UTA",
-   "player": "Darryn Peterson",
-   "headline": "Fills stat sheet in loss",
-   "note": "Peterson amassed 14 points (5-13 FG, 2-4 3Pt, 2-2 FT), four rebounds, six assists, three blocks and three steals across 33 minutes during Monday's 119-97 loss to the Spurs.",
+   "team": "ATL",
+   "player": "CJ McCollum",
+   "headline": "Nearly triple-doubles",
+   "note": "McCollum ended Monday's 108-104 win over Indiana with 13 points (4-17 FG, 2-7 3Pt, 3-4 FT), nine rebounds, 12 assists, one block and one steal across 32 minutes.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darryn-peterson-news-fills-stat-sheet-in-loss-537414"
+   "url": "https://www.rotowire.com/basketball/headlines/cj-mccollum-news-nearly-triple-doubles-537384"
   },
   {
    "date": "2026-11-03",
-   "team": "UTA",
-   "player": "Mo Bamba",
-   "headline": "Grabs eight boards off bench",
-   "note": "Bamba amassed eight points (3-5 FG, 2-3 FT), eight rebounds and two blocks over 18 minutes during Monday's 119-97 loss to San Antonio.",
+   "team": "ATL",
+   "player": "Corey Kispert",
+   "headline": "Drains four triples",
+   "note": "Kispert closed with 14 points (5-9 FG, 4-7 3Pt), one rebound and one steal over 18 minutes during Monday's 108-104 win over the Pacers.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mo-bamba-news-grabs-eight-boards-off-bench-537413"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Tari Eason",
-   "headline": "Delivers strong performance",
-   "note": "Eason contributed 13 points (5-8 FG, 3-6 3Pt), four rebounds, three assists and two blocks in 27 minutes during Monday's 109-93 victory over Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-delivers-strong-performance-537412"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Kevin Durant",
-   "headline": "Low usage in win",
-   "note": "Durant totaled 12 points (5-6 FG, 2-3 FT), three rebounds, three assists, one block and two steals across 33 minutes during Monday's 109-93 win over the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-low-usage-in-win-537411"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Amen Thompson",
-   "headline": "Efficient in victory",
-   "note": "Thompson closed with 14 points (5-9 FG, 4-5 FT), three rebounds, three assists and one steal across 25 minutes during Monday's 109-93 win over Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-efficient-in-victory-537410"
+   "url": "https://www.rotowire.com/basketball/headlines/corey-kispert-news-drains-four-triples-537383"
   },
   {
    "date": "2026-11-03",
@@ -240,36 +310,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-solid-effort-in-loss-537405"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIN",
-   "player": "Jaylen Clark",
-   "headline": "Limited output in win",
-   "note": "Clark accumulated four points (1-6 FG, 1-5 3Pt, 1-2 FT), two rebounds and two steals in 21 minutes during Monday's 112-100 victory over Milwaukee.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylen-clark-news-limited-output-in-win-537404"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "ATL",
-   "player": "CJ McCollum",
-   "headline": "Nearly triple-doubles",
-   "note": "McCollum ended Monday's 108-104 win over Indiana with 13 points (4-17 FG, 2-7 3Pt, 3-4 FT), nine rebounds, 12 assists, one block and one steal across 32 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cj-mccollum-news-nearly-triple-doubles-537384"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "ATL",
-   "player": "Corey Kispert",
-   "headline": "Drains four triples",
-   "note": "Kispert closed with 14 points (5-9 FG, 4-7 3Pt), one rebound and one steal over 18 minutes during Monday's 108-104 win over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/corey-kispert-news-drains-four-triples-537383"
   },
   {
    "date": "2026-11-03",
@@ -503,6 +543,36 @@
   },
   {
    "date": "2026-11-03",
+   "team": "HOU",
+   "player": "Tari Eason",
+   "headline": "Delivers strong performance",
+   "note": "Eason contributed 13 points (5-8 FG, 3-6 3Pt), four rebounds, three assists and two blocks in 27 minutes during Monday's 109-93 victory over Boston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-delivers-strong-performance-537412"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "HOU",
+   "player": "Kevin Durant",
+   "headline": "Low usage in win",
+   "note": "Durant totaled 12 points (5-6 FG, 2-3 FT), three rebounds, three assists, one block and two steals across 33 minutes during Monday's 109-93 win over the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-low-usage-in-win-537411"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "HOU",
+   "player": "Amen Thompson",
+   "headline": "Efficient in victory",
+   "note": "Thompson closed with 14 points (5-9 FG, 4-5 FT), three rebounds, three assists and one steal across 25 minutes during Monday's 109-93 win over Boston.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-efficient-in-victory-537410"
+  },
+  {
+   "date": "2026-11-03",
    "team": "IND",
    "player": "Jay Huff",
    "headline": "Leads team in scoring",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-slawson-news-delivers-quality-line-537379"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
-   "player": "Jarace Walker",
-   "headline": "Logs 45 minutes in loss",
-   "note": "Walker recorded 15 points (6-15 FG, 1-6 3Pt, 2-3 FT), seven rebounds, three assists, one block and one steal in 45 minutes during Monday's 108-104 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarace-walker-news-logs-45-minutes-in-loss-537378"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
-   "player": "Quenton Jackson",
-   "headline": "Fills stat sheet in start",
-   "note": "Jackson registered 20 points (7-16 FG, 1-7 3Pt, 5-5 FT), seven rebounds, three assists, two blocks and four steals over 34 minutes during Monday's 108-104 loss to Atlanta.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-fills-stat-sheet-in-start-537377"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Plays 15 minutes off bench in return",
-   "note": "Williams notched nine points (3-6 FG, 3-6 3Pt), two rebounds, two assists and one steal over 15 minutes during Monday's 138-117 win over the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-plays-15-minutes-off-bench-in-return-537370"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Flirts with double-double",
-   "note": "Coward logged 10 points (3-6 FG, 2-5 3Pt, 2-4 FT), nine rebounds and three assists over 31 minutes during Monday's 135-134 overtime loss to the Pelicans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-news-flirts-with-double-double-537345"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MEM",
-   "player": "Zach Edey",
-   "headline": "Another frustrating performance",
-   "note": "Edey provided six points (2-6 FG, 2-2 FT), nine rebounds, one assist and two blocks in 19 minutes before fouling out of Monday's 135-134 overtime loss to New Orleans.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-another-frustrating-performance-537343"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIL",
-   "player": "Kyle Kuzma",
-   "headline": "Struggles against Minnesota",
-   "note": "Kuzma ended with two points (1-6 FG, 0-4 3Pt), two rebounds, three assists and one steal over 22 minutes during Monday's 112-100 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyle-kuzma-news-struggles-against-minnesota-537401"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIL",
-   "player": "AJ Green",
-   "headline": "Connects on four triples",
-   "note": "Green posted 13 points (4-8 FG, 4-8 3Pt, 1-1 FT), three rebounds and three assists over 24 minutes during Monday's 112-100 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-connects-on-four-triples-537400"
   }
  ]
 }

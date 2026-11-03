@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:22:02Z",
+ "updated": "2026-11-03T19:22:18Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -58,6 +58,28 @@
    "fpts": 22.9,
    "gp": 5,
    "cur": 23.8
+  },
+  {
+   "player": "Matisse Thybulle",
+   "team": "LAL",
+   "pos": "SF",
+   "priority": 1,
+   "reason": "RotoWire 3.11.: Continues to start. Thybulle closed with six points (2-6 FG, 2-6 3Pt), one rebound, two assists and one block across 19 minutes during Monday's 138-117 victory over the Heat. ~20.9 FP po utakmici (ove sezone 22.2 u 8 utk., prošle sezone 18.3; 22 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-continues-to-start-537436",
+   "espnId": 3907498,
+   "waivers": {
+    "Legendi": "2026-11-05"
+   },
+   "fpts": 20.9,
+   "gp": 8,
+   "cur": 22.2
   },
   {
    "player": "Collin Murray-Boyles",
@@ -564,25 +586,6 @@
    "fpts": 13.2,
    "gp": 7,
    "cur": 12.7
-  },
-  {
-   "player": "Will Richard",
-   "team": "GSW",
-   "pos": "SG/SF",
-   "priority": 2,
-   "reason": "RotoWire 2.11.: Moves into starting lineup Monday. Richard will start Monday's game against the Suns, John Dickinson of 95.7 The Game San Francisco reports. ~12.4 FP po utakmici (ove sezone 10.8 u 8 utk., prošle sezone 15.8; 19 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~12 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/will-richard-news-moves-into-starting-lineup-monday-537294",
-   "espnId": 4897262,
-   "fpts": 12.4,
-   "gp": 8,
-   "cur": 10.8
   }
  ],
  "days": [
