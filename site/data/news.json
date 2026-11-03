@@ -1,6 +1,276 @@
 {
- "updated": "2026-11-02T23:22:30Z",
+ "updated": "2026-11-03T01:40:44Z",
  "items": [
+  {
+   "date": "2026-11-02",
+   "team": "GSW",
+   "player": "Brandon Williams",
+   "headline": "Won't play Monday",
+   "note": "Williams (quadriceps) has been ruled out for Monday's game against the Suns.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-injury-wont-play-monday-537280"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "headline": "Trending in right direction",
+   "note": "Head coach JJ Redick said Monday that Thiero (knee) has participated in live action, and the hope is that he'll be available by the end of the week, Khobi Price of The California Post reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-trending-in-right-direction-537279"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Coming off bench Monday",
+   "note": "Robinson (rest) won't start Monday's game against the Rockets, Lachard Binkley of SI.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-coming-off-bench-monday-537278"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "BOS",
+   "player": "Baylor Scheierman",
+   "headline": "Starting Monday",
+   "note": "Scheierman will start Monday's game against the Rockets, Lachard Binkley of SI.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-starting-monday-537277"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Available Monday",
+   "note": "Diallo (wrist) is available for Monday's game against the Trail Blazers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-news-available-monday-537276"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "HOU",
+   "player": "Marcus Smart",
+   "headline": "Moving to bench",
+   "note": "Smart will come off the bench for Monday's game against the Celtics, Lachard Binkley of SI.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-news-moving-to-bench-537275"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "DAL",
+   "player": "Caleb Martin",
+   "headline": "Joining first unit",
+   "note": "Martin will start Monday's game against the Kings, Christian Clark of The Athletic reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-news-joining-first-unit-537274"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MEM",
+   "player": "Cam Spencer",
+   "headline": "Won't start Monday",
+   "note": "Spencer won't start Monday's game against New Orleans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-wont-start-monday-537273"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIN",
+   "player": "Joan Beringer",
+   "headline": "Not starting Monday",
+   "note": "Beringer will not start Monday's game against the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-not-starting-monday-537272"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIL",
+   "player": "Brayden Burries",
+   "headline": "Starting Monday",
+   "note": "Burries will start Monday's game against the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brayden-burries-news-starting-monday-537271"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIL",
+   "player": "Ryan Rollins",
+   "headline": "Shifting to bench role",
+   "note": "Rollins isn't in the starting lineup for Monday's game against Minnesota.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-rollins-news-shifting-to-bench-role-537270"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIN",
+   "player": "LaMelo Ball",
+   "headline": "Cleared to play Monday",
+   "note": "Ball (wrist) is active for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-cleared-to-play-monday-537269"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Late scratch Monday",
+   "note": "Oubre (knee) has been ruled out for Monday's game against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-late-scratch-monday-537268"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIL",
+   "player": "Kasparas Jakucionis",
+   "headline": "Team option picked up",
+   "note": "The Bucks exercised Jakucionis' team option for the 2027-28 season Monday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kasparas-jakucionis-news-team-option-picked-up-537267"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIL",
+   "player": "Kel'el Ware",
+   "headline": "Team option picked up",
+   "note": "The Bucks exercised their fourth-year team option on Ware's contract Monday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelel-ware-news-team-option-picked-up-537266"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "IND",
+   "player": "Quenton Jackson",
+   "headline": "Enters starting lineup Monday",
+   "note": "Jackson will start in Monday's game against the Hawks, Tony East of Forbes.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-enters-starting-lineup-monday-537265"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "IND",
+   "player": "Jalen Slawson",
+   "headline": "Will start Monday",
+   "note": "Slawson will start in Monday's game against the Hawks, Tony East of Forbes.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-slawson-news-will-start-monday-537264"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "PHI",
+   "player": "Adem Bona",
+   "headline": "Not starting vs. Chicago",
+   "note": "Bona won't start Monday's game against the Bulls, Keith Pompey of The Philadelphia Inquirer reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-news-not-starting-vs-chicago-537263"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "IND",
+   "player": "Jarace Walker",
+   "headline": "Starting Monday",
+   "note": "Walker will start Monday's game against Atlanta, Tony East of Forbes.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarace-walker-news-starting-monday-537262"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Rotating to bench",
+   "note": "Schroder will come off the bench for Monday's game against Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-news-rotating-to-bench-537261"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Starting after all",
+   "note": "White will start Monday's game against the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-starting-after-all-537260"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MEM",
+   "player": "Scotty Pippen",
+   "headline": "Downgraded to out Monday",
+   "note": "Pippen (back) has been ruled out for Monday's game against the Pelicans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-downgraded-to-out-monday-537259"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Shifting to bench Monday",
+   "note": "Oubre will come off the bench in Monday's game against the Hawks, Tony East of Forbes.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-news-shifting-to-bench-monday-537258"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MEM",
+   "player": "Quinten Post",
+   "headline": "Unavailable Monday",
+   "note": "Post (ankle) has been downgraded to out for Monday's game against the Pelicans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-unavailable-monday-537257"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "ATL",
+   "player": "Luguentz Dort",
+   "headline": "Starting Monday",
+   "note": "Dort is starting Monday's game against the Pacers, Brad Rowland of the Locked On Podcast Network reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luguentz-dort-news-starting-monday-537256"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "SAC",
+   "player": "Dylan Cardwell",
+   "headline": "Ruled out Monday",
+   "note": "Cardwell (calf) has been ruled out for Monday's game against the Mavericks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-ruled-out-monday-537247"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "MIN",
+   "player": "Terrence Shannon",
+   "headline": "Out Monday",
+   "note": "Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-out-monday-537245"
+  },
   {
    "date": "2026-11-02",
    "team": "CLE",
@@ -46,7 +316,7 @@
    "team": "IND",
    "player": "Obi Toppin",
    "headline": "Dressing but won't play Monday",
-   "note": "Toppin (back) will dress for Monday's game against Hawks but will only play in an emergency, Tony East of Forbes.com reports.",
+   "note": "Toppin (back) will dress for Monday's game against the Hawks but will only play in an emergency, Tony East of Forbes.com reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-dressing-but-wont-play-monday-537240"
@@ -63,26 +333,6 @@
   },
   {
    "date": "2026-11-02",
-   "team": "IND",
-   "player": "Braden Smith",
-   "headline": "Drawing first career start Monday",
-   "note": "Smith will start Monday's game against the Hawks, Dustin Dopirak of The Indianapolis Star reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/braden-smith-news-drawing-first-career-start-monday-537238"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "NYK",
-   "player": "Jose Alvarado",
-   "headline": "Returning from four-game absence Monday",
-   "note": "Alvarado (ankle) is available for Monday's game against the Nets, Ian Begley of SportsNet New York reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jose-alvarado-news-returning-from-four-game-absence-monday-537237"
-  },
-  {
-   "date": "2026-11-02",
    "team": "ATL",
    "player": "Jalen Johnson",
    "headline": "Ruled out Monday",
@@ -93,16 +343,6 @@
   },
   {
    "date": "2026-11-02",
-   "team": "CHA",
-   "player": "Coby White",
-   "headline": "Won't start in season debut",
-   "note": "White will come off the bench and have his minutes monitored during Monday's game against Detroit, Owen O'Connor of SI.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-wont-start-in-season-debut-537235"
-  },
-  {
-   "date": "2026-11-02",
    "team": "SAC",
    "player": "Dylan Cardwell",
    "headline": "Downgraded to doubtful",
@@ -110,26 +350,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-downgraded-to-doubtful-537234"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "CHI",
-   "player": "Jalen Smith",
-   "headline": "Will play Monday",
-   "note": "Smith (finger) is active for Monday's game against Philadelphia.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-will-play-monday-537233"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "CHI",
-   "player": "Tobe Awaka",
-   "headline": "Good to go Monday",
-   "note": "Awaka (ankle) is active for Monday's game against the 76ers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-news-good-to-go-monday-537232"
   },
   {
    "date": "2026-11-02",
@@ -203,36 +423,6 @@
   },
   {
    "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Draymond Green",
-   "headline": "Cleared to suit up",
-   "note": "Green (back) is available Monday against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-cleared-to-suit-up-537223"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Set to return Monday",
-   "note": "Curry (rest) is available Monday against the Suns.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-set-to-return-monday-537222"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAL",
-   "player": "Ziaire Williams",
-   "headline": "Good to go Monday",
-   "note": "Williams (foot) is good to go for Monday against the Heat.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ziaire-williams-news-good-to-go-monday-537221"
-  },
-  {
-   "date": "2026-11-02",
    "team": "SAC",
    "player": "Dylan Cardwell",
    "headline": "Downgraded to questionable",
@@ -263,43 +453,13 @@
   },
   {
    "date": "2026-11-02",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Won't play Monday",
-   "note": "Capela (ankle) has been ruled out for Monday's game against the Celtics.",
+   "team": "BOS",
+   "player": "Mitchell Robinson",
+   "headline": "Available to play",
+   "note": "Robinson (rest) is not listed on the Celtics' injury report ahead of Monday's game against Houston.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-injury-wont-play-monday-537215"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "SAC",
-   "player": "Dylan Cardwell",
-   "headline": "Upgraded to probable",
-   "note": "Cardwell is probable for Monday's game against Dallas due to a left calf strain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-upgraded-to-probable-537214"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "MIN",
-   "player": "Terrence Shannon",
-   "headline": "Questionable due to hip injury",
-   "note": "Shannon has a left hip contusion and is questionable to face the Bucks on Monday.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-questionable-due-to-hip-injury-537213"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "MIN",
-   "player": "LaMelo Ball",
-   "headline": "Iffy with wrist issue",
-   "note": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-injury-iffy-with-wrist-issue-537212"
+   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-available-to-play-537216"
   },
   {
    "date": "2026-11-02",
@@ -310,36 +470,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/paul-george-injury-will-sit-out-monday-537211"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Downgraded to questionable",
-   "note": "Murray (personal) is now questionable for Monday against Memphis.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-downgraded-to-questionable-537210"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Downgraded to doubtful",
-   "note": "Irving (knee) is now doubtful for Monday against the Kings.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-downgraded-to-doubtful-537208"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "BOS",
-   "player": "Mitchell Robinson",
-   "headline": "Available to play",
-   "note": "Robinson (rest) is not listed on the Celtics' injury report ahead of Monday's game against Houston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-available-to-play-537216"
   },
   {
    "date": "2026-11-02",
@@ -413,6 +543,36 @@
   },
   {
    "date": "2026-11-02",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Won't start in season debut",
+   "note": "White will come off the bench and have his minutes monitored during Monday's game against Detroit, Owen O'Connor of SI.com reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-wont-start-in-season-debut-537235"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "CHI",
+   "player": "Jalen Smith",
+   "headline": "Will play Monday",
+   "note": "Smith (finger) is active for Monday's game against Philadelphia.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-smith-news-will-play-monday-537233"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "CHI",
+   "player": "Tobe Awaka",
+   "headline": "Good to go Monday",
+   "note": "Awaka (ankle) is active for Monday's game against the 76ers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-news-good-to-go-monday-537232"
+  },
+  {
+   "date": "2026-11-02",
    "team": "CHI",
    "player": "Dailyn Swain",
    "headline": "Not listed on injury report",
@@ -423,183 +583,23 @@
   },
   {
    "date": "2026-11-02",
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "headline": "Sitting out Monday",
-   "note": "Joe (hip) is out for Monday against the Hornets.",
+   "team": "CLE",
+   "player": "Meleek Thomas",
+   "headline": "Making first NBA start",
+   "note": "Thomas will start Monday's game against Oklahoma City, Serena Winters of FanDuel Sports Network Ohio reports.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-news-making-first-nba-start-537246"
+  },
+  {
+   "date": "2026-11-02",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Downgraded to doubtful",
+   "note": "Irving (knee) is now doubtful for Monday against the Kings.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-sitting-out-monday-537196"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Al Horford",
-   "headline": "Knocks down three triples",
-   "note": "Horford had nine points (3-7 FG, 3-7 3Pt, 0-1 FT), five rebounds, two assists and one block across 22 minutes during Sunday's 124-112 win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/al-horford-news-knocks-down-three-triples-537190"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Gary Payton",
-   "headline": "Provides defensive spark",
-   "note": "Payton accumulated five points (2-4 FG, 1-3 3Pt), two rebounds, two assists and one steal over 15 minutes during Sunday's 124-112 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gary-payton-news-provides-defensive-spark-537189"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Brandon Williams",
-   "headline": "Pops for 17 off bench Sunday",
-   "note": "Williams ended with 17 points (7-11 FG, 2-3 3Pt, 1-2 FT), three rebounds, three assists and one block across 25 minutes off the bench during Sunday's 124-112 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-pops-for-17-off-bench-sunday-537158"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "Brandin Podziemski",
-   "headline": "Teases triple-double in Sunday's win",
-   "note": "Podziemski supplied 17 points (7-14 FG, 2-7 3Pt, 1-1 FT), eight rebounds and eight assists over 37 minutes during Sunday's 124-112 win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-teases-triple-double-in-sundays-win-537157"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "GSW",
-   "player": "De'Anthony Melton",
-   "headline": "Big night from downtown Sunday",
-   "note": "Melton had 21 points (6-9 FG, 6-8 3Pt, 3-4 FT), six rebounds, three assists, one block and two steals across 28 minutes during Sunday's 124-112 victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-big-night-from-downtown-sunday-537156"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Remains week-to-week",
-   "note": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-remains-week-to-week-537206"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Ivica Zubac",
-   "headline": "Remains out indefinitely",
-   "note": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-remains-out-indefinitely-537205"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Larry Nance",
-   "headline": "Doubtful with illness",
-   "note": "Nance (illness) is doubtful for Monday against the Hawks.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/larry-nance-injury-doubtful-with-illness-537203"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Iffy for Monday",
-   "note": "Toppin (back) is questionable for Monday's game against Atlanta.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-iffy-for-monday-537202"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Will not suit up Monday",
-   "note": "Nesmith (rest) is sitting out Monday against Atlanta.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-will-not-suit-up-monday-537201"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "headline": "Taking night off",
-   "note": "Nembhard (cervical strain) is out for Monday's game against Atlanta.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-injury-taking-night-off-537200"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Pascal Siakam",
-   "headline": "Resting against Hawks",
-   "note": "Siakam will be rested against the Hawks on Monday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-injury-resting-against-hawks-537199"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Quenton Jackson",
-   "headline": "Scores in double digits again",
-   "note": "Jackson notched 12 points (4-8 FG, 3-4 3Pt, 1-2 FT), three rebounds and two assists across 23 minutes in Sunday's 98-90 loss to the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-scores-in-double-digits-again-537181"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Limited output in loss",
-   "note": "Nesmith finished with 11 points (3-8 FG, 0-4 3Pt, 5-6 FT), three rebounds, four assists and a steal across 30 minutes in Sunday's 98-90 loss to the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-limited-output-in-loss-537180"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "IND",
-   "player": "Pascal Siakam",
-   "headline": "Scores 17 points in loss",
-   "note": "Siakam delivered 17 points (6-14 FG, 0-2 3Pt, 5-6 FT), five rebounds, five assists and a steal across 35 minutes in Sunday's 98-90 loss to the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-news-scores-17-points-in-loss-537179"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAC",
-   "player": "Brook Lopez",
-   "headline": "Struggles in defeat",
-   "note": "Lopez racked up seven points (3-8 FG, 1-2 3Pt), two rebounds and two steals in 19 minutes during Sunday's 124-112 loss to Golden State.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-struggles-in-defeat-537192"
-  },
-  {
-   "date": "2026-11-02",
-   "team": "LAC",
-   "player": "Nick Martinelli",
-   "headline": "Scores 10 points",
-   "note": "Martinelli chipped in 10 points (4-5 FG, 2-3 3Pt) and three rebounds across six minutes during Sunday's 124-112 loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nick-martinelli-news-scores-10-points-537191"
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-downgraded-to-doubtful-537208"
   }
  ]
 }

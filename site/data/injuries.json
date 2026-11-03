@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:21:20Z",
+ "updated": "2026-11-03T01:40:09Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -11,6 +11,16 @@
    "status": "Out for season",
    "kind": "out_season",
    "ret": null
+  },
+  {
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "ATL",
@@ -31,16 +41,6 @@
    "status": "Expected return: at least Nov 20",
    "kind": "out",
    "ret": "2026-11-20"
-  },
-  {
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "pos": "PF",
-   "updated": "2026-10-31",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "BKN",
@@ -104,23 +104,13 @@
   },
   {
    "team": "CHI",
-   "player": "Jalen Smith",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Finger",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHI",
    "player": "Nicolas Claxton",
    "pos": "C",
    "updated": "2026-11-02",
    "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "CLE",
@@ -146,11 +136,11 @@
    "team": "CLE",
    "player": "Peyton Watson",
    "pos": "SF",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "DAL",
@@ -161,6 +151,26 @@
    "status": "Expected return: at least Nov 12",
    "kind": "out",
    "ret": "2026-11-12"
+  },
+  {
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "DAL",
@@ -183,26 +193,6 @@
    "ret": "2026-11-12"
   },
   {
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "pos": "PG",
-   "updated": "2026-11-02",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-11-02",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
@@ -221,16 +211,6 @@
    "status": "Expected return: at least Nov 4",
    "kind": "out",
    "ret": "2026-11-04"
-  },
-  {
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "pos": "SF",
-   "updated": "2026-11-01",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DET",
@@ -333,16 +313,6 @@
    "ret": "2026-11-09"
   },
   {
-   "team": "HOU",
-   "player": "Reed Sheppard",
-   "pos": "SG",
-   "updated": "2026-11-01",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "IND",
    "player": "Aaron Nesmith",
    "pos": "SF",
@@ -394,6 +364,36 @@
   },
   {
    "team": "IND",
+   "player": "Kelly Oubre Jr.",
+   "pos": "SF",
+   "updated": "2026-11-02",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "IND",
+   "player": "Larry Nance Jr.",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Illness",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "IND",
+   "player": "Obi Toppin",
+   "pos": "PF",
+   "updated": "2026-11-02",
+   "injury": "Coach's Decision",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "IND",
    "player": "Pascal Siakam",
    "pos": "PF",
    "updated": "2026-11-02",
@@ -421,26 +421,6 @@
    "status": "Expected return: at least Nov 13",
    "kind": "out",
    "ret": "2026-11-13"
-  },
-  {
-   "team": "IND",
-   "player": "Larry Nance Jr.",
-   "pos": "PF",
-   "updated": "2026-11-02",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Obi Toppin",
-   "pos": "PF",
-   "updated": "2026-11-01",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "LAC",
@@ -516,21 +496,21 @@
    "team": "MEM",
    "player": "Quinten Post",
    "pos": "C",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "MEM",
    "player": "Scotty Pippen Jr.",
    "pos": "PG",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "MIN",
@@ -554,23 +534,23 @@
   },
   {
    "team": "MIN",
-   "player": "LaMelo Ball",
-   "pos": "PG",
-   "updated": "2026-11-02",
-   "injury": "Wrist",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "MIN",
    "player": "Terrence Shannon Jr.",
    "pos": "SF",
    "updated": "2026-11-02",
    "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "NOP",
+   "player": "Dejounte Murray",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Personal",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
   },
   {
    "team": "NOP",
@@ -591,26 +571,6 @@
    "status": "Expected return: at least Nov 8",
    "kind": "out",
    "ret": "2026-11-08"
-  },
-  {
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "pos": "PG",
-   "updated": "2026-11-02",
-   "injury": "Personal",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "NYK",
-   "player": "Jose Alvarado",
-   "pos": "PG",
-   "updated": "2026-11-01",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "OKC",
@@ -753,16 +713,6 @@
    "ret": "2026-11-04"
   },
   {
-   "team": "PHI",
-   "player": "Joel Embiid",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "PHX",
    "player": "Mark Williams",
    "pos": "C",
@@ -804,6 +754,16 @@
   },
   {
    "team": "SAC",
+   "player": "Dylan Cardwell",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Calf",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "SAC",
    "player": "Keegan Murray",
    "pos": "PF",
    "updated": "2026-11-02",
@@ -821,26 +781,6 @@
    "status": "Expected return: at least Nov 10",
    "kind": "out",
    "ret": "2026-11-10"
-  },
-  {
-   "team": "SAC",
-   "player": "Dylan Cardwell",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "pos": "SG",
-   "updated": "2026-11-01",
-   "injury": "Elbow",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "SAS",
