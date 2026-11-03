@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:40:09Z",
+ "updated": "2026-11-03T06:32:41Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -193,6 +193,16 @@
    "ret": "2026-11-12"
   },
   {
+   "team": "DAL",
+   "player": "Max Christie",
+   "pos": "SG",
+   "updated": "2026-11-02",
+   "injury": "Hip",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
@@ -244,6 +254,16 @@
   },
   {
    "team": "GSW",
+   "player": "Brandon Williams",
+   "pos": "PG",
+   "updated": "2026-11-02",
+   "injury": "Quadriceps",
+   "status": "Expected return: at least Nov 5",
+   "kind": "out",
+   "ret": "2026-11-05"
+  },
+  {
+   "team": "GSW",
    "player": "Gui Santos",
    "pos": "SF",
    "updated": "2026-11-02",
@@ -281,16 +301,6 @@
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
-  },
-  {
-   "team": "GSW",
-   "player": "Brandon Williams",
-   "pos": "PG",
-   "updated": "2026-11-02",
-   "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "HOU",
@@ -486,11 +496,11 @@
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
-   "updated": "2026-11-01",
+   "updated": "2026-11-02",
    "injury": "Knee",
-   "status": "Expected return: at least Nov 9",
+   "status": "Expected return: at least Nov 6",
    "kind": "out",
-   "ret": "2026-11-09"
+   "ret": "2026-11-06"
   },
   {
    "team": "MEM",
@@ -723,6 +733,16 @@
    "ret": "2027-02-03"
   },
   {
+   "team": "PHX",
+   "player": "Jordan Goodwin",
+   "pos": "SG",
+   "updated": "2026-11-02",
+   "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "POR",
    "player": "Ja Morant",
    "pos": "PG",
@@ -804,6 +824,16 @@
   },
   {
    "team": "TOR",
+   "player": "Jakob Poeltl",
+   "pos": "C",
+   "updated": "2026-11-02",
+   "injury": "Shoulder",
+   "status": "Expected return: at least Nov 4",
+   "kind": "out",
+   "ret": "2026-11-04"
+  },
+  {
+   "team": "TOR",
    "player": "Kawhi Leonard",
    "pos": "SF",
    "updated": "2026-10-27",
@@ -821,26 +851,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "pos": "C",
-   "updated": "2026-11-01",
-   "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "TOR",
-   "player": "Scottie Barnes",
-   "pos": "PF",
-   "updated": "2026-11-02",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "UTA",
