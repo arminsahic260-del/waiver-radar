@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:21:56Z",
+ "updated": "2026-11-03T12:21:51Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -39,25 +39,6 @@
    "fpts": 24.8,
    "gp": 4,
    "cur": 24.8
-  },
-  {
-   "player": "Brook Lopez",
-   "team": "LAC",
-   "pos": "C",
-   "priority": 1,
-   "reason": "RotoWire 2.11.: Starting Monday. Lopez will start Monday's game against the Raptors, NBA writer Justin Russo reports. ~22.9 FP po utakmici (ove sezone 24.4 u 7 utk., prošle sezone 20.3; 22 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-starting-monday-537293",
-   "espnId": 3448,
-   "fpts": 22.9,
-   "gp": 7,
-   "cur": 24.4
   },
   {
    "player": "Marcus Smart",
@@ -585,6 +566,25 @@
    "fpts": 13.2,
    "gp": 7,
    "cur": 12.7
+  },
+  {
+   "player": "Will Richard",
+   "team": "GSW",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "RotoWire 2.11.: Moves into starting lineup Monday. Richard will start Monday's game against the Suns, John Dickinson of 95.7 The Game San Francisco reports. ~12.4 FP po utakmici (ove sezone 10.8 u 8 utk., prošle sezone 15.8; 19 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~12 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/will-richard-news-moves-into-starting-lineup-monday-537294",
+   "espnId": 4897262,
+   "fpts": 12.4,
+   "gp": 8,
+   "cur": 10.8
   }
  ],
  "days": [
@@ -738,6 +738,25 @@
        "waiver": "2026-11-04"
       },
       {
+       "player": "Pelle Larsson",
+       "team": "MIA",
+       "pos": "SG/SF",
+       "espnId": 4601025,
+       "fpts": 24.0,
+       "mpg": 28.5,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 24.7,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-08"
+       ],
+       "value": 24.0,
+       "gtd": false,
+       "waiver": "2026-11-05"
+      },
+      {
        "player": "Oso Ighodaro",
        "team": "PHX",
        "pos": "PF",
@@ -753,24 +772,6 @@
         "2026-11-07"
        ],
        "value": 19.2,
-       "gtd": false
-      },
-      {
-       "player": "Tim Hardaway Jr.",
-       "team": "MIA",
-       "pos": "SG/SF",
-       "espnId": 2528210,
-       "fpts": 14.2,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 10.0,
-       "matchup": "MIA @ GSW",
-       "dates": [
-        "2026-11-05",
-        "2026-11-08"
-       ],
-       "value": 14.2,
        "gtd": false
       }
      ]
@@ -1147,21 +1148,22 @@
        "gtd": false
       },
       {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 23.2,
-       "mpg": 25.3,
+       "player": "Pelle Larsson",
+       "team": "MIA",
+       "pos": "SG/SF",
+       "espnId": 4601025,
+       "fpts": 24.0,
+       "mpg": 28.5,
        "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 2.0,
-       "matchup": "NOP @ LAC",
+       "gp": 7,
+       "cur": 24.7,
+       "matchup": "MIA @ SAC",
        "dates": [
         "2026-11-08"
        ],
-       "value": 23.2,
-       "gtd": false
+       "value": 24.0,
+       "gtd": false,
+       "waiver": "2026-11-05"
       }
      ]
     }
