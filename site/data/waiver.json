@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:21:52Z",
+ "updated": "2026-11-04T12:22:05Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -218,12 +218,12 @@
    "cur": 24.8
   },
   {
-   "player": "Bobby Portis",
+   "player": "Pelle Larsson",
    "team": "MIA",
-   "pos": "PF/C",
+   "pos": "SG/SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Bobby Portis je rotacijski PF/C, ~24.0 FP po utakmici (ove sezone 23.0 u 7 utk., prošle sezone 25.8; 23 min); MIA ima 4 utakmice ovaj tjedan. Liga: Banijska. Giannis Antetokounmpo (zapešće) je upitan (GTD). Bobby Portis je sljedeći PF/C u rotaciji MIA-a za te minute; ~24.0 FP po utakmici (ove sezone 23.0 u 7 utk., prošle sezone 25.8; 23 min).",
-   "role": "Streamer (23 min)",
+   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 2). Pelle Larsson je rotacijski SG/SF, ~24.0 FP po utakmici (ove sezone 24.7 u 7 utk., prošle sezone 22.6; 28 min); MIA ima 4 utakmice ovaj tjedan. Liga: Banijska. Giannis Antetokounmpo (zapešće) je upitan (GTD). Pelle Larsson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~24.0 FP po utakmici (ove sezone 24.7 u 7 utk., prošle sezone 22.6; 28 min).",
+   "role": "Streamer (28 min)",
    "horizon": "5.11.",
    "risk": "Kratkoročno — nakon utakmice ga možeš pustiti",
    "avail": {
@@ -232,10 +232,13 @@
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
    "note": "igra u četvrtak",
-   "espnId": 3064482,
+   "espnId": 4601025,
+   "waivers": {
+    "Banijska": "2026-11-05"
+   },
    "fpts": 24.0,
    "gp": 7,
-   "cur": 23.0,
+   "cur": 24.7,
    "expires": "2026-11-05"
   },
   {
@@ -338,7 +341,7 @@
    "team": "PHX",
    "pos": "PF",
    "priority": 2,
-   "reason": "Stream za četvrtak (ORL @ PHX, tvojih igrača: 1). Oso Ighodaro je rotacijski PF, ~19.2 FP po utakmici (ove sezone 17.3 u 3 utk., prošle sezone 20.5; 21 min); PHX ima 4 utakmice ovaj tjedan. Liga: Banijska.",
+   "reason": "Stream za četvrtak (ORL @ PHX, tvojih igrača: 2). Oso Ighodaro je rotacijski PF, ~19.2 FP po utakmici (ove sezone 17.3 u 3 utk., prošle sezone 20.5; 21 min); PHX ima 4 utakmice ovaj tjedan. Liga: Banijska.",
    "role": "Streamer (21 min)",
    "horizon": "5.11.",
    "risk": "Nizak plafon, čisti kratkoročni stream",
@@ -397,7 +400,7 @@
    "team": "GSW",
    "pos": "SF",
    "priority": 2,
-   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 1). Gui Santos je rotacijski SF, ~17.4 FP po utakmici (ove sezone 15.5 u 6 utk., prošle sezone 20.3; 20 min). Liga: Banijska, Legendi.",
+   "reason": "Stream za četvrtak (MIA @ GSW, tvojih igrača: 2). Gui Santos je rotacijski SF, ~17.4 FP po utakmici (ove sezone 15.5 u 6 utk., prošle sezone 20.3; 20 min). Liga: Banijska, Legendi.",
    "role": "Streamer (20 min)",
    "horizon": "5.11.",
    "risk": "Upitan (GTD) — provjeri status prije utakmice",
@@ -549,28 +552,6 @@
    "cur": 10.3
   },
   {
-   "player": "Pelle Larsson",
-   "team": "MIA",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Giannis Antetokounmpo (zapešće) je upitan (GTD). Pelle Larsson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~24.0 FP po utakmici (ove sezone 24.7 u 7 utk., prošle sezone 22.6; 28 min).",
-   "role": "Zamjena ako Giannis Antetokounmpo ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Giannis Antetokounmpo",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4601025,
-   "waivers": {
-    "Banijska": "2026-11-05"
-   },
-   "fpts": 24.0,
-   "gp": 7,
-   "cur": 24.7
-  },
-  {
    "player": "Jakob Poeltl",
    "team": "TOR",
    "pos": "C",
@@ -588,6 +569,25 @@
    "fpts": 20.3,
    "gp": 5,
    "cur": 14.6
+  },
+  {
+   "player": "Keldon Johnson",
+   "team": "SAS",
+   "pos": "SF/PF",
+   "priority": 3,
+   "reason": "Tobias Harris (list) je out najmanje do 9.11. Keldon Johnson je sljedeći SF/PF u rotaciji SAS-a za te minute; ~19.8 FP po utakmici (ove sezone 17.7 u 7 utk., prošle sezone 23.4; 23 min).",
+   "role": "Veća minutaža dok je out Tobias Harris",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Tobias Harris",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4395723,
+   "fpts": 19.8,
+   "gp": 7,
+   "cur": 17.7
   }
  ],
  "days": [
@@ -617,11 +617,12 @@
      "mine": 13,
      "open": 0,
      "sitting": 3,
-     "adds": 7,
+     "adds": 6,
      "addsLimit": 7,
      "add": false,
      "addDays": [
       "2026-11-05",
+      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [],
@@ -707,36 +708,19 @@
     },
     {
      "league": "Banijska",
-     "mine": 1,
-     "open": 9,
+     "mine": 2,
+     "open": 8,
      "sitting": 0,
-     "adds": 7,
+     "adds": 6,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-05",
+      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [],
      "picks": [
-      {
-       "player": "Bobby Portis",
-       "team": "MIA",
-       "pos": "PF/C",
-       "espnId": 3064482,
-       "fpts": 24.0,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 23.0,
-       "matchup": "MIA @ GSW",
-       "dates": [
-        "2026-11-05",
-        "2026-11-08"
-       ],
-       "value": 24.0,
-       "gtd": false
-      },
       {
        "player": "Pelle Larsson",
        "team": "MIA",
@@ -772,6 +756,24 @@
         "2026-11-07"
        ],
        "value": 19.2,
+       "gtd": false
+      },
+      {
+       "player": "Tim Hardaway Jr.",
+       "team": "MIA",
+       "pos": "SG/SF",
+       "espnId": 2528210,
+       "fpts": 14.2,
+       "mpg": 21.4,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 10.0,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-08"
+       ],
+       "value": 14.2,
        "gtd": false
       }
      ]
@@ -854,18 +856,73 @@
     },
     {
      "league": "Banijska",
-     "mine": 10,
-     "open": 0,
+     "mine": 9,
+     "open": 1,
      "sitting": 0,
-     "adds": 6,
+     "adds": 5,
      "addsLimit": 7,
-     "add": false,
+     "add": true,
      "addDays": [
       "2026-11-05",
+      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [],
-     "picks": []
+     "picks": [
+      {
+       "player": "Meleek Thomas",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 5041951,
+       "fpts": 24.8,
+       "mpg": 22.0,
+       "basis": "sezona",
+       "gp": 4,
+       "cur": 24.8,
+       "matchup": "PHI @ CLE",
+       "dates": [
+        "2026-11-06",
+        "2026-11-07"
+       ],
+       "value": 24.8,
+       "gtd": false
+      },
+      {
+       "player": "Bilal Coulibaly",
+       "team": "WAS",
+       "pos": "SG/SF",
+       "espnId": 5104155,
+       "fpts": 24.5,
+       "mpg": 26.9,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 23.4,
+       "matchup": "WAS @ ATL",
+       "dates": [
+        "2026-11-06",
+        "2026-11-07"
+       ],
+       "value": 24.5,
+       "gtd": false
+      },
+      {
+       "player": "Isaiah Stewart",
+       "team": "MEM",
+       "pos": "PF/C",
+       "espnId": 4432810,
+       "fpts": 23.5,
+       "mpg": 20.9,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 23.7,
+       "matchup": "OKC @ MEM",
+       "dates": [
+        "2026-11-06"
+       ],
+       "value": 23.5,
+       "gtd": false
+      }
+     ]
     }
    ]
   },
@@ -951,34 +1008,24 @@
     {
      "league": "Banijska",
      "mine": 4,
-     "open": 6,
+     "open": 5,
      "sitting": 0,
-     "adds": 6,
+     "adds": 4,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-05",
+      "2026-11-06",
       "2026-11-07"
      ],
-     "planned": [],
-     "picks": [
+     "planned": [
       {
        "player": "Meleek Thomas",
        "team": "CLE",
-       "pos": "SG",
-       "espnId": 5041951,
-       "fpts": 24.8,
-       "mpg": 22.0,
-       "basis": "sezona",
-       "gp": 4,
-       "cur": 24.8,
-       "matchup": "NYK @ CLE",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 24.8,
-       "gtd": false
-      },
+       "from": "2026-11-06"
+      }
+     ],
+     "picks": [
       {
        "player": "Bilal Coulibaly",
        "team": "WAS",
@@ -1011,6 +1058,23 @@
         "2026-11-07"
        ],
        "value": 20.8,
+       "gtd": false
+      },
+      {
+       "player": "Kingston Flemings",
+       "team": "ATL",
+       "pos": "SG/PG",
+       "espnId": 5149077,
+       "fpts": 20.5,
+       "mpg": 21.9,
+       "basis": "sezona+projekcija",
+       "gp": 7,
+       "cur": 19.6,
+       "matchup": "BKN @ ATL",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 20.5,
        "gtd": false
       }
      ]
@@ -1095,16 +1159,17 @@
      "mine": 9,
      "open": 0,
      "sitting": 0,
-     "adds": 5,
+     "adds": 3,
      "addsLimit": 7,
      "add": false,
      "addDays": [
       "2026-11-05",
+      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [
       {
-       "player": "Bobby Portis",
+       "player": "Pelle Larsson",
        "team": "MIA",
        "from": "2026-11-05"
       }
@@ -1133,8 +1198,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 7,
-     "open": 3,
+     "mine": 6,
+     "open": 4,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
@@ -1288,8 +1353,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 6,
-     "open": 4,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
      "adds": 6,
      "addsLimit": 7,
@@ -1300,25 +1365,6 @@
      ],
      "planned": [],
      "picks": [
-      {
-       "player": "Bobby Portis",
-       "team": "MIA",
-       "pos": "PF/C",
-       "espnId": 3064482,
-       "fpts": 24.0,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 23.0,
-       "matchup": "MIA @ UTA",
-       "dates": [
-        "2026-11-10",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 24.0,
-       "gtd": false
-      },
       {
        "player": "Pelle Larsson",
        "team": "MIA",
@@ -1356,6 +1402,26 @@
         "2026-11-15"
        ],
        "value": 22.7,
+       "gtd": false
+      },
+      {
+       "player": "Isaiah Collier",
+       "team": "UTA",
+       "pos": "PG",
+       "espnId": 4683766,
+       "fpts": 20.4,
+       "mpg": 20.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 15.6,
+       "matchup": "MIA @ UTA",
+       "dates": [
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15"
+       ],
+       "value": 20.4,
        "gtd": false
       }
      ]
