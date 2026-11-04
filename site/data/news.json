@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-04T16:22:03Z",
+ "updated": "2026-11-04T17:21:53Z",
  "items": [
+  {
+   "date": "2026-11-04",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Goes through shootaround",
+   "note": "Aldama (knee) was spotted at Wednesday's morning shootaround, Brad Townsend of The Dallas Morning News reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-goes-through-shootaround-537515"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "GSW",
+   "player": "Kristaps Porzingis",
+   "headline": "Warriors withholding payments",
+   "note": "The Warriors have stopped issuing salary payments to Porzingis, who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-withholding-payments-537514"
+  },
   {
    "date": "2026-11-03",
    "team": "MIA",
@@ -300,26 +320,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-questionable-against-cleveland-537481"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Max Christie",
-   "headline": "Ruled out for Wednesday",
-   "note": "Christie (hip) is out for Wednesday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/max-christie-injury-ruled-out-for-wednesday-537478"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Questionable for Wednesday",
-   "note": "Aldama (knee) is questionable for Wednesday's game against the Spurs.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-questionable-for-wednesday-537476"
   },
   {
    "date": "2026-11-03",
