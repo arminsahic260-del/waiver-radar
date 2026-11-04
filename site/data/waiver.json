@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:59:07Z",
+ "updated": "2026-11-04T22:22:00Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -331,7 +331,7 @@
    "horizon": "5.11.",
    "risk": "Nizak plafon, čisti kratkoročni stream",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
@@ -655,24 +655,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Oso Ighodaro",
-       "team": "PHX",
-       "pos": "PF",
-       "espnId": 4601023,
-       "fpts": 19.2,
-       "mpg": 21.2,
-       "basis": "sezona+prošla sezona",
-       "gp": 3,
-       "cur": 17.3,
-       "matchup": "ORL @ PHX",
-       "dates": [
-        "2026-11-05",
-        "2026-11-07"
-       ],
-       "value": 19.2,
-       "gtd": false
-      },
-      {
        "player": "Jordan Goodwin",
        "team": "PHX",
        "pos": "PG/SG",
@@ -707,6 +689,24 @@
        ],
        "value": 14.2,
        "gtd": false
+      },
+      {
+       "player": "Gui Santos",
+       "team": "GSW",
+       "pos": "SF",
+       "espnId": 4997536,
+       "fpts": 17.4,
+       "mpg": 20.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 15.5,
+       "matchup": "MIA @ GSW",
+       "dates": [
+        "2026-11-05",
+        "2026-11-07"
+       ],
+       "value": 13.0,
+       "gtd": true
       }
      ]
     },
@@ -951,7 +951,7 @@
      ],
      "planned": [
       {
-       "player": "Oso Ighodaro",
+       "player": "Jordan Goodwin",
        "team": "PHX",
        "from": "2026-11-05"
       }

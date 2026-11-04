@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:58:28Z",
+ "updated": "2026-11-04T22:21:15Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -463,6 +463,16 @@
    "ret": "2026-11-08"
   },
   {
+   "team": "LAC",
+   "player": "Isaiah Jackson",
+   "pos": "C",
+   "updated": "2026-11-04",
+   "injury": "Groin",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
@@ -724,20 +734,20 @@
   },
   {
    "team": "PHX",
+   "player": "Rasheer Fleming",
+   "pos": "PF",
+   "updated": "2026-11-04",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 5",
+   "kind": "out",
+   "ret": "2026-11-05"
+  },
+  {
+   "team": "PHX",
    "player": "Jordan Goodwin",
    "pos": "SG",
    "updated": "2026-11-02",
    "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHX",
-   "player": "Rasheer Fleming",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -774,6 +784,16 @@
   },
   {
    "team": "SAC",
+   "player": "Daeqwon Plowden",
+   "pos": "SF",
+   "updated": "2026-11-04",
+   "injury": "Illness",
+   "status": "Expected return: at least Nov 6",
+   "kind": "out",
+   "ret": "2026-11-06"
+  },
+  {
+   "team": "SAC",
    "player": "Keegan Murray",
    "pos": "PF",
    "updated": "2026-11-02",
@@ -791,16 +811,6 @@
    "status": "Expected return: at least Nov 10",
    "kind": "out",
    "ret": "2026-11-10"
-  },
-  {
-   "team": "SAC",
-   "player": "Precious Achiuwa",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "SAS",
@@ -938,16 +948,6 @@
    "pos": "C",
    "updated": "2026-11-03",
    "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "WAS",
-   "player": "Anthony Gill",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
