@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-03T23:30:36Z",
+ "updated": "2026-11-04T06:36:43Z",
  "items": [
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Myron Gardner",
+   "headline": "Questionable against Clippers",
+   "note": "Gardner (quadriceps) is listed as questionable for Wednesday's game against the Clippers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/myron-gardner-injury-questionable-against-clippers-537511"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "MIA",
+   "player": "Giannis Antetokounmpo",
+   "headline": "Probable for Wednesday",
+   "note": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-probable-for-wednesday-537510"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "LAC",
+   "player": "Rui Hachimura",
+   "headline": "Off injury report for Wednesday",
+   "note": "Hachimura (quadriceps) is not listed on the injury report ahead of Wednesday's game against Miami.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rui-hachimura-news-off-injury-report-for-wednesday-537509"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "LAC",
+   "player": "Derrick Jones",
+   "headline": "Not listed on injury report",
+   "note": "Jones (knee) has been removed from the injury report ahead of Wednesday's game against the Heat, NBA writer Justin Russo reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derrick-jones-news-not-listed-on-injury-report-537508"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "SAC",
+   "player": "Dylan Cardwell",
+   "headline": "Not listed on injury report",
+   "note": "Cardwell (calf) is not listed on the injury report for Wednesday's meeting with the Lakers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-news-not-listed-on-injury-report-537507"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "SAC",
+   "player": "Precious Achiuwa",
+   "headline": "Likely good to go Wednesday",
+   "note": "Achiuwa (ankle) is listed as probable for Wednesday's game against the Lakers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/precious-achiuwa-injury-likely-good-to-go-wednesday-537506"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "PHX",
+   "player": "Jordan Goodwin",
+   "headline": "Questionable for Wednesday",
+   "note": "Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-goodwin-injury-questionable-for-wednesday-537505"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "PHX",
+   "player": "Rasheer Fleming",
+   "headline": "Questionable for Wednesday",
+   "note": "Fleming is questionable for Wednesday's game against the Trail Blazers due to a sprained left ankle, Duane Rankin of The Arizona Republic reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rasheer-fleming-injury-questionable-for-wednesday-537504"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "TOR",
+   "player": "Kawhi Leonard",
+   "headline": "To be re-evaluated in one week",
+   "note": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kawhi-leonard-injury-to-be-re-evaluated-in-one-week-537503"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "headline": "Probable versus Toronto",
+   "note": "Johnson (lower body injury management) is listed as probable for Wednesday's game against Toronto.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-probable-versus-toronto-537502"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "headline": "Probable for Wednesday",
+   "note": "Diallo (wrist) is probable for Wednesday's game against the Raptors.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-probable-for-wednesday-537501"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "DEN",
+   "player": "Spencer Jones",
+   "headline": "Still sidelined",
+   "note": "Jones (hamstring) is out for Wednesday's game against the Raptors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-injury-still-sidelined-537500"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "headline": "Might return Wednesday",
+   "note": "Zubac (ankle) is listed as questionable for Wednesday's game against the Grizzlies.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-might-return-wednesday-537499"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Aaron Nesmith",
+   "headline": "Not listed on injury report",
+   "note": "Nesmith (rest) is not listed on the injury report for Wednesday's game in Memphis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-not-listed-on-injury-report-537498"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Iffy for Wednesday",
+   "note": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-iffy-for-wednesday-537497"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Pascal Siakam",
+   "headline": "Available to play Wednesday",
+   "note": "Siakam (rest) is not listed on the injury report ahead of Wednesday's game against Memphis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-news-available-to-play-wednesday-537496"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Not listed on injury report",
+   "note": "Nembhard (neck) has been removed from the injury report ahead of Wednesday's meeting in Memphis.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-not-listed-on-injury-report-537495"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Larry Nance",
+   "headline": "Absent from injury report",
+   "note": "Nance (illness) is off the injury report for Wednesday's game against the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-absent-from-injury-report-537494"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Questionable for Wednesday",
+   "note": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-wednesday-537493"
+  },
   {
    "date": "2026-11-03",
    "team": "TOR",
@@ -83,16 +273,6 @@
   },
   {
    "date": "2026-11-03",
-   "team": "NOP",
-   "player": "Dejounte Murray",
-   "headline": "Removed from injury report",
-   "note": "Murray (personal) is off the injury report for Wednesday's game against Jazz.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-removed-from-injury-report-537484"
-  },
-  {
-   "date": "2026-11-03",
    "team": "OKC",
    "player": "Nikola Topic",
    "headline": "Remains out Wednesday",
@@ -123,16 +303,6 @@
   },
   {
    "date": "2026-11-03",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Cleared from injury report",
-   "note": "Caruso (ankle) is off the injury report for Wednesday's game against the Cavaliers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-news-cleared-from-injury-report-537480"
-  },
-  {
-   "date": "2026-11-03",
    "team": "DAL",
    "player": "Max Christie",
    "headline": "Ruled out for Wednesday",
@@ -144,62 +314,12 @@
   {
    "date": "2026-11-03",
    "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Not listed on injury report",
-   "note": "Irving (knee) has been removed from the injury report ahead of Wednesday's meeting in Sacramento.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-not-listed-on-injury-report-537477"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
    "player": "Santi Aldama",
    "headline": "Questionable for Wednesday",
    "note": "Aldama (knee) is questionable for Wednesday's game against the Spurs.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-questionable-for-wednesday-537476"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Questionable against Minnesota",
-   "note": "Capela (ankle) is listed as questionable for Wednesday's game against the Timberwolves.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-injury-questionable-against-minnesota-537475"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Expected to play Wednesday",
-   "note": "Knueppel (hamstring) is listed as probable for Wednesday's game against the Nets.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-expected-to-play-wednesday-537474"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "Out with ankle sprain",
-   "note": "Tyson is out for Wednesday's game against the Thunder due to a right ankle sprain.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-with-ankle-sprain-537473"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CLE",
-   "player": "Peyton Watson",
-   "headline": "Ruled out for Wednesday",
-   "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-injury-ruled-out-for-wednesday-537472"
   },
   {
    "date": "2026-11-03",
@@ -220,66 +340,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-questionable-for-wednesday-537470"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CHA",
-   "player": "Coby White",
-   "headline": "Probable for Wednesday",
-   "note": "White (calf) is probable for Wednesday's game in Brooklyn.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-probable-for-wednesday-537469"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "PHI",
-   "player": "Dominick Barlow",
-   "headline": "Still sidelined",
-   "note": "Barlow (back) won't play in Wednesday's game against the Pistons, Austin Krell of OnPattison.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-still-sidelined-537468"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "NYK",
-   "player": "Josh Hart",
-   "headline": "Iffy for Wednesday",
-   "note": "Hart is questionable for Wednesday's game against the Bulls due to right ankle soreness.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-injury-iffy-for-wednesday-537467"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "WAS",
-   "player": "Anthony Gill",
-   "headline": "Iffy for Wednesday",
-   "note": "Gill (back) is questionable for Wednesday against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-gill-injury-iffy-for-wednesday-537466"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "WAS",
-   "player": "Alex Sarr",
-   "headline": "Listed as questionable",
-   "note": "Sarr (knee) is listed as questionable for Wednesday's game against Atlanta.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-injury-listed-as-questionable-537465"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DET",
-   "player": "Isaiah Joe",
-   "headline": "Another absence coming",
-   "note": "Joe (hip) has been ruled out for Wednesday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-another-absence-coming-537464"
   },
   {
    "date": "2026-11-03",
@@ -404,6 +464,26 @@
   {
    "date": "2026-11-03",
    "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Expected to play Wednesday",
+   "note": "Knueppel (hamstring) is listed as probable for Wednesday's game against the Nets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-expected-to-play-wednesday-537474"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
+   "player": "Coby White",
+   "headline": "Probable for Wednesday",
+   "note": "White (calf) is probable for Wednesday's game in Brooklyn.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-injury-probable-for-wednesday-537469"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CHA",
    "player": "Moussa Diabate",
    "headline": "Full stat line in loss",
    "note": "Diabate closed with seven points (3-6 FG, 1-1 FT), nine rebounds, two assists, one block and three steals in 24 minutes during Monday's 124-91 loss to the Pistons.",
@@ -514,92 +594,12 @@
   {
    "date": "2026-11-03",
    "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Solid showing despite loss",
-   "note": "Allen accumulated 14 points (5-10 FG, 4-6 FT), six rebounds, one assist, one block and one steal across 28 minutes during Monday's 117-112 loss to the Thunder.",
-   "kind": "lineup",
+   "player": "Jaylon Tyson",
+   "headline": "Out with ankle sprain",
+   "note": "Tyson is out for Wednesday's game against the Thunder due to a right ankle sprain.",
+   "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-news-solid-showing-despite-loss-537441"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CLE",
-   "player": "James Harden",
-   "headline": "Hits three triples in loss",
-   "note": "Harden closed with 14 points (5-10 FG, 3-7 3Pt, 1-3 FT), four rebounds, six assists and one steal over 33 minutes during Monday's 117-112 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-hits-three-triples-in-loss-537374"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CLE",
-   "player": "Evan Mobley",
-   "headline": "Solid two-way effort",
-   "note": "Mobley registered 16 points (6-11 FG, 1-4 3Pt, 3-4 FT), seven rebounds, four assists, two blocks and one steal over 33 minutes during Monday's 117-112 loss to Oklahoma City.",
-   "kind": "transaction",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-solid-two-way-effort-537373"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "CLE",
-   "player": "Tyrese Proctor",
-   "headline": "Efficient in reserve role",
-   "note": "Proctor accumulated 10 points (3-4 FG, 2-3 3Pt, 2-2 FT), four rebounds and two assists in 18 minutes during Monday's 117-112 loss to the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-efficient-in-reserve-role-537372"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Lives at free-throw line",
-   "note": "Flagg ended Monday's 115-100 loss to the Kings with 17 points (3-19 FG, 0-4 3Pt, 11-11 FT), four rebounds, six assists and two steals in 40 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-lives-at-free-throw-line-537443"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Hanging onto starting role",
-   "note": "Washington logged 12 points (2-9 FG, 2-8 3Pt, 6-8 FT), five rebounds, one assist and two steals across 38 minutes during Monday's 115-100 loss to the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-hanging-onto-starting-role-537442"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Scoreless in 19 minutes",
-   "note": "Risacher had zero points (0-3 FG, 0-3 3Pt), five rebounds, one assist and one steal over 19 minutes during Monday's 115-100 loss to Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-scoreless-in-19-minutes-537397"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Marcus Sasser",
-   "headline": "Sees 19 minutes in loss",
-   "note": "Sasser totaled four points (2-4 FG, 0-2 3Pt), one rebound and one assist over 19 minutes during Monday's 115-100 loss to the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marcus-sasser-news-sees-19-minutes-in-loss-537396"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "DAL",
-   "player": "Walter Clayton",
-   "headline": "Scores 20 off bench",
-   "note": "Clayton finished Monday's 115-100 loss to the Kings with 20 points (6-9 FG, 4-5 3Pt, 4-4 FT), one rebound, two assists and one steal across 24 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walter-clayton-news-scores-20-off-bench-537395"
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-with-ankle-sprain-537473"
   }
  ]
 }

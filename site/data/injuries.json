@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:29:58Z",
+ "updated": "2026-11-04T06:36:11Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -238,6 +238,26 @@
    "pos": "SF",
    "updated": "2026-11-03",
    "injury": "Hamstring",
+   "status": "Expected return: at least Nov 11",
+   "kind": "out",
+   "ret": "2026-11-11"
+  },
+  {
+   "team": "DEN",
+   "player": "Alpha Diallo",
+   "pos": "SF",
+   "updated": "2026-11-03",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DEN",
+   "player": "Cameron Johnson",
+   "pos": "SF",
+   "updated": "2026-11-03",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -354,16 +374,6 @@
   },
   {
    "team": "IND",
-   "player": "Ivica Zubac",
-   "pos": "C",
-   "updated": "2026-11-02",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
-  },
-  {
-   "team": "IND",
    "player": "Johnny Furphy",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -394,20 +404,10 @@
   },
   {
    "team": "IND",
-   "player": "Aaron Nesmith",
-   "pos": "SF",
+   "player": "Ivica Zubac",
+   "pos": "C",
    "updated": "2026-11-03",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "pos": "SG",
-   "updated": "2026-11-03",
-   "injury": "Neck",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -424,30 +424,10 @@
   },
   {
    "team": "IND",
-   "player": "Larry Nance Jr.",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
    "player": "Obi Toppin",
    "pos": "PF",
    "updated": "2026-11-03",
-   "injury": "Coach's Decision",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "Pascal Siakam",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Rest",
+   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -493,31 +473,21 @@
    "ret": "2026-11-08"
   },
   {
-   "team": "LAC",
-   "player": "Derrick Jones Jr.",
-   "pos": "SF",
-   "updated": "2026-11-03",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAC",
-   "player": "Rui Hachimura",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
    "updated": "2026-11-02",
    "injury": "Knee",
+   "status": "Expected return: at least Nov 6",
+   "kind": "out",
+   "ret": "2026-11-06"
+  },
+  {
+   "team": "MEM",
+   "player": "Scotty Pippen Jr.",
+   "pos": "PG",
+   "updated": "2026-11-03",
+   "injury": "Back",
    "status": "Expected return: at least Nov 6",
    "kind": "out",
    "ret": "2026-11-06"
@@ -533,11 +503,21 @@
    "ret": null
   },
   {
-   "team": "MEM",
-   "player": "Scotty Pippen Jr.",
-   "pos": "PG",
+   "team": "MIA",
+   "player": "Giannis Antetokounmpo",
+   "pos": "PF",
    "updated": "2026-11-03",
-   "injury": "Back",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "MIA",
+   "player": "Myron Gardner",
+   "pos": "SF",
+   "updated": "2026-11-03",
+   "injury": "Quadriceps",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -594,20 +574,20 @@
   },
   {
    "team": "NOP",
-   "player": "Dejounte Murray",
+   "player": "Jordan Poole",
    "pos": "PG",
    "updated": "2026-11-03",
-   "injury": "Personal",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
   },
   {
    "team": "NOP",
-   "player": "Jordan Poole",
-   "pos": "PG",
+   "player": "Trey Murphy III",
+   "pos": "SF",
    "updated": "2026-11-03",
-   "injury": "Ankle",
+   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -654,23 +634,13 @@
   },
   {
    "team": "OKC",
-   "player": "Jaylin Williams",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "OKC",
    "player": "Nikola Topic",
    "pos": "PG",
    "updated": "2026-11-03",
    "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 13",
+   "kind": "out",
+   "ret": "2026-11-13"
   },
   {
    "team": "OKC",
@@ -678,6 +648,16 @@
    "pos": "C",
    "updated": "2026-11-03",
    "injury": "Knee",
+   "status": "Expected return: at least Nov 13",
+   "kind": "out",
+   "ret": "2026-11-13"
+  },
+  {
+   "team": "OKC",
+   "player": "Jaylin Williams",
+   "pos": "PF",
+   "updated": "2026-11-03",
+   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -783,6 +763,16 @@
    "ret": null
   },
   {
+   "team": "PHX",
+   "player": "Rasheer Fleming",
+   "pos": "PF",
+   "updated": "2026-11-03",
+   "injury": "Ankle",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "POR",
    "player": "Ja Morant",
    "pos": "PG",
@@ -834,10 +824,10 @@
   },
   {
    "team": "SAC",
-   "player": "Dylan Cardwell",
-   "pos": "C",
+   "player": "Precious Achiuwa",
+   "pos": "PF",
    "updated": "2026-11-03",
-   "injury": "Calf",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -904,6 +894,16 @@
   },
   {
    "team": "UTA",
+   "player": "Jusuf Nurkic",
+   "pos": "C",
+   "updated": "2026-11-03",
+   "injury": "Foot",
+   "status": "Expected return: at least Nov 13",
+   "kind": "out",
+   "ret": "2026-11-13"
+  },
+  {
+   "team": "UTA",
    "player": "Trey Alexander",
    "pos": "SG",
    "updated": "2026-10-27",
@@ -914,10 +914,10 @@
   },
   {
    "team": "UTA",
-   "player": "Jusuf Nurkic",
+   "player": "Mo Bamba",
    "pos": "C",
    "updated": "2026-11-03",
-   "injury": "Foot",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
