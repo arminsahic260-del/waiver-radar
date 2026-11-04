@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:22:14Z",
+ "updated": "2026-11-04T21:59:07Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -1060,21 +1060,20 @@
        "gtd": false
       },
       {
-       "player": "Nolan Traore",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5279130,
-       "fpts": 20.4,
-       "mpg": 21.7,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 22.3,
-       "matchup": "BKN @ ATL",
+       "player": "Trevon Brazile",
+       "team": "DEN",
+       "pos": "SF/PF",
+       "espnId": 4698719,
+       "fpts": 20.2,
+       "mpg": 22.0,
+       "basis": "sezona",
+       "gp": 6,
+       "cur": 20.2,
+       "matchup": "DEN @ IND",
        "dates": [
-        "2026-11-07",
-        "2026-11-08"
+        "2026-11-07"
        ],
-       "value": 20.4,
+       "value": 20.2,
        "gtd": false
       }
      ]

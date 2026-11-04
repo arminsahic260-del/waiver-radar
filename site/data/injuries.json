@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:21:21Z",
+ "updated": "2026-11-04T21:58:28Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -463,16 +463,6 @@
    "ret": "2026-11-08"
   },
   {
-   "team": "LAC",
-   "player": "Isaiah Jackson",
-   "pos": "C",
-   "updated": "2026-11-04",
-   "injury": "Groin",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
@@ -734,20 +724,20 @@
   },
   {
    "team": "PHX",
-   "player": "Rasheer Fleming",
-   "pos": "PF",
-   "updated": "2026-11-04",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 5",
-   "kind": "out",
-   "ret": "2026-11-05"
-  },
-  {
-   "team": "PHX",
    "player": "Jordan Goodwin",
    "pos": "SG",
    "updated": "2026-11-02",
    "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "PHX",
+   "player": "Rasheer Fleming",
+   "pos": "PF",
+   "updated": "2026-11-03",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
