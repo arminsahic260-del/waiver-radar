@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-04T17:21:53Z",
+ "updated": "2026-11-04T19:53:41Z",
  "items": [
+  {
+   "date": "2026-11-04",
+   "team": "MIA",
+   "player": "Myron Gardner",
+   "headline": "Available Wednesday",
+   "note": "Gardner (quadriceps) is listed as available for Wednesday's game against the Clippers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/myron-gardner-news-available-wednesday-537529"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Removed from injury report",
+   "note": "Black (ankle) is off the injury report for Thursday's game against the Suns, per Jason Beede of the Orlando Sentinel.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-removed-from-injury-report-537528"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "DAL",
+   "player": "Santi Aldama",
+   "headline": "Downgraded to doubtful",
+   "note": "Aldama (knee) is doubtful for Wednesday's game against the Spurs, per NBA reporter Marc Stein.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-downgraded-to-doubtful-537527"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "headline": "Practicing in G League",
+   "note": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, per Khobi Price of The California Post.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-injury-practicing-in-g-league-537526"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "UTA",
+   "player": "Mo Bamba",
+   "headline": "Participates in shootaround",
+   "note": "Bamba (ankle) participated in Wednesday's morning shootaround, per Shreyas Laddha of The Salt Lake Tribune.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mo-bamba-injury-participates-in-shootaround-537525"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "HOU",
+   "player": "Clint Capela",
+   "headline": "Out with ankle sprain",
+   "note": "Capela (ankle) is out for Wednesday's game against the Timberwolves.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-injury-out-with-ankle-sprain-537524"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Downgraded to questionable",
+   "note": "Murphy (knees) is now questionable for Wednesday against the Jazz.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-injury-downgraded-to-questionable-537523"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "MIN",
+   "player": "Terrence Shannon",
+   "headline": "Ruled out for Wednesday",
+   "note": "Shannon (hip) is out for Wednesday against the Rockets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-ruled-out-for-wednesday-537522"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "NYK",
+   "player": "Josh Hart",
+   "headline": "Out with sore ankle",
+   "note": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-injury-out-with-sore-ankle-537521"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHA",
+   "player": "Kon Knueppel",
+   "headline": "Cleared to play",
+   "note": "Knueppel (hamstring) is available for Wednesday against the Nets.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-news-cleared-to-play-537520"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHA",
+   "player": "Grant Williams",
+   "headline": "Assigned to G League",
+   "note": "Charlotte assigned Williams (hamstring) to the G League's Greensboro Swarm on Wednesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-assigned-to-g-league-537519"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Confirmed out for Wednesday",
+   "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-injury-confirmed-out-for-wednesday-537518"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "MIL",
+   "player": "Kam Jones",
+   "headline": "Listed as questionable",
+   "note": "Jones (ankle) is questionable for Wednesday against the Celtics.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kam-jones-injury-listed-as-questionable-537517"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "WAS",
+   "player": "Bilal Coulibaly",
+   "headline": "Downgraded to questionable",
+   "note": "Coulibaly (illness) is questionable for Wednesday against the Hawks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bilal-coulibaly-injury-downgraded-to-questionable-537516"
+  },
   {
    "date": "2026-11-04",
    "team": "DAL",
@@ -16,7 +156,7 @@
    "team": "GSW",
    "player": "Kristaps Porzingis",
    "headline": "Warriors withholding payments",
-   "note": "The Warriors have stopped issuing salary payments to Porzingis, who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday.",
+   "note": "The Warriors have stopped issuing salary payments to Porzingis (illness), who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-withholding-payments-537514"
@@ -154,16 +294,6 @@
   {
    "date": "2026-11-03",
    "team": "IND",
-   "player": "Aaron Nesmith",
-   "headline": "Not listed on injury report",
-   "note": "Nesmith (rest) is not listed on the injury report for Wednesday's game in Memphis.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-not-listed-on-injury-report-537498"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
    "player": "Kelly Oubre",
    "headline": "Iffy for Wednesday",
    "note": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
@@ -174,152 +304,12 @@
   {
    "date": "2026-11-03",
    "team": "IND",
-   "player": "Pascal Siakam",
-   "headline": "Available to play Wednesday",
-   "note": "Siakam (rest) is not listed on the injury report ahead of Wednesday's game against Memphis.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-news-available-to-play-wednesday-537496"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
-   "player": "Andrew Nembhard",
-   "headline": "Not listed on injury report",
-   "note": "Nembhard (neck) has been removed from the injury report ahead of Wednesday's meeting in Memphis.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-not-listed-on-injury-report-537495"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
-   "player": "Larry Nance",
-   "headline": "Absent from injury report",
-   "note": "Nance (illness) is off the injury report for Wednesday's game against the Grizzlies.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-absent-from-injury-report-537494"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
    "player": "Obi Toppin",
    "headline": "Questionable for Wednesday",
    "note": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-wednesday-537493"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Iffy for Wednesday",
-   "note": "Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-iffy-for-wednesday-537492"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MEM",
-   "player": "Quinten Post",
-   "headline": "Questionable versus Indiana",
-   "note": "Post (ankle) is listed as questionable for Wednesday's game against Indiana.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quinten-post-injury-questionable-versus-indiana-537491"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MEM",
-   "player": "Scotty Pippen",
-   "headline": "Ruled out for Wednesday",
-   "note": "Pippen (back) won't play Wednesday against the Pacers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-ruled-out-for-wednesday-537490"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "MIN",
-   "player": "Terrence Shannon",
-   "headline": "Could miss another game Wednesday",
-   "note": "Shannon (hip) is listed as questionable for Wednesday's game in Houston.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-could-miss-another-game-wednesday-537489"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "UTA",
-   "player": "Jusuf Nurkic",
-   "headline": "Still waiting for season debut",
-   "note": "Nurkic (foot) is out for Wednesday's game against the Pelicans.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jusuf-nurkic-injury-still-waiting-for-season-debut-537488"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "UTA",
-   "player": "Mo Bamba",
-   "headline": "Questionable for Wednesday",
-   "note": "Bamba is questionable for Wednesday's game in New Orleans due to a sprained right ankle.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mo-bamba-injury-questionable-for-wednesday-537487"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "NOP",
-   "player": "Jordan Poole",
-   "headline": "In line to play Wednesday",
-   "note": "Poole (ankle) is listed as probable for Wednesday's game against Utah.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-poole-injury-in-line-to-play-wednesday-537486"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "NOP",
-   "player": "Trey Murphy",
-   "headline": "Probable for Wednesday",
-   "note": "Murphy (knee) is probable for Wednesday's game versus the Jazz.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-injury-probable-for-wednesday-537485"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "OKC",
-   "player": "Nikola Topic",
-   "headline": "Remains out Wednesday",
-   "note": "Topic (back) is listed as out for Wednesday's game against Cleveland.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-topic-injury-remains-out-wednesday-537483"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "OKC",
-   "player": "Thomas Sorber",
-   "headline": "Remains out indefinitely",
-   "note": "Sorber (knee) is out for Wednesday's game against the Cavaliers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/thomas-sorber-injury-remains-out-indefinitely-537482"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "OKC",
-   "player": "Jaylin Williams",
-   "headline": "Questionable against Cleveland",
-   "note": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-questionable-against-cleveland-537481"
   },
   {
    "date": "2026-11-03",
@@ -600,6 +590,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-with-ankle-sprain-537473"
+  },
+  {
+   "date": "2026-11-03",
+   "team": "CLE",
+   "player": "Peyton Watson",
+   "headline": "Ruled out for Wednesday",
+   "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-injury-ruled-out-for-wednesday-537472"
   }
  ]
 }
