@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-04T19:53:41Z",
+ "updated": "2026-11-04T20:21:49Z",
  "items": [
+  {
+   "date": "2026-11-04",
+   "team": "PHX",
+   "player": "Rasheer Fleming",
+   "headline": "Out with sprained ankle",
+   "note": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rasheer-fleming-injury-out-with-sprained-ankle-537531"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "LAC",
+   "player": "Isaiah Jackson",
+   "headline": "Added to injury report",
+   "note": "Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-injury-added-to-injury-report-537530"
+  },
   {
    "date": "2026-11-04",
    "team": "MIA",
@@ -290,26 +310,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-might-return-wednesday-537499"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
-   "player": "Kelly Oubre",
-   "headline": "Iffy for Wednesday",
-   "note": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-iffy-for-wednesday-537497"
-  },
-  {
-   "date": "2026-11-03",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Questionable for Wednesday",
-   "note": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-wednesday-537493"
   },
   {
    "date": "2026-11-03",

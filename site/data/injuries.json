@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:53:07Z",
+ "updated": "2026-11-04T20:21:17Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -503,16 +503,6 @@
    "ret": null
   },
   {
-   "team": "MIA",
-   "player": "Myron Gardner",
-   "pos": "SF",
-   "updated": "2026-11-03",
-   "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "MIL",
    "player": "Kam Jones",
    "pos": "PG",
@@ -701,16 +691,6 @@
    "status": "Expected return: at least Nov 22",
    "kind": "out",
    "ret": "2026-11-22"
-  },
-  {
-   "team": "ORL",
-   "player": "Anthony Black",
-   "pos": "SG",
-   "updated": "2026-11-03",
-   "injury": "Rest",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "PHI",

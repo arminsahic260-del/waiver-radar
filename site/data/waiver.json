@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:53:42Z",
+ "updated": "2026-11-04T20:21:51Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -347,7 +347,7 @@
    "team": "NYK",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Josh Hart (gležanj) je out najmanje do 7.11. — nova ozljeda. Miles McBride je prvi PG/SG u rotaciji NYK-a za te minute; ~18.1 FP po utakmici (ove sezone 15.1 u 7 utk., prošle sezone 23.2; 21 min).",
+   "reason": "Josh Hart (gležanj) je out najmanje do 7.11. Miles McBride je prvi PG/SG u rotaciji NYK-a za te minute; ~18.1 FP po utakmici (ove sezone 15.1 u 7 utk., prošle sezone 23.2; 21 min).",
    "role": "Veća minutaža dok je out Josh Hart",
    "horizon": "Do ~7.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Josh Hart",
@@ -425,7 +425,7 @@
    "team": "BOS",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Jayson Tatum (odmor) je out najmanje do 6.11. — nova ozljeda. Sam Hauser je prvi SF/PF u rotaciji BOS-a za te minute; ~16.4 FP po utakmici (ove sezone 14.6 u 7 utk., prošle sezone 19.5; 22 min).",
+   "reason": "Jayson Tatum (odmor) je out najmanje do 6.11. Sam Hauser je prvi SF/PF u rotaciji BOS-a za te minute; ~16.4 FP po utakmici (ove sezone 14.6 u 7 utk., prošle sezone 19.5; 22 min).",
    "role": "Veća minutaža dok je out Jayson Tatum",
    "horizon": "Do ~6.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jayson Tatum; nizak bodovni plafon",
