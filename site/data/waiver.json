@@ -1,26 +1,7 @@
 {
- "updated": "2026-11-04T07:22:03Z",
+ "updated": "2026-11-04T08:21:51Z",
  "engine": "heuristika",
  "picks": [
-  {
-   "player": "Neemias Queta",
-   "team": "BOS",
-   "pos": "C",
-   "priority": 1,
-   "reason": "RotoWire 1.11.: Starting Sunday. Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports. ~24.9 FP po utakmici (ove sezone 22.1 u 7 utk., prošle sezone 29.7; 23 min). Jayson Tatum (odmor) je upitan (GTD). Neemias Queta je sljedeći C u rotaciji BOS-a za te minute; ~24.9 FP po utakmici (ove sezone 22.1 u 7 utk., prošle sezone 29.7; 23 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-starting-sunday-537082",
-   "espnId": 4397424,
-   "fpts": 24.9,
-   "gp": 7,
-   "cur": 22.1
-  },
   {
    "player": "Meleek Thomas",
    "team": "CLE",
@@ -215,6 +196,28 @@
    "cur": 8.9
   },
   {
+   "player": "Mo Bamba",
+   "team": "UTA",
+   "pos": "C",
+   "priority": 2,
+   "reason": "Jusuf Nurkic (stopalo) je out najmanje do 13.11.; Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Mo Bamba je prvi C u rotaciji UTA-a za te minute; ~24.8 FP po utakmici (ove sezone, 4 utk., 18 min).",
+   "role": "Veća minutaža dok su out Jusuf Nurkic i Jaren Jackson Jr.",
+   "horizon": "Do ~13.11. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Jusuf Nurkic",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4277919,
+   "waivers": {
+    "Banijska": "2026-11-06"
+   },
+   "fpts": 24.8,
+   "gp": 4,
+   "cur": 24.8
+  },
+  {
    "player": "Bobby Portis",
    "team": "MIA",
    "pos": "PF/C",
@@ -390,25 +393,6 @@
    "cur": 17.7
   },
   {
-   "player": "Brice Sensabaugh",
-   "team": "UTA",
-   "pos": "SG/SF",
-   "priority": 2,
-   "reason": "Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Brice Sensabaugh je prvi SG/SF u rotaciji UTA-a za te minute; ~17.4 FP po utakmici (ove sezone 14.3 u 7 utk., prošle sezone 22.8; 18 min).",
-   "role": "Veća minutaža dok je out Jaren Jackson Jr.",
-   "horizon": "Do ~14.12. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jaren Jackson Jr.; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 5105839,
-   "fpts": 17.4,
-   "gp": 7,
-   "cur": 14.3
-  },
-  {
    "player": "Gui Santos",
    "team": "GSW",
    "pos": "SF",
@@ -508,25 +492,6 @@
    "cur": 13.6
   },
   {
-   "player": "Kyle Filipowski",
-   "team": "UTA",
-   "pos": "PF/C",
-   "priority": 2,
-   "reason": "Jusuf Nurkic (stopalo) je out najmanje do 13.11.; Jaren Jackson Jr. (koljeno) je out najmanje do 14.12. Kyle Filipowski je prvi PF/C u rotaciji UTA-a za te minute; ~13.4 FP po utakmici (ove sezone 3.0 u 5 utk., prošle sezone 26.4; 15 min).",
-   "role": "Veća minutaža dok su out Jusuf Nurkic i Jaren Jackson Jr.",
-   "horizon": "Do ~13.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jusuf Nurkic; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4684793,
-   "fpts": 13.4,
-   "gp": 5,
-   "cur": 3.0
-  },
-  {
    "player": "Baylor Scheierman",
    "team": "BOS",
    "pos": "SG",
@@ -582,6 +547,47 @@
    "fpts": 12.4,
    "gp": 3,
    "cur": 10.3
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "MIA",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Giannis Antetokounmpo (zapešće) je upitan (GTD). Pelle Larsson je sljedeći SG/SF u rotaciji MIA-a za te minute; ~24.0 FP po utakmici (ove sezone 24.7 u 7 utk., prošle sezone 22.6; 28 min).",
+   "role": "Zamjena ako Giannis Antetokounmpo ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Giannis Antetokounmpo",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4601025,
+   "waivers": {
+    "Banijska": "2026-11-05"
+   },
+   "fpts": 24.0,
+   "gp": 7,
+   "cur": 24.7
+  },
+  {
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Kawhi Leonard (koljeno) je out najmanje do 23.11. Jakob Poeltl je sljedeći C u rotaciji TOR-a za te minute; ~20.3 FP po utakmici (ove sezone 14.6 u 5 utk., prošle sezone 27.4; 22 min).",
+   "role": "Veća minutaža dok je out Kawhi Leonard",
+   "horizon": "Do ~23.11. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Kawhi Leonard",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3134908,
+   "fpts": 20.3,
+   "gp": 5,
+   "cur": 14.6
   }
  ],
  "days": [
@@ -617,7 +623,8 @@
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07"
+      "2026-11-07",
+      "2026-11-08"
      ],
      "planned": [],
      "picks": []
@@ -711,7 +718,8 @@
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07"
+      "2026-11-07",
+      "2026-11-08"
      ],
      "planned": [],
      "picks": [
@@ -859,28 +867,11 @@
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07"
+      "2026-11-07",
+      "2026-11-08"
      ],
      "planned": [],
      "picks": [
-      {
-       "player": "Neemias Queta",
-       "team": "BOS",
-       "pos": "C",
-       "espnId": 4397424,
-       "fpts": 24.9,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 22.1,
-       "matchup": "BOS @ CHA",
-       "dates": [
-        "2026-11-06",
-        "2026-11-08"
-       ],
-       "value": 24.9,
-       "gtd": false
-      },
       {
        "player": "Meleek Thomas",
        "team": "CLE",
@@ -915,6 +906,23 @@
         "2026-11-07"
        ],
        "value": 24.5,
+       "gtd": false
+      },
+      {
+       "player": "Isaiah Stewart",
+       "team": "MEM",
+       "pos": "PF/C",
+       "espnId": 4432810,
+       "fpts": 23.5,
+       "mpg": 20.9,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 23.7,
+       "matchup": "OKC @ MEM",
+       "dates": [
+        "2026-11-06"
+       ],
+       "value": 23.5,
        "gtd": false
       }
      ]
@@ -1003,7 +1011,7 @@
     {
      "league": "Banijska",
      "mine": 4,
-     "open": 6,
+     "open": 5,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -1011,27 +1019,17 @@
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07"
+      "2026-11-07",
+      "2026-11-08"
      ],
-     "planned": [],
-     "picks": [
+     "planned": [
       {
        "player": "Meleek Thomas",
        "team": "CLE",
-       "pos": "SG",
-       "espnId": 5041951,
-       "fpts": 24.8,
-       "mpg": 22.0,
-       "basis": "sezona",
-       "gp": 4,
-       "cur": 24.8,
-       "matchup": "NYK @ CLE",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 24.8,
-       "gtd": false
-      },
+       "from": "2026-11-06"
+      }
+     ],
+     "picks": [
       {
        "player": "Bilal Coulibaly",
        "team": "WAS",
@@ -1064,6 +1062,23 @@
         "2026-11-07"
        ],
        "value": 20.8,
+       "gtd": false
+      },
+      {
+       "player": "Kingston Flemings",
+       "team": "ATL",
+       "pos": "SG/PG",
+       "espnId": 5149077,
+       "fpts": 20.5,
+       "mpg": 21.9,
+       "basis": "sezona+projekcija",
+       "gp": 7,
+       "cur": 19.6,
+       "matchup": "BKN @ ATL",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 20.5,
        "gtd": false
       }
      ]
@@ -1146,29 +1161,78 @@
     {
      "league": "Banijska",
      "mine": 8,
-     "open": 0,
+     "open": 1,
      "sitting": 0,
      "adds": 4,
      "addsLimit": 7,
-     "add": false,
+     "add": true,
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07"
+      "2026-11-07",
+      "2026-11-08"
      ],
      "planned": [
       {
        "player": "Bobby Portis",
        "team": "MIA",
        "from": "2026-11-05"
-      },
-      {
-       "player": "Neemias Queta",
-       "team": "BOS",
-       "from": "2026-11-06"
       }
      ],
-     "picks": []
+     "picks": [
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "pos": "PG",
+       "espnId": 4395626,
+       "fpts": 25.7,
+       "mpg": 21.4,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 22.3,
+       "matchup": "PHI @ CHI",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 25.7,
+       "gtd": false
+      },
+      {
+       "player": "Pelle Larsson",
+       "team": "MIA",
+       "pos": "SG/SF",
+       "espnId": 4601025,
+       "fpts": 24.0,
+       "mpg": 28.5,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 24.7,
+       "matchup": "MIA @ SAC",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 24.0,
+       "gtd": false,
+       "waiver": "2026-11-05"
+      },
+      {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "pos": "PF",
+       "espnId": 4683742,
+       "fpts": 23.2,
+       "mpg": 25.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 1,
+       "cur": 2.0,
+       "matchup": "NOP @ LAC",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 23.2,
+       "gtd": false
+      }
+     ]
     }
    ]
   },
@@ -1360,25 +1424,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Neemias Queta",
-       "team": "BOS",
-       "pos": "C",
-       "espnId": 4397424,
-       "fpts": 24.9,
-       "mpg": 22.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 22.1,
-       "matchup": "BOS @ PHI",
-       "dates": [
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-15"
-       ],
-       "value": 24.9,
-       "gtd": false
-      },
-      {
        "player": "Bobby Portis",
        "team": "MIA",
        "pos": "PF/C",
@@ -1416,6 +1461,25 @@
        "value": 24.0,
        "gtd": false,
        "waiver": "2026-11-05"
+      },
+      {
+       "player": "Max Strus",
+       "team": "LAC",
+       "pos": "SF",
+       "espnId": 4065778,
+       "fpts": 22.7,
+       "mpg": 23.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 1,
+       "cur": 27.0,
+       "matchup": "LAC @ PHX",
+       "dates": [
+        "2026-11-10",
+        "2026-11-13",
+        "2026-11-15"
+       ],
+       "value": 22.7,
+       "gtd": false
       }
      ]
     }

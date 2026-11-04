@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:22:03Z",
+ "updated": "2026-11-04T08:21:51Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-04T07:22:03Z",
+   "updated": "2026-11-04T08:21:50Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -67,36 +67,31 @@
      }
     },
     {
-     "name": "Draymond Green",
-     "team": "GSW",
+     "name": "Paul Reed",
+     "team": "DET",
      "pos": "PF/C",
      "slot": "PF",
-     "espnId": 6589,
-     "gp": 6,
-     "cur": 20.7,
-     "proj": 28.5,
+     "espnId": 4278562,
+     "gp": 7,
+     "cur": 32.0,
+     "proj": 20.4,
      "acq": "ADD",
-     "draft": {
-      "pick": 146,
-      "round": 11,
-      "roundPick": 6,
-      "teamId": 2
-     }
+     "draft": null
     },
     {
-     "name": "Donovan Clingan",
-     "team": "POR",
+     "name": "Ivica Zubac",
+     "team": "IND",
      "pos": "C",
      "slot": "C",
-     "espnId": 5105565,
-     "gp": 6,
-     "cur": 32.3,
-     "proj": 33.9,
+     "espnId": 4017837,
+     "gp": 3,
+     "cur": 21.7,
+     "proj": 35.5,
      "acq": "DRAFT",
      "draft": {
-      "pick": 75,
-      "round": 6,
-      "roundPick": 5,
+      "pick": 66,
+      "round": 5,
+      "roundPick": 10,
       "teamId": 1
      }
     },
@@ -118,36 +113,31 @@
      }
     },
     {
-     "name": "Yaxel Lendeborg",
-     "team": "GSW",
-     "pos": "SF/PF",
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
      "slot": "F",
-     "espnId": 5175737,
-     "gp": 8,
-     "cur": 36.0,
-     "proj": 33.7,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 122,
-      "round": 9,
-      "roundPick": 10,
-      "teamId": 1
-     }
+     "espnId": 4433137,
+     "gp": 5,
+     "cur": 25.8,
+     "proj": 19.7,
+     "acq": "ADD",
+     "draft": null
     },
     {
-     "name": "Ivica Zubac",
-     "team": "IND",
+     "name": "Donovan Clingan",
+     "team": "POR",
      "pos": "C",
      "slot": "UTIL",
-     "espnId": 4017837,
-     "gp": 3,
-     "cur": 21.7,
-     "proj": 35.5,
+     "espnId": 5105565,
+     "gp": 6,
+     "cur": 32.3,
+     "proj": 33.9,
      "acq": "DRAFT",
      "draft": {
-      "pick": 66,
-      "round": 5,
-      "roundPick": 10,
+      "pick": 75,
+      "round": 6,
+      "roundPick": 5,
       "teamId": 1
      }
     },
@@ -186,16 +176,21 @@
      }
     },
     {
-     "name": "Paul Reed",
-     "team": "DET",
-     "pos": "PF/C",
+     "name": "Yaxel Lendeborg",
+     "team": "GSW",
+     "pos": "SF/PF",
      "slot": "BE",
-     "espnId": 4278562,
-     "gp": 7,
-     "cur": 32.0,
-     "proj": 20.4,
-     "acq": "ADD",
-     "draft": null
+     "espnId": 5175737,
+     "gp": 8,
+     "cur": 36.0,
+     "proj": 33.7,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 122,
+      "round": 9,
+      "roundPick": 10,
+      "teamId": 1
+     }
     },
     {
      "name": "Obi Toppin",
@@ -210,16 +205,21 @@
      "draft": null
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
+     "name": "Draymond Green",
+     "team": "GSW",
+     "pos": "PF/C",
      "slot": "BE",
-     "espnId": 4433137,
-     "gp": 5,
-     "cur": 25.8,
-     "proj": 19.7,
+     "espnId": 6589,
+     "gp": 6,
+     "cur": 20.7,
+     "proj": 28.5,
      "acq": "ADD",
-     "draft": null
+     "draft": {
+      "pick": 146,
+      "round": 11,
+      "roundPick": 6,
+      "teamId": 2
+     }
     },
     {
      "name": "Paolo Banchero",
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-04T07:22:03Z",
+   "updated": "2026-11-04T08:21:51Z",
    "adds": {
     "period": 3,
     "used": 0,
