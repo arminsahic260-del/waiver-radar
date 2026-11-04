@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:32:36Z",
+ "updated": "2026-11-04T16:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -551,16 +551,6 @@
    "status": "Expected return: at least Apr 2",
    "kind": "out",
    "ret": "2027-04-02"
-  },
-  {
-   "team": "MIN",
-   "player": "Enrique Freeman",
-   "pos": "PF",
-   "updated": "2026-11-03",
-   "injury": "Undisclosed",
-   "status": "Expected return: at least Jan 1",
-   "kind": "out",
-   "ret": "2027-01-01"
   },
   {
    "team": "MIN",
