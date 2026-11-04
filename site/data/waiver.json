@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T09:22:02Z",
+ "updated": "2026-11-04T10:21:52Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -614,17 +614,15 @@
     },
     {
      "league": "Banijska",
-     "mine": 12,
+     "mine": 13,
      "open": 0,
-     "sitting": 2,
+     "sitting": 3,
      "adds": 7,
      "addsLimit": 7,
      "add": false,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08"
+      "2026-11-07"
      ],
      "planned": [],
      "picks": []
@@ -717,9 +715,7 @@
      "add": true,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08"
+      "2026-11-07"
      ],
      "planned": [],
      "picks": [
@@ -858,74 +854,18 @@
     },
     {
      "league": "Banijska",
-     "mine": 9,
-     "open": 1,
+     "mine": 10,
+     "open": 0,
      "sitting": 0,
      "adds": 6,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08"
+      "2026-11-07"
      ],
      "planned": [],
-     "picks": [
-      {
-       "player": "Meleek Thomas",
-       "team": "CLE",
-       "pos": "SG",
-       "espnId": 5041951,
-       "fpts": 24.8,
-       "mpg": 22.0,
-       "basis": "sezona",
-       "gp": 4,
-       "cur": 24.8,
-       "matchup": "PHI @ CLE",
-       "dates": [
-        "2026-11-06",
-        "2026-11-07"
-       ],
-       "value": 24.8,
-       "gtd": false
-      },
-      {
-       "player": "Bilal Coulibaly",
-       "team": "WAS",
-       "pos": "SG/SF",
-       "espnId": 5104155,
-       "fpts": 24.5,
-       "mpg": 26.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 23.4,
-       "matchup": "WAS @ ATL",
-       "dates": [
-        "2026-11-06",
-        "2026-11-07"
-       ],
-       "value": 24.5,
-       "gtd": false
-      },
-      {
-       "player": "Isaiah Stewart",
-       "team": "MEM",
-       "pos": "PF/C",
-       "espnId": 4432810,
-       "fpts": 23.5,
-       "mpg": 20.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 23.7,
-       "matchup": "OKC @ MEM",
-       "dates": [
-        "2026-11-06"
-       ],
-       "value": 23.5,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -1011,25 +951,34 @@
     {
      "league": "Banijska",
      "mine": 4,
-     "open": 5,
+     "open": 6,
      "sitting": 0,
-     "adds": 5,
+     "adds": 6,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08"
+      "2026-11-07"
      ],
-     "planned": [
+     "planned": [],
+     "picks": [
       {
        "player": "Meleek Thomas",
        "team": "CLE",
-       "from": "2026-11-06"
-      }
-     ],
-     "picks": [
+       "pos": "SG",
+       "espnId": 5041951,
+       "fpts": 24.8,
+       "mpg": 22.0,
+       "basis": "sezona",
+       "gp": 4,
+       "cur": 24.8,
+       "matchup": "NYK @ CLE",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 24.8,
+       "gtd": false
+      },
       {
        "player": "Bilal Coulibaly",
        "team": "WAS",
@@ -1062,23 +1011,6 @@
         "2026-11-07"
        ],
        "value": 20.8,
-       "gtd": false
-      },
-      {
-       "player": "Kingston Flemings",
-       "team": "ATL",
-       "pos": "SG/PG",
-       "espnId": 5149077,
-       "fpts": 20.5,
-       "mpg": 21.9,
-       "basis": "sezona+projekcija",
-       "gp": 7,
-       "cur": 19.6,
-       "matchup": "BKN @ ATL",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 20.5,
        "gtd": false
       }
      ]
@@ -1160,17 +1092,15 @@
     },
     {
      "league": "Banijska",
-     "mine": 8,
-     "open": 1,
+     "mine": 9,
+     "open": 0,
      "sitting": 0,
-     "adds": 4,
+     "adds": 5,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08"
+      "2026-11-07"
      ],
      "planned": [
       {
@@ -1179,60 +1109,7 @@
        "from": "2026-11-05"
       }
      ],
-     "picks": [
-      {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 25.7,
-       "mpg": 21.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 22.3,
-       "matchup": "PHI @ CHI",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 25.7,
-       "gtd": false
-      },
-      {
-       "player": "Pelle Larsson",
-       "team": "MIA",
-       "pos": "SG/SF",
-       "espnId": 4601025,
-       "fpts": 24.0,
-       "mpg": 28.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 24.7,
-       "matchup": "MIA @ SAC",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 24.0,
-       "gtd": false,
-       "waiver": "2026-11-05"
-      },
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 23.2,
-       "mpg": 25.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 2.0,
-       "matchup": "NOP @ LAC",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 23.2,
-       "gtd": false
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -1256,8 +1133,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 6,
-     "open": 4,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,

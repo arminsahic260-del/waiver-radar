@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T09:22:02Z",
+ "updated": "2026-11-04T10:21:52Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-04T09:22:01Z",
+   "updated": "2026-11-04T10:21:51Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -79,37 +79,37 @@
      "draft": null
     },
     {
-     "name": "Ivica Zubac",
-     "team": "IND",
+     "name": "Donovan Clingan",
+     "team": "POR",
      "pos": "C",
      "slot": "C",
-     "espnId": 4017837,
-     "gp": 3,
-     "cur": 21.7,
-     "proj": 35.5,
+     "espnId": 5105565,
+     "gp": 6,
+     "cur": 32.3,
+     "proj": 33.9,
      "acq": "DRAFT",
      "draft": {
-      "pick": 66,
-      "round": 5,
-      "roundPick": 10,
+      "pick": 75,
+      "round": 6,
+      "roundPick": 5,
       "teamId": 1
      }
     },
     {
-     "name": "Kyrie Irving",
-     "team": "DAL",
+     "name": "Mikel Brown Jr.",
+     "team": "BKN",
      "pos": "PG",
      "slot": "G",
-     "espnId": 6442,
+     "espnId": 5101761,
      "gp": 5,
-     "cur": 41.2,
-     "proj": 44.2,
-     "acq": "DRAFT",
+     "cur": 16.6,
+     "proj": 24.0,
+     "acq": "ADD",
      "draft": {
-      "pick": 47,
-      "round": 4,
-      "roundPick": 5,
-      "teamId": 1
+      "pick": 151,
+      "round": 11,
+      "roundPick": 11,
+      "teamId": 9
      }
     },
     {
@@ -125,18 +125,18 @@
      "draft": null
     },
     {
-     "name": "Donovan Clingan",
-     "team": "POR",
-     "pos": "C",
+     "name": "Kyrie Irving",
+     "team": "DAL",
+     "pos": "PG",
      "slot": "UTIL",
-     "espnId": 5105565,
-     "gp": 6,
-     "cur": 32.3,
-     "proj": 33.9,
+     "espnId": 6442,
+     "gp": 5,
+     "cur": 41.2,
+     "proj": 44.2,
      "acq": "DRAFT",
      "draft": {
-      "pick": 75,
-      "round": 6,
+      "pick": 47,
+      "round": 4,
       "roundPick": 5,
       "teamId": 1
      }
@@ -159,20 +159,32 @@
      }
     },
     {
-     "name": "Mikel Brown Jr.",
-     "team": "BKN",
-     "pos": "PG",
+     "name": "Obi Toppin",
+     "team": "IND",
+     "pos": "PF",
      "slot": "UTIL",
-     "espnId": 5101761,
+     "espnId": 4278355,
      "gp": 5,
-     "cur": 16.6,
-     "proj": 24.0,
+     "cur": 27.2,
+     "proj": 21.9,
      "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Ivica Zubac",
+     "team": "IND",
+     "pos": "C",
+     "slot": "BE",
+     "espnId": 4017837,
+     "gp": 3,
+     "cur": 21.7,
+     "proj": 35.5,
+     "acq": "DRAFT",
      "draft": {
-      "pick": 151,
-      "round": 11,
-      "roundPick": 11,
-      "teamId": 9
+      "pick": 66,
+      "round": 5,
+      "roundPick": 10,
+      "teamId": 1
      }
     },
     {
@@ -191,18 +203,6 @@
       "roundPick": 10,
       "teamId": 1
      }
-    },
-    {
-     "name": "Obi Toppin",
-     "team": "IND",
-     "pos": "PF",
-     "slot": "BE",
-     "espnId": 4278355,
-     "gp": 5,
-     "cur": 27.2,
-     "proj": 21.9,
-     "acq": "ADD",
-     "draft": null
     },
     {
      "name": "Draymond Green",
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-04T09:22:02Z",
+   "updated": "2026-11-04T10:21:52Z",
    "adds": {
     "period": 3,
     "used": 0,
@@ -255,19 +255,19 @@
    },
    "players": [
     {
-     "name": "Stephon Castle",
-     "team": "SAS",
+     "name": "Keyonte George",
+     "team": "UTA",
      "pos": "PG/SG",
      "slot": "PG",
-     "espnId": 4845367,
+     "espnId": 4433627,
      "gp": 7,
-     "cur": 31.0,
-     "proj": 36.9,
+     "cur": 28.4,
+     "proj": 36.8,
      "acq": "DRAFT",
      "draft": {
-      "pick": 46,
-      "round": 4,
-      "roundPick": 4,
+      "pick": 67,
+      "round": 5,
+      "roundPick": 11,
       "teamId": 5
      }
     },
@@ -289,16 +289,21 @@
      }
     },
     {
-     "name": "De'Andre Hunter",
-     "team": "SAC",
+     "name": "Cooper Flagg",
+     "team": "DAL",
      "pos": "SF/PF",
      "slot": "SF",
-     "espnId": 4065732,
-     "gp": 7,
-     "cur": 19.1,
-     "proj": 23.9,
-     "acq": "ADD",
-     "draft": null
+     "espnId": 5041939,
+     "gp": 6,
+     "cur": 50.7,
+     "proj": 45.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 11,
+      "round": 1,
+      "roundPick": 11,
+      "teamId": 5
+     }
     },
     {
      "name": "Jaden McDaniels",
@@ -335,38 +340,33 @@
      }
     },
     {
-     "name": "Keyonte George",
-     "team": "UTA",
-     "pos": "PG/SG",
+     "name": "VJ Edgecombe",
+     "team": "PHI",
+     "pos": "SG",
      "slot": "G",
-     "espnId": 4433627,
+     "espnId": 5124612,
      "gp": 7,
-     "cur": 28.4,
-     "proj": 36.8,
+     "cur": 30.3,
+     "proj": 33.7,
      "acq": "DRAFT",
      "draft": {
-      "pick": 67,
-      "round": 5,
+      "pick": 95,
+      "round": 7,
       "roundPick": 11,
       "teamId": 5
      }
     },
     {
-     "name": "Cooper Flagg",
-     "team": "DAL",
-     "pos": "SF/PF",
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
      "slot": "F",
-     "espnId": 5041939,
-     "gp": 6,
-     "cur": 50.7,
-     "proj": 45.4,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 11,
-      "round": 1,
-      "roundPick": 11,
-      "teamId": 5
-     }
+     "espnId": 4433137,
+     "gp": 5,
+     "cur": 25.8,
+     "proj": 19.7,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Alperen Sengun",
@@ -386,50 +386,33 @@
      }
     },
     {
-     "name": "VJ Edgecombe",
-     "team": "PHI",
-     "pos": "SG",
-     "slot": "UTIL",
-     "espnId": 5124612,
-     "gp": 7,
-     "cur": 30.3,
-     "proj": 33.7,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 95,
-      "round": 7,
-      "roundPick": 11,
-      "teamId": 5
-     }
-    },
-    {
-     "name": "Jordan Goodwin",
-     "team": "PHX",
+     "name": "Stephon Castle",
+     "team": "SAS",
      "pos": "PG/SG",
      "slot": "UTIL",
-     "espnId": 4278402,
-     "gp": 5,
-     "cur": 22.6,
-     "proj": null,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
-     "name": "Peyton Watson",
-     "team": "CLE",
-     "pos": "SF/PF",
-     "slot": "BE",
-     "espnId": 4576087,
-     "gp": 6,
-     "cur": 25.5,
-     "proj": 29.3,
+     "espnId": 4845367,
+     "gp": 7,
+     "cur": 31.0,
+     "proj": 36.9,
      "acq": "DRAFT",
      "draft": {
-      "pick": 123,
-      "round": 9,
-      "roundPick": 11,
+      "pick": 46,
+      "round": 4,
+      "roundPick": 4,
       "teamId": 5
      }
+    },
+    {
+     "name": "De'Andre Hunter",
+     "team": "SAC",
+     "pos": "SF/PF",
+     "slot": "UTIL",
+     "espnId": 4065732,
+     "gp": 7,
+     "cur": 19.1,
+     "proj": 23.9,
+     "acq": "ADD",
+     "draft": null
     },
     {
      "name": "Obi Toppin",
@@ -440,6 +423,18 @@
      "gp": 5,
      "cur": 27.2,
      "proj": 21.9,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
+     "name": "Jordan Goodwin",
+     "team": "PHX",
+     "pos": "PG/SG",
+     "slot": "BE",
+     "espnId": 4278402,
+     "gp": 5,
+     "cur": 22.6,
+     "proj": null,
      "acq": "ADD",
      "draft": null
     },
@@ -456,16 +451,21 @@
      "draft": null
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
+     "name": "Peyton Watson",
+     "team": "CLE",
+     "pos": "SF/PF",
      "slot": "IR",
-     "espnId": 4433137,
-     "gp": 5,
-     "cur": 25.8,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
+     "espnId": 4576087,
+     "gp": 6,
+     "cur": 25.5,
+     "proj": 29.3,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 123,
+      "round": 9,
+      "roundPick": 11,
+      "teamId": 5
+     }
     }
    ]
   }
