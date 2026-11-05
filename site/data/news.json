@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-05T14:22:08Z",
+ "updated": "2026-11-05T15:21:54Z",
  "items": [
+  {
+   "date": "2026-11-05",
+   "team": "DET",
+   "player": "Daniss Jenkins",
+   "headline": "Struggles off bench",
+   "note": "Jenkins ended Wednesday's 112-106 loss to the 76ers with five points (2-6 FG, 1-4 3Pt), one rebound and four assists in 21 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daniss-jenkins-news-struggles-off-bench-537649"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "DET",
+   "player": "Ausar Thompson",
+   "headline": "Hauls in 17 rebounds",
+   "note": "Thompson ended Wednesday's 112-106 loss to the 76ers with 11 points (4-10 FG, 3-4 FT), 17 rebounds, three assists and one steal across 34 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ausar-thompson-news-hauls-in-17-rebounds-537648"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "DET",
+   "player": "Duncan Robinson",
+   "headline": "Buries seven triples in loss",
+   "note": "Robinson amassed 27 points (8-12 FG, 7-11 3Pt, 4-6 FT), one rebound, two assists and one steal across 37 minutes during Wednesday's 112-106 loss to Philadelphia.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/duncan-robinson-news-buries-seven-triples-in-loss-537647"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "PHI",
+   "player": "Tyrese Maxey",
+   "headline": "Hands out seven dimes",
+   "note": "Maxey produced 19 points (5-16 FG, 3-7 3Pt, 6-6 FT), one rebound and seven assists across 34 minutes during Wednesday's 112-106 win over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-maxey-news-hands-out-seven-dimes-537646"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "PHI",
+   "player": "Kentavious Caldwell-Pope",
+   "headline": "Quiet in 21 minutes",
+   "note": "Caldwell-Pope supplied five points (2-3 FG, 1-2 3Pt) and one rebound across 21 minutes during Wednesday's 112-106 win over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-quiet-in-21-minutes-537645"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "PHI",
+   "player": "Joel Embiid",
+   "headline": "Dominant on glass",
+   "note": "Embiid chipped in 26 points (8-18 FG, 0-3 3Pt, 10-10 FT), 15 rebounds, two assists and one steal across 33 minutes during Wednesday's 112-106 win over Detroit.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/joel-embiid-news-dominant-on-glass-537644"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "ORL",
+   "player": "Jonathan Isaac",
+   "headline": "Returns after G League assignment",
+   "note": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-returns-after-g-league-assignment-537643"
+  },
   {
    "date": "2026-11-04",
    "team": "HOU",
@@ -183,36 +253,6 @@
   },
   {
    "date": "2026-11-04",
-   "team": "NOP",
-   "player": "Derik Queen",
-   "headline": "Stuffs stat sheet Wednesday",
-   "note": "Queen contributed 20 points (8-21 FG, 0-2 3Pt, 4-4 FT), nine rebounds, six assists and one block across 27 minutes off the bench in Wednesday's 120-113 overtime win over the Jazz.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-stuffs-stat-sheet-wednesday-537624"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "OKC",
-   "player": "Shai Gilgeous-Alexander",
-   "headline": "Erupts for 42 points in victory",
-   "note": "Gilgeous-Alexander amassed 42 points (11-26 FG, 5-11 3Pt, 15-19 FT), eight assists, four rebounds and one block across 35 minutes in Wednesday's 124-116 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-erupts-for-42-points-in-victory-537623"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "MEM",
-   "player": "Cedric Coward",
-   "headline": "Scores 23 points with four steals",
-   "note": "Coward tallied 23 points (8-19 FG, 4-12 3Pt, 3-4 FT), nine rebounds, four assists and four steals over 33 minutes in Wednesday's 107-103 loss to the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-news-scores-23-points-with-four-steals-537622"
-  },
-  {
-   "date": "2026-11-04",
    "team": "MEM",
    "player": "Isaiah Stewart",
    "headline": "Exits Wednesday's defeat early",
@@ -223,16 +263,6 @@
   },
   {
    "date": "2026-11-04",
-   "team": "BKN",
-   "player": "Michael Porter",
-   "headline": "Double-doubles with four triples",
-   "note": "Porter provided 26 points (8-17 FG, 4-9 3Pt, 6-10 FT), 10 rebounds and two turnovers across 38 minutes in Wednesday's 114-104 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/michael-porter-news-double-doubles-with-four-triples-537620"
-  },
-  {
-   "date": "2026-11-04",
    "team": "CLE",
    "player": "Jarrett Allen",
    "headline": "Doesn't return Wednesday",
@@ -240,16 +270,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-doesnt-return-wednesday-537619"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "NYK",
-   "player": "Jalen Brunson",
-   "headline": "Scores 33 points with five treys",
-   "note": "Brunson recorded 33 points (10-17 FG, 5-10 3Pt, 8-9 FT), two rebounds and four assists over 28 minutes in Wednesday's 135-105 win over the Bulls.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-scores-33-points-with-five-treys-537618"
   },
   {
    "date": "2026-11-04",
@@ -443,16 +463,6 @@
   },
   {
    "date": "2026-11-04",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Exits to locker room",
-   "note": "Knueppel (leg) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-exits-to-locker-room-537578"
-  },
-  {
-   "date": "2026-11-04",
    "team": "ATL",
    "player": "Nickeil Alexander-Walker",
    "headline": "Remains productive Wednesday",
@@ -563,6 +573,16 @@
   },
   {
    "date": "2026-11-04",
+   "team": "BKN",
+   "player": "Michael Porter",
+   "headline": "Double-doubles with four triples",
+   "note": "Porter provided 26 points (8-17 FG, 4-9 3Pt, 6-10 FT), 10 rebounds and two turnovers across 38 minutes in Wednesday's 114-104 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/michael-porter-news-double-doubles-with-four-triples-537620"
+  },
+  {
+   "date": "2026-11-04",
    "team": "CHA",
    "player": "Naz Reid",
    "headline": "Bounces back in loss",
@@ -580,26 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-returns-after-brief-exit-537592"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "CHA",
-   "player": "Sion James",
-   "headline": "Reverting to bench role",
-   "note": "James won't start Wednesday's game against the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sion-james-news-reverting-to-bench-role-537564"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "CHA",
-   "player": "Grant Williams",
-   "headline": "Recalled to NBA",
-   "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-recalled-to-nba-537552"
   }
  ]
 }
