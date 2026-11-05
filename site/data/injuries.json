@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:21:22Z",
+ "updated": "2026-11-05T18:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -466,11 +466,11 @@
    "team": "LAL",
    "player": "Adou Thiero",
    "pos": "SF",
-   "updated": "2026-11-02",
+   "updated": "2026-11-05",
    "injury": "Knee",
-   "status": "Expected return: at least Nov 6",
-   "kind": "out",
-   "ret": "2026-11-06"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MEM",
