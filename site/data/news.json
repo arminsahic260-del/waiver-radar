@@ -1,6 +1,276 @@
 {
- "updated": "2026-11-05T02:35:29Z",
+ "updated": "2026-11-05T06:49:42Z",
  "items": [
+  {
+   "date": "2026-11-04",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Nets game-high 33 points in loss",
+   "note": "Booker finished with 33 points (9-19 FG, 2-8 3Pt, 13-13 FT), one rebound, two assists and two turnovers across 34 minutes in Wednesday's 132-119 loss to the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-nets-game-high-33-points-in-loss-537630"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Posts monster double-double in win",
+   "note": "Wembanyama went off for 52 points (16-28 FG, 1-8 3Pt, 19-23 FT), 24 rebounds, two assists, two steals and eight blocks over 34 minutes in Wednesday's 112-111 win over the Mavs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-posts-monster-double-double-in-win-537629"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "MIN",
+   "player": "LaMelo Ball",
+   "headline": "Nets 20 points with four stocks in win",
+   "note": "Ball totaled 20 points (6-11 FG, 4-7 3Pt, 4-5 FT), two rebounds, six assists, three steals, one block and seven turnovers across 31 minutes in Wednesday's 117-107 win over the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/lamelo-ball-news-nets-20-points-with-four-stocks-in-win-537628"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "UTA",
+   "player": "Keyonte George",
+   "headline": "Erupts for 39 points with nine dimes",
+   "note": "George registered 39 points (14-26 FG, 2-9 3Pt, 9-13 FT), two rebounds, nine assists, four steals and one block over 44 minutes in Wednesday's 120-113 overtime loss to the Pelicans.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/keyonte-george-news-erupts-for-39-points-with-nine-dimes-537627"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "POR",
+   "player": "Vit Krejci",
+   "headline": "Suffers leg fracture",
+   "note": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vit-krejci-injury-suffers-leg-fracture-537626"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "POR",
+   "player": "Vit Krejci",
+   "headline": "Won't return Wednesday",
+   "note": "Krejci won't return to Wednesday's game against the Suns due to a left ankle injury.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/vit-krejci-injury-wont-return-wednesday-537625"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "NOP",
+   "player": "Derik Queen",
+   "headline": "Stuffs stat sheet Wednesday",
+   "note": "Queen contributed 20 points (8-21 FG, 0-2 3Pt, 4-4 FT), nine rebounds, six assists and one block across 27 minutes off the bench in Wednesday's 120-113 overtime win over the Jazz.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/derik-queen-news-stuffs-stat-sheet-wednesday-537624"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "OKC",
+   "player": "Shai Gilgeous-Alexander",
+   "headline": "Erupts for 42 points in victory",
+   "note": "Gilgeous-Alexander amassed 42 points (11-26 FG, 5-11 3Pt, 15-19 FT), eight assists, four rebounds and one block across 35 minutes in Wednesday's 124-116 win over the Cavaliers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-erupts-for-42-points-in-victory-537623"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "MEM",
+   "player": "Cedric Coward",
+   "headline": "Scores 23 points with four steals",
+   "note": "Coward tallied 23 points (8-19 FG, 4-12 3Pt, 3-4 FT), nine rebounds, four assists and four steals over 33 minutes in Wednesday's 107-103 loss to the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cedric-coward-news-scores-23-points-with-four-steals-537622"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "headline": "Exits Wednesday's defeat early",
+   "note": "Stewart (knee) exited Wednesday's 107-103 loss to the Pacers and did not return, finishing with six points (3-4 FG) and one rebound in 10 minutes.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-exits-wednesdays-defeat-early-537621"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "BKN",
+   "player": "Michael Porter",
+   "headline": "Double-doubles with four triples",
+   "note": "Porter provided 26 points (8-17 FG, 4-9 3Pt, 6-10 FT), 10 rebounds and two turnovers across 38 minutes in Wednesday's 114-104 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/michael-porter-news-double-doubles-with-four-triples-537620"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Doesn't return Wednesday",
+   "note": "Allen (knee) exited to the locker room in the first quarter of Wednesday's 124-116 loss to the Thunder and did not return, finishing with zero points (0-1 FG) and one rebound in seven minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-doesnt-return-wednesday-537619"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "NYK",
+   "player": "Jalen Brunson",
+   "headline": "Scores 33 points with five treys",
+   "note": "Brunson recorded 33 points (10-17 FG, 5-10 3Pt, 8-9 FT), two rebounds and four assists over 28 minutes in Wednesday's 135-105 win over the Bulls.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-scores-33-points-with-five-treys-537618"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CLE",
+   "player": "Tyrese Proctor",
+   "headline": "Exits Wednesday's loss early",
+   "note": "Proctor exited Wednesday's 124-116 loss to the Thunder in the fourth quarter and did not return due to an apparent ankle injury, finishing with 11 points (4-7 FG, 2-3 3Pt, 1-1 FT), one rebound and one steal across 22 minutes.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-injury-exits-wednesdays-loss-early-537617"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "IND",
+   "player": "Andrew Nembhard",
+   "headline": "Paces Indiana in victory",
+   "note": "Nembhard notched 22 points (8-15 FG, 2-7 3Pt, 4-4 FT), five assists, two rebounds, one steal and one block in 38 minutes during Wednesday's 107-103 win over Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-paces-indiana-in-victory-537616"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "BOS",
+   "player": "Paul George",
+   "headline": "Nets 25 points with four steals",
+   "note": "George produced 25 points (8-18 FG, 5-9 3Pt, 4-7 FT), three rebounds, five assists and four steals over 35 minutes in Wednesday's 109-102 win over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/paul-george-news-nets-25-points-with-four-steals-537615"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHA",
+   "player": "Naz Reid",
+   "headline": "Bounces back in loss",
+   "note": "Reid recorded 28 points (11-18 FG, 2-5 3Pt, 4-5 FT), nine rebounds, two assists and one block across 36 minutes in Wednesday's 114-104 loss to the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-bounces-back-in-loss-537614"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CLE",
+   "player": "Tyrese Proctor",
+   "headline": "Exits to locker room",
+   "note": "Proctor exited to the locker room in the fourth quarter of Wednesday's game against the Thunder due to an apparent ankle injury, Ethan Sands of The Cleveland Plain Dealer reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-injury-exits-to-locker-room-537613"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "MIL",
+   "player": "Tyler Herro",
+   "headline": "Strikes for 25 points in loss",
+   "note": "Herro had 25 points (8-17 FG, 4-10 3Pt, 5-5 FT), five rebounds and three assists across 33 minutes in Wednesday's 109-102 loss to the Celtics.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-strikes-for-25-points-in-loss-537612"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "PHI",
+   "player": "Jaylen Brown",
+   "headline": "Drops 30 points in win",
+   "note": "Brown supplied 30 points (11-19 FG, 3-5 3Pt, 5-7 FT), seven rebounds, one assist, one steal and one block across 37 minutes in Wednesday's 112-106 win over the Pistons.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-drops-30-points-in-win-537611"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "DET",
+   "player": "Cade Cunningham",
+   "headline": "Double-doubles with four stocks",
+   "note": "Cunningham racked up 26 points (9-22 FG, 1-9 3Pt, 7-7 FT), 11 assists, seven rebounds, two steals and two blocks over 40 minutes in Wednesday's 112-106 loss to the 76ers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cade-cunningham-news-double-doubles-with-four-stocks-537610"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHI",
+   "player": "Zach Collins",
+   "headline": "Doesn't check back in Wednesday",
+   "note": "Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-105 loss to the Knicks, finishing with three points (1-4 FG, 0-2 3Pt, 1-1 FT), three assists, one rebound and one steal across 14 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-doesnt-check-back-in-wednesday-537609"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "WAS",
+   "player": "Anthony Davis",
+   "headline": "Delivers strong all-around effort",
+   "note": "Davis finished with 26 points (12-19 FG, 0-1 3Pt, 2-2 FT), 10 rebounds, three assists and three blocks over 30 minutes in Wednesday's 120-105 loss to Atlanta.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-davis-news-delivers-strong-all-around-effort-537608"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "PHI",
+   "player": "Adem Bona",
+   "headline": "Doesn't return vs. Detroit",
+   "note": "Bona exited Wednesday's 112-106 win over the Pistons in the fourth quarter and did not return due to an apparent head injury, finishing with five points (2-4 FG, 1-1 FT), two rebounds, one assist and one steal across 15 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-doesnt-return-vs-detroit-537607"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Remains red-hot Wednesday",
+   "note": "Alexander-Walker ended with 26 points (9-20 FG, 6-14 3Pt, 2-2 FT), four rebounds and two assists across 32 minutes in Wednesday's 120-105 win over the Wizards.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-remains-red-hot-wednesday-537606"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "BOS",
+   "player": "Payton Pritchard",
+   "headline": "Doesn't return Wednesday",
+   "note": "Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right eye abrasion, finishing with 10 points (4-7 FG, 2-2 FT), five assists and one rebound across 18 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-injury-doesnt-return-wednesday-537605"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHI",
+   "player": "Zach Collins",
+   "headline": "Heads to locker room",
+   "note": "Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's game against the Knicks, K.C. Johnson of Chicago Sports Network reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-heads-to-locker-room-537604"
+  },
   {
    "date": "2026-11-04",
    "team": "MEM",
@@ -33,16 +303,6 @@
   },
   {
    "date": "2026-11-04",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Starting versus Spurs",
-   "note": "Risacher will start in Wednesday's game against San Antonio.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-starting-versus-spurs-537600"
-  },
-  {
-   "date": "2026-11-04",
    "team": "BKN",
    "player": "Noah Clowney",
    "headline": "Won't return vs. Charlotte",
@@ -50,16 +310,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-injury-wont-return-vs-charlotte-537599"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "DAL",
-   "player": "Caleb Martin",
-   "headline": "Headed to bench",
-   "note": "Martin will come off the bench in Wednesday's game against the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-martin-news-headed-to-bench-537598"
   },
   {
    "date": "2026-11-04",
@@ -73,53 +323,13 @@
   },
   {
    "date": "2026-11-04",
-   "team": "LAC",
-   "player": "Gradey Dick",
-   "headline": "Returning to bench Wednesday",
-   "note": "Dick won't start in Wednesday's game against Miami, Law Murray of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/gradey-dick-news-returning-to-bench-wednesday-537596"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "LAC",
-   "player": "Kobe Sanders",
-   "headline": "Headed to bench",
-   "note": "Sanders will come off the bench in Wednesday's game versus Miami, Law Murray of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-headed-to-bench-537595"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Not starting Wednesday",
-   "note": "Poeltl won't start Wednesday's game against the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-not-starting-wednesday-537594"
-  },
-  {
-   "date": "2026-11-04",
    "team": "CHA",
    "player": "Kon Knueppel",
    "headline": "Won't return Wednesday",
-   "note": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports.",
+   "note": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg, and he will not return, Brett Siegel of ClutchPoints.com reports.",
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-wont-return-wednesday-537593"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "CHA",
-   "player": "Coby White",
-   "headline": "Returns after brief exit",
-   "note": "White (eye) returned to Wednesday's game against the Nets, per television broadcast.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-returns-after-brief-exit-537592"
   },
   {
    "date": "2026-11-04",
@@ -130,26 +340,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-doubtful-to-return-wednesday-537591"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "LAC",
-   "player": "Isaiah Jackson",
-   "headline": "Cleared to play Wednesday",
-   "note": "Jackson (groin) is available for Wednesday's game against the Heat, NBA writer Justin Russo reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/isaiah-jackson-news-cleared-to-play-wednesday-537590"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "MIA",
-   "player": "Giannis Antetokounmpo",
-   "headline": "Available Wednesday",
-   "note": "Antetokounmpo (wrist) is available for Wednesday's game against the Clippers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-available-wednesday-537589"
   },
   {
    "date": "2026-11-04",
@@ -183,16 +373,6 @@
   },
   {
    "date": "2026-11-04",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Will play Wednesday",
-   "note": "Poeltl (shoulder) is available for Wednesday's game against the Nuggets, Esfandiar Baraheni of The Athletic reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-will-play-wednesday-537585"
-  },
-  {
-   "date": "2026-11-04",
    "team": "ATL",
    "player": "Asa Newell",
    "headline": "Won't return Wednesday",
@@ -213,26 +393,6 @@
   },
   {
    "date": "2026-11-04",
-   "team": "DEN",
-   "player": "Alpha Diallo",
-   "headline": "Cleared to play Wednesday",
-   "note": "Diallo (wrist) is available for Wednesday's game against the Raptors.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alpha-diallo-news-cleared-to-play-wednesday-537582"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "DEN",
-   "player": "Cameron Johnson",
-   "headline": "Good to go Wednesday",
-   "note": "Johnson (lower body) is available for Wednesday's game against Toronto.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-news-good-to-go-wednesday-537581"
-  },
-  {
-   "date": "2026-11-04",
    "team": "PHX",
    "player": "Jordan Goodwin",
    "headline": "Downgraded to out",
@@ -243,20 +403,10 @@
   },
   {
    "date": "2026-11-04",
-   "team": "GSW",
-   "player": "Al Horford",
-   "headline": "Off injury report for Thursday",
-   "note": "Horford (rest) is not listed on the injury report ahead of Thursday's game against Miami.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/al-horford-news-off-injury-report-for-thursday-537579"
-  },
-  {
-   "date": "2026-11-04",
    "team": "CHA",
    "player": "Kon Knueppel",
    "headline": "Exits to locker room",
-   "note": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
+   "note": "Knueppel (leg) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-exits-to-locker-room-537578"
@@ -270,106 +420,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/gui-santos-injury-ruled-out-for-thursday-537575"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "IND",
-   "player": "Kelly Oubre",
-   "headline": "Ruled out Wednesday",
-   "note": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-ruled-out-wednesday-537567"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "'Progressing well'",
-   "note": "According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lately progressing well,\" Chris Fedor of The Cleveland Plain Dealer reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-progressing-well-537566"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "HOU",
-   "player": "Steven Adams",
-   "headline": "Remains without timetable",
-   "note": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/steven-adams-injury-remains-without-timetable-537561"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "MIL",
-   "player": "Kam Jones",
-   "headline": "Ruled out for Wednesday",
-   "note": "Jones (ankle) won't play Wednesday in Boston.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kam-jones-injury-ruled-out-for-wednesday-537560"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "BOS",
-   "player": "Devin Carter",
-   "headline": "Practicing in G League",
-   "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/devin-carter-injury-practicing-in-g-league-537555"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "CHA",
-   "player": "Grant Williams",
-   "headline": "Recalled to NBA",
-   "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-recalled-to-nba-537552"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Now out Wednesday",
-   "note": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-now-out-wednesday-537549"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "OKC",
-   "player": "Jaylin Williams",
-   "headline": "Sidelined against Cavaliers",
-   "note": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza of USA Today reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-sidelined-against-cavaliers-537546"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "NOP",
-   "player": "Trey Murphy",
-   "headline": "Won't play Wednesday",
-   "note": "Murphy (knees) is listed as out for Wednesday's game against Utah.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-injury-wont-play-wednesday-537544"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "headline": "Out again Wednesday",
-   "note": "Johnson (ankle) is listed as out for Wednesday's game in Washington.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-out-again-wednesday-537542"
   },
   {
    "date": "2026-11-04",
@@ -393,6 +443,16 @@
   },
   {
    "date": "2026-11-04",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Out again Wednesday",
+   "note": "Johnson (ankle) is listed as out for Wednesday's game in Washington.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-out-again-wednesday-537542"
+  },
+  {
+   "date": "2026-11-04",
    "team": "BOS",
    "player": "Baylor Scheierman",
    "headline": "Back to bench Wednesday",
@@ -410,6 +470,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-starting-vs-milwaukee-537557"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "BOS",
+   "player": "Devin Carter",
+   "headline": "Practicing in G League",
+   "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-carter-injury-practicing-in-g-league-537555"
   },
   {
    "date": "2026-11-04",
@@ -444,12 +514,32 @@
   {
    "date": "2026-11-04",
    "team": "CHA",
+   "player": "Coby White",
+   "headline": "Returns after brief exit",
+   "note": "White (eye) returned to Wednesday's game against the Nets, per the television broadcast.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/coby-white-news-returns-after-brief-exit-537592"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHA",
    "player": "Sion James",
    "headline": "Reverting to bench role",
    "note": "James won't start Wednesday's game against the Nets.",
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/sion-james-news-reverting-to-bench-role-537564"
+  },
+  {
+   "date": "2026-11-04",
+   "team": "CHA",
+   "player": "Grant Williams",
+   "headline": "Recalled to NBA",
+   "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/grant-williams-injury-recalled-to-nba-537552"
   },
   {
    "date": "2026-11-04",
@@ -510,96 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-starting-against-thunder-537572"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "CLE",
-   "player": "Meleek Thomas",
-   "headline": "Sliding to bench Wednesday",
-   "note": "Thomas won't start Wednesday's game against the Thunder.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/meleek-thomas-news-sliding-to-bench-wednesday-537570"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Downgraded to doubtful",
-   "note": "Aldama (knee) is doubtful for Wednesday's game against the Spurs, per NBA reporter Marc Stein.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-downgraded-to-doubtful-537527"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "headline": "Goes through shootaround",
-   "note": "Aldama (knee) was spotted at Wednesday's morning shootaround, Brad Townsend of The Dallas Morning News reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-goes-through-shootaround-537515"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "GSW",
-   "player": "Brandon Williams",
-   "headline": "Omitted from injury report",
-   "note": "Williams (quadriceps) isn't listed on the injury report for Thursday's game against the Heat.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-williams-news-omitted-from-injury-report-537577"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "GSW",
-   "player": "Kristaps Porzingis",
-   "headline": "Warriors withholding payments",
-   "note": "The Warriors have stopped issuing salary payments to Porzingis (illness), who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-withholding-payments-537514"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "HOU",
-   "player": "Clint Capela",
-   "headline": "Out with ankle sprain",
-   "note": "Capela (ankle) is out for Wednesday's game against the Timberwolves.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/clint-capela-injury-out-with-ankle-sprain-537524"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "IND",
-   "player": "Jay Huff",
-   "headline": "Not starting versus Memphis",
-   "note": "Huff is not listed in the starting lineup for Wednesday's game against Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jay-huff-news-not-starting-versus-memphis-537576"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "IND",
-   "player": "Jarace Walker",
-   "headline": "Retreating to second unit",
-   "note": "Walker won't start Wednesday's game against Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarace-walker-news-retreating-to-second-unit-537573"
-  },
-  {
-   "date": "2026-11-04",
-   "team": "IND",
-   "player": "Quenton Jackson",
-   "headline": "Headed to bench",
-   "note": "Jackson will come off the bench in Wednesday's game in Memphis.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/quenton-jackson-news-headed-to-bench-537571"
   }
  ]
 }

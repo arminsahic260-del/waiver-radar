@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:34:56Z",
+ "updated": "2026-11-05T06:49:10Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -54,6 +54,16 @@
   },
   {
    "team": "BKN",
+   "player": "Day'Ron Sharpe",
+   "pos": "C",
+   "updated": "2026-11-04",
+   "injury": "—",
+   "status": "—",
+   "kind": "out",
+   "ret": null
+  },
+  {
+   "team": "BKN",
    "player": "Egor Demin",
    "pos": "PG",
    "updated": "2026-10-29",
@@ -103,10 +113,20 @@
    "ret": "2026-11-06"
   },
   {
+   "team": "BOS",
+   "player": "Payton Pritchard",
+   "pos": "PG",
+   "updated": "2026-11-04",
+   "injury": "Eye",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "CHA",
    "player": "Coby White",
    "pos": "PG",
-   "updated": "2026-11-04",
+   "updated": "2026-11-05",
    "injury": "Undisclosed",
    "status": "—",
    "kind": "out",
@@ -128,9 +148,9 @@
    "pos": "SF",
    "updated": "2026-11-04",
    "injury": "Leg",
-   "status": "Expected return: at least Nov 6",
-   "kind": "out",
-   "ret": "2026-11-06"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "CHI",
@@ -148,6 +168,16 @@
    "pos": "C",
    "updated": "2026-11-04",
    "injury": "Hand",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHI",
+   "player": "Zach Collins",
+   "pos": "C",
+   "updated": "2026-11-04",
+   "injury": "Undisclosed",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -188,6 +218,16 @@
    "pos": "C",
    "updated": "2026-11-04",
    "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CLE",
+   "player": "Tyrese Proctor",
+   "pos": "PG",
+   "updated": "2026-11-04",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -463,6 +503,16 @@
    "ret": "2026-11-06"
   },
   {
+   "team": "MEM",
+   "player": "Isaiah Stewart",
+   "pos": "C",
+   "updated": "2026-11-04",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "MIL",
    "player": "Kam Jones",
    "pos": "PG",
@@ -663,6 +713,16 @@
    "ret": "2026-11-18"
   },
   {
+   "team": "PHI",
+   "player": "Adem Bona",
+   "pos": "C",
+   "updated": "2026-11-04",
+   "injury": "Head",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "PHX",
    "player": "Jordan Goodwin",
    "pos": "SG",
@@ -711,6 +771,16 @@
    "status": "Expected return: at least Mar 2",
    "kind": "out",
    "ret": "2027-03-02"
+  },
+  {
+   "team": "POR",
+   "player": "Vit Krejci",
+   "pos": "SF",
+   "updated": "2026-11-05",
+   "injury": "Ankle",
+   "status": "Expected return: at least Jan 2",
+   "kind": "out",
+   "ret": "2027-01-02"
   },
   {
    "team": "SAC",

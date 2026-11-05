@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:35:30Z",
+ "updated": "2026-11-05T06:49:43Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-05T02:35:30Z",
+   "updated": "2026-11-05T06:49:43Z",
    "adds": {
     "period": 3,
     "used": 1,
@@ -39,7 +39,7 @@
      "slot": "SG",
      "espnId": 2991230,
      "gp": 7,
-     "cur": 31.1,
+     "cur": 32.4,
      "proj": 33.4,
      "acq": "DRAFT",
      "draft": {
@@ -55,8 +55,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 5041939,
-     "gp": 6,
-     "cur": 50.7,
+     "gp": 7,
+     "cur": 47.7,
      "proj": 45.4,
      "acq": "DRAFT",
      "draft": {
@@ -85,7 +85,7 @@
      "slot": "C",
      "espnId": 5105565,
      "gp": 7,
-     "cur": 29.4,
+     "cur": 35.0,
      "proj": 33.9,
      "acq": "DRAFT",
      "draft": {
@@ -102,7 +102,7 @@
      "slot": "G",
      "espnId": 5101761,
      "gp": 6,
-     "cur": 17.0,
+     "cur": 19.0,
      "proj": 24.0,
      "acq": "ADD",
      "draft": {
@@ -118,8 +118,8 @@
      "pos": "SG/SF",
      "slot": "F",
      "espnId": 4433137,
-     "gp": 5,
-     "cur": 25.8,
+     "gp": 6,
+     "cur": 25.5,
      "proj": 19.7,
      "acq": "ADD",
      "draft": null
@@ -130,8 +130,8 @@
      "pos": "PG",
      "slot": "UTIL",
      "espnId": 6442,
-     "gp": 5,
-     "cur": 41.2,
+     "gp": 6,
+     "cur": 41.3,
      "proj": 44.2,
      "acq": "DRAFT",
      "draft": {
@@ -147,8 +147,8 @@
      "pos": "PG",
      "slot": "UTIL",
      "espnId": 5142620,
-     "gp": 7,
-     "cur": 36.1,
+     "gp": 8,
+     "cur": 37.0,
      "proj": 30.4,
      "acq": "DRAFT",
      "draft": {
@@ -164,8 +164,8 @@
      "pos": "SG",
      "slot": "UTIL",
      "espnId": 4702352,
-     "gp": 7,
-     "cur": 23.0,
+     "gp": 8,
+     "cur": 19.8,
      "proj": null,
      "acq": "ADD",
      "draft": null
@@ -177,7 +177,7 @@
      "slot": "BE",
      "espnId": 4017837,
      "gp": 4,
-     "cur": 16.5,
+     "cur": 16.0,
      "proj": 35.5,
      "acq": "DRAFT",
      "draft": {
@@ -247,7 +247,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-05T02:35:30Z",
+   "updated": "2026-11-05T06:49:43Z",
    "adds": {
     "period": 3,
     "used": 1,
@@ -261,7 +261,7 @@
      "slot": "PG",
      "espnId": 4433627,
      "gp": 8,
-     "cur": 29.1,
+     "cur": 34.0,
      "proj": 36.8,
      "acq": "DRAFT",
      "draft": {
@@ -278,7 +278,7 @@
      "slot": "SG",
      "espnId": 3917376,
      "gp": 8,
-     "cur": 38.0,
+     "cur": 38.6,
      "proj": 38.6,
      "acq": "DRAFT",
      "draft": {
@@ -294,8 +294,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 5041939,
-     "gp": 6,
-     "cur": 50.7,
+     "gp": 7,
+     "cur": 47.7,
      "proj": 45.4,
      "acq": "DRAFT",
      "draft": {
@@ -312,7 +312,7 @@
      "slot": "PF",
      "espnId": 4431671,
      "gp": 9,
-     "cur": 31.6,
+     "cur": 34.0,
      "proj": 29.7,
      "acq": "DRAFT",
      "draft": {
@@ -346,7 +346,7 @@
      "slot": "G",
      "espnId": 5124612,
      "gp": 8,
-     "cur": 29.5,
+     "cur": 29.1,
      "proj": 33.7,
      "acq": "DRAFT",
      "draft": {
@@ -362,8 +362,8 @@
      "pos": "SG/SF",
      "slot": "F",
      "espnId": 4433137,
-     "gp": 5,
-     "cur": 25.8,
+     "gp": 6,
+     "cur": 25.5,
      "proj": 19.7,
      "acq": "ADD",
      "draft": null
@@ -375,7 +375,7 @@
      "slot": "UTIL",
      "espnId": 4871144,
      "gp": 7,
-     "cur": 46.9,
+     "cur": 51.7,
      "proj": 43.0,
      "acq": "DRAFT",
      "draft": {
@@ -391,8 +391,8 @@
      "pos": "PG/SG",
      "slot": "UTIL",
      "espnId": 4845367,
-     "gp": 7,
-     "cur": 31.0,
+     "gp": 8,
+     "cur": 29.9,
      "proj": 36.9,
      "acq": "DRAFT",
      "draft": {
@@ -408,8 +408,8 @@
      "pos": "SF/PF",
      "slot": "UTIL",
      "espnId": 4065732,
-     "gp": 7,
-     "cur": 19.1,
+     "gp": 8,
+     "cur": 18.5,
      "proj": 23.9,
      "acq": "ADD",
      "draft": null
@@ -421,7 +421,7 @@
      "slot": "BE",
      "espnId": 4278355,
      "gp": 6,
-     "cur": 23.2,
+     "cur": 24.8,
      "proj": 21.9,
      "acq": "ADD",
      "draft": null
@@ -444,8 +444,8 @@
      "pos": "PF/C",
      "slot": "BE",
      "espnId": 3064482,
-     "gp": 7,
-     "cur": 23.0,
+     "gp": 8,
+     "cur": 23.1,
      "proj": 26.0,
      "acq": "ADD",
      "draft": {
