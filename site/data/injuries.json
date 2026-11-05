@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:49:10Z",
+ "updated": "2026-11-05T07:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -50,16 +50,6 @@
    "injury": "Toe",
    "status": "GTD",
    "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "BKN",
-   "player": "Day'Ron Sharpe",
-   "pos": "C",
-   "updated": "2026-11-04",
-   "injury": "—",
-   "status": "—",
-   "kind": "out",
    "ret": null
   },
   {
