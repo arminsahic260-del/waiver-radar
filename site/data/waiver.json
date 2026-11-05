@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:21:55Z",
+ "updated": "2026-11-05T09:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -333,6 +333,29 @@
    "cur": 20.0
   },
   {
+   "player": "De'Andre Hunter",
+   "team": "SAC",
+   "pos": "SF/PF",
+   "priority": 2,
+   "reason": "Keegan Murray (gležanj) je out najmanje do 10.11.; Maxime Raynaud (koljeno) je out najmanje do 10.11. De'Andre Hunter je prvi SF/PF u rotaciji SAC-a za te minute; ~19.3 FP po utakmici (ove sezone 18.5 u 8 utk., prošle sezone 21.0; 30 min).",
+   "role": "Veća minutaža dok su out Keegan Murray i Maxime Raynaud",
+   "horizon": "Do ~10.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Keegan Murray",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Banijska)",
+   "espnId": 4065732,
+   "waivers": {
+    "Legendi": "2026-11-07"
+   },
+   "fpts": 19.3,
+   "gp": 8,
+   "cur": 18.5
+  },
+  {
    "player": "Jordan Poole",
    "team": "NOP",
    "pos": "PG/SG",
@@ -476,7 +499,7 @@
    "risk": "I kao starter nizak plafon (~14 FP)",
    "avail": {
     "Legendi": true,
-    "Banijska": true
+    "Banijska": false
    },
    "source": "https://www.rotowire.com/basketball/headlines/georges-niang-news-will-start-sunday-537142",
    "espnId": 2990969,
@@ -561,29 +584,6 @@
    "fpts": 12.4,
    "gp": 3,
    "cur": 10.3
-  },
-  {
-   "player": "Obi Toppin",
-   "team": "IND",
-   "pos": "PF",
-   "priority": 3,
-   "reason": "Kelly Oubre Jr. (list) je out najmanje do 7.11. Obi Toppin je sljedeći PF u rotaciji IND-a za te minute; ~23.6 FP po utakmici (ove sezone 24.8 u 6 utk., prošle sezone 21.9; 20 min).",
-   "role": "Veća minutaža dok je out Kelly Oubre Jr.",
-   "horizon": "Do ~7.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Kelly Oubre Jr.",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "note": "na tvom rosteru (Banijska)",
-   "espnId": 4278355,
-   "waivers": {
-    "Legendi": "2026-11-06"
-   },
-   "fpts": 23.6,
-   "gp": 6,
-   "cur": 24.8
   }
  ],
  "days": [
@@ -1272,6 +1272,26 @@
        "gtd": false
       },
       {
+       "player": "De'Andre Hunter",
+       "team": "SAC",
+       "pos": "SF/PF",
+       "espnId": 4065732,
+       "fpts": 19.3,
+       "mpg": 29.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 8,
+       "cur": 18.5,
+       "matchup": "ORL @ SAC",
+       "dates": [
+        "2026-11-10",
+        "2026-11-13",
+        "2026-11-15"
+       ],
+       "value": 19.3,
+       "gtd": false,
+       "waiver": "2026-11-07"
+      },
+      {
        "player": "Anfernee Simons",
        "team": "PHI",
        "pos": "PG/SG",
@@ -1290,26 +1310,6 @@
        "value": 18.7,
        "gtd": false,
        "waiver": "2026-11-07"
-      },
-      {
-       "player": "Miles McBride",
-       "team": "NYK",
-       "pos": "PG/SG",
-       "espnId": 4431823,
-       "fpts": 18.1,
-       "mpg": 20.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 15.5,
-       "matchup": "MIL @ NYK",
-       "dates": [
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-15"
-       ],
-       "value": 18.1,
-       "gtd": false
       }
      ]
     },
