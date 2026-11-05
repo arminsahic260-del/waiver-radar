@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:21:21Z",
+ "updated": "2026-11-05T17:21:22Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -64,20 +64,20 @@
   },
   {
    "team": "BKN",
-   "player": "Tyler Bilodeau",
-   "pos": "SF",
-   "updated": "2026-10-31",
-   "injury": "Shoulder",
-   "status": "Expected return: at least Nov 6",
-   "kind": "out",
-   "ret": "2026-11-06"
-  },
-  {
-   "team": "BKN",
    "player": "Noah Clowney",
    "pos": "PF",
    "updated": "2026-11-04",
    "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "BKN",
+   "player": "Tyler Bilodeau",
+   "pos": "SF",
+   "updated": "2026-11-05",
+   "injury": "Shoulder",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
