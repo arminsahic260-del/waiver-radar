@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:21:59Z",
+ "updated": "2026-11-05T10:21:51Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -63,25 +63,6 @@
    "cur": 19.6
   },
   {
-   "player": "Aday Mara",
-   "team": "OKC",
-   "pos": "C",
-   "priority": 1,
-   "reason": "RotoWire 4.11.: Starting Wednesday. Mara will start Wednesday against the Cavs, Clemente Almanza of USA Today reports. ~19.4 FP po utakmici (ove sezone, 8 utk., 19 min). Chet Holmgren (koljeno) je out najmanje do 2.1.; Jalen Williams (noga) je out najmanje do 2.3. Aday Mara je prvi C u rotaciji OKC-a za te minute; ~19.4 FP po utakmici (ove sezone, 8 utk., 19 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/aday-mara-news-starting-wednesday-537568",
-   "espnId": 5174983,
-   "fpts": 19.4,
-   "gp": 8,
-   "cur": 19.4
-  },
-  {
    "player": "Deandre Ayton",
    "team": "WAS",
    "pos": "C",
@@ -129,11 +110,10 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-drawing-start-monday-537297",
-   "note": "na tvom rosteru (Legendi)",
    "espnId": 4702352,
    "fpts": 18.0,
    "gp": 8,
@@ -266,10 +246,11 @@
    "horizon": "Do ~6.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Peyton Watson",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Legendi)",
    "espnId": 4066757,
    "fpts": 21.4,
    "gp": 8,
@@ -584,6 +565,29 @@
    "fpts": 12.4,
    "gp": 3,
    "cur": 10.3
+  },
+  {
+   "player": "Obi Toppin",
+   "team": "IND",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Kelly Oubre Jr. (list) je out najmanje do 7.11. Obi Toppin je sljedeći PF u rotaciji IND-a za te minute; ~23.6 FP po utakmici (ove sezone 24.8 u 6 utk., prošle sezone 21.9; 20 min).",
+   "role": "Veća minutaža dok je out Kelly Oubre Jr.",
+   "horizon": "Do ~7.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Kelly Oubre Jr.",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Banijska)",
+   "espnId": 4278355,
+   "waivers": {
+    "Legendi": "2026-11-06"
+   },
+   "fpts": 23.6,
+   "gp": 6,
+   "cur": 24.8
   }
  ],
  "days": [
@@ -596,7 +600,7 @@
      "mine": 2,
      "open": 8,
      "sitting": 0,
-     "adds": 6,
+     "adds": 4,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -670,10 +674,10 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 6,
-     "open": 4,
+     "mine": 8,
+     "open": 2,
      "sitting": 0,
-     "adds": 5,
+     "adds": 3,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -818,10 +822,10 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 7,
-     "open": 3,
+     "mine": 8,
+     "open": 2,
      "sitting": 0,
-     "adds": 4,
+     "adds": 2,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -851,21 +855,23 @@
        "waiver": "2026-11-06"
       },
       {
-       "player": "Sam Merrill",
-       "team": "CLE",
-       "pos": "SG",
-       "espnId": 4066757,
-       "fpts": 21.4,
-       "mpg": 25.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 20.2,
-       "matchup": "NYK @ CLE",
+       "player": "Mikel Brown Jr.",
+       "team": "BKN",
+       "pos": "PG",
+       "espnId": 5101761,
+       "fpts": 21.0,
+       "mpg": 25.9,
+       "basis": "sezona+projekcija",
+       "gp": 6,
+       "cur": 19.0,
+       "matchup": "BKN @ ATL",
        "dates": [
-        "2026-11-07"
+        "2026-11-07",
+        "2026-11-08"
        ],
-       "value": 21.4,
-       "gtd": false
+       "value": 21.0,
+       "gtd": false,
+       "waiver": "2026-11-07"
       },
       {
        "player": "Aaron Nesmith",
@@ -970,10 +976,10 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 7,
-     "open": 1,
+     "mine": 5,
+     "open": 3,
      "sitting": 0,
-     "adds": 3,
+     "adds": 1,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -1013,6 +1019,24 @@
        "gtd": false
       },
       {
+       "player": "Sandro Mamukelashvili",
+       "team": "LAL",
+       "pos": "PF/C",
+       "espnId": 4278580,
+       "fpts": 22.0,
+       "mpg": 23.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 20.8,
+       "matchup": "LAL @ DET",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 22.0,
+       "gtd": false,
+       "waiver": "2026-11-07"
+      },
+      {
        "player": "Keaton Wagler",
        "team": "LAC",
        "pos": "PG/SG",
@@ -1027,23 +1051,6 @@
         "2026-11-08"
        ],
        "value": 21.2,
-       "gtd": false
-      },
-      {
-       "player": "Matisse Thybulle",
-       "team": "LAL",
-       "pos": "SF",
-       "espnId": 3907498,
-       "fpts": 21.0,
-       "mpg": 21.7,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.2,
-       "matchup": "LAL @ DET",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 21.0,
        "gtd": false
       }
      ]
@@ -1078,81 +1085,18 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 9,
-     "open": 1,
+     "mine": 10,
+     "open": 0,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
-      "2026-11-09",
       "2026-11-10",
       "2026-11-11"
      ],
      "planned": [],
-     "picks": [
-      {
-       "player": "Obi Toppin",
-       "team": "IND",
-       "pos": "PF",
-       "espnId": 4278355,
-       "fpts": 23.6,
-       "mpg": 20.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 24.8,
-       "matchup": "IND @ DAL",
-       "dates": [
-        "2026-11-09",
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-15"
-       ],
-       "value": 23.6,
-       "gtd": false,
-       "waiver": "2026-11-06"
-      },
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 23.2,
-       "mpg": 25.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 2.0,
-       "matchup": "NOP @ GSW",
-       "dates": [
-        "2026-11-09",
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 23.2,
-       "gtd": false
-      },
-      {
-       "player": "Jaylen Wells",
-       "team": "MEM",
-       "pos": "SG/SF",
-       "espnId": 5112087,
-       "fpts": 21.9,
-       "mpg": 27.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 22.5,
-       "matchup": "MEM @ TOR",
-       "dates": [
-        "2026-11-09",
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 21.9,
-       "gtd": false
-      }
-     ]
+     "picks": []
     },
     {
      "league": "Banijska",
@@ -1242,11 +1186,10 @@
      "mine": 3,
      "open": 7,
      "sitting": 0,
-     "adds": 6,
+     "adds": 7,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-09",
       "2026-11-10",
       "2026-11-11"
      ],
@@ -1396,24 +1339,17 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
+     "mine": 9,
      "open": 1,
      "sitting": 0,
-     "adds": 5,
+     "adds": 6,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-09",
       "2026-11-10",
       "2026-11-11"
      ],
-     "planned": [
-      {
-       "player": "Obi Toppin",
-       "team": "IND",
-       "from": "2026-11-09"
-      }
-     ],
+     "planned": [],
      "picks": [
       {
        "player": "Tre Jones",
@@ -1435,6 +1371,26 @@
        "gtd": false
       },
       {
+       "player": "Obi Toppin",
+       "team": "IND",
+       "pos": "PF",
+       "espnId": 4278355,
+       "fpts": 23.6,
+       "mpg": 20.5,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 24.8,
+       "matchup": "WAS @ IND",
+       "dates": [
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15"
+       ],
+       "value": 23.6,
+       "gtd": false,
+       "waiver": "2026-11-06"
+      },
+      {
        "player": "Julian Reese",
        "team": "NOP",
        "pos": "PF",
@@ -1451,25 +1407,6 @@
         "2026-11-14"
        ],
        "value": 23.2,
-       "gtd": false
-      },
-      {
-       "player": "Jaylen Wells",
-       "team": "MEM",
-       "pos": "SG/SF",
-       "espnId": 5112087,
-       "fpts": 21.9,
-       "mpg": 27.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 22.5,
-       "matchup": "DEN @ MEM",
-       "dates": [
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 21.9,
        "gtd": false
       }
      ]

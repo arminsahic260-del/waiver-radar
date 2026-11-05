@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:21:59Z",
+ "updated": "2026-11-05T10:21:51Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,10 +8,10 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-05T09:21:58Z",
+   "updated": "2026-11-05T10:21:50Z",
    "adds": {
     "period": 3,
-    "used": 1,
+    "used": 3,
     "limit": 7
    },
    "players": [
@@ -164,14 +164,14 @@
      "draft": null
     },
     {
-     "name": "Kobe Sanders",
-     "team": "LAC",
+     "name": "Sam Merrill",
+     "team": "CLE",
      "pos": "SG",
      "slot": "UTIL",
-     "espnId": 4702352,
+     "espnId": 4066757,
      "gp": 8,
-     "cur": 19.8,
-     "proj": null,
+     "cur": 20.2,
+     "proj": 20.0,
      "acq": "ADD",
      "draft": null
     },
@@ -205,21 +205,16 @@
      "draft": null
     },
     {
-     "name": "Mikel Brown Jr.",
-     "team": "BKN",
-     "pos": "PG",
+     "name": "Aday Mara",
+     "team": "OKC",
+     "pos": "C",
      "slot": "BE",
-     "espnId": 5101761,
-     "gp": 6,
-     "cur": 19.0,
-     "proj": 24.0,
+     "espnId": 5174983,
+     "gp": 8,
+     "cur": 19.4,
+     "proj": null,
      "acq": "ADD",
-     "draft": {
-      "pick": 151,
-      "round": 11,
-      "roundPick": 11,
-      "teamId": 9
-     }
+     "draft": null
     },
     {
      "name": "Paolo Banchero",
@@ -247,7 +242,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-05T09:21:59Z",
+   "updated": "2026-11-05T10:21:51Z",
    "adds": {
     "period": 3,
     "used": 1,
