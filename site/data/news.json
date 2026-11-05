@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-05T18:51:14Z",
+ "updated": "2026-11-05T19:21:55Z",
  "items": [
+  {
+   "date": "2026-11-05",
+   "team": "LAL",
+   "player": "Jake LaRavia",
+   "headline": "Fills box score in win",
+   "note": "LaRavia contributed nine points (3-3 FG, 2-2 3Pt, 1-2 FT), two rebounds, two assists, one block and one steal across 21 minutes during Wednesday's 116-103 victory over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-fills-box-score-in-win-537760"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "SAS",
+   "player": "Harrison Barnes",
+   "headline": "Muted impact in win",
+   "note": "Barnes chipped in four points (1-2 FG, 1-2 3Pt, 1-2 FT) and two rebounds across 13 minutes during Wednesday's 112-111 victory over Dallas.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/harrison-barnes-news-muted-impact-in-win-537759"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "LAC",
+   "player": "Kris Dunn",
+   "headline": "Picks up two more steals",
+   "note": "Dunn amassed five points (2-4 FG, 1-2 3Pt), five rebounds, three assists, one block and two steals across 35 minutes during Wednesday's 117-116 overtime loss to the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kris-dunn-news-picks-up-two-more-steals-537758"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "MEM",
+   "player": "Cam Spencer",
+   "headline": "Hands out nine dimes",
+   "note": "Spencer recorded seven points (3-4 FG, 1-2 3Pt), six rebounds, nine assists and one steal over 24 minutes during Wednesday's 107-103 loss to Indiana.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cam-spencer-news-hands-out-nine-dimes-537757"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "MEM",
+   "player": "Jaylen Wells",
+   "headline": "Posts dud in loss",
+   "note": "Wells had zero points (0-3 FG, 0-3 3Pt), two rebounds, three assists and one block in 21 minutes during Wednesday's 107-103 loss to the Pacers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylen-wells-news-posts-dud-in-loss-537756"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "CLE",
+   "player": "Evan Mobley",
+   "headline": "Double-doubles in loss",
+   "note": "Mobley produced 16 points (7-15 FG, 1-5 3Pt, 1-2 FT), 10 rebounds, three assists and two blocks over 33 minutes during Wednesday's 124-116 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/evan-mobley-news-double-doubles-in-loss-537755"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "CLE",
+   "player": "James Harden",
+   "headline": "Nearly triple-doubles",
+   "note": "Harden supplied 19 points (5-16 FG, 3-8 3Pt, 6-6 FT), nine rebounds, six assists, two blocks and one steal across 35 minutes during Wednesday's 124-116 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/james-harden-news-nearly-triple-doubles-537754"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "POR",
+   "player": "Toumani Camara",
+   "headline": "Steady start continues",
+   "note": "Camara posted 11 points (4-9 FG, 1-5 3Pt, 2-6 FT), four rebounds and two assists across 32 minutes during Wednesday's 132-119 win over the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/toumani-camara-news-steady-start-continues-537753"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "NOP",
+   "player": "Zion Williamson",
+   "headline": "Leads team with 23 points",
+   "note": "Williamson registered 23 points (6-14 FG, 11-13 FT), four rebounds, two assists, two blocks and one steal in 38 minutes during Wednesday's 120-113 overtime victory over the Jazz.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-leads-team-with-23-points-537752"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "POR",
+   "player": "Robert Williams",
+   "headline": "Teases double-double",
+   "note": "Williams closed Wednesday's 132-119 victory over the Suns with nine points (4-8 FG, 1-1 FT), eight rebounds, one assist, three blocks and two steals over 16 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-news-teases-double-double-537751"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "CHA",
+   "player": "Brandon Miller",
+   "headline": "Tough shooting night",
+   "note": "Miller ended Wednesday's 114-104 loss to the Nets with 10 points (2-15 FG, 1-10 3Pt, 5-5 FT), four rebounds and one assist over 26 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-tough-shooting-night-537750"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "POR",
+   "player": "Scoot Henderson",
+   "headline": "Quiet in first unit",
+   "note": "Henderson chipped in nine points (1-5 FG, 1-3 3Pt, 6-8 FT), two rebounds and one assist across 22 minutes during Wednesday's 132-119 victory over Phoenix.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-quiet-in-first-unit-537749"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "BKN",
+   "player": "Mikel Brown",
+   "headline": "Solid line off bench",
+   "note": "Brown ended with 18 points (6-11 FG, 3-5 3Pt, 3-4 FT), two rebounds, four assists, one block and one steal across 20 minutes during Wednesday's 114-104 win over the Hornets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-solid-line-off-bench-537748"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "NYK",
+   "player": "Jordan Clarkson",
+   "headline": "Scores 10 off bench",
+   "note": "Clarkson racked up 10 points (4-9 FG, 2-2 3Pt), one rebound and one assist across 15 minutes during Wednesday's 135-105 win over Chicago.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jordan-clarkson-news-scores-10-off-bench-537747"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "CHI",
+   "player": "Jaylin Sellers",
+   "headline": "Drains four triples",
+   "note": "Sellers finished with 14 points (4-8 FG, 4-7 3Pt, 2-2 FT), three rebounds, one assist, one block and one steal over 14 minutes during Wednesday's 135-105 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylin-sellers-news-drains-four-triples-537746"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "CHI",
+   "player": "Tre Jones",
+   "headline": "Leads team in scoring",
+   "note": "Jones finished with 14 points (5-8 FG, 1-1 3Pt, 3-3 FT), three rebounds and four assists over 18 minutes during Wednesday's 135-105 loss to New York.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tre-jones-news-leads-team-in-scoring-537745"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "DEN",
+   "player": "Aaron Gordon",
+   "headline": "Tallies efficient 17 points",
+   "note": "Gordon supplied 17 points (7-9 FG, 1-2 3Pt, 2-2 FT), one rebound, one block and two steals across 25 minutes during Wednesday's 128-109 victory over Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aaron-gordon-news-tallies-efficient-17-points-537744"
+  },
   {
    "date": "2026-11-05",
    "team": "DEN",
@@ -83,76 +253,6 @@
   },
   {
    "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Tyus Jones",
-   "headline": "Season-high eight dimes off bench",
-   "note": "Jones accumulated six points (3-4 FG, 0-1 3Pt), one rebound and eight assists over 18 minutes during Wednesday's 128-109 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyus-jones-news-season-high-eight-dimes-off-bench-537734"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "POR",
-   "player": "Sidy Cissoko",
-   "headline": "Solid output off bench",
-   "note": "Cissoko ended with seven points (1-3 FG, 1-2 3Pt, 4-4 FT), four rebounds, four assists and two blocks over 21 minutes during Wednesday's 132-119 victory over the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sidy-cissoko-news-solid-output-off-bench-537733"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "SAC",
-   "player": "Dylan Cardwell",
-   "headline": "Active on glass",
-   "note": "Cardwell provided four points (2-3 FG), six rebounds and one steal across 13 minutes during Wednesday's 116-103 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-cardwell-news-active-on-glass-537732"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "IND",
-   "player": "Obi Toppin",
-   "headline": "Notches 11 points",
-   "note": "Toppin supplied 11 points (3-6 FG, 1-2 3Pt, 4-4 FT), five rebounds and one assist across 19 minutes during Wednesday's 107-103 victory over the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-news-notches-11-points-537731"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "IND",
-   "player": "Ivica Zubac",
-   "headline": "Held to one point",
-   "note": "Zubac produced one point (0-5 FG, 1-2 FT), four rebounds and two assists in 19 minutes during Wednesday's 107-103 win over the Grizzlies.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-news-held-to-one-point-537730"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Struggles in loss",
-   "note": "Williams accumulated four points (1-6 FG, 0-3 3Pt, 2-2 FT), two assists and one block in 20 minutes during Wednesday's 135-105 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-struggles-in-loss-537729"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "OKC",
-   "player": "Alex Caruso",
-   "headline": "Steady production off bench",
-   "note": "Caruso produced seven points (1-3 FG, 1-2 3Pt, 4-4 FT), four rebounds and three assists over 20 minutes during Wednesday's 124-116 win over Cleveland.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alex-caruso-news-steady-production-off-bench-537728"
-  },
-  {
-   "date": "2026-11-05",
    "team": "CHI",
    "player": "Nic Claxton",
    "headline": "Assigned to G League",
@@ -160,96 +260,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/nic-claxton-injury-assigned-to-g-league-537723"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Double-double in Wednesday's win",
-   "note": "Castle finished with 17 points (6-20 FG, 2-9 3Pt, 3-4 FT), 10 rebounds and three assists over 35 minutes during Wednesday's 112-111 victory over Dallas.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-double-double-in-wednesdays-win-537722"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "SAS",
-   "player": "Dylan Harper",
-   "headline": "Chips in 21 points against Mavs",
-   "note": "Harper posted 21 points (9-15 FG, 1-2 3Pt, 2-2 FT) and five rebounds over 36 minutes during Wednesday's 112-111 win over Dallas.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dylan-harper-news-chips-in-21-points-against-mavs-537721"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DAL",
-   "player": "Naji Marshall",
-   "headline": "Strikes for 22 off bench Wednesday",
-   "note": "Marshall had 22 points (9-12 FG, 3-3 3Pt, 1-1 FT), five rebounds, three assists and one block over 26 minutes off the bench during Wednesday's 112-111 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-strikes-for-22-off-bench-wednesday-537720"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DAL",
-   "player": "P.J. Washington",
-   "headline": "Big double-double in Wednesday's loss",
-   "note": "Washington had 21 points (7-18 FG, 3-8 3Pt, 4-5 FT), 10 rebounds, three assists and one block across 39 minutes during Wednesday's 112-111 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-big-double-double-in-wednesdays-loss-537719"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "OKC",
-   "player": "Bennett Stirtz",
-   "headline": "Hits four triples",
-   "note": "Stirtz contributed 16 points (6-9 FG, 4-7 3Pt), one rebound, one assist and two steals in 22 minutes during Wednesday's 124-116 win over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bennett-stirtz-news-hits-four-triples-537718"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "SAC",
-   "player": "De'Andre Hunter",
-   "headline": "Quiet in loss",
-   "note": "Hunter recorded 14 points (4-10 FG, 1-5 3Pt, 5-6 FT), two rebounds and two assists in 38 minutes during Wednesday's 116-103 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-news-quiet-in-loss-537717"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "OKC",
-   "player": "Kenrich Williams",
-   "headline": "Knocks down three triples",
-   "note": "Williams finished Wednesday's 124-116 victory over the Cavaliers with 13 points (5-9 FG, 3-5 3Pt), four rebounds and two assists in 29 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-knocks-down-three-triples-537716"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "LAC",
-   "player": "Brook Lopez",
-   "headline": "Scores 20 as starter",
-   "note": "Lopez logged 20 points (8-11 FG, 2-5 3Pt, 2-5 FT), eight rebounds, one assist and two blocks across 35 minutes during Wednesday's 117-116 overtime loss to the Heat.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-scores-20-as-starter-537715"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Scores 21 but turns it over six times",
-   "note": "LaVine recorded 21 points (6-14 FG, 3-7 3Pt, 6-7 FT), four rebounds, one assist, two blocks and one steal across 35 minutes during Wednesday's 116-103 loss to the Lakers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-scores-21-but-turns-it-over-six-times-537714"
   },
   {
    "date": "2026-11-05",
@@ -324,6 +334,16 @@
   {
    "date": "2026-11-05",
    "team": "CHI",
+   "player": "Patrick Williams",
+   "headline": "Struggles in loss",
+   "note": "Williams accumulated four points (1-6 FG, 0-3 3Pt, 2-2 FT), two assists and one block in 20 minutes during Wednesday's 135-105 loss to the Knicks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-struggles-in-loss-537729"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "CHI",
    "player": "Josh Giddey",
    "headline": "Held to 10 points",
    "note": "Giddey closed Wednesday's 135-105 loss to the Knicks with 10 points (4-7 FG, 1-2 3Pt, 1-2 FT), one rebound and six assists in 27 minutes.",
@@ -374,6 +394,26 @@
   {
    "date": "2026-11-05",
    "team": "DAL",
+   "player": "Naji Marshall",
+   "headline": "Strikes for 22 off bench Wednesday",
+   "note": "Marshall had 22 points (9-12 FG, 3-3 3Pt, 1-1 FT), five rebounds, three assists and one block over 26 minutes off the bench during Wednesday's 112-111 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-strikes-for-22-off-bench-wednesday-537720"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "DAL",
+   "player": "P.J. Washington",
+   "headline": "Big double-double in Wednesday's loss",
+   "note": "Washington had 21 points (7-18 FG, 3-8 3Pt, 4-5 FT), 10 rebounds, three assists and one block across 39 minutes during Wednesday's 112-111 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-big-double-double-in-wednesdays-loss-537719"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "DAL",
    "player": "Cooper Flagg",
    "headline": "Double-double in San Antonio",
    "note": "Flagg notched 19 points (7-19 FG, 0-3 3Pt, 5-7 FT), 10 rebounds and five assists in 40 minutes during Wednesday's 112-111 loss to the Spurs.",
@@ -390,6 +430,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-delivers-team-high-29-in-loss-537703"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "DEN",
+   "player": "Tyus Jones",
+   "headline": "Season-high eight dimes off bench",
+   "note": "Jones accumulated six points (3-4 FG, 0-1 3Pt), one rebound and eight assists over 18 minutes during Wednesday's 128-109 win over the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyus-jones-news-season-high-eight-dimes-off-bench-537734"
   },
   {
    "date": "2026-11-05",
@@ -454,6 +504,26 @@
   {
    "date": "2026-11-05",
    "team": "IND",
+   "player": "Obi Toppin",
+   "headline": "Notches 11 points",
+   "note": "Toppin supplied 11 points (3-6 FG, 1-2 3Pt, 4-4 FT), five rebounds and one assist across 19 minutes during Wednesday's 107-103 victory over the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/obi-toppin-news-notches-11-points-537731"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "IND",
+   "player": "Ivica Zubac",
+   "headline": "Held to one point",
+   "note": "Zubac produced one point (0-5 FG, 1-2 FT), four rebounds and two assists in 19 minutes during Wednesday's 107-103 win over the Grizzlies.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-news-held-to-one-point-537730"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "IND",
    "player": "Quenton Jackson",
    "headline": "Provides balanced production off bench",
    "note": "Jackson tallied 13 points (4-9 FG, 3-5 3Pt, 2-2 FT), seven rebounds, two assists and two steals across 22 minutes in Wednesday's 107-103 win over the Grizzlies.",
@@ -480,6 +550,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/pascal-siakam-news-efficient-20-point-effort-537665"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "LAC",
+   "player": "Brook Lopez",
+   "headline": "Scores 20 as starter",
+   "note": "Lopez logged 20 points (8-11 FG, 2-5 3Pt, 2-5 FT), eight rebounds, one assist and two blocks across 35 minutes during Wednesday's 117-116 overtime loss to the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brook-lopez-news-scores-20-as-starter-537715"
   },
   {
    "date": "2026-11-05",
@@ -520,86 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/darius-garland-news-efficient-26-points-in-close-loss-537697"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "LAL",
-   "player": "Walker Kessler",
-   "headline": "Racks up defensive stats before fouling out",
-   "note": "Kessler supplied 15 points (6-8 FG, 3-4 FT), eight rebounds, four blocks and three steals in 29 minutes before fouling out of Wednesday's 116-103 victory over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/walker-kessler-news-racks-up-defensive-stats-before-fouling-out-537708"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "LAL",
-   "player": "Austin Reaves",
-   "headline": "Steady outing in win",
-   "note": "Reaves totaled 21 points (7-15 FG, 1-4 3Pt, 6-6 FT), three rebounds and four assists across 37 minutes during Wednesday's 116-103 victory over the Kings.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/austin-reaves-news-steady-outing-in-win-537706"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "LAL",
-   "player": "Luka Doncic",
-   "headline": "Third straight 40-point game",
-   "note": "Doncic finished Wednesday's 116-103 victory over Sacramento with 40 points (11-23 FG, 6-13 3Pt, 12-13 FT), nine rebounds, seven assists, one block and one steal over 35 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-third-straight-40-point-game-537704"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "MEM",
-   "player": "Ty Jerome",
-   "headline": "Leads Grizzlies with 23 points",
-   "note": "Jerome notched 23 points (10-20 FG, 2-10 3Pt, 1-2 FT), four rebounds, three assists and a block across 29 minutes in Wednesday's 107-103 loss to the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-news-leads-grizzlies-with-23-points-537670"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "MEM",
-   "player": "Zach Edey",
-   "headline": "Posts double-double with two blocks",
-   "note": "Edey delivered 11 points (4-6 FG, 3-5 FT), 13 rebounds, an assist and two blocks across 25 minutes in Wednesday's 107-103 loss to the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-edey-news-posts-double-double-with-two-blocks-537669"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "MEM",
-   "player": "Cameron Boozer",
-   "headline": "Struggles with efficiency in defeat",
-   "note": "Boozer finished with 10 points (4-14 FG, 2-5 3Pt), six rebounds, four assists and a steal across 33 minutes in Wednesday's 107-103 loss to the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cameron-boozer-news-struggles-with-efficiency-in-defeat-537668"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "MIA",
-   "player": "Bam Adebayo",
-   "headline": "Pours in 35-point double-double",
-   "note": "Adebayo provided 35 points (14-20 FG, 1-3 3Pt, 6-8 FT), 10 rebounds, four assists and one steal across 41 minutes during Wednesday's 117-116 overtime victory over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-pours-in-35-point-double-double-537694"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "MIA",
-   "player": "Klay Thompson",
-   "headline": "Buries eight triples in narrow win",
-   "note": "Thompson notched 30 points (11-22 FG, 8-17 3Pt), five rebounds, three assists and one block across 35 minutes during Wednesday's 117-116 overtime win over the Clippers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/klay-thompson-news-buries-eight-triples-in-narrow-win-537691"
   }
  ]
 }
