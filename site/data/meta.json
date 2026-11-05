@@ -1,31 +1,30 @@
 {
- "updated": "2026-11-05T12:21:51Z",
+ "updated": "2026-11-05T13:21:55Z",
  "engine": "heuristika",
  "sources": {
   "cbs": {
-   "ok": false,
-   "lastOk": "2026-11-05T11:21:16Z",
-   "error": "CBS: no injury rows parsed (layout change?)"
+   "ok": true,
+   "lastOk": "2026-11-05T13:21:20Z"
   },
   "rotowire": {
    "ok": true,
-   "lastOk": "2026-11-05T12:21:17Z"
+   "lastOk": "2026-11-05T13:21:20Z"
   },
   "bref": {
    "ok": true,
-   "lastOk": "2026-11-05T12:21:50Z"
+   "lastOk": "2026-11-05T13:21:53Z"
   },
   "espn": {
    "ok": true,
-   "lastOk": "2026-11-05T12:21:50Z"
+   "lastOk": "2026-11-05T13:21:53Z"
   },
   "analyze": {
    "ok": true,
-   "lastOk": "2026-11-05T12:21:51Z"
+   "lastOk": "2026-11-05T13:21:55Z"
   },
   "telegram": {
    "ok": true,
-   "lastOk": "2026-11-05T12:21:51Z"
+   "lastOk": "2026-11-05T13:21:55Z"
   }
  }
 }
