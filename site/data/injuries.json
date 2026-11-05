@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:21:18Z",
+ "updated": "2026-11-05T11:11:07Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -110,16 +110,6 @@
    "injury": "Eye",
    "status": "GTD",
    "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHA",
-   "player": "Coby White",
-   "pos": "PG",
-   "updated": "2026-11-05",
-   "injury": "Undisclosed",
-   "status": "—",
-   "kind": "out",
    "ret": null
   },
   {

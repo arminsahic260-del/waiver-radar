@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:21:51Z",
+ "updated": "2026-11-05T11:11:40Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,10 +8,10 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-05T10:21:50Z",
+   "updated": "2026-11-05T11:11:40Z",
    "adds": {
     "period": 3,
-    "used": 3,
+    "used": 4,
     "limit": 7
    },
    "players": [
@@ -193,18 +193,6 @@
      }
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
-     "slot": "BE",
-     "espnId": 4433137,
-     "gp": 6,
-     "cur": 25.5,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
      "name": "Aday Mara",
      "team": "OKC",
      "pos": "C",
@@ -215,6 +203,23 @@
      "proj": null,
      "acq": "ADD",
      "draft": null
+    },
+    {
+     "name": "Aaron Nesmith",
+     "team": "IND",
+     "pos": "SG/SF",
+     "slot": "BE",
+     "espnId": 4396909,
+     "gp": 7,
+     "cur": 19.7,
+     "proj": 24.6,
+     "acq": "ADD",
+     "draft": {
+      "pick": 171,
+      "round": 13,
+      "roundPick": 3,
+      "teamId": 8
+     }
     },
     {
      "name": "Paolo Banchero",
@@ -242,24 +247,29 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-05T10:21:51Z",
+   "updated": "2026-11-05T11:11:40Z",
    "adds": {
     "period": 3,
-    "used": 1,
+    "used": 2,
     "limit": 7
    },
    "players": [
     {
-     "name": "Jordan Goodwin",
-     "team": "PHX",
+     "name": "Keyonte George",
+     "team": "UTA",
      "pos": "PG/SG",
      "slot": "PG",
-     "espnId": 4278402,
-     "gp": 5,
-     "cur": 22.6,
-     "proj": null,
-     "acq": "ADD",
-     "draft": null
+     "espnId": 4433627,
+     "gp": 8,
+     "cur": 34.0,
+     "proj": 36.8,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 67,
+      "round": 5,
+      "roundPick": 11,
+      "teamId": 5
+     }
     },
     {
      "name": "Jaylen Brown",
@@ -364,23 +374,6 @@
      }
     },
     {
-     "name": "Keyonte George",
-     "team": "UTA",
-     "pos": "PG/SG",
-     "slot": "UTIL",
-     "espnId": 4433627,
-     "gp": 8,
-     "cur": 34.0,
-     "proj": 36.8,
-     "acq": "DRAFT",
-     "draft": {
-      "pick": 67,
-      "round": 5,
-      "roundPick": 11,
-      "teamId": 5
-     }
-    },
-    {
      "name": "VJ Edgecombe",
      "team": "PHI",
      "pos": "SG",
@@ -410,6 +403,18 @@
      "draft": null
     },
     {
+     "name": "Ziaire Williams",
+     "team": "LAL",
+     "pos": "SG/SF",
+     "slot": "UTIL",
+     "espnId": 4433137,
+     "gp": 6,
+     "cur": 25.5,
+     "proj": 19.7,
+     "acq": "ADD",
+     "draft": null
+    },
+    {
      "name": "Kel'el Ware",
      "team": "MIL",
      "pos": "C",
@@ -427,18 +432,6 @@
      }
     },
     {
-     "name": "Ziaire Williams",
-     "team": "LAL",
-     "pos": "SG/SF",
-     "slot": "BE",
-     "espnId": 4433137,
-     "gp": 6,
-     "cur": 25.5,
-     "proj": 19.7,
-     "acq": "ADD",
-     "draft": null
-    },
-    {
      "name": "De'Andre Hunter",
      "team": "SAC",
      "pos": "SF/PF",
@@ -449,6 +442,23 @@
      "proj": 23.9,
      "acq": "ADD",
      "draft": null
+    },
+    {
+     "name": "Bilal Coulibaly",
+     "team": "WAS",
+     "pos": "SG/SF",
+     "slot": "BE",
+     "espnId": 5104155,
+     "gp": 8,
+     "cur": 23.4,
+     "proj": 23.0,
+     "acq": "ADD",
+     "draft": {
+      "pick": 166,
+      "round": 12,
+      "roundPick": 12,
+      "teamId": 1
+     }
     },
     {
      "name": "Peyton Watson",

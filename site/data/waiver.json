@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:21:51Z",
+ "updated": "2026-11-05T11:11:40Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -285,10 +285,11 @@
    "horizon": "Do ~7.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kelly Oubre Jr.",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
+   "note": "na tvom rosteru (Legendi)",
    "espnId": 4396909,
    "fpts": 21.0,
    "gp": 7,
@@ -600,13 +601,12 @@
      "mine": 2,
      "open": 8,
      "sitting": 0,
-     "adds": 4,
+     "adds": 3,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07",
       "2026-11-08"
      ],
      "planned": [],
@@ -636,12 +636,11 @@
      "mine": 1,
      "open": 9,
      "sitting": 0,
-     "adds": 6,
+     "adds": 5,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [],
@@ -674,16 +673,15 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
-     "open": 2,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
-     "adds": 3,
+     "adds": 2,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07",
       "2026-11-08"
      ],
      "planned": [],
@@ -744,75 +742,18 @@
     },
     {
      "league": "Banijska",
-     "mine": 9,
-     "open": 1,
+     "mine": 10,
+     "open": 0,
      "sitting": 0,
-     "adds": 5,
+     "adds": 4,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [],
-     "picks": [
-      {
-       "player": "Bilal Coulibaly",
-       "team": "WAS",
-       "pos": "SG/SF",
-       "espnId": 5104155,
-       "fpts": 24.4,
-       "mpg": 26.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 23.4,
-       "matchup": "WAS @ ATL",
-       "dates": [
-        "2026-11-06",
-        "2026-11-07"
-       ],
-       "value": 24.4,
-       "gtd": false
-      },
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 23.2,
-       "mpg": 25.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 2.0,
-       "matchup": "MIN @ NOP",
-       "dates": [
-        "2026-11-06",
-        "2026-11-08"
-       ],
-       "value": 23.2,
-       "gtd": false
-      },
-      {
-       "player": "Sandro Mamukelashvili",
-       "team": "LAL",
-       "pos": "PF/C",
-       "espnId": 4278580,
-       "fpts": 22.0,
-       "mpg": 23.0,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 20.8,
-       "matchup": "POR @ LAL",
-       "dates": [
-        "2026-11-06",
-        "2026-11-08"
-       ],
-       "value": 22.0,
-       "gtd": false,
-       "waiver": "2026-11-06"
-      }
-     ]
+     "picks": []
     }
    ]
   },
@@ -822,16 +763,15 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
-     "open": 2,
+     "mine": 9,
+     "open": 1,
      "sitting": 0,
-     "adds": 2,
+     "adds": 1,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07",
       "2026-11-08"
      ],
      "planned": [],
@@ -874,16 +814,16 @@
        "waiver": "2026-11-07"
       },
       {
-       "player": "Aaron Nesmith",
-       "team": "IND",
-       "pos": "SG/SF",
-       "espnId": 4396909,
+       "player": "Marcus Smart",
+       "team": "HOU",
+       "pos": "PG/SG",
+       "espnId": 2990992,
        "fpts": 21.0,
-       "mpg": 26.1,
+       "mpg": 25.2,
        "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 19.7,
-       "matchup": "DEN @ IND",
+       "gp": 6,
+       "cur": 20.5,
+       "matchup": "HOU @ PHX",
        "dates": [
         "2026-11-07"
        ],
@@ -894,7 +834,7 @@
     },
     {
      "league": "Banijska",
-     "mine": 3,
+     "mine": 4,
      "open": 6,
      "sitting": 0,
      "adds": 4,
@@ -902,16 +842,9 @@
      "add": true,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
       "2026-11-07"
      ],
-     "planned": [
-      {
-       "player": "Bilal Coulibaly",
-       "team": "WAS",
-       "from": "2026-11-06"
-      }
-     ],
+     "planned": [],
      "picks": [
       {
        "player": "Sam Merrill",
@@ -976,8 +909,8 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 5,
-     "open": 3,
+     "mine": 4,
+     "open": 4,
      "sitting": 0,
      "adds": 1,
      "addsLimit": 7,
@@ -985,7 +918,6 @@
      "addDays": [
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07",
       "2026-11-08"
      ],
      "planned": [
@@ -1019,6 +951,24 @@
        "gtd": false
       },
       {
+       "player": "Ziaire Williams",
+       "team": "LAL",
+       "pos": "SG/SF",
+       "espnId": 4433137,
+       "fpts": 23.1,
+       "mpg": 24.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 25.5,
+       "matchup": "LAL @ DET",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 23.1,
+       "gtd": false,
+       "waiver": "2026-11-07"
+      },
+      {
        "player": "Sandro Mamukelashvili",
        "team": "LAL",
        "pos": "PF/C",
@@ -1035,23 +985,6 @@
        "value": 22.0,
        "gtd": false,
        "waiver": "2026-11-07"
-      },
-      {
-       "player": "Keaton Wagler",
-       "team": "LAC",
-       "pos": "PG/SG",
-       "espnId": 5254165,
-       "fpts": 21.2,
-       "mpg": 25.3,
-       "basis": "sezona+projekcija",
-       "gp": 8,
-       "cur": 19.6,
-       "matchup": "NOP @ LAC",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 21.2,
-       "gtd": false
       }
      ]
     },
@@ -1065,7 +998,6 @@
      "add": false,
      "addDays": [
       "2026-11-05",
-      "2026-11-06",
       "2026-11-07"
      ],
      "planned": [
@@ -1100,8 +1032,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 5,
-     "open": 5,
+     "mine": 6,
+     "open": 4,
      "sitting": 0,
      "adds": 7,
      "addsLimit": 7,
@@ -1113,26 +1045,6 @@
      ],
      "planned": [],
      "picks": [
-      {
-       "player": "Bilal Coulibaly",
-       "team": "WAS",
-       "pos": "SG/SF",
-       "espnId": 5104155,
-       "fpts": 24.4,
-       "mpg": 26.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 23.4,
-       "matchup": "WAS @ DET",
-       "dates": [
-        "2026-11-09",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-15"
-       ],
-       "value": 24.4,
-       "gtd": false
-      },
       {
        "player": "Julian Reese",
        "team": "NOP",
@@ -1172,6 +1084,26 @@
        "value": 22.0,
        "gtd": false,
        "waiver": "2026-11-06"
+      },
+      {
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 21.4,
+       "mpg": 25.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 8,
+       "cur": 20.2,
+       "matchup": "CLE @ CHA",
+       "dates": [
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-14"
+       ],
+       "value": 21.4,
+       "gtd": false
       }
      ]
     }
@@ -1413,8 +1345,8 @@
     },
     {
      "league": "Banijska",
-     "mine": 6,
-     "open": 3,
+     "mine": 7,
+     "open": 2,
      "sitting": 0,
      "adds": 5,
      "addsLimit": 7,
@@ -1426,8 +1358,8 @@
      ],
      "planned": [
       {
-       "player": "Bilal Coulibaly",
-       "team": "WAS",
+       "player": "Julian Reese",
+       "team": "NOP",
        "from": "2026-11-09"
       }
      ],
@@ -1452,25 +1384,6 @@
        "gtd": false
       },
       {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 23.2,
-       "mpg": 25.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 2.0,
-       "matchup": "BKN @ NOP",
-       "dates": [
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 23.2,
-       "gtd": false
-      },
-      {
        "player": "Sandro Mamukelashvili",
        "team": "LAL",
        "pos": "PF/C",
@@ -1488,6 +1401,25 @@
        "value": 22.0,
        "gtd": false,
        "waiver": "2026-11-06"
+      },
+      {
+       "player": "Sam Merrill",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 4066757,
+       "fpts": 21.4,
+       "mpg": 25.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 8,
+       "cur": 20.2,
+       "matchup": "CLE @ NYK",
+       "dates": [
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-14"
+       ],
+       "value": 21.4,
+       "gtd": false
       }
      ]
     }
