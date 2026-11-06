@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:00:17Z",
+ "updated": "2026-11-06T08:21:52Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -34,7 +34,7 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-continues-to-start-537436",
@@ -646,21 +646,20 @@
        "gtd": false
       },
       {
-       "player": "Matisse Thybulle",
-       "team": "LAL",
-       "pos": "SF",
-       "espnId": 3907498,
-       "fpts": 21.0,
-       "mpg": 21.7,
+       "player": "Collin Murray-Boyles",
+       "team": "TOR",
+       "pos": "PF",
+       "espnId": 5093267,
+       "fpts": 20.8,
+       "mpg": 21.1,
        "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.2,
-       "matchup": "POR @ LAL",
+       "gp": 8,
+       "cur": 19.6,
+       "matchup": "TOR @ MIL",
        "dates": [
-        "2026-11-06",
-        "2026-11-08"
+        "2026-11-06"
        ],
-       "value": 21.0,
+       "value": 20.8,
        "gtd": false
       }
      ]
@@ -990,7 +989,6 @@
      "add": false,
      "addDays": [
       "2026-11-10",
-      "2026-11-11",
       "2026-11-12"
      ],
      "planned": [],
@@ -1090,11 +1088,30 @@
      "add": true,
      "addDays": [
       "2026-11-10",
-      "2026-11-11",
       "2026-11-12"
      ],
      "planned": [],
      "picks": [
+      {
+       "player": "Tristan da Silva",
+       "team": "ORL",
+       "pos": "SF/PF",
+       "espnId": 4702382,
+       "fpts": 22.3,
+       "mpg": 27.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 8,
+       "cur": 23.2,
+       "matchup": "ORL @ SAC",
+       "dates": [
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-13"
+       ],
+       "value": 22.3,
+       "gtd": false,
+       "waiver": "2026-11-08"
+      },
       {
        "player": "Keaton Wagler",
        "team": "LAC",
@@ -1131,26 +1148,6 @@
         "2026-11-15"
        ],
        "value": 20.1,
-       "gtd": false,
-       "waiver": "2026-11-07"
-      },
-      {
-       "player": "De'Andre Hunter",
-       "team": "SAC",
-       "pos": "SF/PF",
-       "espnId": 4065732,
-       "fpts": 19.3,
-       "mpg": 29.6,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 18.5,
-       "matchup": "ORL @ SAC",
-       "dates": [
-        "2026-11-10",
-        "2026-11-13",
-        "2026-11-15"
-       ],
-       "value": 19.3,
        "gtd": false,
        "waiver": "2026-11-07"
       }
@@ -1243,76 +1240,23 @@
     {
      "league": "Legendi",
      "mine": 9,
-     "open": 1,
+     "open": 0,
      "sitting": 0,
      "adds": 6,
      "addsLimit": 7,
-     "add": true,
+     "add": false,
      "addDays": [
       "2026-11-10",
-      "2026-11-11",
       "2026-11-12"
      ],
-     "planned": [],
-     "picks": [
+     "planned": [
       {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 25.7,
-       "mpg": 21.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 22.8,
-       "matchup": "SAS @ CHI",
-       "dates": [
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 25.7,
-       "gtd": false
-      },
-      {
-       "player": "Obi Toppin",
-       "team": "IND",
-       "pos": "PF",
-       "espnId": 4278355,
-       "fpts": 23.6,
-       "mpg": 20.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 24.8,
-       "matchup": "WAS @ IND",
-       "dates": [
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-15"
-       ],
-       "value": 23.6,
-       "gtd": false
-      },
-      {
-       "player": "Julian Reese",
-       "team": "NOP",
-       "pos": "PF",
-       "espnId": 4683742,
-       "fpts": 23.2,
-       "mpg": 25.3,
-       "basis": "sezona+prošla sezona",
-       "gp": 1,
-       "cur": 2.0,
-       "matchup": "BKN @ NOP",
-       "dates": [
-        "2026-11-11",
-        "2026-11-13",
-        "2026-11-14"
-       ],
-       "value": 23.2,
-       "gtd": false
+       "player": "Tristan da Silva",
+       "team": "ORL",
+       "from": "2026-11-10"
       }
-     ]
+     ],
+     "picks": []
     },
     {
      "league": "Banijska",
@@ -1409,12 +1353,11 @@
      "mine": 4,
      "open": 6,
      "sitting": 0,
-     "adds": 5,
+     "adds": 6,
      "addsLimit": 7,
      "add": true,
      "addDays": [
       "2026-11-10",
-      "2026-11-11",
       "2026-11-12"
      ],
      "planned": [],
