@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-06T17:21:56Z",
+ "updated": "2026-11-06T18:21:58Z",
  "items": [
+  {
+   "date": "2026-11-06",
+   "team": "UTA",
+   "player": "Jusuf Nurkic",
+   "headline": "Re-evaluated in two weeks",
+   "note": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jusuf-nurkic-injury-re-evaluated-in-two-weeks-537851"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "CHA",
+   "player": "Dennis Schroder",
+   "headline": "Ruled out Friday",
+   "note": "Schroder (thigh) is out for Friday's game versus Boston.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-ruled-out-friday-537850"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "MIN",
+   "player": "Terrence Shannon",
+   "headline": "Sitting out Friday",
+   "note": "Shannon (hip) has been ruled out for Friday's game against New Orleans.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-sitting-out-friday-537849"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "headline": "Probable for Friday",
+   "note": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-probable-for-friday-537848"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Available Friday",
+   "note": "Murphy (knees) is available for Friday's game against the Timberwolves.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-news-available-friday-537847"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "TOR",
+   "player": "Immanuel Quickley",
+   "headline": "Downgraded to questionable",
+   "note": "Quickley (hamstring) is questionable for Friday against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-injury-downgraded-to-questionable-537846"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "CHA",
+   "player": "Moussa Diabate",
+   "headline": "Ruled out for Friday",
+   "note": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-injury-ruled-out-for-friday-537845"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "TOR",
+   "player": "Scottie Barnes",
+   "headline": "Absent from shootaround",
+   "note": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.ca reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-absent-from-shootaround-537844"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "NOP",
+   "player": "Trey Murphy",
+   "headline": "Goes through shootaround",
+   "note": "Murphy (knee) participated in shootaround and expects to play Friday against Minnesota, Jim Eichenhofer of the Pelicans' official site reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-injury-goes-through-shootaround-537843"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "BOS",
+   "player": "Payton Pritchard",
+   "headline": "Good to go Friday",
+   "note": "Pritchard (eye) is available for Friday's game against the Hornets, Zack Cox of the Boston Herald reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-good-to-go-friday-537842"
+  },
   {
    "date": "2026-11-06",
    "team": "TOR",
@@ -203,36 +303,6 @@
   },
   {
    "date": "2026-11-06",
-   "team": "PHX",
-   "player": "Collin Gillespie",
-   "headline": "Another three steals in win",
-   "note": "Gillespie provided six points (2-9 FG, 2-5 3Pt), two rebounds, two assists and three steals across 24 minutes during Thursday's 117-104 victory over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-another-three-steals-in-win-537817"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "PHX",
-   "player": "Ryan Dunn",
-   "headline": "Drops season-high 11 points",
-   "note": "Dunn supplied 11 points (5-7 FG, 1-2 3Pt), three rebounds, three assists and one block in 25 minutes during Thursday's 117-104 win over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ryan-dunn-news-drops-season-high-11-points-537816"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "PHX",
-   "player": "Oso Ighodaro",
-   "headline": "Gets starting nod Thursday",
-   "note": "Ighodaro supplied two points (1-2 FG, 0-2 FT), five rebounds, one assist and one block across 24 minutes during Thursday's 117-104 win over the Magic.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-gets-starting-nod-thursday-537815"
-  },
-  {
-   "date": "2026-11-06",
    "team": "ORL",
    "player": "Alex Morales",
    "headline": "Used sparingly again Thursday",
@@ -260,6 +330,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-scores-10-points-adds-four-defensive-stats-537812"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "PHX",
+   "player": "Collin Gillespie",
+   "headline": "Another three steals in win",
+   "note": "Gillespie provided six points (2-9 FG, 2-5 3Pt), two rebounds, two assists and three steals across 24 minutes during Thursday's 117-104 victory over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-gillespie-news-another-three-steals-in-win-537817"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "PHX",
+   "player": "Ryan Dunn",
+   "headline": "Drops season-high 11 points",
+   "note": "Dunn supplied 11 points (5-7 FG, 1-2 3Pt), three rebounds, three assists and one block in 25 minutes during Thursday's 117-104 win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-dunn-news-drops-season-high-11-points-537816"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Gets starting nod Thursday",
+   "note": "Ighodaro supplied two points (1-2 FG, 0-2 FT), five rebounds, one assist and one block across 24 minutes during Thursday's 117-104 win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-gets-starting-nod-thursday-537815"
   },
   {
    "date": "2026-11-05",
@@ -423,16 +523,6 @@
   },
   {
    "date": "2026-11-05",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Questionable for Friday",
-   "note": "Allen (knee) is questionable for Friday's game against Philadelphia.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-questionable-for-friday-537782"
-  },
-  {
-   "date": "2026-11-05",
    "team": "ATL",
    "player": "Jock Landale",
    "headline": "Not playing Friday",
@@ -443,16 +533,6 @@
   },
   {
    "date": "2026-11-05",
-   "team": "CHA",
-   "player": "Dennis Schroder",
-   "headline": "Iffy for Friday",
-   "note": "Schroder (thigh) is questionable for Friday's game against the Celtics.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-iffy-for-friday-537780"
-  },
-  {
-   "date": "2026-11-05",
    "team": "ATL",
    "player": "Jalen Johnson",
    "headline": "Remains questionable Friday",
@@ -460,46 +540,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-remains-questionable-friday-537779"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHA",
-   "player": "Moussa Diabate",
-   "headline": "Questionable for Friday",
-   "note": "Diabate (quadriceps) is questionable for Friday's game against the Celtics.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/moussa-diabate-injury-questionable-for-friday-537778"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHA",
-   "player": "Kon Knueppel",
-   "headline": "Out with hamstring strain",
-   "note": "Knueppel (hamstring) is out for Friday's game against the Celtics.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-out-with-hamstring-strain-537777"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Payton Pritchard",
-   "headline": "Listed as questionable",
-   "note": "Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-injury-listed-as-questionable-537776"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "NOP",
-   "player": "Yves Missi",
-   "headline": "Remains on shelf",
-   "note": "Missi (knee) is out for Friday's game against Minnesota.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/yves-missi-injury-remains-on-shelf-537773"
   },
   {
    "date": "2026-11-05",
@@ -534,6 +574,16 @@
   {
    "date": "2026-11-05",
    "team": "BOS",
+   "player": "Payton Pritchard",
+   "headline": "Listed as questionable",
+   "note": "Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-injury-listed-as-questionable-537776"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "BOS",
    "player": "Jayson Tatum",
    "headline": "Cleared from injury report",
    "note": "Tatum (rest) is off the injury report for Friday's game versus Charlotte, per Taylor Snow of the Celtics' official site.",
@@ -550,56 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-full-stat-line-wednesday-537765"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Neemias Queta",
-   "headline": "Solidifying hold as starter",
-   "note": "Queta racked up nine points (4-8 FG, 1-3 FT), 12 rebounds, three assists and two blocks over 29 minutes during Wednesday's 109-102 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/neemias-queta-news-solidifying-hold-as-starter-537764"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Luka Garza",
-   "headline": "Efficient contribution off bench",
-   "note": "Garza delivered 11 points (4-7 FG, 3-4 3Pt), five rebounds, two assists and a steal across 18 minutes in Wednesday's 109-102 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luka-garza-news-efficient-contribution-off-bench-537663"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Derrick White",
-   "headline": "Delivers 24 points",
-   "note": "White notched 24 points (7-18 FG, 1-7 3Pt, 9-9 FT), four rebounds, seven assists, a steal and two blocks across 35 minutes in Wednesday's 109-102 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/derrick-white-news-delivers-24-points-537662"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Sam Hauser",
-   "headline": "Drains three triples",
-   "note": "Hauser finished with 11 points (4-11 FG, 3-10 3Pt) and two rebounds across 30 minutes in Wednesday's 109-102 win over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-drains-three-triples-537661"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BKN",
-   "player": "Mikel Brown",
-   "headline": "Solid line off bench",
-   "note": "Brown ended with 18 points (6-11 FG, 3-5 3Pt, 3-4 FT), two rebounds, four assists, one block and one steal across 20 minutes during Wednesday's 114-104 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-news-solid-line-off-bench-537748"
   }
  ]
 }
