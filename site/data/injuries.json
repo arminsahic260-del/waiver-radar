@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:34:03Z",
+ "updated": "2026-11-06T07:21:15Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -334,16 +334,6 @@
   },
   {
    "team": "GSW",
-   "player": "Gui Santos",
-   "pos": "SF",
-   "updated": "2026-11-04",
-   "injury": "Knee",
-   "status": "Expected return: at least Nov 7",
-   "kind": "out",
-   "ret": "2026-11-07"
-  },
-  {
-   "team": "GSW",
    "player": "Jimmy Butler",
    "pos": "SF",
    "updated": "2026-10-02",
@@ -371,6 +361,16 @@
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
+  },
+  {
+   "team": "GSW",
+   "player": "Gui Santos",
+   "pos": "SF",
+   "updated": "2026-11-06",
+   "injury": "Knee",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "HOU",
