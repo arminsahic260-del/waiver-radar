@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:22:03Z",
+ "updated": "2026-11-06T23:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -102,6 +102,25 @@
    "fpts": 18.0,
    "gp": 8,
    "cur": 19.8
+  },
+  {
+   "player": "Landry Shamet",
+   "team": "NYK",
+   "pos": "SG",
+   "priority": 1,
+   "reason": "Josh Hart (gležanj) je out najmanje do 10.11. — nova ozljeda. Landry Shamet je sljedeći SG u rotaciji NYK-a za te minute; ~15.8 FP po utakmici (ove sezone 15.4 u 8 utk., prošle sezone 16.6; 24 min). RotoWire 4.11.: Starting versus Chicago. Shamet will start in Wednesday's game against the Bulls, Stefan Bondy of The New York Post reports.",
+   "role": "Starter dok je out Josh Hart",
+   "horizon": "Do ~10.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Josh Hart; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/landry-shamet-news-starting-versus-chicago-537540",
+   "espnId": 3914044,
+   "fpts": 15.8,
+   "gp": 8,
+   "cur": 15.4
   },
   {
    "player": "Mo Bamba",
@@ -207,6 +226,25 @@
    "cur": 17.1
   },
   {
+   "player": "Miles McBride",
+   "team": "NYK",
+   "pos": "PG/SG",
+   "priority": 2,
+   "reason": "Josh Hart (gležanj) je out najmanje do 10.11. — nova ozljeda. Miles McBride je prvi PG/SG u rotaciji NYK-a za te minute; ~18.1 FP po utakmici (ove sezone 15.5 u 8 utk., prošle sezone 23.2; 20 min).",
+   "role": "Veća minutaža dok je out Josh Hart",
+   "horizon": "Do ~10.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Josh Hart",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4431823,
+   "fpts": 18.1,
+   "gp": 8,
+   "cur": 15.5
+  },
+  {
    "player": "Brayden Burries",
    "team": "MIL",
    "pos": "SG",
@@ -226,6 +264,25 @@
    "cur": 15.2
   },
   {
+   "player": "Luguentz Dort",
+   "team": "ATL",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Jalen Johnson (gležanj) je out najmanje do 7.11. — nova ozljeda. Luguentz Dort je prvi SG/SF u rotaciji ATL-a za te minute; ~17.0 FP po utakmici (ove sezone 16.7 u 9 utk., prošle sezone 17.9; 26 min).",
+   "role": "Veća minutaža dok je out Jalen Johnson",
+   "horizon": "Do ~7.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4397020,
+   "fpts": 17.0,
+   "gp": 9,
+   "cur": 16.7
+  },
+  {
    "player": "Sam Hauser",
    "team": "BOS",
    "pos": "SF/PF",
@@ -243,25 +300,6 @@
    "fpts": 16.1,
    "gp": 8,
    "cur": 14.4
-  },
-  {
-   "player": "Landry Shamet",
-   "team": "NYK",
-   "pos": "SG",
-   "priority": 2,
-   "reason": "RotoWire 4.11.: Starting versus Chicago. Shamet will start in Wednesday's game against the Bulls, Stefan Bondy of The New York Post reports. ~15.8 FP po utakmici (ove sezone 15.4 u 8 utk., prošle sezone 16.6; 24 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~16 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/landry-shamet-news-starting-versus-chicago-537540",
-   "espnId": 3914044,
-   "fpts": 15.8,
-   "gp": 8,
-   "cur": 15.4
   },
   {
    "player": "Royce O'Neale",
@@ -498,25 +536,6 @@
    "cur": 17.1
   },
   {
-   "player": "Luguentz Dort",
-   "team": "ATL",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Jalen Johnson (gležanj) je upitan (GTD). Luguentz Dort je sljedeći SG/SF u rotaciji ATL-a za te minute; ~17.0 FP po utakmici (ove sezone 16.7 u 9 utk., prošle sezone 17.9; 26 min).",
-   "role": "Zamjena ako Jalen Johnson ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4397020,
-   "fpts": 17.0,
-   "gp": 9,
-   "cur": 16.7
-  },
-  {
    "player": "Max Christie",
    "team": "DAL",
    "pos": "SG",
@@ -572,25 +591,6 @@
    "fpts": 14.9,
    "gp": 7,
    "cur": 16.6
-  },
-  {
-   "player": "Corey Kispert",
-   "team": "ATL",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Jalen Johnson (gležanj) je upitan (GTD). Corey Kispert je sljedeći SG/SF u rotaciji ATL-a za te minute; ~13.8 FP po utakmici (ove sezone 12.4 u 5 utk., prošle sezone 15.5; 13 min).",
-   "role": "Zamjena ako Jalen Johnson ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4280151,
-   "fpts": 13.8,
-   "gp": 5,
-   "cur": 12.4
   }
  ],
  "days": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:21:22Z",
+ "updated": "2026-11-06T23:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -18,6 +18,16 @@
    "pos": "PF",
    "updated": "2026-11-05",
    "injury": "Toe",
+   "status": "Expected return: at least Nov 7",
+   "kind": "out",
+   "ret": "2026-11-07"
+  },
+  {
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "pos": "PF",
+   "updated": "2026-11-06",
+   "injury": "Ankle",
    "status": "Expected return: at least Nov 7",
    "kind": "out",
    "ret": "2026-11-07"
@@ -51,16 +61,6 @@
    "status": "Expected return: at least Nov 20",
    "kind": "out",
    "ret": "2026-11-20"
-  },
-  {
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "pos": "PF",
-   "updated": "2026-11-05",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "BKN",
@@ -336,11 +336,11 @@
    "team": "GSW",
    "player": "Kristaps Porzingis",
    "pos": "C",
-   "updated": "2026-10-21",
+   "updated": "2026-11-06",
    "injury": "Illness",
-   "status": "Expected return: at least Dec 1",
+   "status": "Expected return: at least Jan 2",
    "kind": "out",
-   "ret": "2026-12-01"
+   "ret": "2027-01-02"
   },
   {
    "team": "GSW",
@@ -351,6 +351,26 @@
    "status": "Expected return: at least Dec 1",
    "kind": "out",
    "ret": "2026-12-01"
+  },
+  {
+   "team": "GSW",
+   "player": "Draymond Green",
+   "pos": "PF",
+   "updated": "2026-11-06",
+   "injury": "Elbow",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "GSW",
+   "player": "Gary Payton II",
+   "pos": "PG",
+   "updated": "2026-11-06",
+   "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "GSW",
@@ -546,11 +566,11 @@
    "team": "NYK",
    "player": "Josh Hart",
    "pos": "SF",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
   },
   {
    "team": "OKC",
