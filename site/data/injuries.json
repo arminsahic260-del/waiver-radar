@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:21:18Z",
+ "updated": "2026-11-06T15:59:59Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -96,20 +96,10 @@
    "team": "BOS",
    "player": "Devin Carter",
    "pos": "PG",
-   "updated": "2026-10-19",
-   "injury": "Illness",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
-  },
-  {
-   "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
    "updated": "2026-11-06",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
    "ret": null
   },
   {
@@ -526,11 +516,11 @@
    "team": "MIL",
    "player": "Kam Jones",
    "pos": "PG",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "injury": "Ankle",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "MIN",
@@ -896,11 +886,11 @@
    "team": "UTA",
    "player": "Trey Alexander",
    "pos": "SG",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "injury": "Knee",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "WAS",
