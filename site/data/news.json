@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-06T14:21:57Z",
+ "updated": "2026-11-06T15:21:52Z",
  "items": [
+  {
+   "date": "2026-11-06",
+   "team": "ORL",
+   "player": "Tristan da Silva",
+   "headline": "Knocks down four triples",
+   "note": "Da Silva finished Thursday's 117-104 loss to the Suns with 18 points (6-15 FG, 4-12 3Pt, 2-2 FT), two rebounds and one assist across 30 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-knocks-down-four-triples-537825"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Solid in return",
+   "note": "Black ended Thursday's 117-104 loss to the Suns with 10 points (3-8 FG, 1-3 3Pt, 3-4 FT), seven rebounds, six assists and one steal in 31 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-solid-in-return-537824"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "GSW",
+   "player": "Georges Niang",
+   "headline": "Productive outing off bench Thursday",
+   "note": "Niang accumulated 13 points (5-8 FG, 2-5 3Pt, 1-2 FT), four rebounds, three assists and one steal across 22 minutes during Thursday's 120-100 win over the Heat.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/georges-niang-news-productive-outing-off-bench-thursday-537822"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "headline": "Continues impressive start to season",
+   "note": "Lendeborg contributed 17 points (6-14 FG, 1-3 3Pt, 4-6 FT), eight rebounds, six assists, one block and three steals in 30 minutes during Thursday's 120-100 win over Miami.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-continues-impressive-start-to-season-537821"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "MIA",
+   "player": "Davion Mitchell",
+   "headline": "Drains four threes, scores 22 points",
+   "note": "Mitchell amassed 22 points (9-18 FG, 4-9 3Pt), two rebounds, eight assists and one steal over 38 minutes during Thursday's 120-100 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/davion-mitchell-news-drains-four-threes-scores-22-points-537820"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "MIA",
+   "player": "Bam Adebayo",
+   "headline": "Records double-double",
+   "note": "Adebayo supplied 18 points (7-12 FG, 0-2 3Pt, 4-7 FT), 10 rebounds, one block and one steal across 33 minutes during Thursday's 120-100 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/bam-adebayo-news-records-double-double-537819"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "MIA",
+   "player": "Ryan Conwell",
+   "headline": "Scores 13 points off bench",
+   "note": "Conwell ended Thursday's 120-100 loss to Golden State with 13 points (4-9 FG, 3-6 3Pt, 2-2 FT), one rebound, two assists and three steals in 30 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ryan-conwell-news-scores-13-points-off-bench-537818"
+  },
   {
    "date": "2026-11-06",
    "team": "PHX",
@@ -530,76 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-news-tough-shooting-night-537750"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Jaylin Sellers",
-   "headline": "Drains four triples",
-   "note": "Sellers finished with 14 points (4-8 FG, 4-7 3Pt, 2-2 FT), three rebounds, one assist, one block and one steal over 14 minutes during Wednesday's 135-105 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylin-sellers-news-drains-four-triples-537746"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Tre Jones",
-   "headline": "Leads team in scoring",
-   "note": "Jones finished with 14 points (5-8 FG, 1-1 3Pt, 3-3 FT), three rebounds and four assists over 18 minutes during Wednesday's 135-105 loss to New York.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tre-jones-news-leads-team-in-scoring-537745"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Patrick Williams",
-   "headline": "Struggles in loss",
-   "note": "Williams accumulated four points (1-6 FG, 0-3 3Pt, 2-2 FT), two assists and one block in 20 minutes during Wednesday's 135-105 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/patrick-williams-news-struggles-in-loss-537729"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Nic Claxton",
-   "headline": "Assigned to G League",
-   "note": "The Bulls assigned Claxton (hamstring) to the G League's Windy City Bulls on Thursday.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nic-claxton-injury-assigned-to-g-league-537723"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Josh Giddey",
-   "headline": "Held to 10 points",
-   "note": "Giddey closed Wednesday's 135-105 loss to the Knicks with 10 points (4-7 FG, 1-2 3Pt, 1-2 FT), one rebound and six assists in 27 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/josh-giddey-news-held-to-10-points-537679"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Leonard Miller",
-   "headline": "Contributes across board",
-   "note": "Miller logged four points (1-3 FG, 0-1 3Pt, 2-4 FT), six rebounds, three assists and one block in 19 minutes during Wednesday's 135-105 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/leonard-miller-news-contributes-across-board-537677"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CHI",
-   "player": "Caleb Wilson",
-   "headline": "Rough shooting in loss",
-   "note": "Wilson closed Wednesday's 135-105 loss to the Knicks with five points (2-12 FG, 1-7 3Pt), five rebounds and one steal across 22 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/caleb-wilson-news-rough-shooting-in-loss-537675"
   }
  ]
 }
