@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:21:50Z",
+ "updated": "2026-11-06T10:21:55Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -887,21 +887,22 @@
        "waiver": "2026-11-07"
       },
       {
-       "player": "Keaton Wagler",
-       "team": "LAC",
-       "pos": "PG/SG",
-       "espnId": 5254165,
-       "fpts": 21.2,
-       "mpg": 25.3,
-       "basis": "sezona+projekcija",
-       "gp": 8,
-       "cur": 19.6,
-       "matchup": "NOP @ LAC",
+       "player": "Andrew Wiggins",
+       "team": "MIA",
+       "pos": "SF/PF",
+       "espnId": 3059319,
+       "fpts": 21.8,
+       "mpg": 27.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 17.3,
+       "matchup": "MIA @ SAC",
        "dates": [
         "2026-11-08"
        ],
-       "value": 21.2,
-       "gtd": false
+       "value": 21.8,
+       "gtd": false,
+       "waiver": "2026-11-08"
       }
      ]
     },
@@ -1113,6 +1114,26 @@
        "waiver": "2026-11-08"
       },
       {
+       "player": "Andrew Wiggins",
+       "team": "MIA",
+       "pos": "SF/PF",
+       "espnId": 3059319,
+       "fpts": 21.8,
+       "mpg": 27.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 17.3,
+       "matchup": "MIA @ UTA",
+       "dates": [
+        "2026-11-10",
+        "2026-11-13",
+        "2026-11-14"
+       ],
+       "value": 21.8,
+       "gtd": false,
+       "waiver": "2026-11-08"
+      },
+      {
        "player": "Keaton Wagler",
        "team": "LAC",
        "pos": "PG/SG",
@@ -1130,26 +1151,6 @@
        ],
        "value": 21.2,
        "gtd": false
-      },
-      {
-       "player": "Oso Ighodaro",
-       "team": "PHX",
-       "pos": "PF",
-       "espnId": 4601023,
-       "fpts": 20.1,
-       "mpg": 21.7,
-       "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 19.8,
-       "matchup": "LAC @ PHX",
-       "dates": [
-        "2026-11-10",
-        "2026-11-12",
-        "2026-11-15"
-       ],
-       "value": 20.1,
-       "gtd": false,
-       "waiver": "2026-11-07"
       }
      ]
     },
