@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-06T00:25:41Z",
+ "updated": "2026-11-06T06:34:35Z",
  "items": [
+  {
+   "date": "2026-11-05",
+   "team": "MIA",
+   "player": "Giannis Antetokounmpo",
+   "headline": "Extends double-double streak to six games",
+   "note": "Antetokounmpo tallied 20 points (7-13 FG, 1-5 3Pt, 5-7 FT), 14 rebounds and four assists across 31 minutes during Thursday's 120-100 loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-extends-double-double-streak-to-six-games-537811"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "GSW",
+   "player": "Stephen Curry",
+   "headline": "Strikes for 29 points",
+   "note": "Curry tallied 29 points (9-19 FG, 6-12 3Pt, 5-5 FT), one rebound, four assists and one steal in 28 minutes during Thursday's 120-100 win over Miami.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-strikes-for-29-points-537810"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "ORL",
+   "player": "Franz Wagner",
+   "headline": "Dishes out 15 assists",
+   "note": "Wagner collected 15 points (7-13 FG, 0-1 3Pt, 1-4 FT), eight rebounds, 15 assists and four steals in 38 minutes during Thursday's 117-104 win over Orlando.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-dishes-out-15-assists-537809"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Drops game-high 30 points in win",
+   "note": "Booker posted 30 points (11-22 FG, 4-8 3Pt, 4-4 FT), one rebound, eight assists and three steals in 34 minutes during Thursday's 117-104 win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-drops-game-high-30-points-in-win-537808"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "ORL",
+   "player": "Wendell Carter",
+   "headline": "Rolls to double-double in loss",
+   "note": "Carter finished with 27 points (10-12 FG, 2-2 3Pt, 5-6 FT), 13 rebounds, two assists and one steal in 34 minutes during Thursday's 117-104 loss to Phoenix.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-rolls-to-double-double-in-loss-537807"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "PHX",
+   "player": "Khaman Maluach",
+   "headline": "Retreating to bench",
+   "note": "Maluach isn't in the starting lineup for Thursday's game against the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/khaman-maluach-news-retreating-to-bench-537805"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "PHX",
+   "player": "Oso Ighodaro",
+   "headline": "Starting Thursday",
+   "note": "Ighodaro will start Thursday's game against the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-starting-thursday-537804"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "ORL",
+   "player": "Jamal Cain",
+   "headline": "Moving to bench",
+   "note": "Cain will come off the bench in Thursday's game against Phoenix.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-cain-news-moving-to-bench-537803"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "TOR",
+   "player": "Scottie Barnes",
+   "headline": "Questionable for Friday",
+   "note": "Barnes (adductor/groin) is questionable for Friday's game against the Bucks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-questionable-for-friday-537802"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "LAL",
+   "player": "Adou Thiero",
+   "headline": "Omitted from injury report",
+   "note": "Thiero (knee) isn't listed on the injury report ahead of Friday's game against Portland.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/adou-thiero-news-omitted-from-injury-report-537801"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "LAL",
+   "player": "Sandro Mamukelashvili",
+   "headline": "Iffy for Friday",
+   "note": "Mamukelashvili (illness) is listed as questionable for Friday's game against Portland.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sandro-mamukelashvili-injury-iffy-for-friday-537800"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "SAC",
+   "player": "Daeqwon Plowden",
+   "headline": "Left off injury report",
+   "note": "Plowden (illness) isn't listed on the injury report for Friday's game against the Spurs.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/daeqwon-plowden-news-left-off-injury-report-537799"
+  },
   {
    "date": "2026-11-05",
    "team": "CHI",
@@ -76,7 +196,7 @@
    "team": "CLE",
    "player": "Tyrese Proctor",
    "headline": "Questionable for Friday",
-   "note": "Proctor (ankle) is questionable to play in Friday's game against the 76ers.",
+   "note": "Proctor (ankle) is questionable for Friday's game against the 76ers.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-injury-questionable-for-friday-537789"
@@ -95,11 +215,11 @@
    "date": "2026-11-05",
    "team": "DAL",
    "player": "Santi Aldama",
-   "headline": "Upgraded to Probable Friday",
-   "note": "Aldama (knee) is probable to suit up for Friday's game against the Jazz.",
+   "headline": "Probable for Friday",
+   "note": "Aldama (knee) is probable for Friday's game against the Jazz.",
    "kind": "other",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-upgraded-to-probable-friday-537787"
+   "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-probable-for-friday-537787"
   },
   {
    "date": "2026-11-05",
@@ -125,11 +245,11 @@
    "date": "2026-11-05",
    "team": "PHI",
    "player": "Adem Bona",
-   "headline": "Downgraded to doubtful for Friday",
+   "headline": "Doubtful for Friday",
    "note": "Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-downgraded-to-doubtful-for-friday-537784"
+   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-doubtful-for-friday-537784"
   },
   {
    "date": "2026-11-05",
@@ -155,11 +275,11 @@
    "date": "2026-11-05",
    "team": "ATL",
    "player": "Jock Landale",
-   "headline": "Not playing on Friday",
+   "headline": "Not playing Friday",
    "note": "Landale (hip) has been ruled out for Friday's game against the Wizards.",
    "kind": "injury",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-injury-not-playing-on-friday-537781"
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-injury-not-playing-friday-537781"
   },
   {
    "date": "2026-11-05",
@@ -175,8 +295,8 @@
    "date": "2026-11-05",
    "team": "ATL",
    "player": "Jalen Johnson",
-   "headline": "Remains Questionable Friday",
-   "note": "Johnson is questionable to suit up for Friday's game against Washington.",
+   "headline": "Remains questionable Friday",
+   "note": "Johnson (ankle) is questionable for Friday's game against Washington.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-remains-questionable-friday-537779"
@@ -213,26 +333,6 @@
   },
   {
    "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Cleared from injury report",
-   "note": "Tatum (rest) is off the injury report for Friday's game versus Charlotte, per Taylor Snow of the Celtics' official site.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-cleared-from-injury-report-537775"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "MIA",
-   "player": "Giannis Antetokounmpo",
-   "headline": "Available Thursday",
-   "note": "Antetokounmpo (wrist) is available for Thursday's game against the Warriors, Anthony Chiang of the Miami Herald reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-available-thursday-537774"
-  },
-  {
-   "date": "2026-11-05",
    "team": "NOP",
    "player": "Yves Missi",
    "headline": "Remains on shelf",
@@ -250,26 +350,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rasheer-fleming-injury-still-out-with-ankle-sprain-537772"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "NOP",
-   "player": "Trey Murphy",
-   "headline": "Expected to play Friday",
-   "note": "Murphy (knee) is probable for Friday's game against Minnesota.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trey-murphy-injury-expected-to-play-friday-537771"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "PHX",
-   "player": "Jordan Goodwin",
-   "headline": "Out again Thursday",
-   "note": "Goodwin (calf) is out for Thursday's game against Orlando.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-goodwin-injury-out-again-thursday-537770"
   },
   {
    "date": "2026-11-05",
@@ -300,6 +380,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-massive-line-in-win-537651"
+  },
+  {
+   "date": "2026-11-05",
+   "team": "BOS",
+   "player": "Jayson Tatum",
+   "headline": "Cleared from injury report",
+   "note": "Tatum (rest) is off the injury report for Friday's game versus Charlotte, per Taylor Snow of the Celtics' official site.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-cleared-from-injury-report-537775"
   },
   {
    "date": "2026-11-05",
@@ -510,96 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/pj-washington-news-big-double-double-in-wednesdays-loss-537719"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DAL",
-   "player": "Cooper Flagg",
-   "headline": "Double-double in San Antonio",
-   "note": "Flagg notched 19 points (7-19 FG, 0-3 3Pt, 5-7 FT), 10 rebounds and five assists in 40 minutes during Wednesday's 112-111 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-double-double-in-san-antonio-537709"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "headline": "Delivers team-high 29 in loss",
-   "note": "Irving registered 29 points (9-27 FG, 5-14 3Pt, 6-8 FT), seven rebounds, five assists and one steal across 36 minutes during Wednesday's 112-111 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-delivers-team-high-29-in-loss-537703"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Aaron Gordon",
-   "headline": "Tallies efficient 17 points",
-   "note": "Gordon supplied 17 points (7-9 FG, 1-2 3Pt, 2-2 FT), one rebound, one block and two steals across 25 minutes during Wednesday's 128-109 victory over Toronto.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aaron-gordon-news-tallies-efficient-17-points-537744"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Marvin Bagley",
-   "headline": "Chips in 10 points off bench",
-   "note": "Bagley closed Wednesday's 128-109 win over Toronto with 10 points (4-5 FG, 0-1 3Pt, 2-2 FT), two rebounds and two assists over 14 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/marvin-bagley-news-chips-in-10-points-off-bench-537742"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Tyus Jones",
-   "headline": "Season-high eight dimes off bench",
-   "note": "Jones accumulated six points (3-4 FG, 0-1 3Pt), one rebound and eight assists over 18 minutes during Wednesday's 128-109 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyus-jones-news-season-high-eight-dimes-off-bench-537734"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Bryce Hopkins",
-   "headline": "Scores career-high 18 points off bench",
-   "note": "Hopkins notched 18 points (6-7 FG, 1-1 3Pt, 5-8 FT), four rebounds, an assist and two steals across 28 minutes in Wednesday's 128-109 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/bryce-hopkins-news-scores-career-high-18-points-off-bench-537678"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Jamal Murray",
-   "headline": "Dishes out seven assists",
-   "note": "Murray finished with 14 points (4-11 FG, 2-5 3Pt, 4-4 FT), five rebounds, seven assists and a steal across 28 minutes in Wednesday's 128-109 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-dishes-out-seven-assists-537676"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DEN",
-   "player": "Nikola Jokic",
-   "headline": "Records triple-double Wednesday",
-   "note": "Jokic delivered 32 points (13-19 FG, 0-1 3Pt, 6-7 FT), 10 rebounds, 11 assists and three steals across 30 minutes in Wednesday's 128-109 win over the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-records-triple-double-wednesday-537674"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DET",
-   "player": "Javonte Green",
-   "headline": "Quiet in reserve role",
-   "note": "Green produced one point (0-1 FG, 0-1 3Pt, 1-2 FT), three rebounds and one assist over 15 minutes during Wednesday's 112-106 loss to the 76ers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/javonte-green-news-quiet-in-reserve-role-537741"
   }
  ]
 }
