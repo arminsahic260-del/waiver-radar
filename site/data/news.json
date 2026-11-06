@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-06T19:21:55Z",
+ "updated": "2026-11-06T20:22:02Z",
  "items": [
+  {
+   "date": "2026-11-06",
+   "team": "LAC",
+   "player": "Brandon Ingram",
+   "headline": "Nearing return",
+   "note": "Ingram (Achilles) has progressed to full contact basketball activities, per NBA writer Justin Russo.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-nearing-return-537855"
+  },
   {
    "date": "2026-11-06",
    "team": "CHI",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-11-06",
-   "team": "PHX",
-   "player": "Luke Kennard",
-   "headline": "Fares well off bench",
-   "note": "Kennard amassed 12 points (4-8 FG, 3-6 3Pt, 1-2 FT), one rebound and five assists across 21 minutes during Thursday's 117-104 win over Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-news-fares-well-off-bench-537828"
-  },
-  {
-   "date": "2026-11-06",
    "team": "GSW",
    "player": "Georges Niang",
    "headline": "Productive outing off bench Thursday",
@@ -360,6 +360,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-scores-10-points-adds-four-defensive-stats-537812"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "PHX",
+   "player": "Luke Kennard",
+   "headline": "Fares well off bench",
+   "note": "Kennard amassed 12 points (4-8 FG, 3-6 3Pt, 1-2 FT), one rebound and five assists across 21 minutes during Thursday's 117-104 win over Orlando.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/luke-kennard-news-fares-well-off-bench-537828"
   },
   {
    "date": "2026-11-06",
@@ -510,16 +520,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/santi-aldama-injury-probable-for-friday-537787"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "headline": "Ruled out for Friday",
-   "note": "Tyson (ankle) is out for Friday's game against the 76ers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-ruled-out-for-friday-537786"
   },
   {
    "date": "2026-11-05",

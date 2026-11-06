@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:21:20Z",
+ "updated": "2026-11-06T20:21:29Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -166,8 +166,8 @@
    "team": "CHI",
    "player": "Zach Collins",
    "pos": "C",
-   "updated": "2026-11-04",
-   "injury": "Undisclosed",
+   "updated": "2026-11-06",
+   "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -251,6 +251,16 @@
    "status": "Expected return: at least Nov 12",
    "kind": "out",
    "ret": "2026-11-12"
+  },
+  {
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "pos": "PG",
+   "updated": "2026-11-06",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "DAL",
