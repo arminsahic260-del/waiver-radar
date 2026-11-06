@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-06T21:22:01Z",
+ "updated": "2026-11-06T21:37:54Z",
  "items": [
+  {
+   "date": "2026-11-06",
+   "team": "GSW",
+   "player": "Kristaps Porzingis",
+   "headline": "Stepping away from basketball",
+   "note": "Porzingis announced on his social media that he's stepping away from basketball.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-stepping-away-from-basketball-537861"
+  },
   {
    "date": "2026-11-06",
    "team": "SAC",
@@ -243,16 +253,6 @@
   },
   {
    "date": "2026-11-06",
-   "team": "MIA",
-   "player": "Nikola Jovic",
-   "headline": "Held to one point",
-   "note": "Jovic closed with one point (0-2 FG, 0-2 3Pt, 1-2 FT), one assist and one block in 12 minutes during Thursday's 120-100 loss to Golden State.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-jovic-news-held-to-one-point-537834"
-  },
-  {
-   "date": "2026-11-06",
    "team": "GSW",
    "player": "Georges Niang",
    "headline": "Productive outing off bench Thursday",
@@ -270,6 +270,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-continues-impressive-start-to-season-537821"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "MIA",
+   "player": "Nikola Jovic",
+   "headline": "Held to one point",
+   "note": "Jovic closed with one point (0-2 FG, 0-2 3Pt, 1-2 FT), one assist and one block in 12 minutes during Thursday's 120-100 loss to Golden State.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nikola-jovic-news-held-to-one-point-537834"
   },
   {
    "date": "2026-11-06",
@@ -590,16 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-massive-line-in-win-537651"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "BOS",
-   "player": "Payton Pritchard",
-   "headline": "Listed as questionable",
-   "note": "Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-injury-listed-as-questionable-537776"
   }
  ]
 }
