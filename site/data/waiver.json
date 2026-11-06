@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:37:55Z",
+ "updated": "2026-11-06T22:22:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -890,22 +890,22 @@
        "waiver": "2026-11-07"
       },
       {
-       "player": "Andrew Wiggins",
-       "team": "MIA",
-       "pos": "SF/PF",
-       "espnId": 3059319,
-       "fpts": 21.8,
-       "mpg": 27.2,
+       "player": "Sandro Mamukelashvili",
+       "team": "LAL",
+       "pos": "PF/C",
+       "espnId": 4278580,
+       "fpts": 22.0,
+       "mpg": 23.0,
        "basis": "sezona+prošla sezona",
        "gp": 9,
-       "cur": 17.3,
-       "matchup": "MIA @ SAC",
+       "cur": 20.8,
+       "matchup": "LAL @ DET",
        "dates": [
         "2026-11-08"
        ],
-       "value": 21.8,
+       "value": 22.0,
        "gtd": false,
-       "waiver": "2026-11-08"
+       "waiver": "2026-11-07"
       }
      ]
     },
@@ -1056,22 +1056,22 @@
        "waiver": "2026-11-07"
       },
       {
-       "player": "Matisse Thybulle",
+       "player": "Sandro Mamukelashvili",
        "team": "LAL",
-       "pos": "SF",
-       "espnId": 3907498,
-       "fpts": 21.0,
-       "mpg": 21.7,
+       "pos": "PF/C",
+       "espnId": 4278580,
+       "fpts": 22.0,
+       "mpg": 23.0,
        "basis": "sezona+prošla sezona",
        "gp": 9,
-       "cur": 22.2,
+       "cur": 20.8,
        "matchup": "LAL @ ATL",
        "dates": [
         "2026-11-09",
         "2026-11-11",
         "2026-11-15"
        ],
-       "value": 21.0,
+       "value": 22.0,
        "gtd": false
       }
      ]
@@ -1309,6 +1309,24 @@
        "gtd": false
       },
       {
+       "player": "Sandro Mamukelashvili",
+       "team": "LAL",
+       "pos": "PF/C",
+       "espnId": 4278580,
+       "fpts": 22.0,
+       "mpg": 23.0,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 20.8,
+       "matchup": "LAL @ MIL",
+       "dates": [
+        "2026-11-11",
+        "2026-11-15"
+       ],
+       "value": 22.0,
+       "gtd": false
+      },
+      {
        "player": "Mikel Brown Jr.",
        "team": "BKN",
        "pos": "PG",
@@ -1322,24 +1340,6 @@
        "dates": [
         "2026-11-11",
         "2026-11-14"
-       ],
-       "value": 21.0,
-       "gtd": false
-      },
-      {
-       "player": "Matisse Thybulle",
-       "team": "LAL",
-       "pos": "SF",
-       "espnId": 3907498,
-       "fpts": 21.0,
-       "mpg": 21.7,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.2,
-       "matchup": "LAL @ MIL",
-       "dates": [
-        "2026-11-11",
-        "2026-11-15"
        ],
        "value": 21.0,
        "gtd": false

@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-06T21:37:54Z",
+ "updated": "2026-11-06T22:22:02Z",
  "items": [
+  {
+   "date": "2026-11-06",
+   "team": "GSW",
+   "player": "Gary Payton",
+   "headline": "Questionable for Saturday",
+   "note": "Payton is questionable to play Saturday against the Magic due to right calf tightness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/gary-payton-injury-questionable-for-saturday-537864"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Ruled out for Friday",
+   "note": "Johnson (ankle) is out for Friday's game against the Wizards.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-ruled-out-for-friday-537863"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "NYK",
+   "player": "Josh Hart",
+   "headline": "Ruled out for Saturday",
+   "note": "Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-hart-injury-ruled-out-for-saturday-537862"
+  },
   {
    "date": "2026-11-06",
    "team": "GSW",
@@ -220,6 +250,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deanthony-melton-news-collects-three-steals-537838"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Questionable versus Orlando",
+   "note": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-questionable-versus-orlando-537865"
   },
   {
    "date": "2026-11-06",
@@ -523,26 +563,6 @@
   },
   {
    "date": "2026-11-05",
-   "team": "MIN",
-   "player": "Terrence Shannon",
-   "headline": "Could return Friday",
-   "note": "Shannon (hip) is questionable for Friday's game against New Orleans.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-could-return-friday-537793"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "WAS",
-   "player": "Anthony Davis",
-   "headline": "Tagged questionable for Friday",
-   "note": "Davis is questionable for Friday's game against the Hawks due to a right ankle sprain, Josh Robbins of The Athletic reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-davis-injury-tagged-questionable-for-friday-537792"
-  },
-  {
-   "date": "2026-11-05",
    "team": "ATL",
    "player": "Asa Newell",
    "headline": "Ruled out for Friday",
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-provides-spark-off-bench-537653"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Pulls down 16 boards",
-   "note": "Daniels contributed eight points (4-13 FG, 0-4 3Pt), 16 rebounds and eight assists in 34 minutes during Wednesday's 120-105 victory over the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-pulls-down-16-boards-537652"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "ATL",
-   "player": "Onyeka Okongwu",
-   "headline": "Massive line in win",
-   "note": "Okongwu closed Wednesday's 120-105 win over Washington with 14 points (5-9 FG, 2-5 3Pt, 2-2 FT), 16 rebounds, four assists, one block and two steals across 31 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-massive-line-in-win-537651"
   }
  ]
 }

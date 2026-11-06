@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:37:21Z",
+ "updated": "2026-11-06T22:21:22Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -71,16 +71,6 @@
    "status": "Expected return: at least Nov 11",
    "kind": "out",
    "ret": "2026-11-11"
-  },
-  {
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "pos": "PF",
-   "updated": "2026-11-04",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "BKN",
@@ -374,6 +364,16 @@
   },
   {
    "team": "HOU",
+   "player": "Clint Capela",
+   "pos": "C",
+   "updated": "2026-11-06",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "HOU",
    "player": "Steven Adams",
    "pos": "C",
    "updated": "2026-11-01",
@@ -381,16 +381,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "HOU",
-   "player": "Clint Capela",
-   "pos": "C",
-   "updated": "2026-11-05",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "IND",
@@ -478,16 +468,6 @@
    "pos": "C",
    "updated": "2026-11-05",
    "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAL",
-   "player": "Sandro Mamukelashvili",
-   "pos": "PF",
-   "updated": "2026-11-05",
-   "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -801,6 +781,16 @@
    "status": "Expected return: at least Nov 10",
    "kind": "out",
    "ret": "2026-11-10"
+  },
+  {
+   "team": "SAC",
+   "player": "De'Andre Hunter",
+   "pos": "SF",
+   "updated": "2026-11-06",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "SAS",
