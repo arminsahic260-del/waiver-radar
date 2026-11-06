@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:21:18Z",
+ "updated": "2026-11-06T17:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -851,6 +851,16 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
+  },
+  {
+   "team": "TOR",
+   "player": "Kyle Anderson",
+   "pos": "PF",
+   "updated": "2026-11-06",
+   "injury": "Illness",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "TOR",
