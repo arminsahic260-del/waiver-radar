@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-06T18:21:58Z",
+ "updated": "2026-11-06T19:21:55Z",
  "items": [
+  {
+   "date": "2026-11-06",
+   "team": "CHI",
+   "player": "Zach Collins",
+   "headline": "Battling illness",
+   "note": "Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-collins-injury-battling-illness-537854"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "DAL",
+   "player": "Kyrie Irving",
+   "headline": "Added to injury report",
+   "note": "Irving (illness) is probable for Friday's game against Utah.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-added-to-injury-report-537853"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "CHI",
+   "player": "Nic Claxton",
+   "headline": "Closing in on season debut",
+   "note": "Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nic-claxton-injury-closing-in-on-season-debut-537852"
+  },
   {
    "date": "2026-11-06",
    "team": "UTA",
@@ -223,36 +253,6 @@
   },
   {
    "date": "2026-11-06",
-   "team": "ORL",
-   "player": "Jamal Cain",
-   "headline": "Plays 25 minutes off bench",
-   "note": "Cain registered five points (2-9 FG, 1-6 3Pt, 0-1 FT) and five rebounds in 25 minutes during Thursday's 117-104 loss to the Suns.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jamal-cain-news-plays-25-minutes-off-bench-537827"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "ORL",
-   "player": "Tristan da Silva",
-   "headline": "Knocks down four triples",
-   "note": "Da Silva finished Thursday's 117-104 loss to the Suns with 18 points (6-15 FG, 4-12 3Pt, 2-2 FT), two rebounds and one assist across 30 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-knocks-down-four-triples-537825"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Solid in return",
-   "note": "Black ended Thursday's 117-104 loss to the Suns with 10 points (3-8 FG, 1-3 3Pt, 3-4 FT), seven rebounds, six assists and one steal in 31 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-solid-in-return-537824"
-  },
-  {
-   "date": "2026-11-06",
    "team": "GSW",
    "player": "Georges Niang",
    "headline": "Productive outing off bench Thursday",
@@ -300,6 +300,36 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/ryan-conwell-news-scores-13-points-off-bench-537818"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "ORL",
+   "player": "Jamal Cain",
+   "headline": "Plays 25 minutes off bench",
+   "note": "Cain registered five points (2-9 FG, 1-6 3Pt, 0-1 FT) and five rebounds in 25 minutes during Thursday's 117-104 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jamal-cain-news-plays-25-minutes-off-bench-537827"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "ORL",
+   "player": "Tristan da Silva",
+   "headline": "Knocks down four triples",
+   "note": "Da Silva finished Thursday's 117-104 loss to the Suns with 18 points (6-15 FG, 4-12 3Pt, 2-2 FT), two rebounds and one assist across 30 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-knocks-down-four-triples-537825"
+  },
+  {
+   "date": "2026-11-06",
+   "team": "ORL",
+   "player": "Anthony Black",
+   "headline": "Solid in return",
+   "note": "Black ended Thursday's 117-104 loss to the Suns with 10 points (3-8 FG, 1-3 3Pt, 3-4 FT), seven rebounds, six assists and one steal in 31 minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-solid-in-return-537824"
   },
   {
    "date": "2026-11-06",
@@ -490,36 +520,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-ruled-out-for-friday-537786"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "DAL",
-   "player": "Max Christie",
-   "headline": "Probable for Friday",
-   "note": "Christie (hip) is probable for Friday's game against the Jazz.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/max-christie-injury-probable-for-friday-537785"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "PHI",
-   "player": "Adem Bona",
-   "headline": "Doubtful for Friday",
-   "note": "Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-doubtful-for-friday-537784"
-  },
-  {
-   "date": "2026-11-05",
-   "team": "CLE",
-   "player": "Peyton Watson",
-   "headline": "Listed questionable for Friday",
-   "note": "Watson (hamstring) is questionable for Friday's game against the 76ers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-injury-listed-questionable-for-friday-537783"
   },
   {
    "date": "2026-11-05",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:21:19Z",
+ "updated": "2026-11-06T19:21:20Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -94,16 +94,6 @@
   },
   {
    "team": "BOS",
-   "player": "RJ Luis Jr.",
-   "pos": "SF",
-   "updated": "2026-11-06",
-   "injury": "Not Injury Related",
-   "status": "—",
-   "kind": "out",
-   "ret": null
-  },
-  {
-   "team": "BOS",
    "player": "Devin Carter",
    "pos": "PG",
    "updated": "2026-11-06",
@@ -113,14 +103,14 @@
    "ret": null
   },
   {
-   "team": "BOS",
-   "player": "Payton Pritchard",
+   "team": "CHA",
+   "player": "Dennis Schroder",
    "pos": "PG",
-   "updated": "2026-11-04",
-   "injury": "Eye",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "updated": "2026-11-06",
+   "injury": "Thigh",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "CHA",
@@ -144,23 +134,13 @@
   },
   {
    "team": "CHA",
-   "player": "Dennis Schroder",
-   "pos": "PG",
-   "updated": "2026-11-05",
-   "injury": "Thigh",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CHA",
    "player": "Moussa Diabate",
    "pos": "C",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "injury": "Quadriceps",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "CHI",
@@ -556,11 +536,11 @@
    "team": "MIN",
    "player": "Terrence Shannon Jr.",
    "pos": "SF",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
   },
   {
    "team": "NOP",
@@ -571,16 +551,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "NOP",
-   "player": "Trey Murphy III",
-   "pos": "SF",
-   "updated": "2026-11-05",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "NYK",
@@ -864,6 +834,26 @@
   },
   {
    "team": "TOR",
+   "player": "Immanuel Quickley",
+   "pos": "PG",
+   "updated": "2026-11-06",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "pos": "C",
+   "updated": "2026-11-06",
+   "injury": "Shoulder",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "TOR",
    "player": "Kyle Anderson",
    "pos": "PF",
    "updated": "2026-11-06",
@@ -896,11 +886,11 @@
    "team": "UTA",
    "player": "Jusuf Nurkic",
    "pos": "C",
-   "updated": "2026-11-03",
+   "updated": "2026-11-06",
    "injury": "Foot",
-   "status": "Expected return: at least Nov 13",
+   "status": "Expected return: at least Nov 20",
    "kind": "out",
-   "ret": "2026-11-13"
+   "ret": "2026-11-20"
   },
   {
    "team": "UTA",
