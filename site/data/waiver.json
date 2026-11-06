@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:22:03Z",
+ "updated": "2026-11-06T21:22:03Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -172,7 +172,7 @@
    "reason": "Keegan Murray (gležanj) je out najmanje do 10.11. De'Andre Hunter je prvi SF/PF u rotaciji SAC-a za te minute; ~19.3 FP po utakmici (ove sezone 18.5 u 8 utk., prošle sezone 21.0; 30 min).",
    "role": "Veća minutaža dok je out Keegan Murray",
    "horizon": "Do ~10.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Keegan Murray",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Keegan Murray",
    "avail": {
     "Legendi": true,
     "Banijska": false
