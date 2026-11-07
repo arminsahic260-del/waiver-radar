@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-07T12:21:48Z",
+ "updated": "2026-11-07T13:21:51Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "MIL",
+   "player": "AJ Green",
+   "headline": "Drains four treys in Friday's loss",
+   "note": "Green closed with 12 points (4-9 FG, 4-8 3Pt), one rebound and one block over 24 minutes off the bench during Friday's 121-107 loss to the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-drains-four-treys-in-fridays-loss-537956"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "MIL",
+   "player": "Tyler Herro",
+   "headline": "Big double-double in losing effort",
+   "note": "Herro racked up 23 points (7-16 FG, 1-5 3Pt, 8-10 FT), five rebounds, 10 assists and one steal over 35 minutes during Friday's 121-107 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-big-double-double-in-losing-effort-537955"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
+   "player": "Alijah Martin",
+   "headline": "Career night off bench Friday",
+   "note": "Martin finished with 27 points (9-11 FG, 6-7 3Pt, 3-4 FT), four rebounds, one assist, one block and two steals over 31 minutes off the bench during Friday's 121-107 win over Milwaukee.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alijah-martin-news-career-night-off-bench-friday-537954"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "headline": "Double-double in return to starting spot",
+   "note": "Poeltl contributed 19 points (9-14 FG, 1-1 FT), 11 rebounds, two assists, one block and three steals in 31 minutes during Friday's 121-107 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-double-in-return-to-starting-spot-537953"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
+   "player": "Collin Murray-Boyles",
+   "headline": "Strong showing at both ends of court",
+   "note": "Murray-Boyles notched 19 points (7-12 FG, 0-2 3Pt, 5-5 FT), seven rebounds, two assists, one block and four steals across 34 minutes during Friday's 121-107 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-strong-showing-at-both-ends-of-court-537952"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
+   "player": "RJ Barrett",
+   "headline": "Steps up with season-high 27 points",
+   "note": "Barrett provided 27 points (9-21 FG, 0-4 3Pt, 9-11 FT), seven rebounds and four assists in 37 minutes during Friday's 121-107 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-steps-up-with-season-high-27-points-537951"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
+   "player": "Leaky Black",
+   "headline": "Steady in fill-in role",
+   "note": "Black contributed 12 points (4-7 FG, 4-7 3Pt), three rebounds, five assists and two steals in 40 minutes during Friday's 124-109 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/leaky-black-news-steady-in-fill-in-role-537950"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "NOP",
+   "player": "Saddiq Bey",
+   "headline": "Productive off bench in loss",
+   "note": "Bey recorded 17 points (5-13 FG, 3-6 3Pt, 4-4 FT), five rebounds, four assists and one block over 31 minutes off the bench during Friday's 115-109 loss to the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-productive-off-bench-in-loss-537949"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
+   "player": "Zach LaVine",
+   "headline": "Quiet night in defeat",
+   "note": "LaVine notched 14 points (4-12 FG, 1-6 3Pt, 5-5 FT), four rebounds, three assists and one steal over 35 minutes during Friday's 124-109 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-quiet-night-in-defeat-537948"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
+   "player": "Darius Acuff",
+   "headline": "Collects eight assists in loss",
+   "note": "Acuff finished with 22 points (9-20 FG, 3-9 3Pt, 1-2 FT), three rebounds, eight assists and two steals in 33 minutes during Friday's 124-109 loss to San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-collects-eight-assists-in-loss-537947"
+  },
   {
    "date": "2026-11-07",
    "team": "NOP",
@@ -240,16 +340,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-will-be-re-evaluated-over-weekend-537922"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "MIL",
-   "player": "Brayden Burries",
-   "headline": "Double-doubles with six dimes",
-   "note": "Burries produced 21 points (8-14 FG, 1-5 3Pt, 4-6 FT), 11 rebounds, six assists and one block over 38 minutes in Friday's 121-107 loss to the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brayden-burries-news-double-doubles-with-six-dimes-537921"
   },
   {
    "date": "2026-11-06",
@@ -510,96 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/luguentz-dort-news-erupts-for-25-points-friday-537916"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Flirts with triple-double in win",
-   "note": "Daniels finished Friday's 139-132 victory over Washington with 13 points (6-9 FG, 0-1 3Pt, 1-1 FT), nine rebounds, 12 assists and two steals across 34 minutes.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-flirts-with-triple-double-in-win-537915"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Leads Hawks to another win",
-   "note": "Alexander-Walker finished with 28 points (7-20 FG, 4-12 3Pt, 10-10 FT), two rebounds, two assists and two steals across 33 minutes in Friday's 139-132 win over the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-leads-hawks-to-another-win-537904"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "BOS",
-   "player": "Jayson Tatum",
-   "headline": "Comes close to trple-double",
-   "note": "Tatum notched 34 points (9-16 FG, 5-8 3Pt, 11-11 FT), eight rebounds, nine assists, a steal and a block across 29 minutes in Friday's 119-80 win over the Hornets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jayson-tatum-news-comes-close-to-trple-double-537903"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "BOS",
-   "player": "Hugo Gonzalez",
-   "headline": "Not starting Friday",
-   "note": "Gonzalez is not listed in the starting lineup for Friday's game against Charlotte, Sean Grande of NBC Sports Boston reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-not-starting-friday-537882"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "BOS",
-   "player": "Jordan Walsh",
-   "headline": "Starting Friday",
-   "note": "Walsh will start Friday against the Hornets, Sean Grande of NBC Sports Boston reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-walsh-news-starting-friday-537881"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "BOS",
-   "player": "Sam Hauser",
-   "headline": "Coming off bench",
-   "note": "Hausner isn't starting Friday's game against Charlotte, per Sean Grande of NBC Sports Boston.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-hauser-news-coming-off-bench-537880"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "BOS",
-   "player": "Payton Pritchard",
-   "headline": "Good to go Friday",
-   "note": "Pritchard (eye) is available for Friday's game against the Hornets, Zack Cox of the Boston Herald reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/payton-pritchard-news-good-to-go-friday-537842"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "headline": "Available to play",
-   "note": "Clowney (knee) is available for Saturday against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-537858"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CHA",
-   "player": "Naz Reid",
-   "headline": "Scores 14 points with six rebounds",
-   "note": "Reid registered 14 points (6-17 FG, 2-5 3Pt), six rebounds, two assists, one steal and two turnovers across 26 minutes in Friday's 119-80 loss to the Celtics.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/naz-reid-news-scores-14-points-with-six-rebounds-537907"
   }
  ]
 }
