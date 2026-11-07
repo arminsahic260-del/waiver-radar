@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:21:54Z",
+ "updated": "2026-11-07T21:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -188,7 +188,7 @@
    "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. T.J. McConnell je prvi PG u rotaciji IND-a za te minute; ~25.1 FP po utakmici (prošle sezone, 17 min).",
    "role": "Veća minutaža dok je out Tyrese Haliburton",
    "horizon": "Do ~13.11. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Tyrese Haliburton",
+   "risk": "Uloga pada kad se vrati Tyrese Haliburton",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -698,6 +698,23 @@
        "gtd": false
       },
       {
+       "player": "Kelly Oubre Jr.",
+       "team": "IND",
+       "pos": "SG/SF",
+       "espnId": 3133603,
+       "fpts": 20.6,
+       "mpg": 26.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 7,
+       "cur": 16.9,
+       "matchup": "DEN @ IND",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 20.6,
+       "gtd": false
+      },
+      {
        "player": "Trevon Brazile",
        "team": "DEN",
        "pos": "SF/PF",
@@ -712,23 +729,6 @@
         "2026-11-07"
        ],
        "value": 20.0,
-       "gtd": false
-      },
-      {
-       "player": "Jarace Walker",
-       "team": "IND",
-       "pos": "SF/PF",
-       "espnId": 5106060,
-       "fpts": 18.7,
-       "mpg": 24.5,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 17.0,
-       "matchup": "DEN @ IND",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 18.7,
        "gtd": false
       }
      ]

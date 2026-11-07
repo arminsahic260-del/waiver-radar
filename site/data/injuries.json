@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:21:19Z",
+ "updated": "2026-11-07T21:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -381,26 +381,6 @@
    "status": "Expected return: at least Nov 13",
    "kind": "out",
    "ret": "2026-11-13"
-  },
-  {
-   "team": "IND",
-   "player": "Kelly Oubre Jr.",
-   "pos": "SF",
-   "updated": "2026-11-05",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "pos": "PG",
-   "updated": "2026-11-06",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "LAC",

@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-07T20:21:53Z",
+ "updated": "2026-11-07T21:21:57Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "POR",
+   "player": "Robert Williams",
+   "headline": "Resting versus Spurs",
+   "note": "Williams (rest) won't play in Saturday's game against the Spurs.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/robert-williams-injury-resting-versus-spurs-538018"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "DEN",
+   "player": "DeMar DeRozan",
+   "headline": "Good to go Saturday",
+   "note": "DeRozan (back) is active for Saturday's NBA Mexico City Game against the Pacers.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/demar-derozan-injury-good-to-go-saturday-538016"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "IND",
+   "player": "Tyrese Haliburton",
+   "headline": "Still without timetable to return",
+   "note": "Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-still-without-timetable-to-return-538013"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "IND",
+   "player": "Kelly Oubre",
+   "headline": "Available Saturday",
+   "note": "Oubre (calf) will be available for Saturday's game against the Nuggets, Dustin Dopirak of The Indianapolis Star reports.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-news-available-saturday-538011"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "headline": "Will suit up Saturday",
+   "note": "McConnell (hamstring) is listed as available for Saturday's game against Denver.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-news-will-suit-up-saturday-538010"
+  },
   {
    "date": "2026-11-07",
    "team": "ORL",
@@ -213,46 +263,6 @@
   },
   {
    "date": "2026-11-07",
-   "team": "MIL",
-   "player": "AJ Green",
-   "headline": "Drains four treys in Friday's loss",
-   "note": "Green closed with 12 points (4-9 FG, 4-8 3Pt), one rebound and one block over 24 minutes off the bench during Friday's 121-107 loss to the Raptors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-drains-four-treys-in-fridays-loss-537956"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "MIL",
-   "player": "Tyler Herro",
-   "headline": "Big double-double in losing effort",
-   "note": "Herro racked up 23 points (7-16 FG, 1-5 3Pt, 8-10 FT), five rebounds, 10 assists and one steal over 35 minutes during Friday's 121-107 loss to Toronto.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-big-double-double-in-losing-effort-537955"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "TOR",
-   "player": "Alijah Martin",
-   "headline": "Career night off bench Friday",
-   "note": "Martin finished with 27 points (9-11 FG, 6-7 3Pt, 3-4 FT), four rebounds, one assist, one block and two steals over 31 minutes off the bench during Friday's 121-107 win over Milwaukee.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/alijah-martin-news-career-night-off-bench-friday-537954"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "headline": "Double-double in return to starting spot",
-   "note": "Poeltl contributed 19 points (9-14 FG, 1-1 FT), 11 rebounds, two assists, one block and three steals in 31 minutes during Friday's 121-107 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-double-in-return-to-starting-spot-537953"
-  },
-  {
-   "date": "2026-11-07",
    "team": "LAL",
    "player": "Ziaire Williams",
    "headline": "Adequate from bench",
@@ -310,6 +320,26 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/taylor-hendricks-news-muted-role-continues-537927"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "MIL",
+   "player": "AJ Green",
+   "headline": "Drains four treys in Friday's loss",
+   "note": "Green closed with 12 points (4-9 FG, 4-8 3Pt), one rebound and one block over 24 minutes off the bench during Friday's 121-107 loss to the Raptors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-green-news-drains-four-treys-in-fridays-loss-537956"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "MIL",
+   "player": "Tyler Herro",
+   "headline": "Big double-double in losing effort",
+   "note": "Herro racked up 23 points (7-16 FG, 1-5 3Pt, 8-10 FT), five rebounds, 10 assists and one steal over 35 minutes during Friday's 121-107 loss to Toronto.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/tyler-herro-news-big-double-double-in-losing-effort-537955"
   },
   {
    "date": "2026-11-07",
@@ -524,6 +554,26 @@
   {
    "date": "2026-11-07",
    "team": "TOR",
+   "player": "Alijah Martin",
+   "headline": "Career night off bench Friday",
+   "note": "Martin finished with 27 points (9-11 FG, 6-7 3Pt, 3-4 FT), four rebounds, one assist, one block and two steals over 31 minutes off the bench during Friday's 121-107 win over Milwaukee.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alijah-martin-news-career-night-off-bench-friday-537954"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
+   "player": "Jakob Poeltl",
+   "headline": "Double-double in return to starting spot",
+   "note": "Poeltl contributed 19 points (9-14 FG, 1-1 FT), 11 rebounds, two assists, one block and three steals in 31 minutes during Friday's 121-107 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-double-in-return-to-starting-spot-537953"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
    "player": "Collin Murray-Boyles",
    "headline": "Strong showing at both ends of court",
    "note": "Murray-Boyles notched 19 points (7-12 FG, 0-2 3Pt, 5-5 FT), seven rebounds, two assists, one block and four steals across 34 minutes during Friday's 121-107 victory over the Bucks.",
@@ -550,56 +600,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-will-be-re-evaluated-over-weekend-537922"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "MIN",
-   "player": "Joan Beringer",
-   "headline": "Out with nasal fracture",
-   "note": "Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/joan-beringer-injury-out-with-nasal-fracture-537905"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "headline": "Won't return Friday night",
-   "note": "Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-injury-wont-return-friday-night-537901"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CHA",
-   "player": "Brandon Miller",
-   "headline": "Won't return Friday",
-   "note": "Miller (groin) won't return to Friday's game against the Celtics, Brett Siegel of ClutchPoints.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-wont-return-friday-537900"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CHA",
-   "player": "Brandon Miller",
-   "headline": "Heads to locker room",
-   "note": "Miller (undisclosed) exited Friday's game against the Celtics, Owen O'Connor of SI.com reports.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-heads-to-locker-room-537899"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "SAC",
-   "player": "De'Andre Hunter",
-   "headline": "Ruled out versus Spurs",
-   "note": "Hunter (illness) is listed as out for Friday's game against San Antonio.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-injury-ruled-out-versus-spurs-537892"
   }
  ]
 }
