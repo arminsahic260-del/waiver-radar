@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:19:16Z",
+ "updated": "2026-11-07T20:21:54Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -224,7 +224,7 @@
    "team": "ORL",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. — nova ozljeda. Tristan da Silva je prvi SF/PF u rotaciji ORL-a za te minute; ~22.3 FP po utakmici (ove sezone 23.2 u 8 utk., prošle sezone 20.5; 28 min).",
+   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. Tristan da Silva je prvi SF/PF u rotaciji ORL-a za te minute; ~22.3 FP po utakmici (ove sezone 23.2 u 8 utk., prošle sezone 20.5; 28 min).",
    "role": "Veća minutaža dok je out Desmond Bane",
    "horizon": "Do ~10.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Desmond Bane",
@@ -541,7 +541,7 @@
    "team": "ORL",
    "pos": "SG",
    "priority": 3,
-   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. — nova ozljeda. Jase Richardson je sljedeći SG u rotaciji ORL-a za te minute; ~13.6 FP po utakmici (ove sezone 16.1 u 8 utk., prošle sezone 8.5; 18 min).",
+   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. Jase Richardson je sljedeći SG u rotaciji ORL-a za te minute; ~13.6 FP po utakmici (ove sezone 16.1 u 8 utk., prošle sezone 8.5; 18 min).",
    "role": "Veća minutaža dok je out Desmond Bane",
    "horizon": "Do ~10.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Desmond Bane; nizak bodovni plafon",
