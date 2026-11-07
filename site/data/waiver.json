@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:36:35Z",
+ "updated": "2026-11-07T07:21:52Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -162,7 +162,7 @@
    "team": "CLE",
    "pos": "SG",
    "priority": 1,
-   "reason": "Sam Merrill (lakat) je out najmanje do 7.11. — nova ozljeda. Tyrese Proctor je sljedeći SG u rotaciji CLE-a za te minute; ~13.9 FP po utakmici (ove sezone 15.8 u 8 utk., prošle sezone 10.1; 14 min). RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder.",
+   "reason": "Sam Merrill (lakat) je out najmanje do 7.11. Tyrese Proctor je sljedeći SG u rotaciji CLE-a za te minute; ~13.9 FP po utakmici (ove sezone 15.8 u 8 utk., prošle sezone 10.1; 14 min). RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder.",
    "role": "Starter dok je out Sam Merrill",
    "horizon": "Do ~7.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Sam Merrill; nizak bodovni plafon",
@@ -653,7 +653,7 @@
      "mine": 4,
      "open": 6,
      "sitting": 0,
-     "adds": 4,
+     "adds": 3,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -680,24 +680,6 @@
        "gtd": false
       },
       {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 21.0,
-       "mpg": 25.9,
-       "basis": "sezona+projekcija",
-       "gp": 6,
-       "cur": 19.0,
-       "matchup": "BKN @ ATL",
-       "dates": [
-        "2026-11-07",
-        "2026-11-08"
-       ],
-       "value": 21.0,
-       "gtd": false
-      },
-      {
        "player": "Marcus Smart",
        "team": "HOU",
        "pos": "PG/SG",
@@ -712,6 +694,23 @@
         "2026-11-07"
        ],
        "value": 21.0,
+       "gtd": false
+      },
+      {
+       "player": "Trevon Brazile",
+       "team": "DEN",
+       "pos": "SF/PF",
+       "espnId": 4698719,
+       "fpts": 20.0,
+       "mpg": 22.1,
+       "basis": "sezona",
+       "gp": 7,
+       "cur": 20.0,
+       "matchup": "DEN @ IND",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 20.0,
        "gtd": false
       }
      ]
@@ -794,7 +793,7 @@
      "mine": 8,
      "open": 2,
      "sitting": 0,
-     "adds": 3,
+     "adds": 2,
      "addsLimit": 7,
      "add": true,
      "addDays": [
