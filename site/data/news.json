@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-07T07:21:50Z",
+ "updated": "2026-11-07T08:21:49Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "MEM",
+   "player": "Jerami Grant",
+   "headline": "Passive again in loss",
+   "note": "Grant provided 10 points (4-6 FG, 2-2 3Pt) and two assists in 22 minutes during Friday's 128-97 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-news-passive-again-in-loss-537928"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "MEM",
+   "player": "Taylor Hendricks",
+   "headline": "Muted role continues",
+   "note": "Hendricks ended Friday's 128-97 loss to the Thunder with four points (1-2 FG, 1-1 3Pt, 1-2 FT) and two rebounds in four minutes.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/taylor-hendricks-news-muted-role-continues-537927"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "OKC",
+   "player": "Isaiah Hartenstein",
+   "headline": "Scoring slump continues",
+   "note": "Hartenstein registered two points (1-4 FG), six rebounds, seven assists, one block and one steal in 26 minutes during Friday's 128-97 victory over Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/isaiah-hartenstein-news-scoring-slump-continues-537925"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "OKC",
+   "player": "Josh Dix",
+   "headline": "Sticks in rotation",
+   "note": "Dix ended with five points (2-4 FG, 1-2 3Pt), two rebounds, one assist and one steal over 15 minutes during Friday's 128-97 victory over Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/josh-dix-news-sticks-in-rotation-537924"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "OKC",
+   "player": "Ajay Mitchell",
+   "headline": "Pours in season-high 35 points",
+   "note": "Mitchell contributed 35 points (14-20 FG, 4-7 3Pt, 3-5 FT), one rebound and five assists in 30 minutes during Friday's 128-97 victory over Memphis.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-pours-in-season-high-35-points-537923"
+  },
   {
    "date": "2026-11-06",
    "team": "CHA",
@@ -203,16 +253,6 @@
   },
   {
    "date": "2026-11-06",
-   "team": "WAS",
-   "player": "Kyshawn George",
-   "headline": "Scores game-high 33 points in loss",
-   "note": "George tallied 33 points (10-19 FG, 5-7 3Pt, 8-10 FT), four rebounds, seven assists, one steal and two blocks over 39 minutes in Friday's 139-132 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyshawn-george-news-scores-game-high-33-points-in-loss-537902"
-  },
-  {
-   "date": "2026-11-06",
    "team": "CLE",
    "player": "Sam Merrill",
    "headline": "Won't return Friday night",
@@ -240,16 +280,6 @@
    "kind": "other",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-heads-to-locker-room-537899"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "DAL",
-   "player": "Zaccharie Risacher",
-   "headline": "Back to bench Friday",
-   "note": "Risacher is not listed in the starting lineup for Friday's game against Utah, Christian Clark of The Athletic reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-back-to-bench-friday-537898"
   },
   {
    "date": "2026-11-06",
@@ -570,36 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-not-starting-friday-537889"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CLE",
-   "player": "Sam Merrill",
-   "headline": "Starting Friday",
-   "note": "Merrill is in the starting lineup for Friday's game against the 76ers, Serena Winters of FanDuel Sports Network Ohio reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-starting-friday-537887"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CLE",
-   "player": "Peyton Watson",
-   "headline": "Available to play",
-   "note": "Watson (hamstring) is available for Friday's meeting with the 76ers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-news-available-to-play-537883"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CLE",
-   "player": "Tyrese Proctor",
-   "headline": "Cleared to play Friday",
-   "note": "Proctor (ankle) is available for Friday's game against Philadelphia.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-cleared-to-play-friday-537873"
   }
  ]
 }
