@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-07T18:21:58Z",
+ "updated": "2026-11-07T19:21:53Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "WAS",
+   "player": "Anthony Davis",
+   "headline": "Questionable to play Saturday",
+   "note": "Davis (ankle) is questionable for Saturday's game against the Thunder.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/anthony-davis-injury-questionable-to-play-saturday-538005"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "OKC",
+   "player": "Jaylin Williams",
+   "headline": "Out against Wizards",
+   "note": "Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-out-against-wizards-538004"
+  },
   {
    "date": "2026-11-07",
    "team": "ATL",
@@ -233,26 +253,6 @@
   },
   {
    "date": "2026-11-07",
-   "team": "TOR",
-   "player": "RJ Barrett",
-   "headline": "Steps up with season-high 27 points",
-   "note": "Barrett provided 27 points (9-21 FG, 0-4 3Pt, 9-11 FT), seven rebounds and four assists in 37 minutes during Friday's 121-107 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-steps-up-with-season-high-27-points-537951"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "SAC",
-   "player": "Leaky Black",
-   "headline": "Steady in fill-in role",
-   "note": "Black contributed 12 points (4-7 FG, 4-7 3Pt), three rebounds, five assists and two steals in 40 minutes during Friday's 124-109 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/leaky-black-news-steady-in-fill-in-role-537950"
-  },
-  {
-   "date": "2026-11-07",
    "team": "LAL",
    "player": "Ziaire Williams",
    "headline": "Adequate from bench",
@@ -444,6 +444,16 @@
   {
    "date": "2026-11-07",
    "team": "SAC",
+   "player": "Leaky Black",
+   "headline": "Steady in fill-in role",
+   "note": "Black contributed 12 points (4-7 FG, 4-7 3Pt), three rebounds, five assists and two steals in 40 minutes during Friday's 124-109 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/leaky-black-news-steady-in-fill-in-role-537950"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
    "player": "Zach LaVine",
    "headline": "Quiet night in defeat",
    "note": "LaVine notched 14 points (4-12 FG, 1-6 3Pt, 5-5 FT), four rebounds, three assists and one steal over 35 minutes during Friday's 124-109 loss to the Spurs.",
@@ -510,6 +520,16 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-dominates-with-double-double-537939"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
+   "player": "RJ Barrett",
+   "headline": "Steps up with season-high 27 points",
+   "note": "Barrett provided 27 points (9-21 FG, 0-4 3Pt, 9-11 FT), seven rebounds and four assists in 37 minutes during Friday's 121-107 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/rj-barrett-news-steps-up-with-season-high-27-points-537951"
   },
   {
    "date": "2026-11-06",
@@ -580,26 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/rasheer-fleming-injury-carrying-questionable-tag-537891"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "PHX",
-   "player": "Jordan Goodwin",
-   "headline": "Doubtful for Saturday",
-   "note": "Goodwin (calf) is doubtful for Saturday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jordan-goodwin-injury-doubtful-for-saturday-537890"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "headline": "Won't play Friday",
-   "note": "Allen (knee) is out for Friday's game against the 76ers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-wont-play-friday-537885"
   }
  ]
 }

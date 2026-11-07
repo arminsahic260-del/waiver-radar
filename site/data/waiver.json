@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:22:00Z",
+ "updated": "2026-11-07T19:21:55Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -162,6 +162,25 @@
    "cur": 15.4
   },
   {
+   "player": "Tyrese Proctor",
+   "team": "CLE",
+   "pos": "SG",
+   "priority": 1,
+   "reason": "Sam Merrill (lakat) je out najmanje do 9.11. — nova ozljeda. Tyrese Proctor je sljedeći SG u rotaciji CLE-a za te minute; ~13.5 FP po utakmici (ove sezone 15.2 u 8 utk., prošle sezone 10.1; 14 min). RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder.",
+   "role": "Starter dok je out Sam Merrill",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Sam Merrill; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-starting-against-thunder-537572",
+   "espnId": 5023693,
+   "fpts": 13.5,
+   "gp": 8,
+   "cur": 15.2
+  },
+  {
    "player": "Jaylin Williams",
    "team": "OKC",
    "pos": "PF/C",
@@ -294,25 +313,6 @@
    "fpts": 15.2,
    "gp": 10,
    "cur": 11.5
-  },
-  {
-   "player": "Tyrese Proctor",
-   "team": "CLE",
-   "pos": "SG",
-   "priority": 2,
-   "reason": "RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder. ~13.5 FP po utakmici (ove sezone 15.2 u 8 utk., prošle sezone 10.1; 14 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "I kao starter nizak plafon (~14 FP)",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-starting-against-thunder-537572",
-   "espnId": 5023693,
-   "fpts": 13.5,
-   "gp": 8,
-   "cur": 15.2
   },
   {
    "player": "Scoot Henderson",
@@ -458,25 +458,6 @@
    "cur": 16.0
   },
   {
-   "player": "Jock Landale",
-   "team": "ATL",
-   "pos": "C",
-   "priority": 3,
-   "reason": "Jalen Johnson (gležanj) je upitan (GTD). Jock Landale je sljedeći C u rotaciji ATL-a za te minute; ~17.3 FP po utakmici (ove sezone 14.3 u 7 utk., prošle sezone 22.7; 18 min).",
-   "role": "Zamjena ako Jalen Johnson ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3146557,
-   "fpts": 17.3,
-   "gp": 7,
-   "cur": 14.3
-  },
-  {
    "player": "Sidy Cissoko",
    "team": "POR",
    "pos": "SG",
@@ -532,6 +513,44 @@
    "fpts": 13.6,
    "gp": 5,
    "cur": 13.6
+  },
+  {
+   "player": "Corey Kispert",
+   "team": "ATL",
+   "pos": "SG/SF",
+   "priority": 3,
+   "reason": "Jalen Johnson (gležanj) je upitan (GTD). Corey Kispert je sljedeći SG/SF u rotaciji ATL-a za te minute; ~13.5 FP po utakmici (ove sezone 12.2 u 6 utk., prošle sezone 15.5; 13 min).",
+   "role": "Zamjena ako Jalen Johnson ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4280151,
+   "fpts": 13.5,
+   "gp": 6,
+   "cur": 12.2
+  },
+  {
+   "player": "Thomas Bryant",
+   "team": "CLE",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Jarrett Allen (koljeno) je out najmanje do 9.11. — nova ozljeda. Thomas Bryant je sljedeći C u rotaciji CLE-a za te minute; ~12.5 FP po utakmici (ove sezone 11.8 u 4 utk., prošle sezone 13.3; 12 min).",
+   "role": "Veća minutaža dok je out Jarrett Allen",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jarrett Allen; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3934723,
+   "fpts": 12.5,
+   "gp": 4,
+   "cur": 11.8
   },
   {
    "player": "Kyle Filipowski",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:21:24Z",
+ "updated": "2026-11-07T19:21:19Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -14,6 +14,36 @@
   },
   {
    "team": "ATL",
+   "player": "Asa Newell",
+   "pos": "PF",
+   "updated": "2026-11-07",
+   "injury": "Toe",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "ATL",
+   "player": "Jock Landale",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Hip",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "ATL",
+   "player": "Keshon Gilbert",
+   "pos": "PG",
+   "updated": "2026-11-07",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "ATL",
    "player": "Mouhamed Gueye",
    "pos": "PF",
    "updated": "2026-10-19",
@@ -24,40 +54,10 @@
   },
   {
    "team": "ATL",
-   "player": "Asa Newell",
-   "pos": "PF",
-   "updated": "2026-11-07",
-   "injury": "Toe",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "ATL",
    "player": "Jalen Johnson",
    "pos": "PF",
    "updated": "2026-11-07",
    "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "ATL",
-   "player": "Jock Landale",
-   "pos": "C",
-   "updated": "2026-11-07",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "ATL",
-   "player": "Keshon Gilbert",
-   "pos": "PG",
-   "updated": "2026-11-07",
-   "injury": "Knee",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -184,6 +184,26 @@
   },
   {
    "team": "CLE",
+   "player": "Jarrett Allen",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "pos": "SF",
+   "updated": "2026-11-07",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "CLE",
    "player": "Nae'Qwan Tomlin",
    "pos": "PF",
    "updated": "2026-10-20",
@@ -194,33 +214,13 @@
   },
   {
    "team": "CLE",
-   "player": "Jarrett Allen",
-   "pos": "C",
-   "updated": "2026-11-07",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
-   "player": "Jaylon Tyson",
-   "pos": "SF",
-   "updated": "2026-11-07",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
    "player": "Sam Merrill",
    "pos": "SG",
    "updated": "2026-11-07",
    "injury": "Elbow",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "DAL",
