@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:21:53Z",
+ "updated": "2026-11-07T10:21:48Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -675,23 +675,6 @@
      "planned": [],
      "picks": [
       {
-       "player": "Tristan da Silva",
-       "team": "ORL",
-       "pos": "SF/PF",
-       "espnId": 4702382,
-       "fpts": 22.3,
-       "mpg": 27.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 23.2,
-       "matchup": "ORL @ GSW",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 22.3,
-       "gtd": false
-      },
-      {
        "player": "Marcus Smart",
        "team": "HOU",
        "pos": "PG/SG",
@@ -723,6 +706,23 @@
         "2026-11-07"
        ],
        "value": 20.0,
+       "gtd": false
+      },
+      {
+       "player": "Jarace Walker",
+       "team": "IND",
+       "pos": "SF/PF",
+       "espnId": 5106060,
+       "fpts": 18.7,
+       "mpg": 24.5,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 17.0,
+       "matchup": "DEN @ IND",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 18.7,
        "gtd": false
       }
      ]
@@ -1128,6 +1128,26 @@
      "planned": [],
      "picks": [
       {
+       "player": "Neemias Queta",
+       "team": "BOS",
+       "pos": "C",
+       "espnId": 4397424,
+       "fpts": 24.4,
+       "mpg": 22.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 22.0,
+       "matchup": "BOS @ PHI",
+       "dates": [
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-15"
+       ],
+       "value": 24.4,
+       "gtd": false,
+       "waiver": "2026-11-09"
+      },
+      {
        "player": "Bobby Portis",
        "team": "MIA",
        "pos": "PF/C",
@@ -1146,25 +1166,6 @@
        "value": 22.3,
        "gtd": false,
        "waiver": "2026-11-08"
-      },
-      {
-       "player": "Tristan da Silva",
-       "team": "ORL",
-       "pos": "SF/PF",
-       "espnId": 4702382,
-       "fpts": 22.3,
-       "mpg": 27.8,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 23.2,
-       "matchup": "ORL @ SAC",
-       "dates": [
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-13"
-       ],
-       "value": 22.3,
-       "gtd": false
       },
       {
        "player": "Keaton Wagler",
@@ -1239,6 +1240,11 @@
        "player": "Julian Reese",
        "team": "NOP",
        "from": "2026-11-09"
+      },
+      {
+       "player": "Neemias Queta",
+       "team": "BOS",
+       "from": "2026-11-10"
       }
      ],
      "picks": []
@@ -1432,7 +1438,7 @@
     {
      "league": "Banijska",
      "mine": 6,
-     "open": 2,
+     "open": 3,
      "sitting": 0,
      "adds": 4,
      "addsLimit": 7,
@@ -1448,11 +1454,6 @@
        "player": "Julian Reese",
        "team": "NOP",
        "from": "2026-11-09"
-      },
-      {
-       "player": "Bobby Portis",
-       "team": "MIA",
-       "from": "2026-11-10"
       }
      ],
      "picks": [
@@ -1475,21 +1476,23 @@
        "gtd": false
       },
       {
-       "player": "Tristan da Silva",
-       "team": "ORL",
-       "pos": "SF/PF",
-       "espnId": 4702382,
+       "player": "Bobby Portis",
+       "team": "MIA",
+       "pos": "PF/C",
+       "espnId": 3064482,
        "fpts": 22.3,
-       "mpg": 27.8,
+       "mpg": 21.8,
        "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 23.2,
-       "matchup": "MIL @ ORL",
+       "gp": 9,
+       "cur": 20.8,
+       "matchup": "CLE @ MIA",
        "dates": [
-        "2026-11-13"
+        "2026-11-13",
+        "2026-11-14"
        ],
        "value": 22.3,
-       "gtd": false
+       "gtd": false,
+       "waiver": "2026-11-08"
       },
       {
        "player": "Keaton Wagler",
