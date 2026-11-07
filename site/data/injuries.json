@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:21:19Z",
+ "updated": "2026-11-07T20:18:42Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -74,29 +74,9 @@
   },
   {
    "team": "BKN",
-   "player": "Tyler Bilodeau",
-   "pos": "SF",
-   "updated": "2026-11-07",
-   "injury": "Shoulder",
-   "status": "Expected return: at least Nov 7",
-   "kind": "out",
-   "ret": "2026-11-07"
-  },
-  {
-   "team": "BKN",
    "player": "Noah Clowney",
    "pos": "PF",
    "updated": "2026-11-07",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "BOS",
-   "player": "Devin Carter",
-   "pos": "PG",
-   "updated": "2026-11-06",
    "injury": "Illness",
    "status": "GTD",
    "kind": "gtd",
@@ -483,16 +463,6 @@
    "ret": "2026-11-09"
   },
   {
-   "team": "MIL",
-   "player": "Kam Jones",
-   "pos": "PG",
-   "updated": "2026-11-06",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "MIN",
    "player": "Anthony Edwards",
    "pos": "SG",
@@ -584,6 +554,16 @@
   },
   {
    "team": "OKC",
+   "player": "Jaylin Williams",
+   "pos": "PF",
+   "updated": "2026-11-07",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
+  },
+  {
+   "team": "OKC",
    "player": "Thomas Sorber",
    "pos": "C",
    "updated": "2026-11-03",
@@ -593,14 +573,14 @@
    "ret": "2026-11-13"
   },
   {
-   "team": "OKC",
-   "player": "Jaylin Williams",
-   "pos": "PF",
+   "team": "ORL",
+   "player": "Desmond Bane",
+   "pos": "SG",
    "updated": "2026-11-07",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "injury": "Illness",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
   },
   {
    "team": "ORL",
@@ -861,16 +841,6 @@
    "status": "Expected return: at least Nov 20",
    "kind": "out",
    "ret": "2026-11-20"
-  },
-  {
-   "team": "UTA",
-   "player": "Trey Alexander",
-   "pos": "SG",
-   "updated": "2026-11-06",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "WAS",

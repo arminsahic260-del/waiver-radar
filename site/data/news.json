@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-07T19:21:53Z",
+ "updated": "2026-11-07T20:19:14Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "ORL",
+   "player": "Desmond Bane",
+   "headline": "Ruled out Saturday",
+   "note": "Bane (illness) has been ruled out for Saturday's game against the Warriors.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-injury-ruled-out-saturday-538008"
+  },
   {
    "date": "2026-11-07",
    "team": "WAS",
@@ -240,16 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jakob-poeltl-news-double-double-in-return-to-starting-spot-537953"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "TOR",
-   "player": "Collin Murray-Boyles",
-   "headline": "Strong showing at both ends of court",
-   "note": "Murray-Boyles notched 19 points (7-12 FG, 0-2 3Pt, 5-5 FT), seven rebounds, two assists, one block and four steals across 34 minutes during Friday's 121-107 victory over the Bucks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-strong-showing-at-both-ends-of-court-537952"
   },
   {
    "date": "2026-11-07",
@@ -524,6 +524,16 @@
   {
    "date": "2026-11-07",
    "team": "TOR",
+   "player": "Collin Murray-Boyles",
+   "headline": "Strong showing at both ends of court",
+   "note": "Murray-Boyles notched 19 points (7-12 FG, 0-2 3Pt, 5-5 FT), seven rebounds, two assists, one block and four steals across 34 minutes during Friday's 121-107 victory over the Bucks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-strong-showing-at-both-ends-of-court-537952"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "TOR",
    "player": "RJ Barrett",
    "headline": "Steps up with season-high 27 points",
    "note": "Barrett provided 27 points (9-21 FG, 0-4 3Pt, 9-11 FT), seven rebounds and four assists in 37 minutes during Friday's 121-107 victory over the Bucks.",
@@ -590,16 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deandre-hunter-injury-ruled-out-versus-spurs-537892"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "PHX",
-   "player": "Rasheer Fleming",
-   "headline": "Carrying questionable tag",
-   "note": "Fleming (ankle) is questionable for Saturday's game against the Rockets.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/rasheer-fleming-injury-carrying-questionable-tag-537891"
   }
  ]
 }
