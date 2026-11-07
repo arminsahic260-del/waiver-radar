@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:21:59Z",
+ "updated": "2026-11-07T02:02:11Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,7 +8,7 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-06T23:21:58Z",
+   "updated": "2026-11-07T02:02:10Z",
    "adds": {
     "period": 3,
     "used": 4,
@@ -21,8 +21,8 @@
      "pos": "PG",
      "slot": "PG",
      "espnId": 4277905,
-     "gp": 8,
-     "cur": 39.6,
+     "gp": 9,
+     "cur": 38.8,
      "proj": 44.4,
      "acq": "DRAFT",
      "draft": {
@@ -38,8 +38,8 @@
      "pos": "SG",
      "slot": "SG",
      "espnId": 4066757,
-     "gp": 8,
-     "cur": 20.2,
+     "gp": 9,
+     "cur": 18.7,
      "proj": 20.0,
      "acq": "ADD",
      "draft": null
@@ -50,8 +50,8 @@
      "pos": "SF/PF",
      "slot": "SF",
      "espnId": 5041939,
-     "gp": 7,
-     "cur": 47.7,
+     "gp": 8,
+     "cur": 44.2,
      "proj": 45.4,
      "acq": "DRAFT",
      "draft": {
@@ -84,8 +84,8 @@
      "pos": "C",
      "slot": "C",
      "espnId": 5174983,
-     "gp": 8,
-     "cur": 19.4,
+     "gp": 9,
+     "cur": 18.1,
      "proj": null,
      "acq": "ADD",
      "draft": null
@@ -96,8 +96,8 @@
      "pos": "PG",
      "slot": "G",
      "espnId": 6442,
-     "gp": 6,
-     "cur": 41.3,
+     "gp": 7,
+     "cur": 35.4,
      "proj": 44.2,
      "acq": "DRAFT",
      "draft": {
@@ -247,10 +247,10 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-06T23:21:59Z",
+   "updated": "2026-11-07T02:02:11Z",
    "adds": {
     "period": 3,
-    "used": 2,
+    "used": 3,
     "limit": 7
    },
    "players": [
@@ -260,8 +260,8 @@
      "pos": "PG/SG",
      "slot": "PG",
      "espnId": 4433627,
-     "gp": 8,
-     "cur": 34.0,
+     "gp": 9,
+     "cur": 32.3,
      "proj": 36.8,
      "acq": "DRAFT",
      "draft": {
@@ -277,8 +277,8 @@
      "pos": "SG/SF",
      "slot": "SG",
      "espnId": 3917376,
-     "gp": 8,
-     "cur": 38.6,
+     "gp": 9,
+     "cur": 36.9,
      "proj": 38.6,
      "acq": "DRAFT",
      "draft": {
@@ -294,8 +294,8 @@
      "pos": "SG/SF",
      "slot": "SF",
      "espnId": 5104155,
-     "gp": 8,
-     "cur": 23.4,
+     "gp": 9,
+     "cur": 22.1,
      "proj": 23.0,
      "acq": "ADD",
      "draft": {
@@ -311,8 +311,8 @@
      "pos": "SF/PF",
      "slot": "PF",
      "espnId": 4431671,
-     "gp": 9,
-     "cur": 34.0,
+     "gp": 10,
+     "cur": 32.0,
      "proj": 29.7,
      "acq": "DRAFT",
      "draft": {
@@ -328,8 +328,8 @@
      "pos": "C",
      "slot": "C",
      "espnId": 5105623,
-     "gp": 8,
-     "cur": 20.9,
+     "gp": 9,
+     "cur": 19.3,
      "proj": 33.8,
      "acq": "DRAFT",
      "draft": {
@@ -374,8 +374,8 @@
      "pos": "SF/PF",
      "slot": "UTIL",
      "espnId": 5041939,
-     "gp": 7,
-     "cur": 47.7,
+     "gp": 8,
+     "cur": 44.2,
      "proj": 45.4,
      "acq": "DRAFT",
      "draft": {
@@ -391,8 +391,8 @@
      "pos": "SG",
      "slot": "UTIL",
      "espnId": 5124612,
-     "gp": 8,
-     "cur": 29.1,
+     "gp": 9,
+     "cur": 30.1,
      "proj": 33.7,
      "acq": "DRAFT",
      "draft": {
@@ -403,16 +403,21 @@
      }
     },
     {
-     "name": "De'Andre Hunter",
-     "team": "SAC",
-     "pos": "SF/PF",
+     "name": "Ryan Kalkbrenner",
+     "team": "CHA",
+     "pos": "C",
      "slot": "UTIL",
-     "espnId": 4065732,
-     "gp": 8,
-     "cur": 18.5,
-     "proj": 23.9,
+     "espnId": 4576060,
+     "gp": 10,
+     "cur": 16.0,
+     "proj": 22.8,
      "acq": "ADD",
-     "draft": null
+     "draft": {
+      "pick": 180,
+      "round": 13,
+      "roundPick": 12,
+      "teamId": 3
+     }
     },
     {
      "name": "Alperen Sengun",
@@ -466,8 +471,8 @@
      "pos": "SF/PF",
      "slot": "IR",
      "espnId": 4576087,
-     "gp": 6,
-     "cur": 25.5,
+     "gp": 7,
+     "cur": 22.3,
      "proj": 29.3,
      "acq": "DRAFT",
      "draft": {

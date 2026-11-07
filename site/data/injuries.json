@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:21:21Z",
+ "updated": "2026-11-07T02:01:36Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -133,6 +133,16 @@
    "ret": "2026-11-09"
   },
   {
+   "team": "CHA",
+   "player": "Brandon Miller",
+   "pos": "SG",
+   "updated": "2026-11-06",
+   "injury": "Groin",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
    "team": "CHI",
    "player": "Jalen Smith",
    "pos": "C",
@@ -164,6 +174,16 @@
   },
   {
    "team": "CLE",
+   "player": "Jarrett Allen",
+   "pos": "C",
+   "updated": "2026-11-06",
+   "injury": "Knee",
+   "status": "Expected return: at least Nov 7",
+   "kind": "out",
+   "ret": "2026-11-07"
+  },
+  {
+   "team": "CLE",
    "player": "Jaylon Tyson",
    "pos": "SF",
    "updated": "2026-11-05",
@@ -181,36 +201,6 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
-  },
-  {
-   "team": "CLE",
-   "player": "Jarrett Allen",
-   "pos": "C",
-   "updated": "2026-11-04",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
-   "player": "Peyton Watson",
-   "pos": "SF",
-   "updated": "2026-11-05",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "CLE",
-   "player": "Tyrese Proctor",
-   "pos": "PG",
-   "updated": "2026-11-04",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "DAL",
@@ -243,36 +233,6 @@
    "ret": "2026-11-12"
   },
   {
-   "team": "DAL",
-   "player": "Kyrie Irving",
-   "pos": "PG",
-   "updated": "2026-11-06",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Max Christie",
-   "pos": "SG",
-   "updated": "2026-11-05",
-   "injury": "Hip",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "DAL",
-   "player": "Santi Aldama",
-   "pos": "C",
-   "updated": "2026-11-05",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "DEN",
    "player": "Julian Strawther",
    "pos": "SF",
@@ -281,16 +241,6 @@
    "status": "Expected return: at least Nov 29",
    "kind": "out",
    "ret": "2026-11-29"
-  },
-  {
-   "team": "DEN",
-   "player": "Spencer Jones",
-   "pos": "SF",
-   "updated": "2026-11-03",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 11",
-   "kind": "out",
-   "ret": "2026-11-11"
   },
   {
    "team": "DEN",
@@ -424,16 +374,6 @@
   },
   {
    "team": "IND",
-   "player": "T.J. McConnell",
-   "pos": "PG",
-   "updated": "2026-11-02",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
-  },
-  {
-   "team": "IND",
    "player": "Tyrese Haliburton",
    "pos": "PG",
    "updated": "2026-10-28",
@@ -448,6 +388,16 @@
    "pos": "SF",
    "updated": "2026-11-05",
    "injury": "Calf",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "IND",
+   "player": "T.J. McConnell",
+   "pos": "PG",
+   "updated": "2026-11-06",
+   "injury": "Hamstring",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -694,6 +644,16 @@
   },
   {
    "team": "PHI",
+   "player": "Adem Bona",
+   "pos": "C",
+   "updated": "2026-11-06",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
+  },
+  {
+   "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
    "updated": "2026-11-04",
@@ -701,16 +661,6 @@
    "status": "Expected return: at least Nov 18",
    "kind": "out",
    "ret": "2026-11-18"
-  },
-  {
-   "team": "PHI",
-   "player": "Adem Bona",
-   "pos": "C",
-   "updated": "2026-11-05",
-   "injury": "Back",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "PHX",
@@ -784,6 +734,16 @@
   },
   {
    "team": "SAC",
+   "player": "De'Andre Hunter",
+   "pos": "SF",
+   "updated": "2026-11-06",
+   "injury": "Illness",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
+  },
+  {
+   "team": "SAC",
    "player": "Keegan Murray",
    "pos": "PF",
    "updated": "2026-11-02",
@@ -803,16 +763,6 @@
    "ret": "2026-11-10"
   },
   {
-   "team": "SAC",
-   "player": "De'Andre Hunter",
-   "pos": "SF",
-   "updated": "2026-11-06",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "SAS",
    "player": "Jayden Quaintance",
    "pos": "PF",
@@ -828,6 +778,16 @@
    "pos": "PF",
    "updated": "2026-11-03",
    "injury": "Calf",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "TOR",
+   "player": "Immanuel Quickley",
+   "pos": "PG",
+   "updated": "2026-11-06",
+   "injury": "Hamstring",
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
@@ -854,43 +814,13 @@
   },
   {
    "team": "TOR",
-   "player": "Immanuel Quickley",
-   "pos": "PG",
-   "updated": "2026-11-06",
-   "injury": "Hamstring",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "TOR",
-   "player": "Jakob Poeltl",
-   "pos": "C",
-   "updated": "2026-11-06",
-   "injury": "Shoulder",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "TOR",
-   "player": "Kyle Anderson",
-   "pos": "PF",
-   "updated": "2026-11-06",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "TOR",
    "player": "Scottie Barnes",
    "pos": "PF",
-   "updated": "2026-11-05",
+   "updated": "2026-11-06",
    "injury": "Groin",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "UTA",
@@ -921,6 +851,16 @@
    "status": "GTD",
    "kind": "gtd",
    "ret": null
+  },
+  {
+   "team": "WAS",
+   "player": "Anthony Davis",
+   "pos": "PF",
+   "updated": "2026-11-06",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 7",
+   "kind": "out",
+   "ret": "2026-11-07"
   },
   {
    "team": "WAS",
@@ -961,16 +901,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "WAS",
-   "player": "Anthony Davis",
-   "pos": "PF",
-   "updated": "2026-11-05",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }
