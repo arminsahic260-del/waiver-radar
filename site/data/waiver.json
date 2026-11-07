@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:56:43Z",
+ "updated": "2026-11-07T09:21:53Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -207,11 +207,14 @@
    "horizon": "Do ~20.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Jusuf Nurkic",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4277919,
+   "waivers": {
+    "Legendi": "2026-11-09"
+   },
    "fpts": 24.4,
    "gp": 5,
    "cur": 24.4
