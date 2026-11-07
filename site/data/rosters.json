@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:21:50Z",
+ "updated": "2026-11-07T08:56:43Z",
  "leagues": [
   {
    "id": "legendi",
@@ -8,41 +8,46 @@
    "espnLeagueId": 2023498222,
    "espnTeamId": 1,
    "public": false,
-   "updated": "2026-11-07T08:21:50Z",
+   "updated": "2026-11-07T08:56:42Z",
    "adds": {
     "period": 3,
-    "used": 4,
+    "used": 5,
     "limit": 7
    },
    "players": [
     {
-     "name": "Trae Young",
-     "team": "WAS",
+     "name": "Mikel Brown Jr.",
+     "team": "BKN",
      "pos": "PG",
      "slot": "PG",
-     "espnId": 4277905,
-     "gp": 9,
-     "cur": 39.0,
-     "proj": 44.4,
-     "acq": "DRAFT",
+     "espnId": 5101761,
+     "gp": 6,
+     "cur": 19.0,
+     "proj": 24.0,
+     "acq": "ADD",
      "draft": {
-      "pick": 19,
-      "round": 2,
-      "roundPick": 5,
-      "teamId": 1
+      "pick": 151,
+      "round": 11,
+      "roundPick": 11,
+      "teamId": 9
      }
     },
     {
-     "name": "Sam Merrill",
-     "team": "CLE",
-     "pos": "SG",
+     "name": "Fred VanVleet",
+     "team": "HOU",
+     "pos": "PG/SG",
      "slot": "SG",
-     "espnId": 4066757,
-     "gp": 9,
-     "cur": 18.7,
-     "proj": 20.0,
-     "acq": "ADD",
-     "draft": null
+     "espnId": 2991230,
+     "gp": 7,
+     "cur": 32.7,
+     "proj": 33.4,
+     "acq": "DRAFT",
+     "draft": {
+      "pick": 94,
+      "round": 7,
+      "roundPick": 10,
+      "teamId": 1
+     }
     },
     {
      "name": "Aaron Nesmith",
@@ -91,19 +96,19 @@
      "draft": null
     },
     {
-     "name": "Fred VanVleet",
-     "team": "HOU",
-     "pos": "PG/SG",
+     "name": "Trae Young",
+     "team": "WAS",
+     "pos": "PG",
      "slot": "G",
-     "espnId": 2991230,
-     "gp": 7,
-     "cur": 32.7,
-     "proj": 33.4,
+     "espnId": 4277905,
+     "gp": 9,
+     "cur": 39.0,
+     "proj": 44.4,
      "acq": "DRAFT",
      "draft": {
-      "pick": 94,
-      "round": 7,
-      "roundPick": 10,
+      "pick": 19,
+      "round": 2,
+      "roundPick": 5,
       "teamId": 1
      }
     },
@@ -247,7 +252,7 @@
    "espnLeagueId": 465846171,
    "espnTeamId": 5,
    "public": false,
-   "updated": "2026-11-07T08:21:50Z",
+   "updated": "2026-11-07T08:56:43Z",
    "adds": {
     "period": 3,
     "used": 4,

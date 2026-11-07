@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:21:50Z",
+ "updated": "2026-11-07T08:56:43Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -72,37 +72,18 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": false,
+    "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-starting-friday-537887",
-   "note": "na tvom rosteru (Legendi)",
    "espnId": 4066757,
    "waivers": {
+    "Legendi": "2026-11-09",
     "Banijska": "2026-11-08"
    },
    "fpts": 20.2,
    "gp": 9,
    "cur": 18.7
-  },
-  {
-   "player": "Oso Ighodaro",
-   "team": "PHX",
-   "pos": "PF",
-   "priority": 1,
-   "reason": "RotoWire 5.11.: Starting Thursday. Ighodaro will start Thursday's game against the Magic. ~20.1 FP po utakmici (ove sezone 19.8 u 5 utk., prošle sezone 20.5; 22 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-starting-thursday-537804",
-   "espnId": 4601023,
-   "fpts": 20.1,
-   "gp": 5,
-   "cur": 19.8
   },
   {
    "player": "Leaky Black",
@@ -583,6 +564,25 @@
    "fpts": 12.5,
    "gp": 4,
    "cur": 11.8
+  },
+  {
+   "player": "Kyle Filipowski",
+   "team": "UTA",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Jusuf Nurkic (stopalo) je out najmanje do 20.11. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~12.1 FP po utakmici (ove sezone 2.5 u 6 utk., prošle sezone 26.4; 13 min).",
+   "role": "Veća minutaža dok je out Jusuf Nurkic",
+   "horizon": "Do ~20.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jusuf Nurkic; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4684793,
+   "fpts": 12.1,
+   "gp": 6,
+   "cur": 2.5
   }
  ],
  "days": [
@@ -592,10 +592,10 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
-     "open": 2,
+     "mine": 9,
+     "open": 1,
      "sitting": 0,
-     "adds": 3,
+     "adds": 2,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -622,24 +622,6 @@
        "gtd": false
       },
       {
-       "player": "Mikel Brown Jr.",
-       "team": "BKN",
-       "pos": "PG",
-       "espnId": 5101761,
-       "fpts": 21.0,
-       "mpg": 25.9,
-       "basis": "sezona+projekcija",
-       "gp": 6,
-       "cur": 19.0,
-       "matchup": "BKN @ ATL",
-       "dates": [
-        "2026-11-07",
-        "2026-11-08"
-       ],
-       "value": 21.0,
-       "gtd": false
-      },
-      {
        "player": "Marcus Smart",
        "team": "HOU",
        "pos": "PG/SG",
@@ -654,6 +636,23 @@
         "2026-11-07"
        ],
        "value": 21.0,
+       "gtd": false
+      },
+      {
+       "player": "Keldon Johnson",
+       "team": "SAS",
+       "pos": "SF/PF",
+       "espnId": 4395723,
+       "fpts": 18.3,
+       "mpg": 23.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 16.0,
+       "matchup": "SAS @ POR",
+       "dates": [
+        "2026-11-07"
+       ],
+       "value": 18.3,
        "gtd": false
       }
      ]
@@ -733,10 +732,10 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 4,
-     "open": 6,
+     "mine": 5,
+     "open": 5,
      "sitting": 0,
-     "adds": 2,
+     "adds": 1,
      "addsLimit": 7,
      "add": true,
      "addDays": [
@@ -1193,7 +1192,7 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 8,
+     "mine": 9,
      "open": 0,
      "sitting": 0,
      "adds": 5,
@@ -1301,21 +1300,21 @@
        "waiver": "2026-11-08"
       },
       {
-       "player": "Oso Ighodaro",
-       "team": "PHX",
-       "pos": "PF",
-       "espnId": 4601023,
-       "fpts": 20.1,
-       "mpg": 21.7,
+       "player": "Daniss Jenkins",
+       "team": "DET",
+       "pos": "PG",
+       "espnId": 5107199,
+       "fpts": 19.9,
+       "mpg": 22.6,
        "basis": "sezona+prošla sezona",
-       "gp": 5,
-       "cur": 19.8,
-       "matchup": "CHA @ PHX",
+       "gp": 8,
+       "cur": 20.0,
+       "matchup": "DET @ WAS",
        "dates": [
         "2026-11-12",
-        "2026-11-15"
+        "2026-11-14"
        ],
-       "value": 20.1,
+       "value": 19.9,
        "gtd": false
       }
      ]
