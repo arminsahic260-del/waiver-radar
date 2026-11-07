@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:01:36Z",
+ "updated": "2026-11-07T06:36:02Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -80,6 +80,16 @@
    "injury": "Shoulder",
    "status": "GTD",
    "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "BOS",
+   "player": "RJ Luis Jr.",
+   "pos": "SF",
+   "updated": "2026-11-07",
+   "injury": "Not Injury Related",
+   "status": "—",
+   "kind": "out",
    "ret": null
   },
   {
@@ -201,6 +211,16 @@
    "status": "Expected return: at least Nov 16",
    "kind": "out",
    "ret": "2026-11-16"
+  },
+  {
+   "team": "CLE",
+   "player": "Sam Merrill",
+   "pos": "SG",
+   "updated": "2026-11-06",
+   "injury": "Elbow",
+   "status": "Expected return: at least Nov 7",
+   "kind": "out",
+   "ret": "2026-11-07"
   },
   {
    "team": "DAL",
@@ -491,6 +511,16 @@
    "status": "Expected return: at least Apr 2",
    "kind": "out",
    "ret": "2027-04-02"
+  },
+  {
+   "team": "MIN",
+   "player": "Joan Beringer",
+   "pos": "C",
+   "updated": "2026-11-06",
+   "injury": "Fracture",
+   "status": "Expected return: at least Nov 8",
+   "kind": "out",
+   "ret": "2026-11-08"
   },
   {
    "team": "MIN",
