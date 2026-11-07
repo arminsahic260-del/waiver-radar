@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-07T17:21:52Z",
+ "updated": "2026-11-07T18:21:58Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "Asa Newell",
+   "headline": "Out for second leg of B2B",
+   "note": "Newell (toe) is out for Saturday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/asa-newell-injury-out-for-second-leg-of-b2b-537994"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "CLE",
+   "player": "Jaylon Tyson",
+   "headline": "Out vs. New York",
+   "note": "Tyson (ankle) is out for Saturday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-vs-new-york-537993"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "Jock Landale",
+   "headline": "Out again Saturday",
+   "note": "Landale (hip) has been ruled out for Saturday's game against the Nets.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jock-landale-injury-out-again-saturday-537992"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "CLE",
+   "player": "Sam Merrill",
+   "headline": "Not playing Saturday",
+   "note": "Merrill (elbow) is out for Saturday's game against the Knicks.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/sam-merrill-injury-not-playing-saturday-537991"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "CLE",
+   "player": "Jarrett Allen",
+   "headline": "Out Saturday",
+   "note": "Allen (knee) is out for Saturday's game against the Knicks",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-out-saturday-537989"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Expected to play Saturday",
+   "note": "Johnson (ankle) is probable for Saturday's game against Brooklyn.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-expected-to-play-saturday-537988"
+  },
   {
    "date": "2026-11-07",
    "team": "DAL",
@@ -193,66 +253,6 @@
   },
   {
    "date": "2026-11-07",
-   "team": "NOP",
-   "player": "Saddiq Bey",
-   "headline": "Productive off bench in loss",
-   "note": "Bey recorded 17 points (5-13 FG, 3-6 3Pt, 4-4 FT), five rebounds, four assists and one block over 31 minutes off the bench during Friday's 115-109 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-productive-off-bench-in-loss-537949"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "SAC",
-   "player": "Zach LaVine",
-   "headline": "Quiet night in defeat",
-   "note": "LaVine notched 14 points (4-12 FG, 1-6 3Pt, 5-5 FT), four rebounds, three assists and one steal over 35 minutes during Friday's 124-109 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-quiet-night-in-defeat-537948"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "SAC",
-   "player": "Darius Acuff",
-   "headline": "Collects eight assists in loss",
-   "note": "Acuff finished with 22 points (9-20 FG, 3-9 3Pt, 1-2 FT), three rebounds, eight assists and two steals in 33 minutes during Friday's 124-109 loss to San Antonio.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-collects-eight-assists-in-loss-537947"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "NOP",
-   "player": "Karlo Matkovic",
-   "headline": "Chips in 18 in Friday's loss",
-   "note": "Matkovic had 18 points (7-13 FG, 4-8 3Pt), three rebounds and one assist across 18 minutes during Friday's 115-109 loss to the Timberwolves.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-chips-in-18-in-fridays-loss-537946"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "SAC",
-   "player": "Domantas Sabonis",
-   "headline": "Records double-double in blowout loss",
-   "note": "Sabonis registered 17 points (8-12 FG, 1-2 3Pt, 0-1 FT), 12 rebounds and five assists over 31 minutes during Friday's 124-109 loss to the Spurs.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-records-double-double-in-blowout-loss-537945"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "SAS",
-   "player": "Stephon Castle",
-   "headline": "Diverse line in victory",
-   "note": "Castle had 19 points (7-13 FG, 1-3 3Pt, 4-5 FT), three rebounds and seven assists over 28 minutes during Friday's 124-109 win over Sacramento.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-diverse-line-in-victory-537944"
-  },
-  {
-   "date": "2026-11-07",
    "team": "LAL",
    "player": "Ziaire Williams",
    "headline": "Adequate from bench",
@@ -353,6 +353,26 @@
   },
   {
    "date": "2026-11-07",
+   "team": "NOP",
+   "player": "Saddiq Bey",
+   "headline": "Productive off bench in loss",
+   "note": "Bey recorded 17 points (5-13 FG, 3-6 3Pt, 4-4 FT), five rebounds, four assists and one block over 31 minutes off the bench during Friday's 115-109 loss to the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-productive-off-bench-in-loss-537949"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "NOP",
+   "player": "Karlo Matkovic",
+   "headline": "Chips in 18 in Friday's loss",
+   "note": "Matkovic had 18 points (7-13 FG, 4-8 3Pt), three rebounds and one assist across 18 minutes during Friday's 115-109 loss to the Timberwolves.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-chips-in-18-in-fridays-loss-537946"
+  },
+  {
+   "date": "2026-11-07",
    "team": "OKC",
    "player": "Isaiah Hartenstein",
    "headline": "Scoring slump continues",
@@ -420,6 +440,46 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-solid-in-defeat-537933"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
+   "player": "Zach LaVine",
+   "headline": "Quiet night in defeat",
+   "note": "LaVine notched 14 points (4-12 FG, 1-6 3Pt, 5-5 FT), four rebounds, three assists and one steal over 35 minutes during Friday's 124-109 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/zach-lavine-news-quiet-night-in-defeat-537948"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
+   "player": "Darius Acuff",
+   "headline": "Collects eight assists in loss",
+   "note": "Acuff finished with 22 points (9-20 FG, 3-9 3Pt, 1-2 FT), three rebounds, eight assists and two steals in 33 minutes during Friday's 124-109 loss to San Antonio.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/darius-acuff-news-collects-eight-assists-in-loss-537947"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAC",
+   "player": "Domantas Sabonis",
+   "headline": "Records double-double in blowout loss",
+   "note": "Sabonis registered 17 points (8-12 FG, 1-2 3Pt, 0-1 FT), 12 rebounds and five assists over 31 minutes during Friday's 124-109 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-records-double-double-in-blowout-loss-537945"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Diverse line in victory",
+   "note": "Castle had 19 points (7-13 FG, 1-3 3Pt, 4-5 FT), three rebounds and seven assists over 28 minutes during Friday's 124-109 win over Sacramento.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-diverse-line-in-victory-537944"
   },
   {
    "date": "2026-11-07",
@@ -540,66 +600,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-wont-play-friday-537885"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "TOR",
-   "player": "Scottie Barnes",
-   "headline": "Ruled out Friday",
-   "note": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-ruled-out-friday-537879"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "TOR",
-   "player": "Immanuel Quickley",
-   "headline": "Ruled out for Friday",
-   "note": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/immanuel-quickley-injury-ruled-out-for-friday-537878"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "PHI",
-   "player": "Adem Bona",
-   "headline": "Won't play Friday",
-   "note": "Bona (neck) is listed as out for Friday's game versus the Cavaliers.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/adem-bona-injury-wont-play-friday-537870"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "IND",
-   "player": "T.J. McConnell",
-   "headline": "Questionable for Saturday",
-   "note": "McConnell (hamstring) is questionable for Saturday's game against Denver.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-questionable-for-saturday-537869"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "IND",
-   "player": "Kelly Oubre",
-   "headline": "Iffy for Saturday",
-   "note": "Oubre (calf) is questionable for Saturday's game against Denver.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-iffy-for-saturday-537868"
-  },
-  {
-   "date": "2026-11-06",
-   "team": "DEN",
-   "player": "DeMar DeRozan",
-   "headline": "Expected to play Saturday",
-   "note": "DeRozan (back) is probable for Saturday's game against the Pacers.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/demar-derozan-injury-expected-to-play-saturday-537867"
   }
  ]
 }

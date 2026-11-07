@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:21:17Z",
+ "updated": "2026-11-07T18:21:24Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -134,20 +134,20 @@
   },
   {
    "team": "CHA",
-   "player": "Moussa Diabate",
-   "pos": "C",
-   "updated": "2026-11-06",
-   "injury": "Quadriceps",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
-  },
-  {
-   "team": "CHA",
    "player": "Brandon Miller",
    "pos": "SG",
    "updated": "2026-11-06",
    "injury": "Groin",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "CHA",
+   "player": "Moussa Diabate",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Quadriceps",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -664,16 +664,6 @@
   },
   {
    "team": "PHI",
-   "player": "Adem Bona",
-   "pos": "C",
-   "updated": "2026-11-06",
-   "injury": "Back",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
-  },
-  {
-   "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
    "updated": "2026-11-04",
@@ -681,6 +671,16 @@
    "status": "Expected return: at least Nov 18",
    "kind": "out",
    "ret": "2026-11-18"
+  },
+  {
+   "team": "PHI",
+   "player": "Adem Bona",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Back",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "PHX",
@@ -804,16 +804,6 @@
   },
   {
    "team": "TOR",
-   "player": "Immanuel Quickley",
-   "pos": "PG",
-   "updated": "2026-11-06",
-   "injury": "Hamstring",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
-  },
-  {
-   "team": "TOR",
    "player": "Kawhi Leonard",
    "pos": "SF",
    "updated": "2026-10-27",
@@ -834,13 +824,23 @@
   },
   {
    "team": "TOR",
+   "player": "Immanuel Quickley",
+   "pos": "PG",
+   "updated": "2026-11-07",
+   "injury": "Hamstring",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "TOR",
    "player": "Scottie Barnes",
    "pos": "PF",
-   "updated": "2026-11-06",
+   "updated": "2026-11-07",
    "injury": "Groin",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   },
   {
    "team": "UTA",

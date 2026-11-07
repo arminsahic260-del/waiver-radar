@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:21:53Z",
+ "updated": "2026-11-07T18:22:00Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -7,7 +7,7 @@
    "team": "TOR",
    "pos": "PG",
    "priority": 1,
-   "reason": "RotoWire 6.11.: Starting Friday. Shead will start Friday against the Bucks, Esfandiar Baraheni of The Athletic reports. ~21.9 FP po utakmici (ove sezone 22.8 u 9 utk., prošle sezone 20.0; 23 min). Immanuel Quickley (stražnja loža) je out najmanje do 9.11.; Scottie Barnes (prepone) je out najmanje do 9.11. Jamal Shead je sljedeći PG u rotaciji TOR-a za te minute; ~21.9 FP po utakmici (ove sezone 22.8 u 9 utk., prošle sezone 20.0; 23 min).",
+   "reason": "RotoWire 6.11.: Starting Friday. Shead will start Friday against the Bucks, Esfandiar Baraheni of The Athletic reports. ~21.9 FP po utakmici (ove sezone 22.8 u 9 utk., prošle sezone 20.0; 23 min). Scottie Barnes (prepone) je upitan (GTD). Jamal Shead je sljedeći PG u rotaciji TOR-a za te minute; ~21.9 FP po utakmici (ove sezone 22.8 u 9 utk., prošle sezone 20.0; 23 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -220,28 +220,6 @@
    "cur": 24.4
   },
   {
-   "player": "Ja'Kobe Walter",
-   "team": "TOR",
-   "pos": "SG",
-   "priority": 2,
-   "reason": "Immanuel Quickley (stražnja loža) je out najmanje do 9.11.; Scottie Barnes (prepone) je out najmanje do 9.11. Ja'Kobe Walter je prvi SG u rotaciji TOR-a za te minute; ~22.3 FP po utakmici (ove sezone 24.7 u 9 utk., prošle sezone 16.9; 26 min).",
-   "role": "Veća minutaža dok su out Immanuel Quickley i Scottie Barnes",
-   "horizon": "Do ~9.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Immanuel Quickley",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4684272,
-   "waivers": {
-    "Banijska": "2026-11-08"
-   },
-   "fpts": 22.3,
-   "gp": 9,
-   "cur": 24.7
-  },
-  {
    "player": "Keaton Wagler",
    "team": "LAC",
    "pos": "PG/SG",
@@ -280,25 +258,6 @@
    "cur": 15.5
   },
   {
-   "player": "Ryan Kalkbrenner",
-   "team": "CHA",
-   "pos": "C",
-   "priority": 2,
-   "reason": "Moussa Diabate (kvadriceps) je out najmanje do 9.11. Ryan Kalkbrenner je prvi C u rotaciji CHA-a za te minute; ~17.8 FP po utakmici (ove sezone 16.0 u 10 utk., prošle sezone 22.1; 18 min).",
-   "role": "Veća minutaža dok je out Moussa Diabate",
-   "horizon": "Do ~9.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Moussa Diabate; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4576060,
-   "fpts": 17.8,
-   "gp": 10,
-   "cur": 16.0
-  },
-  {
    "player": "Sam Hauser",
    "team": "BOS",
    "pos": "SF/PF",
@@ -322,8 +281,8 @@
    "team": "CHA",
    "pos": "SF/PF",
    "priority": 2,
-   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 9.11.; Moussa Diabate (kvadriceps) je out najmanje do 9.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~15.2 FP po utakmici (ove sezone 11.5 u 10 utk., prošle sezone 24.5; 22 min).",
-   "role": "Veća minutaža dok su out Kon Knueppel i Moussa Diabate",
+   "reason": "Kon Knueppel (stražnja loža) je out najmanje do 9.11. Royce O'Neale je prvi SF/PF u rotaciji CHA-a za te minute; ~15.2 FP po utakmici (ove sezone 11.5 u 10 utk., prošle sezone 24.5; 22 min).",
+   "role": "Veća minutaža dok je out Kon Knueppel",
    "horizon": "Do ~9.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Kon Knueppel; nizak bodovni plafon",
    "avail": {
@@ -415,6 +374,28 @@
    "fpts": 23.3,
    "gp": 7,
    "cur": 22.0
+  },
+  {
+   "player": "Ja'Kobe Walter",
+   "team": "TOR",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "Scottie Barnes (prepone) je upitan (GTD). Ja'Kobe Walter je sljedeći SG u rotaciji TOR-a za te minute; ~22.3 FP po utakmici (ove sezone 24.7 u 9 utk., prošle sezone 16.9; 26 min).",
+   "role": "Zamjena ako Scottie Barnes ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Scottie Barnes",
+   "avail": {
+    "Legendi": false,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4684272,
+   "waivers": {
+    "Banijska": "2026-11-08"
+   },
+   "fpts": 22.3,
+   "gp": 9,
+   "cur": 24.7
   },
   {
    "player": "Isaiah Jackson",
