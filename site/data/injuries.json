@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:21:18Z",
+ "updated": "2026-11-07T23:21:21Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -51,16 +51,6 @@
    "status": "Expected return: at least Nov 20",
    "kind": "out",
    "ret": "2026-11-20"
-  },
-  {
-   "team": "ATL",
-   "player": "Jalen Johnson",
-   "pos": "PF",
-   "updated": "2026-11-07",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "BKN",
@@ -244,6 +234,16 @@
   },
   {
    "team": "DET",
+   "player": "Isaiah Joe",
+   "pos": "SG",
+   "updated": "2026-11-07",
+   "injury": "Hip",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
    "updated": "2026-10-25",
@@ -254,10 +254,20 @@
   },
   {
    "team": "DET",
-   "player": "Isaiah Joe",
+   "player": "EJ Harkless",
    "pos": "SG",
-   "updated": "2026-11-05",
-   "injury": "Hip",
+   "updated": "2026-11-07",
+   "injury": "Not Injury Related",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DET",
+   "player": "Isaac Jones",
+   "pos": "PF",
+   "updated": "2026-11-07",
+   "injury": "Not Injury Related",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -408,6 +418,16 @@
    "pos": "C",
    "updated": "2026-11-05",
    "injury": "Foot",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "LAL",
+   "player": "Luka Doncic",
+   "pos": "PG",
+   "updated": "2026-11-07",
+   "injury": "Back",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
