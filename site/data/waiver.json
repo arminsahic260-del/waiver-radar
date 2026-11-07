@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:46:19Z",
+ "updated": "2026-11-07T16:21:59Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -90,7 +90,7 @@
    "team": "SAC",
    "pos": "SF",
    "priority": 1,
-   "reason": "RotoWire 6.11.: Starting vs. San Antonio. Black is in the starting lineup for Friday's game against the Spurs, Sean Cunningham of Fox 40 Sacramento reports. ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min). De'Andre Hunter (bolest) je out najmanje do 8.11.; Keegan Murray (gležanj) je out najmanje do 10.11. Leaky Black je prvi SF u rotaciji SAC-a za te minute; ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min).",
+   "reason": "RotoWire 6.11.: Starting vs. San Antonio. Black is in the starting lineup for Friday's game against the Spurs, Sean Cunningham of Fox 40 Sacramento reports. ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min). Keegan Murray (gležanj) je out najmanje do 10.11. Leaky Black je prvi SF u rotaciji SAC-a za te minute; ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -109,7 +109,7 @@
    "team": "WAS",
    "pos": "C",
    "priority": 1,
-   "reason": "RotoWire 6.11.: Starting Friday. Ayton will start Friday against the Hawks. ~19.8 FP po utakmici (ove sezone 16.1 u 9 utk., prošle sezone 28.1; 20 min). Anthony Davis (gležanj) je out najmanje do 7.11. Deandre Ayton je prvi C u rotaciji WAS-a za te minute; ~19.8 FP po utakmici (ove sezone 16.1 u 9 utk., prošle sezone 28.1; 20 min).",
+   "reason": "RotoWire 6.11.: Starting Friday. Ayton will start Friday against the Hawks. ~19.8 FP po utakmici (ove sezone 16.1 u 9 utk., prošle sezone 28.1; 20 min). Anthony Davis (gležanj) je upitan (GTD). Deandre Ayton je sljedeći C u rotaciji WAS-a za te minute; ~19.8 FP po utakmici (ove sezone 16.1 u 9 utk., prošle sezone 28.1; 20 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -162,23 +162,23 @@
    "cur": 15.4
   },
   {
-   "player": "Tyrese Proctor",
-   "team": "CLE",
-   "pos": "SG",
+   "player": "Jaylin Williams",
+   "team": "OKC",
+   "pos": "PF/C",
    "priority": 1,
-   "reason": "Sam Merrill (lakat) je out najmanje do 7.11. Tyrese Proctor je sljedeći SG u rotaciji CLE-a za te minute; ~13.5 FP po utakmici (ove sezone 15.2 u 8 utk., prošle sezone 10.1; 14 min). RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder.",
-   "role": "Starter dok je out Sam Merrill",
-   "horizon": "Do ~7.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Sam Merrill; nizak bodovni plafon",
+   "reason": "Chet Holmgren (koljeno) je out najmanje do 2.1. Jaylin Williams je sljedeći PF/C u rotaciji OKC-a za te minute; ~13.1 FP po utakmici (ove sezone 8.9 u 7 utk., prošle sezone 20.4; 19 min). RotoWire 2.11.: Starting Monday.",
+   "role": "Starter dok je out Chet Holmgren",
+   "horizon": "Do ~2.1. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Chet Holmgren; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
-   "source": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-starting-against-thunder-537572",
-   "espnId": 5023693,
-   "fpts": 13.5,
-   "gp": 8,
-   "cur": 15.2
+   "source": "https://www.rotowire.com/basketball/headlines/jaylin-williams-news-starting-monday-537249",
+   "espnId": 4432823,
+   "fpts": 13.1,
+   "gp": 7,
+   "cur": 8.9
   },
   {
    "player": "T.J. McConnell",
@@ -337,23 +337,23 @@
    "cur": 11.5
   },
   {
-   "player": "Zuby Ejiofor",
-   "team": "ATL",
-   "pos": "PF",
+   "player": "Tyrese Proctor",
+   "team": "CLE",
+   "pos": "SG",
    "priority": 2,
-   "reason": "Jalen Johnson (gležanj) je out najmanje do 7.11. Zuby Ejiofor je prvi PF u rotaciji ATL-a za te minute; ~13.6 FP po utakmici (ove sezone, 5 utk., 11 min).",
-   "role": "Veća minutaža dok je out Jalen Johnson",
-   "horizon": "Do ~7.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
+   "reason": "RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder. ~13.5 FP po utakmici (ove sezone 15.2 u 8 utk., prošle sezone 10.1; 14 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~14 FP)",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 5106262,
-   "fpts": 13.6,
-   "gp": 5,
-   "cur": 13.6
+   "source": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-starting-against-thunder-537572",
+   "espnId": 5023693,
+   "fpts": 13.5,
+   "gp": 8,
+   "cur": 15.2
   },
   {
    "player": "Scoot Henderson",
@@ -436,23 +436,26 @@
    "cur": 24.1
   },
   {
-   "player": "Dylan Cardwell",
+   "player": "De'Andre Hunter",
    "team": "SAC",
-   "pos": "C",
+   "pos": "SF/PF",
    "priority": 3,
-   "reason": "De'Andre Hunter (bolest) je out najmanje do 8.11.; Keegan Murray (gležanj) je out najmanje do 10.11. Dylan Cardwell je sljedeći C u rotaciji SAC-a za te minute; ~21.7 FP po utakmici (ove sezone 19.0 u 2 utk., prošle sezone 23.0; 18 min).",
-   "role": "Veća minutaža dok su out De'Andre Hunter i Keegan Murray",
-   "horizon": "Do ~8.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati De'Andre Hunter",
+   "reason": "Keegan Murray (gležanj) je out najmanje do 10.11. De'Andre Hunter je sljedeći SF/PF u rotaciji SAC-a za te minute; ~19.3 FP po utakmici (ove sezone 18.5 u 8 utk., prošle sezone 21.0; 30 min).",
+   "role": "Veća minutaža dok je out Keegan Murray",
+   "horizon": "Do ~10.11. (najraniji povratak)",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Keegan Murray",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4433174,
-   "fpts": 21.7,
-   "gp": 2,
-   "cur": 19.0
+   "espnId": 4065732,
+   "waivers": {
+    "Banijska": "2026-11-08"
+   },
+   "fpts": 19.3,
+   "gp": 8,
+   "cur": 18.5
   },
   {
    "player": "Keldon Johnson",
@@ -472,6 +475,25 @@
    "fpts": 18.3,
    "gp": 9,
    "cur": 16.0
+  },
+  {
+   "player": "Jock Landale",
+   "team": "ATL",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Jalen Johnson (gležanj) je upitan (GTD). Jock Landale je sljedeći C u rotaciji ATL-a za te minute; ~17.3 FP po utakmici (ove sezone 14.3 u 7 utk., prošle sezone 22.7; 18 min).",
+   "role": "Zamjena ako Jalen Johnson ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3146557,
+   "fpts": 17.3,
+   "gp": 7,
+   "cur": 14.3
   },
   {
    "player": "Sidy Cissoko",
@@ -512,61 +534,23 @@
    "cur": 13.5
   },
   {
-   "player": "Kenrich Williams",
-   "team": "OKC",
-   "pos": "SF",
-   "priority": 3,
-   "reason": "Chet Holmgren (koljeno) je out najmanje do 2.1. Kenrich Williams je sljedeći SF u rotaciji OKC-a za te minute; ~13.8 FP po utakmici (ove sezone 13.7 u 9 utk., prošle sezone 13.9; 17 min).",
-   "role": "Veća minutaža dok je out Chet Holmgren",
-   "horizon": "Do ~2.1. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Chet Holmgren; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3133626,
-   "fpts": 13.8,
-   "gp": 9,
-   "cur": 13.7
-  },
-  {
-   "player": "Corey Kispert",
+   "player": "Zuby Ejiofor",
    "team": "ATL",
-   "pos": "SG/SF",
+   "pos": "PF",
    "priority": 3,
-   "reason": "Jalen Johnson (gležanj) je out najmanje do 7.11. Corey Kispert je sljedeći SG/SF u rotaciji ATL-a za te minute; ~13.5 FP po utakmici (ove sezone 12.2 u 6 utk., prošle sezone 15.5; 13 min).",
-   "role": "Veća minutaža dok je out Jalen Johnson",
-   "horizon": "Do ~7.11. (najraniji povratak)",
+   "reason": "Jalen Johnson (gležanj) je upitan (GTD). Zuby Ejiofor je sljedeći PF u rotaciji ATL-a za te minute; ~13.6 FP po utakmici (ove sezone, 5 utk., 11 min).",
+   "role": "Zamjena ako Jalen Johnson ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
    "risk": "Uloga pada kad se vrati Jalen Johnson; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4280151,
-   "fpts": 13.5,
-   "gp": 6,
-   "cur": 12.2
-  },
-  {
-   "player": "Thomas Bryant",
-   "team": "CLE",
-   "pos": "C",
-   "priority": 3,
-   "reason": "Jarrett Allen (koljeno) je out najmanje do 7.11. Thomas Bryant je sljedeći C u rotaciji CLE-a za te minute; ~12.5 FP po utakmici (ove sezone 11.8 u 4 utk., prošle sezone 13.3; 12 min).",
-   "role": "Veća minutaža dok je out Jarrett Allen",
-   "horizon": "Do ~7.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Jarrett Allen; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3934723,
-   "fpts": 12.5,
-   "gp": 4,
-   "cur": 11.8
+   "espnId": 5106262,
+   "fpts": 13.6,
+   "gp": 5,
+   "cur": 13.6
   },
   {
    "player": "Kyle Filipowski",
@@ -586,6 +570,25 @@
    "fpts": 12.1,
    "gp": 6,
    "cur": 2.5
+  },
+  {
+   "player": "Caleb Martin",
+   "team": "DAL",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "RotoWire 6.11.: Starting Friday. Martin is in the starting lineup for Friday's matchup with the Jazz, Christian Clark of The Athletic reports. ~10.3 FP po utakmici (ove sezone 9.6 u 5 utk., prošle sezone 11.2; 17 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "I kao starter nizak plafon (~10 FP)",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/caleb-martin-news-starting-friday-537897",
+   "espnId": 3138160,
+   "fpts": 10.3,
+   "gp": 5,
+   "cur": 9.6
   }
  ],
  "days": [
