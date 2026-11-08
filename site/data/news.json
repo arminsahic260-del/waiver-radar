@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-08T13:40:45Z",
+ "updated": "2026-11-08T14:21:58Z",
  "items": [
+  {
+   "date": "2026-11-08",
+   "team": "SAS",
+   "player": "Victor Wembanyama",
+   "headline": "Scores 29 points Saturday",
+   "note": "Wembanyama posted 29 points (9-13 FG, 3-6 3Pt, 8-9 FT), seven rebounds, three assists, a steal and a block across 24 minutes in Saturday's 125-103 win over the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/victor-wembanyama-news-scores-29-points-saturday-538109"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "PHX",
+   "player": "Dillon Brooks",
+   "headline": "Puts up 11 points Saturday",
+   "note": "Brooks notched 11 points (4-10 FG, 3-7 3Pt), four rebounds and an assist across 37 minutes in Saturday's 102-99 win over the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dillon-brooks-news-puts-up-11-points-saturday-538108"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "PHX",
+   "player": "Jalen Green",
+   "headline": "Scores 16, adds six dimes",
+   "note": "Green finished with 16 points (7-14 FG, 0-1 3Pt, 2-4 FT), three rebounds, six assists and a steal across 34 minutes in Saturday's 102-99 win over the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-green-news-scores-16-adds-six-dimes-538107"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "PHX",
+   "player": "Devin Booker",
+   "headline": "Catches fire late in win",
+   "note": "Booker delivered 24 points (10-24 FG, 2-9 3Pt, 2-2 FT), two rebounds, three assists and three steals across 39 minutes in Saturday's 102-99 win over the Rockets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-booker-news-catches-fire-late-in-win-538106"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "HOU",
+   "player": "Fred VanVleet",
+   "headline": "Hits four threes Saturday",
+   "note": "VanVleet tallied 16 points (6-12 FG, 4-9 3Pt), three rebounds, four assists and a block across 31 minutes in Saturday's 102-99 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-hits-four-threes-saturday-538105"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "HOU",
+   "player": "Amen Thompson",
+   "headline": "Scores 17, adds four blocks",
+   "note": "Thompson registered 17 points (7-15 FG, 3-4 FT), eight rebounds, a steal and four blocks across 39 minutes in Saturday's 102-99 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/amen-thompson-news-scores-17-adds-four-blocks-538104"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "HOU",
+   "player": "Kevin Durant",
+   "headline": "Scores 21 despite shooting woes",
+   "note": "Durant posted 21 points (5-14 FG, 1-7 3Pt, 10-11 FT), 10 rebounds, three assists and a steal across 38 minutes in Saturday's 102-99 loss to the Suns.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-scores-21-despite-shooting-woes-538103"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "GSW",
+   "player": "Draymond Green",
+   "headline": "Dishes out season-high 13 assists",
+   "note": "Green recorded two points (1-5 FG, 0-1 3Pt, 0-2 FT), six rebounds, 13 assists, two steals and two blocks across 34 minutes in Saturday's 126-119 overtime win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-dishes-out-season-high-13-assists-538102"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "GSW",
+   "player": "Brandin Podziemski",
+   "headline": "Hits four triples in OT win",
+   "note": "Podziemski finished with 15 points (5-7 FG, 4-5 3Pt, 1-2 FT), seven rebounds, an assist, two steals and a block across 39 minutes in Saturday's 126-119 overtime win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/brandin-podziemski-news-hits-four-triples-in-ot-win-538101"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "GSW",
+   "player": "Yaxel Lendeborg",
+   "headline": "Scores 23 points with three blocks",
+   "note": "Lendeborg notched 23 points (9-15 FG, 2-4 3Pt, 3-4 FT), eight rebounds, three assists and three blocks across 37 minutes in Saturday's 126-119 overtime win over the Magic.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-news-scores-23-points-with-three-blocks-538100"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "ORL",
+   "player": "Wendell Carter",
+   "headline": "Posts another double-double",
+   "note": "Carter registered 19 points (6-12 FG, 3-3 3Pt, 4-9 FT), 11 rebounds and two blocks across 40 minutes in Saturday's 126-119 overtime loss to the Warriors.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-posts-another-double-double-538099"
+  },
   {
    "date": "2026-11-08",
    "team": "ORL",
@@ -60,16 +170,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-leads-wizards-with-19-points-538093"
-  },
-  {
-   "date": "2026-11-08",
-   "team": "ORL",
-   "player": "Wendell Carter",
-   "headline": "Posts another double-double",
-   "note": "Carter registered 19 points (6-12 FG, 3-3 3Pt, 4-9 FT), 11 rebounds and two blocks across 40 minutes in Saturday's 126-119 overtime loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/wendell-carter-news-posts-another-double-double-538099"
   },
   {
    "date": "2026-11-07",
@@ -150,116 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-lands-five-triples-in-loss-538085"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "IND",
-   "player": "Kelly Oubre",
-   "headline": "Returns from injury in loss",
-   "note": "Oubre ended Saturday's 114-102 loss to the Nuggets with two points (1-5 FG, 0-3 3Pt), one rebound and two blocks across 16 minutes.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kelly-oubre-news-returns-from-injury-in-loss-538084"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "DEN",
-   "player": "Trevon Brazile",
-   "headline": "Logs season-low 14 minutes",
-   "note": "Brazile ended with three points (1-3 FG, 1-2 3Pt), four rebounds and two assists over 14 minutes during Saturday's 114-102 win over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/trevon-brazile-news-logs-season-low-14-minutes-538083"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "DEN",
-   "player": "Christian Braun",
-   "headline": "Passive performance in win",
-   "note": "Braun finished with six points (2-8 FG, 0-4 3Pt, 2-2 FT), four rebounds, one assist and one steal across 29 minutes during Saturday's 114-102 victory over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/christian-braun-news-passive-performance-in-win-538082"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "DEN",
-   "player": "Spencer Jones",
-   "headline": "Scores 13 points in season debut",
-   "note": "Jones had 13 points (5-6 FG, 3-3 3Pt), six rebounds and one block across 21 minutes during Saturday's 114-102 win over the Pacers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/spencer-jones-news-scores-13-points-in-season-debut-538081"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "ORL",
-   "player": "Anthony Black",
-   "headline": "Exits game with cramps",
-   "note": "Black exited Saturday's 126-119 overtime loss to the Warriors with left leg cramps and did not return, Jason Beede of the Orlando Sentinel reports.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/anthony-black-news-exits-game-with-cramps-538080"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "HOU",
-   "player": "Jabari Smith",
-   "headline": "Nets 15 points with full line",
-   "note": "Smith racked up 15 points (7-12 FG, 1-4 3Pt), nine rebounds, two assists, one block and three steals over 39 minutes during Saturday's 102-99 loss to Phoenix.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jabari-smith-news-nets-15-points-with-full-line-538079"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "ORL",
-   "player": "Franz Wagner",
-   "headline": "Double-doubles in loss",
-   "note": "Wagner produced 30 points (11-22 FG, 3-7 3Pt, 5-5 FT), six rebounds, 11 assists, two steals and six turnovers across 40 minutes in Saturday's 126-119 overtime loss to the Warriors.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-double-doubles-in-loss-538078"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "GSW",
-   "player": "Stephen Curry",
-   "headline": "Erupts for 41 points in win",
-   "note": "Curry popped off for 41 points (13-19 FG, 5-10 3Pt, 10-10 FT), six rebounds and six assists over 36 minutes in Saturday's 126-119 overtime win over Orlando.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/stephen-curry-news-erupts-for-41-points-in-win-538077"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "WAS",
-   "player": "Kyshawn George",
-   "headline": "Swats three shots Saturday",
-   "note": "George finished with 14 points (5-16 FG, 2-8 3Pt, 2-2 FT), seven rebounds, six assists and three blocks across 30 minutes in Saturday's 114-75 loss to Oklahoma City.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/kyshawn-george-news-swats-three-shots-saturday-538076"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "CLE",
-   "player": "Peyton Watson",
-   "headline": "Scores 12 points with three stocks",
-   "note": "Watson provided 12 points (5-11 FG, 1-5 3Pt, 1-2 FT), six rebounds, three assists, two blocks and one steal over 29 minutes during Saturday's 109-97 loss to the Knicks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/peyton-watson-news-scores-12-points-with-three-stocks-538075"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "ATL",
-   "player": "Nickeil Alexander-Walker",
-   "headline": "Scores 20 points in win",
-   "note": "Alexander-Walker finished with 20 points (7-17 FG, 2-9 3Pt, 4-5 FT), three rebounds and one assist across 31 minutes in Saturday's 124-121 win over Brooklyn.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-scores-20-points-in-win-538074"
   },
   {
    "date": "2026-11-07",
@@ -510,6 +500,16 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-out-against-wizards-538004"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "Nickeil Alexander-Walker",
+   "headline": "Scores 20 points in win",
+   "note": "Alexander-Walker finished with 20 points (7-17 FG, 2-9 3Pt, 4-5 FT), three rebounds and one assist across 31 minutes in Saturday's 124-121 win over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nickeil-alexander-walker-news-scores-20-points-in-win-538074"
   },
   {
    "date": "2026-11-07",
