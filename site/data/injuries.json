@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:42:48Z",
+ "updated": "2026-11-08T06:18:48Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -64,13 +64,13 @@
   },
   {
    "team": "BKN",
-   "player": "Noah Clowney",
-   "pos": "PF",
+   "player": "Mikel Brown Jr.",
+   "pos": "PG",
    "updated": "2026-11-07",
-   "injury": "Illness",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "injury": "Rest",
+   "status": "Expected return: at least Nov 11",
+   "kind": "out",
+   "ret": "2026-11-11"
   },
   {
    "team": "CHA",
@@ -303,36 +303,6 @@
    "ret": "2026-12-01"
   },
   {
-   "team": "GSW",
-   "player": "Draymond Green",
-   "pos": "PF",
-   "updated": "2026-11-06",
-   "injury": "Elbow",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "GSW",
-   "player": "Gary Payton II",
-   "pos": "PG",
-   "updated": "2026-11-06",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "GSW",
-   "player": "Gui Santos",
-   "pos": "SF",
-   "updated": "2026-11-06",
-   "injury": "Knee",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
    "team": "HOU",
    "player": "Clint Capela",
    "pos": "C",
@@ -394,6 +364,26 @@
   },
   {
    "team": "LAC",
+   "player": "Brandon Ingram",
+   "pos": "SF",
+   "updated": "2026-11-07",
+   "injury": "Achilles",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
+  },
+  {
+   "team": "LAC",
+   "player": "Isaiah Jackson",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Groin",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
+  },
+  {
+   "team": "LAC",
    "player": "Jordan Miller",
    "pos": "SG",
    "updated": "2026-10-19",
@@ -404,23 +394,13 @@
   },
   {
    "team": "LAC",
-   "player": "Brandon Ingram",
-   "pos": "SF",
-   "updated": "2026-11-05",
-   "injury": "Achilles",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "LAC",
    "player": "Yanic Konan Niederhauser",
    "pos": "C",
-   "updated": "2026-11-05",
+   "updated": "2026-11-08",
    "injury": "Foot",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
   },
   {
    "team": "LAL",
@@ -481,16 +461,6 @@
    "status": "Expected return: at least Apr 2",
    "kind": "out",
    "ret": "2027-04-02"
-  },
-  {
-   "team": "MIN",
-   "player": "Terrence Shannon Jr.",
-   "pos": "SF",
-   "updated": "2026-11-06",
-   "injury": "Hip",
-   "status": "Expected return: at least Nov 8",
-   "kind": "out",
-   "ret": "2026-11-08"
   },
   {
    "team": "MIN",
@@ -644,6 +614,16 @@
   },
   {
    "team": "PHI",
+   "player": "Adem Bona",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Back",
+   "status": "Expected return: at least Nov 10",
+   "kind": "out",
+   "ret": "2026-11-10"
+  },
+  {
+   "team": "PHI",
    "player": "Dom Barlow",
    "pos": "PF",
    "updated": "2026-11-04",
@@ -654,13 +634,23 @@
   },
   {
    "team": "PHI",
-   "player": "Adem Bona",
+   "player": "Joel Embiid",
    "pos": "C",
    "updated": "2026-11-07",
-   "injury": "Back",
+   "injury": "Foot",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
+  },
+  {
+   "team": "PHX",
+   "player": "Jordan Goodwin",
+   "pos": "SG",
+   "updated": "2026-11-07",
+   "injury": "Calf",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
   },
   {
    "team": "PHX",
@@ -671,26 +661,6 @@
    "status": "Expected return: at least Feb 3",
    "kind": "out",
    "ret": "2027-02-03"
-  },
-  {
-   "team": "PHX",
-   "player": "Jordan Goodwin",
-   "pos": "SG",
-   "updated": "2026-11-06",
-   "injury": "Calf",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
-  },
-  {
-   "team": "PHX",
-   "player": "Rasheer Fleming",
-   "pos": "PF",
-   "updated": "2026-11-06",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   },
   {
    "team": "POR",
@@ -744,16 +714,6 @@
   },
   {
    "team": "SAC",
-   "player": "Keegan Murray",
-   "pos": "PF",
-   "updated": "2026-11-02",
-   "injury": "Ankle",
-   "status": "Expected return: at least Nov 10",
-   "kind": "out",
-   "ret": "2026-11-10"
-  },
-  {
-   "team": "SAC",
    "player": "Maxime Raynaud",
    "pos": "C",
    "updated": "2026-10-26",
@@ -764,10 +724,10 @@
   },
   {
    "team": "SAC",
-   "player": "De'Andre Hunter",
-   "pos": "SF",
+   "player": "Keegan Murray",
+   "pos": "PF",
    "updated": "2026-11-07",
-   "injury": "Illness",
+   "injury": "Ankle",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -853,6 +813,36 @@
    "ret": "2026-11-20"
   },
   {
+   "team": "UTA",
+   "player": "Lauri Markkanen",
+   "pos": "PF",
+   "updated": "2026-11-07",
+   "injury": "Wrist",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "WAS",
+   "player": "Anthony Davis",
+   "pos": "PF",
+   "updated": "2026-11-07",
+   "injury": "Ankle",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
+   "team": "WAS",
+   "player": "Deandre Ayton",
+   "pos": "C",
+   "updated": "2026-11-07",
+   "injury": "Leg",
+   "status": "Expected return: at least Nov 9",
+   "kind": "out",
+   "ret": "2026-11-09"
+  },
+  {
    "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
@@ -891,16 +881,6 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
-  },
-  {
-   "team": "WAS",
-   "player": "Anthony Davis",
-   "pos": "PF",
-   "updated": "2026-11-07",
-   "injury": "Ankle",
-   "status": "GTD",
-   "kind": "gtd",
-   "ret": null
   }
  ]
 }

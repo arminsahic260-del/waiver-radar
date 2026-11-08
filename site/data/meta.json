@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-07T23:43:24Z",
+ "updated": "2026-11-08T06:19:24Z",
  "engine": "heuristika",
  "sources": {
   "cbs": {
    "ok": true,
-   "lastOk": "2026-11-07T23:42:48Z"
+   "lastOk": "2026-11-08T06:18:48Z"
   },
   "rotowire": {
    "ok": true,
-   "lastOk": "2026-11-07T23:42:48Z"
+   "lastOk": "2026-11-08T06:18:48Z"
   },
   "bref": {
    "ok": true,
-   "lastOk": "2026-11-07T23:43:22Z"
+   "lastOk": "2026-11-08T06:19:22Z"
   },
   "espn": {
    "ok": true,
-   "lastOk": "2026-11-07T23:43:22Z"
+   "lastOk": "2026-11-08T06:19:22Z"
   },
   "analyze": {
    "ok": true,
-   "lastOk": "2026-11-07T23:43:24Z"
+   "lastOk": "2026-11-08T06:19:23Z"
   },
   "telegram": {
    "ok": true,
-   "lastOk": "2026-11-07T23:43:24Z"
+   "lastOk": "2026-11-08T06:19:24Z"
   }
  }
 }

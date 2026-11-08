@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-07T23:43:24Z",
+ "updated": "2026-11-08T06:19:24Z",
  "engine": "heuristika",
  "picks": [
+  {
+   "player": "Tristan da Silva",
+   "team": "ORL",
+   "pos": "SF/PF",
+   "priority": 1,
+   "reason": "RotoWire 7.11.: Starting versus Warriors. Da Silva will start in Saturday's game against Golden State. ~22.9 FP po utakmici (ove sezone 24.0 u 9 utk., prošle sezone 20.5; 29 min). Desmond Bane (bolest) je out najmanje do 10.11. Tristan da Silva je prvi SF/PF u rotaciji ORL-a za te minute; ~22.9 FP po utakmici (ove sezone 24.0 u 9 utk., prošle sezone 20.5; 29 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-starting-versus-warriors-538060",
+   "espnId": 4702382,
+   "fpts": 22.9,
+   "gp": 9,
+   "cur": 24.0
+  },
   {
    "player": "Jamal Shead",
    "team": "TOR",
@@ -36,31 +55,9 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-starting-versus-spurs-537600",
    "espnId": 5211175,
-   "waivers": {
-    "Legendi": "2026-11-08"
-   },
    "fpts": 21.8,
    "gp": 9,
    "cur": 22.7
-  },
-  {
-   "player": "Matisse Thybulle",
-   "team": "LAL",
-   "pos": "SF",
-   "priority": 1,
-   "reason": "RotoWire 3.11.: Continues to start. Thybulle closed with six points (2-6 FG, 2-6 3Pt), one rebound, two assists and one block across 19 minutes during Monday's 138-117 victory over the Heat. ~20.3 FP po utakmici (ove sezone 21.1 u 10 utk., prošle sezone 18.3; 22 min).",
-   "role": "Novi starter",
-   "horizon": "Dok zadrži mjesto u prvoj petorci",
-   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/matisse-thybulle-news-continues-to-start-537436",
-   "espnId": 3907498,
-   "fpts": 20.3,
-   "gp": 10,
-   "cur": 21.1
   },
   {
    "player": "Sam Merrill",
@@ -78,8 +75,7 @@
    "source": "https://www.rotowire.com/basketball/headlines/sam-merrill-news-starting-friday-537887",
    "espnId": 4066757,
    "waivers": {
-    "Legendi": "2026-11-09",
-    "Banijska": "2026-11-08"
+    "Legendi": "2026-11-09"
    },
    "fpts": 20.2,
    "gp": 9,
@@ -90,7 +86,7 @@
    "team": "SAC",
    "pos": "SF",
    "priority": 1,
-   "reason": "RotoWire 6.11.: Starting vs. San Antonio. Black is in the starting lineup for Friday's game against the Spurs, Sean Cunningham of Fox 40 Sacramento reports. ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min). Keegan Murray (gležanj) je out najmanje do 10.11. Leaky Black je prvi SF u rotaciji SAC-a za te minute; ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min).",
+   "reason": "RotoWire 6.11.: Starting vs. San Antonio. Black is in the starting lineup for Friday's game against the Spurs, Sean Cunningham of Fox 40 Sacramento reports. ~19.9 FP po utakmici (ove sezone 20.0 u 5 utk., prošle sezone 19.7; 23 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -109,7 +105,7 @@
    "team": "WAS",
    "pos": "C",
    "priority": 1,
-   "reason": "RotoWire 6.11.: Starting Friday. Ayton will start Friday against the Hawks. ~19.8 FP po utakmici (ove sezone 16.1 u 9 utk., prošle sezone 28.1; 20 min). Anthony Davis (gležanj) je upitan (GTD). Deandre Ayton je sljedeći C u rotaciji WAS-a za te minute; ~19.8 FP po utakmici (ove sezone 16.1 u 9 utk., prošle sezone 28.1; 20 min).",
+   "reason": "RotoWire 6.11.: Starting Friday. Ayton will start Friday against the Hawks. ~18.5 FP po utakmici (ove sezone 14.6 u 10 utk., prošle sezone 28.1; 19 min).",
    "role": "Novi starter",
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
@@ -119,35 +115,35 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/deandre-ayton-news-starting-friday-537875",
    "espnId": 4278129,
-   "fpts": 19.8,
-   "gp": 9,
-   "cur": 16.1
+   "fpts": 18.5,
+   "gp": 10,
+   "cur": 14.6
   },
   {
-   "player": "Kobe Sanders",
-   "team": "LAC",
-   "pos": "SG",
+   "player": "Danny Wolf",
+   "team": "BKN",
+   "pos": "PF/C",
    "priority": 1,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 29.11. Kobe Sanders je sljedeći SG u rotaciji LAC-a za te minute; ~18.0 FP po utakmici (ove sezone 19.8 u 8 utk., prošle sezone 14.4; 23 min). RotoWire 2.11.: Drawing start Monday.",
-   "role": "Starter dok je out Bradley Beal",
-   "horizon": "Do ~29.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "reason": "RotoWire 7.11.: Starting Saturday. Wolf will be in the starting lineup for Saturday's matchup with the Hawks, Erik Slater of ClutchPoints.com reports. ~18.3 FP po utakmici (ove sezone 17.2 u 4 utk., prošle sezone 19.4; 20 min).",
+   "role": "Novi starter",
+   "horizon": "Dok zadrži mjesto u prvoj petorci",
+   "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
-   "source": "https://www.rotowire.com/basketball/headlines/kobe-sanders-news-drawing-start-monday-537297",
-   "espnId": 4702352,
-   "fpts": 18.0,
-   "gp": 8,
-   "cur": 19.8
+   "source": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-starting-saturday-538045",
+   "espnId": 5107173,
+   "fpts": 18.3,
+   "gp": 4,
+   "cur": 17.2
   },
   {
    "player": "Landry Shamet",
    "team": "NYK",
    "pos": "SG",
    "priority": 1,
-   "reason": "Josh Hart (gležanj) je out najmanje do 10.11. Landry Shamet je sljedeći SG u rotaciji NYK-a za te minute; ~15.8 FP po utakmici (ove sezone 15.4 u 8 utk., prošle sezone 16.6; 24 min). RotoWire 4.11.: Starting versus Chicago. Shamet will start in Wednesday's game against the Bulls, Stefan Bondy of The New York Post reports.",
+   "reason": "Josh Hart (gležanj) je out najmanje do 10.11. Landry Shamet je sljedeći SG u rotaciji NYK-a za te minute; ~15.7 FP po utakmici (ove sezone 15.3 u 9 utk., prošle sezone 16.6; 25 min). RotoWire 4.11.: Starting versus Chicago. Shamet will start in Wednesday's game against the Bulls, Stefan Bondy of The New York Post reports.",
    "role": "Starter dok je out Josh Hart",
    "horizon": "Do ~10.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Josh Hart; nizak bodovni plafon",
@@ -157,28 +153,9 @@
    },
    "source": "https://www.rotowire.com/basketball/headlines/landry-shamet-news-starting-versus-chicago-537540",
    "espnId": 3914044,
-   "fpts": 15.8,
-   "gp": 8,
-   "cur": 15.4
-  },
-  {
-   "player": "Tyrese Proctor",
-   "team": "CLE",
-   "pos": "SG",
-   "priority": 1,
-   "reason": "Sam Merrill (lakat) je out najmanje do 9.11. Tyrese Proctor je sljedeći SG u rotaciji CLE-a za te minute; ~13.5 FP po utakmici (ove sezone 15.2 u 8 utk., prošle sezone 10.1; 14 min). RotoWire 4.11.: Starting against Thunder. Proctor will start in Wednesday's game against the Thunder.",
-   "role": "Starter dok je out Sam Merrill",
-   "horizon": "Do ~9.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Sam Merrill; nizak bodovni plafon",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-starting-against-thunder-537572",
-   "espnId": 5023693,
-   "fpts": 13.5,
-   "gp": 8,
-   "cur": 15.2
+   "fpts": 15.7,
+   "gp": 9,
+   "cur": 15.3
   },
   {
    "player": "Mo Bamba",
@@ -203,55 +180,14 @@
    "cur": 24.4
   },
   {
-   "player": "T.J. McConnell",
-   "team": "IND",
-   "pos": "PG",
-   "priority": 2,
-   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. T.J. McConnell je prvi PG u rotaciji IND-a za te minute; ~22.7 FP po utakmici (ove sezone 13.0 u 1 utk., prošle sezone 25.1; 16 min).",
-   "role": "Veća minutaža dok je out Tyrese Haliburton",
-   "horizon": "Do ~13.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Tyrese Haliburton",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 2530530,
-   "fpts": 22.7,
-   "gp": 1,
-   "cur": 13.0
-  },
-  {
-   "player": "Tristan da Silva",
-   "team": "ORL",
-   "pos": "SF/PF",
-   "priority": 2,
-   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. Tristan da Silva je prvi SF/PF u rotaciji ORL-a za te minute; ~22.3 FP po utakmici (ove sezone 23.2 u 8 utk., prošle sezone 20.5; 28 min).",
-   "role": "Veća minutaža dok je out Desmond Bane",
-   "horizon": "Do ~10.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Desmond Bane",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4702382,
-   "waivers": {
-    "Legendi": "2026-11-08"
-   },
-   "fpts": 22.3,
-   "gp": 8,
-   "cur": 23.2
-  },
-  {
    "player": "Keaton Wagler",
    "team": "LAC",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Bradley Beal (koljeno) je out najmanje do 29.11.; Brandon Ingram (Ahilova tetiva) je upitan (GTD). Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~21.2 FP po utakmici (ove sezone 19.6 u 8 utk., ESPN projekcija 24.4; 25 min).",
-   "role": "Veća minutaža dok su out Bradley Beal i Brandon Ingram",
-   "horizon": "Do ~29.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Bradley Beal",
+   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 10.11. — nova ozljeda; Bradley Beal (koljeno) je out najmanje do 29.11. Keaton Wagler je prvi PG/SG u rotaciji LAC-a za te minute; ~21.2 FP po utakmici (ove sezone 19.6 u 8 utk., ESPN projekcija 24.4; 25 min).",
+   "role": "Veća minutaža dok su out Brandon Ingram i Bradley Beal",
+   "horizon": "Do ~10.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Brandon Ingram",
    "avail": {
     "Legendi": true,
     "Banijska": true
@@ -267,19 +203,38 @@
    "team": "NYK",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Josh Hart (gležanj) je out najmanje do 10.11. Miles McBride je prvi PG/SG u rotaciji NYK-a za te minute; ~18.1 FP po utakmici (ove sezone 15.5 u 8 utk., prošle sezone 23.2; 20 min).",
+   "reason": "Josh Hart (gležanj) je out najmanje do 10.11. Miles McBride je prvi PG/SG u rotaciji NYK-a za te minute; ~17.2 FP po utakmici (ove sezone 14.4 u 9 utk., prošle sezone 23.2; 20 min).",
    "role": "Veća minutaža dok je out Josh Hart",
    "horizon": "Do ~10.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Josh Hart",
+   "risk": "Uloga pada kad se vrati Josh Hart; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
     "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4431823,
-   "fpts": 18.1,
+   "fpts": 17.2,
+   "gp": 9,
+   "cur": 14.4
+  },
+  {
+   "player": "Keon Ellis",
+   "team": "BKN",
+   "pos": "SG/SF",
+   "priority": 2,
+   "reason": "Mikel Brown Jr. (odmor) je out najmanje do 11.11. — nova ozljeda. Keon Ellis je prvi SG/SF u rotaciji BKN-a za te minute; ~16.9 FP po utakmici (ove sezone 16.9 u 8 utk., prošle sezone 16.9; 22 min).",
+   "role": "Veća minutaža dok je out Mikel Brown Jr.",
+   "horizon": "Do ~11.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Mikel Brown Jr.; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4702177,
+   "fpts": 16.9,
    "gp": 8,
-   "cur": 15.5
+   "cur": 16.9
   },
   {
    "player": "Sam Hauser",
@@ -324,7 +279,7 @@
    "team": "POR",
    "pos": "PG/SG",
    "priority": 2,
-   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. Scoot Henderson je prvi PG/SG u rotaciji POR-a za te minute; ~12.6 FP po utakmici (ove sezone 7.0 u 8 utk., prošle sezone 23.8; 23 min).",
+   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. Scoot Henderson je prvi PG/SG u rotaciji POR-a za te minute; ~13.2 FP po utakmici (ove sezone 8.4 u 9 utk., prošle sezone 23.8; 23 min).",
    "role": "Veća minutaža dok je out Ja Morant",
    "horizon": "Do ~1.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Ja Morant; nizak bodovni plafon",
@@ -334,9 +289,9 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4683678,
-   "fpts": 12.6,
-   "gp": 8,
-   "cur": 7.0
+   "fpts": 13.2,
+   "gp": 9,
+   "cur": 8.4
   },
   {
    "player": "Jordan Walsh",
@@ -362,10 +317,10 @@
    "team": "GSW",
    "pos": "PF/C",
    "priority": 3,
-   "reason": "Kristaps Porzingis (bolest) je out najmanje do 2.1. Draymond Green je sljedeći PF/C u rotaciji GSW-a za te minute; ~23.3 FP po utakmici (ove sezone 22.0 u 7 utk., prošle sezone 25.6; 27 min).",
+   "reason": "Kristaps Porzingis (bolest) je out najmanje do 2.1. Draymond Green je sljedeći PF/C u rotaciji GSW-a za te minute; ~24.5 FP po utakmici (ove sezone 23.9 u 8 utk., prošle sezone 25.6; 28 min).",
    "role": "Veća minutaža dok je out Kristaps Porzingis",
    "horizon": "Do ~2.1. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Kristaps Porzingis",
+   "risk": "Uloga pada kad se vrati Kristaps Porzingis",
    "avail": {
     "Legendi": false,
     "Banijska": true
@@ -373,32 +328,9 @@
    "source": "https://www.cbssports.com/nba/injuries/",
    "note": "na tvom rosteru (Legendi)",
    "espnId": 6589,
-   "waivers": {
-    "Banijska": "2026-11-08"
-   },
-   "fpts": 23.3,
-   "gp": 7,
-   "cur": 22.0
-  },
-  {
-   "player": "Ziaire Williams",
-   "team": "LAL",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Luka Doncic (leđa) je upitan (GTD). Ziaire Williams je sljedeći SG/SF u rotaciji LAL-a za te minute; ~23.0 FP po utakmici (ove sezone 25.0 u 7 utk., prošle sezone 19.6; 24 min).",
-   "role": "Zamjena ako Luka Doncic ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Luka Doncic",
-   "avail": {
-    "Legendi": true,
-    "Banijska": false
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "note": "na tvom rosteru (Banijska)",
-   "espnId": 4433137,
-   "fpts": 23.0,
-   "gp": 7,
-   "cur": 25.0
+   "fpts": 24.5,
+   "gp": 8,
+   "cur": 23.9
   },
   {
    "player": "Ja'Kobe Walter",
@@ -415,82 +347,16 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4684272,
-   "waivers": {
-    "Banijska": "2026-11-08"
-   },
    "fpts": 22.3,
    "gp": 9,
    "cur": 24.7
-  },
-  {
-   "player": "Isaiah Jackson",
-   "team": "LAC",
-   "pos": "PF/C",
-   "priority": 3,
-   "reason": "Brandon Ingram (Ahilova tetiva) je upitan (GTD). Isaiah Jackson je sljedeći PF/C u rotaciji LAC-a za te minute; ~22.2 FP po utakmici (ove sezone 24.1 u 8 utk., prošle sezone 18.5; 20 min).",
-   "role": "Zamjena ako Brandon Ingram ne igra",
-   "horizon": "Dan-dva, ovisi o statusu",
-   "risk": "Uloga pada kad se vrati Brandon Ingram",
-   "avail": {
-    "Legendi": false,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4432170,
-   "fpts": 22.2,
-   "gp": 8,
-   "cur": 24.1
-  },
-  {
-   "player": "Kelly Oubre Jr.",
-   "team": "IND",
-   "pos": "SG/SF",
-   "priority": 3,
-   "reason": "Tyrese Haliburton (stražnja loža) je out najmanje do 13.11. Kelly Oubre Jr. je sljedeći SG/SF u rotaciji IND-a za te minute; ~19.3 FP po utakmici (ove sezone 15.2 u 8 utk., prošle sezone 27.3; 25 min).",
-   "role": "Veća minutaža dok je out Tyrese Haliburton",
-   "horizon": "Do ~13.11. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Tyrese Haliburton",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3133603,
-   "waivers": {
-    "Legendi": "2026-11-08"
-   },
-   "fpts": 19.3,
-   "gp": 8,
-   "cur": 15.2
-  },
-  {
-   "player": "De'Andre Hunter",
-   "team": "SAC",
-   "pos": "SF/PF",
-   "priority": 3,
-   "reason": "Keegan Murray (gležanj) je out najmanje do 10.11. De'Andre Hunter je sljedeći SF/PF u rotaciji SAC-a za te minute; ~19.3 FP po utakmici (ove sezone 18.5 u 8 utk., prošle sezone 21.0; 30 min).",
-   "role": "Veća minutaža dok je out Keegan Murray",
-   "horizon": "Do ~10.11. (najraniji povratak)",
-   "risk": "I sam je upitan (GTD); uloga pada kad se vrati Keegan Murray",
-   "avail": {
-    "Legendi": true,
-    "Banijska": true
-   },
-   "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 4065732,
-   "waivers": {
-    "Banijska": "2026-11-08"
-   },
-   "fpts": 19.3,
-   "gp": 8,
-   "cur": 18.5
   },
   {
    "player": "Keldon Johnson",
    "team": "SAS",
    "pos": "SF/PF",
    "priority": 3,
-   "reason": "Tobias Harris (list) je out najmanje do 9.11. Keldon Johnson je sljedeći SF/PF u rotaciji SAS-a za te minute; ~18.3 FP po utakmici (ove sezone 16.0 u 9 utk., prošle sezone 23.4; 23 min).",
+   "reason": "Tobias Harris (list) je out najmanje do 9.11. Keldon Johnson je sljedeći SF/PF u rotaciji SAS-a za te minute; ~18.5 FP po utakmici (ove sezone 16.5 u 10 utk., prošle sezone 23.4; 23 min).",
    "role": "Veća minutaža dok je out Tobias Harris",
    "horizon": "Do ~9.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Tobias Harris",
@@ -500,9 +366,9 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 4395723,
-   "fpts": 18.3,
-   "gp": 9,
-   "cur": 16.0
+   "fpts": 18.5,
+   "gp": 10,
+   "cur": 16.5
   },
   {
    "player": "Collin Sexton",
@@ -524,11 +390,52 @@
    "cur": 14.8
   },
   {
+   "player": "Dean Wade",
+   "team": "PHI",
+   "pos": "PF",
+   "priority": 3,
+   "reason": "Joel Embiid (stopalo) je upitan (GTD). Dean Wade je sljedeći PF u rotaciji PHI-a za te minute; ~18.1 FP po utakmici (ove sezone 18.4 u 8 utk., prošle sezone 17.4; 24 min).",
+   "role": "Zamjena ako Joel Embiid ne igra",
+   "horizon": "Dan-dva, ovisi o statusu",
+   "risk": "Uloga pada kad se vrati Joel Embiid",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3912848,
+   "waivers": {
+    "Banijska": "2026-11-09"
+   },
+   "fpts": 18.1,
+   "gp": 8,
+   "cur": 18.4
+  },
+  {
+   "player": "Kobe Sanders",
+   "team": "LAC",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "Brandon Ingram (Ahilova tetiva) je out najmanje do 10.11. — nova ozljeda; Bradley Beal (koljeno) je out najmanje do 29.11. Kobe Sanders je sljedeći SG u rotaciji LAC-a za te minute; ~18.0 FP po utakmici (ove sezone 19.8 u 8 utk., prošle sezone 14.4; 23 min).",
+   "role": "Veća minutaža dok su out Brandon Ingram i Bradley Beal",
+   "horizon": "Do ~10.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Brandon Ingram",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4702352,
+   "fpts": 18.0,
+   "gp": 8,
+   "cur": 19.8
+  },
+  {
    "player": "Sidy Cissoko",
    "team": "POR",
    "pos": "SG",
    "priority": 3,
-   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. Sidy Cissoko je sljedeći SG u rotaciji POR-a za te minute; ~15.1 FP po utakmici (ove sezone 16.6 u 8 utk., prošle sezone 12.0; 21 min).",
+   "reason": "Ja Morant (stražnja loža) je out najmanje do 1.12. Sidy Cissoko je sljedeći SG u rotaciji POR-a za te minute; ~14.8 FP po utakmici (ove sezone 16.0 u 9 utk., prošle sezone 12.0; 20 min).",
    "role": "Veća minutaža dok je out Ja Morant",
    "horizon": "Do ~1.12. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Ja Morant; nizak bodovni plafon",
@@ -538,9 +445,28 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 5081727,
-   "fpts": 15.1,
-   "gp": 8,
-   "cur": 16.6
+   "fpts": 14.8,
+   "gp": 9,
+   "cur": 16.0
+  },
+  {
+   "player": "Kenrich Williams",
+   "team": "OKC",
+   "pos": "SF",
+   "priority": 3,
+   "reason": "Chet Holmgren (koljeno) je out najmanje do 2.1. Kenrich Williams je sljedeći SF u rotaciji OKC-a za te minute; ~13.9 FP po utakmici (ove sezone 13.9 u 10 utk., prošle sezone 13.9; 18 min).",
+   "role": "Veća minutaža dok je out Chet Holmgren",
+   "horizon": "Do ~2.1. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Chet Holmgren; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": false
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3133626,
+   "fpts": 13.9,
+   "gp": 10,
+   "cur": 13.9
   },
   {
    "player": "Sion James",
@@ -562,30 +488,30 @@
    "cur": 13.5
   },
   {
-   "player": "Kenrich Williams",
-   "team": "OKC",
-   "pos": "SF",
+   "player": "Tyrese Proctor",
+   "team": "CLE",
+   "pos": "SG",
    "priority": 3,
-   "reason": "Chet Holmgren (koljeno) je out najmanje do 2.1. Kenrich Williams je sljedeći SF u rotaciji OKC-a za te minute; ~13.8 FP po utakmici (ove sezone 13.7 u 9 utk., prošle sezone 13.9; 17 min).",
-   "role": "Veća minutaža dok je out Chet Holmgren",
-   "horizon": "Do ~2.1. (najraniji povratak)",
-   "risk": "Uloga pada kad se vrati Chet Holmgren; nizak bodovni plafon",
+   "reason": "Sam Merrill (lakat) je out najmanje do 9.11. Tyrese Proctor je sljedeći SG u rotaciji CLE-a za te minute; ~13.7 FP po utakmici (ove sezone 15.3 u 9 utk., prošle sezone 10.1; 14 min).",
+   "role": "Veća minutaža dok je out Sam Merrill",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Sam Merrill; nizak bodovni plafon",
    "avail": {
     "Legendi": true,
-    "Banijska": false
+    "Banijska": true
    },
    "source": "https://www.cbssports.com/nba/injuries/",
-   "espnId": 3133626,
-   "fpts": 13.8,
+   "espnId": 5023693,
+   "fpts": 13.7,
    "gp": 9,
-   "cur": 13.7
+   "cur": 15.3
   },
   {
    "player": "Jase Richardson",
    "team": "ORL",
    "pos": "SG",
    "priority": 3,
-   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. Jase Richardson je sljedeći SG u rotaciji ORL-a za te minute; ~13.6 FP po utakmici (ove sezone 16.1 u 8 utk., prošle sezone 8.5; 18 min).",
+   "reason": "Desmond Bane (bolest) je out najmanje do 10.11. Jase Richardson je sljedeći SG u rotaciji ORL-a za te minute; ~12.6 FP po utakmici (ove sezone 14.4 u 9 utk., prošle sezone 8.5; 19 min).",
    "role": "Veća minutaža dok je out Desmond Bane",
    "horizon": "Do ~10.11. (najraniji povratak)",
    "risk": "Uloga pada kad se vrati Desmond Bane; nizak bodovni plafon",
@@ -595,187 +521,86 @@
    },
    "source": "https://www.cbssports.com/nba/injuries/",
    "espnId": 5239561,
-   "fpts": 13.6,
-   "gp": 8,
-   "cur": 16.1
+   "fpts": 12.6,
+   "gp": 9,
+   "cur": 14.4
+  },
+  {
+   "player": "Ben Saraf",
+   "team": "BKN",
+   "pos": "SG",
+   "priority": 3,
+   "reason": "Mikel Brown Jr. (odmor) je out najmanje do 11.11. — nova ozljeda. Ben Saraf je sljedeći SG u rotaciji BKN-a za te minute; ~12.5 FP po utakmici (ove sezone 4.0 u 1 utk., prošle sezone 14.6; 18 min).",
+   "role": "Veća minutaža dok je out Mikel Brown Jr.",
+   "horizon": "Do ~11.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Mikel Brown Jr.; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 5242502,
+   "fpts": 12.5,
+   "gp": 1,
+   "cur": 4.0
+  },
+  {
+   "player": "Thomas Bryant",
+   "team": "CLE",
+   "pos": "C",
+   "priority": 3,
+   "reason": "Jarrett Allen (koljeno) je out najmanje do 9.11. Thomas Bryant je sljedeći C u rotaciji CLE-a za te minute; ~12.4 FP po utakmici (ove sezone 11.6 u 5 utk., prošle sezone 13.3; 12 min).",
+   "role": "Veća minutaža dok je out Jarrett Allen",
+   "horizon": "Do ~9.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jarrett Allen; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 3934723,
+   "fpts": 12.4,
+   "gp": 5,
+   "cur": 11.6
+  },
+  {
+   "player": "Kyle Filipowski",
+   "team": "UTA",
+   "pos": "PF/C",
+   "priority": 3,
+   "reason": "Jusuf Nurkic (stopalo) je out najmanje do 20.11. Kyle Filipowski je sljedeći PF/C u rotaciji UTA-a za te minute; ~12.1 FP po utakmici (ove sezone 2.5 u 6 utk., prošle sezone 26.4; 13 min).",
+   "role": "Veća minutaža dok je out Jusuf Nurkic",
+   "horizon": "Do ~20.11. (najraniji povratak)",
+   "risk": "Uloga pada kad se vrati Jusuf Nurkic; nizak bodovni plafon",
+   "avail": {
+    "Legendi": true,
+    "Banijska": true
+   },
+   "source": "https://www.cbssports.com/nba/injuries/",
+   "espnId": 4684793,
+   "fpts": 12.1,
+   "gp": 6,
+   "cur": 2.5
   }
  ],
  "days": [
-  {
-   "date": "2026-11-07",
-   "games": 7,
-   "leagues": [
-    {
-     "league": "Legendi",
-     "mine": 9,
-     "open": 1,
-     "sitting": 0,
-     "adds": 2,
-     "addsLimit": 7,
-     "add": true,
-     "addDays": [
-      "2026-11-07",
-      "2026-11-08"
-     ],
-     "planned": [],
-     "picks": [
-      {
-       "player": "Marcus Smart",
-       "team": "HOU",
-       "pos": "PG/SG",
-       "espnId": 2990992,
-       "fpts": 21.0,
-       "mpg": 25.2,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 20.5,
-       "matchup": "HOU @ PHX",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 21.0,
-       "gtd": false
-      },
-      {
-       "player": "Keldon Johnson",
-       "team": "SAS",
-       "pos": "SF/PF",
-       "espnId": 4395723,
-       "fpts": 18.3,
-       "mpg": 23.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 16.0,
-       "matchup": "SAS @ POR",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 18.3,
-       "gtd": false
-      },
-      {
-       "player": "Miles McBride",
-       "team": "NYK",
-       "pos": "PG/SG",
-       "espnId": 4431823,
-       "fpts": 18.1,
-       "mpg": 20.4,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 15.5,
-       "matchup": "NYK @ CLE",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 18.1,
-       "gtd": false
-      }
-     ]
-    },
-    {
-     "league": "Banijska",
-     "mine": 6,
-     "open": 4,
-     "sitting": 0,
-     "adds": 2,
-     "addsLimit": 7,
-     "add": true,
-     "addDays": [
-      "2026-11-07",
-      "2026-11-08"
-     ],
-     "planned": [],
-     "picks": [
-      {
-       "player": "Marcus Smart",
-       "team": "HOU",
-       "pos": "PG/SG",
-       "espnId": 2990992,
-       "fpts": 21.0,
-       "mpg": 25.2,
-       "basis": "sezona+prošla sezona",
-       "gp": 6,
-       "cur": 20.5,
-       "matchup": "HOU @ PHX",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 21.0,
-       "gtd": false
-      },
-      {
-       "player": "Kelly Oubre Jr.",
-       "team": "IND",
-       "pos": "SG/SF",
-       "espnId": 3133603,
-       "fpts": 19.3,
-       "mpg": 24.9,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 15.2,
-       "matchup": "DEN @ IND",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 19.3,
-       "gtd": false
-      },
-      {
-       "player": "Trevon Brazile",
-       "team": "DEN",
-       "pos": "SF/PF",
-       "espnId": 4698719,
-       "fpts": 18.5,
-       "mpg": 20.4,
-       "basis": "sezona",
-       "gp": 8,
-       "cur": 18.5,
-       "matchup": "DEN @ IND",
-       "dates": [
-        "2026-11-07"
-       ],
-       "value": 18.5,
-       "gtd": false
-      }
-     ]
-    }
-   ]
-  },
   {
    "date": "2026-11-08",
    "games": 7,
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 5,
-     "open": 5,
+     "mine": 4,
+     "open": 6,
      "sitting": 0,
-     "adds": 1,
+     "adds": 2,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-07",
       "2026-11-08"
      ],
      "planned": [],
      "picks": [
-      {
-       "player": "Tre Jones",
-       "team": "CHI",
-       "pos": "PG",
-       "espnId": 4395626,
-       "fpts": 25.7,
-       "mpg": 21.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 22.8,
-       "matchup": "PHI @ CHI",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 25.7,
-       "gtd": false
-      },
       {
        "player": "Julian Reese",
        "team": "NOP",
@@ -794,34 +619,50 @@
        "gtd": false
       },
       {
-       "player": "Ziaire Williams",
-       "team": "LAL",
-       "pos": "SG/SF",
-       "espnId": 4433137,
-       "fpts": 23.0,
-       "mpg": 23.9,
+       "player": "Andrew Wiggins",
+       "team": "MIA",
+       "pos": "SF/PF",
+       "espnId": 3059319,
+       "fpts": 21.8,
+       "mpg": 27.2,
        "basis": "sezona+prošla sezona",
-       "gp": 7,
-       "cur": 25.0,
-       "matchup": "LAL @ DET",
+       "gp": 9,
+       "cur": 17.3,
+       "matchup": "MIA @ SAC",
        "dates": [
         "2026-11-08"
        ],
-       "value": 23.0,
+       "value": 21.8,
+       "gtd": false
+      },
+      {
+       "player": "Zaccharie Risacher",
+       "team": "DAL",
+       "pos": "SF",
+       "espnId": 5211175,
+       "fpts": 21.8,
+       "mpg": 25.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 22.7,
+       "matchup": "BKN @ DAL",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 21.8,
        "gtd": false
       }
      ]
     },
     {
      "league": "Banijska",
-     "mine": 8,
-     "open": 2,
+     "mine": 7,
+     "open": 3,
      "sitting": 0,
-     "adds": 1,
+     "adds": 2,
      "addsLimit": 7,
      "add": true,
      "addDays": [
-      "2026-11-07",
       "2026-11-08"
      ],
      "planned": [],
@@ -875,8 +716,7 @@
         "2026-11-08"
        ],
        "value": 22.3,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "gtd": false
       }
      ]
     }
@@ -897,7 +737,8 @@
      "addDays": [
       "2026-11-09",
       "2026-11-10",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-14"
      ],
      "planned": [],
      "picks": [
@@ -922,22 +763,23 @@
        "gtd": false
       },
       {
-       "player": "Ziaire Williams",
-       "team": "LAL",
-       "pos": "SG/SF",
-       "espnId": 4433137,
-       "fpts": 23.0,
-       "mpg": 23.9,
+       "player": "Obi Toppin",
+       "team": "IND",
+       "pos": "PF",
+       "espnId": 4278355,
+       "fpts": 23.1,
+       "mpg": 20.6,
        "basis": "sezona+prošla sezona",
        "gp": 7,
-       "cur": 25.0,
-       "matchup": "LAL @ ATL",
+       "cur": 23.9,
+       "matchup": "IND @ DAL",
        "dates": [
         "2026-11-09",
         "2026-11-11",
+        "2026-11-13",
         "2026-11-15"
        ],
-       "value": 23.0,
+       "value": 23.1,
        "gtd": false
       },
       {
@@ -974,10 +816,30 @@
       "2026-11-09",
       "2026-11-10",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
      ],
      "planned": [],
      "picks": [
+      {
+       "player": "Draymond Green",
+       "team": "GSW",
+       "pos": "PF/C",
+       "espnId": 6589,
+       "fpts": 24.5,
+       "mpg": 27.6,
+       "basis": "sezona+prošla sezona",
+       "gp": 8,
+       "cur": 23.9,
+       "matchup": "NOP @ GSW",
+       "dates": [
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-13"
+       ],
+       "value": 24.5,
+       "gtd": false
+      },
       {
        "player": "Julian Reese",
        "team": "NOP",
@@ -1016,27 +878,6 @@
         "2026-11-15"
        ],
        "value": 22.3,
-       "gtd": false,
-       "waiver": "2026-11-08"
-      },
-      {
-       "player": "Zaccharie Risacher",
-       "team": "DAL",
-       "pos": "SF",
-       "espnId": 5211175,
-       "fpts": 21.8,
-       "mpg": 25.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.7,
-       "matchup": "IND @ DAL",
-       "dates": [
-        "2026-11-09",
-        "2026-11-12",
-        "2026-11-14",
-        "2026-11-15"
-       ],
-       "value": 21.8,
        "gtd": false
       }
      ]
@@ -1058,7 +899,8 @@
      "addDays": [
       "2026-11-09",
       "2026-11-10",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-14"
      ],
      "planned": [],
      "picks": [
@@ -1067,20 +909,19 @@
        "team": "ORL",
        "pos": "SF/PF",
        "espnId": 4702382,
-       "fpts": 22.3,
-       "mpg": 27.8,
+       "fpts": 22.9,
+       "mpg": 28.7,
        "basis": "sezona+prošla sezona",
-       "gp": 8,
-       "cur": 23.2,
+       "gp": 9,
+       "cur": 24.0,
        "matchup": "ORL @ SAC",
        "dates": [
         "2026-11-10",
         "2026-11-11",
         "2026-11-13"
        ],
-       "value": 22.3,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "value": 22.9,
+       "gtd": false
       },
       {
        "player": "Andrew Wiggins",
@@ -1099,8 +940,7 @@
         "2026-11-14"
        ],
        "value": 21.8,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "gtd": false
       },
       {
        "player": "Keaton Wagler",
@@ -1135,7 +975,8 @@
       "2026-11-09",
       "2026-11-10",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
      ],
      "planned": [],
      "picks": [
@@ -1176,8 +1017,7 @@
         "2026-11-14"
        ],
        "value": 22.3,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "gtd": false
       },
       {
        "player": "Keaton Wagler",
@@ -1208,7 +1048,7 @@
    "leagues": [
     {
      "league": "Legendi",
-     "mine": 9,
+     "mine": 8,
      "open": 0,
      "sitting": 0,
      "adds": 5,
@@ -1217,7 +1057,8 @@
      "addDays": [
       "2026-11-09",
       "2026-11-10",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-14"
      ],
      "planned": [
       {
@@ -1235,7 +1076,7 @@
     },
     {
      "league": "Banijska",
-     "mine": 9,
+     "mine": 8,
      "open": 0,
      "sitting": 0,
      "adds": 5,
@@ -1245,12 +1086,13 @@
       "2026-11-09",
       "2026-11-10",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
      ],
      "planned": [
       {
-       "player": "Julian Reese",
-       "team": "NOP",
+       "player": "Draymond Green",
+       "team": "GSW",
        "from": "2026-11-09"
       },
       {
@@ -1278,7 +1120,8 @@
      "addDays": [
       "2026-11-09",
       "2026-11-10",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-14"
      ],
      "planned": [],
      "picks": [
@@ -1317,8 +1160,7 @@
         "2026-11-15"
        ],
        "value": 21.8,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "gtd": false
       },
       {
        "player": "Daniss Jenkins",
@@ -1352,7 +1194,8 @@
       "2026-11-09",
       "2026-11-10",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
      ],
      "planned": [],
      "picks": [
@@ -1372,8 +1215,7 @@
         "2026-11-15"
        ],
        "value": 22.3,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "gtd": false
       },
       {
        "player": "Zaccharie Risacher",
@@ -1431,7 +1273,8 @@
      "addDays": [
       "2026-11-09",
       "2026-11-10",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-14"
      ],
      "planned": [
       {
@@ -1459,12 +1302,13 @@
       "2026-11-09",
       "2026-11-10",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
      ],
      "planned": [
       {
-       "player": "Julian Reese",
-       "team": "NOP",
+       "player": "Draymond Green",
+       "team": "GSW",
        "from": "2026-11-09"
       }
      ],
@@ -1488,6 +1332,24 @@
        "gtd": false
       },
       {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "pos": "PF",
+       "espnId": 4683742,
+       "fpts": 23.2,
+       "mpg": 25.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 1,
+       "cur": 2.0,
+       "matchup": "MEM @ NOP",
+       "dates": [
+        "2026-11-13",
+        "2026-11-14"
+       ],
+       "value": 23.2,
+       "gtd": false
+      },
+      {
        "player": "Bobby Portis",
        "team": "MIA",
        "pos": "PF/C",
@@ -1503,25 +1365,165 @@
         "2026-11-14"
        ],
        "value": 22.3,
-       "gtd": false,
-       "waiver": "2026-11-08"
+       "gtd": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "games": 5,
+   "leagues": [
+    {
+     "league": "Legendi",
+     "mine": 3,
+     "open": 6,
+     "sitting": 0,
+     "adds": 4,
+     "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-12",
+      "2026-11-14"
+     ],
+     "planned": [
+      {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "from": "2026-11-09"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Andrew Wiggins",
+       "team": "MIA",
+       "pos": "SF/PF",
+       "espnId": 3059319,
+       "fpts": 21.8,
+       "mpg": 27.2,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 17.3,
+       "matchup": "DET @ MIA",
+       "dates": [
+        "2026-11-14"
+       ],
+       "value": 21.8,
+       "gtd": false
       },
       {
-       "player": "Keaton Wagler",
-       "team": "LAC",
-       "pos": "PG/SG",
-       "espnId": 5254165,
-       "fpts": 21.2,
-       "mpg": 25.3,
-       "basis": "sezona+projekcija",
-       "gp": 8,
-       "cur": 19.6,
-       "matchup": "OKC @ LAC",
+       "player": "Zaccharie Risacher",
+       "team": "DAL",
+       "pos": "SF",
+       "espnId": 5211175,
+       "fpts": 21.8,
+       "mpg": 25.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 22.7,
+       "matchup": "DAL @ CLE",
        "dates": [
-        "2026-11-13",
+        "2026-11-14",
         "2026-11-15"
        ],
-       "value": 21.2,
+       "value": 21.8,
+       "gtd": false
+      },
+      {
+       "player": "Jerami Grant",
+       "team": "MEM",
+       "pos": "PF",
+       "espnId": 2991070,
+       "fpts": 20.9,
+       "mpg": 25.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 17.9,
+       "matchup": "BKN @ MEM",
+       "dates": [
+        "2026-11-14"
+       ],
+       "value": 20.9,
+       "gtd": false
+      }
+     ]
+    },
+    {
+     "league": "Banijska",
+     "mine": 3,
+     "open": 6,
+     "sitting": 0,
+     "adds": 3,
+     "addsLimit": 7,
+     "add": true,
+     "addDays": [
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14"
+     ],
+     "planned": [
+      {
+       "player": "Tre Jones",
+       "team": "CHI",
+       "from": "2026-11-13"
+      }
+     ],
+     "picks": [
+      {
+       "player": "Julian Reese",
+       "team": "NOP",
+       "pos": "PF",
+       "espnId": 4683742,
+       "fpts": 23.2,
+       "mpg": 25.3,
+       "basis": "sezona+prošla sezona",
+       "gp": 1,
+       "cur": 2.0,
+       "matchup": "DEN @ NOP",
+       "dates": [
+        "2026-11-14"
+       ],
+       "value": 23.2,
+       "gtd": false
+      },
+      {
+       "player": "Bobby Portis",
+       "team": "MIA",
+       "pos": "PF/C",
+       "espnId": 3064482,
+       "fpts": 22.3,
+       "mpg": 21.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 20.8,
+       "matchup": "DET @ MIA",
+       "dates": [
+        "2026-11-14"
+       ],
+       "value": 22.3,
+       "gtd": false
+      },
+      {
+       "player": "Zaccharie Risacher",
+       "team": "DAL",
+       "pos": "SF",
+       "espnId": 5211175,
+       "fpts": 21.8,
+       "mpg": 25.1,
+       "basis": "sezona+prošla sezona",
+       "gp": 9,
+       "cur": 22.7,
+       "matchup": "DAL @ CLE",
+       "dates": [
+        "2026-11-14",
+        "2026-11-15"
+       ],
+       "value": 21.8,
        "gtd": false
       }
      ]
