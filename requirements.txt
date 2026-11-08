@@ -1,5 +1,6 @@
 requests>=2.32
-beautifulsoup4>=4.12
-anthropic>=1.15
+pydantic>=2.7
+pyyaml>=6.0
 tzdata>=2024.1
 pytest>=8
+anthropic>=2.6   # samo za opcionalni Claude sažetak (claude.ukljuceno: true + ANTHROPIC_API_KEY)

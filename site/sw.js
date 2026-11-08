@@ -1,13 +1,13 @@
-// Waiver Radar service worker.
+// Waiver Radar 2 service worker.
 // - page (navigation): network-first, cached copy when offline
 // - data/*.json: cache-first; refreshed in the background, and open pages get a "data-updated" message when
 //   the snapshot actually changed, so they re-render without a reload
 // - other same-origin files and Google Fonts: served from cache, refreshed in the background
 // Cache writes are best-effort: a full or unavailable cache must never turn a good network response into an error.
-const VERSION = "v1";
-const SHELL = `wr-shell-${VERSION}`;
-const DATA = "wr-data";
-const FONTS = "wr-fonts";
+const VERSION = "v2-1";
+const SHELL = `wr2-shell-${VERSION}`;
+const DATA = "wr2-data";
+const FONTS = "wr2-fonts";
 const PRECACHE = ["./", "manifest.json", "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png",
   "icons/apple-touch-icon.png"];
 
@@ -28,7 +28,7 @@ self.addEventListener("install", (event) => {
 self.addEventListener("activate", (event) => {
   event.waitUntil((async () => {
     for (const key of await caches.keys()) {
-      if (key.startsWith("wr-shell-") && key !== SHELL) await caches.delete(key);
+      if ((key.startsWith("wr2-shell-") && key !== SHELL) || key.startsWith("wr-")) await caches.delete(key);  // v1 caches too
     }
     await self.clients.claim();
   })());

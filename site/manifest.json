@@ -1,7 +1,7 @@
 {
-  "name": "Waiver Radar",
-  "short_name": "Waiver Radar",
-  "description": "Ozljede, postave, raspored i waiver preporuke za ESPN fantasy NBA lige.",
+  "name": "Waiver Radar 2",
+  "short_name": "Radar 2",
+  "description": "Raspored, izmjene i preporuke za ESPN fantasy NBA lige.",
   "lang": "hr",
   "id": "./",
   "start_url": "./",

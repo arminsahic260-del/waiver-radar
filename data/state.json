@@ -1,0 +1,251 @@
+{
+ "out": {
+  "6450": {
+   "player_id": 6450,
+   "name": "Kawhi Leonard",
+   "pro_team_id": 28,
+   "positions": [
+    "PF",
+    "SF"
+   ],
+   "value": 26.03,
+   "info": {
+    "since": "2026-11-04",
+    "min_date": "2026-11-11",
+    "max_date": "2026-11-11",
+    "text": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
+  },
+  "3102530": {
+   "player_id": 3102530,
+   "name": "Jusuf Nurkic",
+   "pro_team_id": 26,
+   "positions": [
+    "C"
+   ],
+   "value": 22.07,
+   "info": {
+    "since": "2026-11-06",
+    "min_date": "2026-11-20",
+    "max_date": "2026-11-20",
+    "text": "He will be re-evaluated in two weeks, the Jazz announced Friday.",
+    "kind": "weeks"
+   },
+   "headline": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday."
+  },
+  "3102531": {
+   "player_id": 3102531,
+   "name": "Kristaps Porzingis",
+   "pro_team_id": 9,
+   "positions": [
+    "C",
+    "PF"
+   ],
+   "value": 29.56,
+   "info": {
+    "since": "2026-11-04",
+    "min_date": "2026-11-18",
+    "max_date": "2026-12-16",
+    "text": "With Porzingis reportedly leaning toward retirement and no timetable for his return, he remains an extremely risky fantasy investment, with little reason to expect meaningful production this season.",
+    "kind": "indefinite"
+   },
+   "headline": "The Warriors have stopped issuing salary payments to Porzingis (illness), who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday."
+  },
+  "3907387": {
+   "player_id": 3907387,
+   "name": "Ben Simmons",
+   "pro_team_id": 23,
+   "positions": [
+    "PG"
+   ],
+   "value": 17.6,
+   "info": {
+    "since": "2026-10-18",
+    "min_date": "2027-04-11",
+    "max_date": "2027-04-11",
+    "text": "Simmons suffered a season-ending right Achilles tear during practice Sunday, Shams Charania of ESPN reports.",
+    "kind": "season"
+   },
+   "headline": "Simmons suffered a season-ending right Achilles tear during practice Sunday, Shams Charania of ESPN reports."
+  },
+  "4277961": {
+   "player_id": 4277961,
+   "name": "Jaren Jackson Jr.",
+   "pro_team_id": 26,
+   "positions": [
+    "C",
+    "PF"
+   ],
+   "value": 18.98,
+   "info": {
+    "since": "2026-10-27",
+    "min_date": "2026-12-08",
+    "max_date": "2026-12-22",
+    "text": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
+    "kind": "weeks"
+   },
+   "headline": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN."
+  },
+  "4279888": {
+   "player_id": 4279888,
+   "name": "Ja Morant",
+   "pro_team_id": 22,
+   "positions": [
+    "PG"
+   ],
+   "value": 22.36,
+   "info": {
+    "since": "2026-10-30",
+    "min_date": "2026-11-27",
+    "max_date": "2026-11-27",
+    "text": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
+    "kind": "weeks"
+   },
+   "headline": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday."
+  },
+  "4396993": {
+   "player_id": 4396993,
+   "name": "Tyrese Haliburton",
+   "pro_team_id": 11,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 32.79,
+   "info": {
+    "since": "2026-10-28",
+    "min_date": "2026-11-11",
+    "max_date": "2026-11-11",
+    "text": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
+    "kind": "weeks"
+   },
+   "headline": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports."
+  },
+  "4432165": {
+   "player_id": 4432165,
+   "name": "Jalen Suggs",
+   "pro_team_id": 19,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 17.09,
+   "info": {
+    "since": "2026-10-26",
+    "min_date": "2026-11-09",
+    "max_date": "2026-11-09",
+    "text": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+    "kind": "weeks"
+   },
+   "headline": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
+  },
+  "4432573": {
+   "player_id": 4432573,
+   "name": "Paolo Banchero",
+   "pro_team_id": 19,
+   "positions": [
+    "PF",
+    "SF"
+   ],
+   "value": 28.05,
+   "info": {
+    "since": "2026-10-24",
+    "min_date": "2026-11-21",
+    "max_date": "2026-12-05",
+    "text": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
+    "kind": "weeks"
+   },
+   "headline": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
+  },
+  "4433255": {
+   "player_id": 4433255,
+   "name": "Chet Holmgren",
+   "pro_team_id": 25,
+   "positions": [
+    "C",
+    "PF"
+   ],
+   "value": 23.04,
+   "info": {
+    "since": "2026-10-31",
+    "min_date": "2026-12-26",
+    "max_date": "2027-01-09",
+    "text": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",
+    "kind": "weeks"
+   },
+   "headline": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
+  },
+  "4433621": {
+   "player_id": 4433621,
+   "name": "Jalen Duren",
+   "pro_team_id": 8,
+   "positions": [
+    "C"
+   ],
+   "value": 22.62,
+   "info": {
+    "since": "2026-10-25",
+    "min_date": "2026-11-08",
+    "max_date": "2026-11-08",
+    "text": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports."
+  },
+  "4594268": {
+   "player_id": 4594268,
+   "name": "Anthony Edwards",
+   "pro_team_id": 16,
+   "positions": [
+    "SF",
+    "SG"
+   ],
+   "value": 32.51,
+   "info": {
+    "since": "2026-10-29",
+    "min_date": "2026-12-28",
+    "max_date": "2026-12-28",
+    "text": "Based on previous reporting from ESPN's Shams Charania, Edwards could miss up to two months.",
+    "kind": "weeks"
+   },
+   "headline": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced."
+  },
+  "4683692": {
+   "player_id": 4683692,
+   "name": "Cason Wallace",
+   "pro_team_id": 25,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 13.05,
+   "info": {
+    "since": "2026-10-26",
+    "min_date": "2027-04-11",
+    "max_date": "2027-04-11",
+    "text": "Although Wallace's return timetable has yet to be determined, Charania notes the guard is expected miss most of, if not all, of the rest of the season.",
+    "kind": "season"
+   },
+   "headline": "Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports."
+  },
+  "5061589": {
+   "player_id": 5061589,
+   "name": "Yves Missi",
+   "pro_team_id": 3,
+   "positions": [
+    "C"
+   ],
+   "value": 21.14,
+   "info": {
+    "since": "2026-11-05",
+    "min_date": "2026-11-19",
+    "max_date": "2026-12-17",
+    "text": "He remains without a timetable to return and can be considered week-to-week moving forward.",
+    "kind": "indefinite"
+   },
+   "headline": "Missi (knee) is out for Friday's game against Minnesota."
+  }
+ }
+}

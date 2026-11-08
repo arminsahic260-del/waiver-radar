@@ -1,0 +1,142 @@
+"""Analysis -> JSON for the dashboard (site/data/radar.json)."""
+from __future__ import annotations
+
+import datetime as dt
+from zoneinfo import ZoneInfo
+
+from .espn.maps import SLOT
+from .planner import FA, IR_BACK, IR_IN, WAIVER
+from .report import league_report, move_line, waiver_when, when_label
+from .schedule import DAY_SHORT, fmt_date
+from .week import Analysis
+
+INJ = {"ACTIVE": None, "DAY_TO_DAY": "DTD", "OUT": "OUT", "INJURY_RESERVE": "IR", "SUSPENSION": "SUSP"}
+
+
+def _r(x, n=1):
+    return None if x is None else round(x, n)
+
+
+def _news(a: Analysis, pid: int, limit: int = 3) -> list[dict]:
+    out = []
+    for n in (a.news.get(pid) or [])[:limit]:
+        out.append({"date": n.published.isoformat(), "headline": n.headline, "story": n.story[:600],
+                    "summary": n.summary_hr})
+    return out
+
+
+def player(a: Analysis, pid: int, tz: str, extra: dict | None = None) -> dict:
+    v = a.values[pid]
+    p = v.player
+    g = v.last_game
+    e = a.out_state.get(pid)
+    games_left = [d for d in a.remaining if a.schedule.plays(p.pro_team_id, d)]
+    d = {
+        "id": p.id, "name": p.name, "short": p.short, "team": p.team, "pos": p.positions,
+        "injury": INJ.get(p.injury, p.injury), "out": e.info.label() if e else None,
+        "now": _r(v.now), "long": _r(v.long), "avg": _r(p.season.avg), "last7": _r(p.last7.avg),
+        "proj": _r(p.proj.avg), "gp": p.season.gp, "mpg": _r(p.season.mpg), "mpg3": _r(v.mpg3),
+        "owned": _r(p.owned), "owned_change": _r(p.owned_change, 2),
+        "hot": v.hot, "signals": [{"kind": s.kind, "text": s.text, "detail": s.detail} for s in v.signals],
+        "last": {"line": g.line(), "fpts": _r(g.fpts), "date": fmt_date(a.schedule.date(g.sp))} if g else None,
+        "days": [DAY_SHORT[a.schedule.date(x).weekday()] for x in games_left],
+    }
+    if extra:
+        d.update(extra)
+    return d
+
+
+def _team_day(a: Analysis, td) -> dict | None:
+    if td is None:
+        return None
+    v = a.values
+    return {"n": td.n, "total": _r(td.total, 0),
+            "players": [{"id": pid, "short": v[pid].player.short, "slot": SLOT.get(slot, slot),
+                         "dtd": v[pid].player.is_dtd} for pid, slot in td.starters],
+            "extra": [{"id": pid, "short": v[pid].player.short} for pid in td.extra]}
+
+
+def league(a: Analysis, tz: str) -> dict:
+    v = a.values
+    sched = a.schedule
+    days = []
+    for r in a.rows:
+        days.append({"sp": r.sp, "date": fmt_date(r.date), "dow": DAY_SHORT[r.date.weekday()], "label": r.label,
+                     "past": r.past, "today": r.sp == a.today_sp, "actual_me": _r(r.my_actual, 0),
+                     "actual_opp": _r(r.opp_actual, 0), "me": _team_day(a, r.my), "opp": _team_day(a, r.opp)})
+
+    def roster(team):
+        if team is None:
+            return []
+        rows = sorted(team.roster, key=lambda r: (r.slot if r.slot < 12 else 50 + r.slot, -v[r.player.id].now))
+        return [player(a, r.player.id, tz, {"slot": SLOT.get(r.slot, r.slot), "news": _news(a, r.player.id)})
+                for r in rows]
+
+    drops = []
+    for dr in a.drops:
+        drops.append(player(a, dr.pid, tz, {"loss": _r(dr.loss), "in_lineup": len(dr.days_in), "games": dr.games,
+                                             "slot": SLOT.get(dr.slot, dr.slot)}))
+
+    def free_row(f):
+        fs = a.free_status.get(f.pid)
+        return player(a, f.pid, tz, {
+            "status": "WAIVER" if f.kind == "WAIVERS" else "FA",
+            "waiver_until": waiver_when(a, f.waiver_ms, tz) if f.kind == "WAIVERS" else None,
+            "gain_add": _r(f.gain_add), "gain": _r(f.best_gain),
+            "drop": v[f.best_drop].player.short if f.best_drop in v else None,
+            "when": when_label(a, f.best_t) if f.best_t else None,
+            "days": [DAY_SHORT[sched.date(x).weekday()] for x in f.days],
+        })
+
+    week = sorted(a.free, key=lambda f: (not v[f.pid].hot, -(f.best_gain if f.best_gain is not None else f.gain_add)))
+    longl = sorted(a.free, key=lambda f: (not v[f.pid].hot, -v[f.pid].long))
+    plan = []
+    for m in a.plan:
+        plan.append({"when": "DANAS" if m.kind == WAIVER else when_label(a, m.t), "kind": m.kind,
+                     "text": move_line(a, m, tz), "gain": _r(m.gain), "long_gain": _r(m.long_gain),
+                     "drop": v[m.drop].player.name if m.drop in v else None,
+                     "add": v[m.add].player.name if m.add in v else None})
+
+    inj = []
+    for side, team in (("me", a.me), ("opp", a.opp)):
+        for r in team.roster if team else []:
+            p = r.player
+            if p.injury != "ACTIVE" or a.news.get(p.id):
+                inj.append(player(a, p.id, tz, {"side": side, "slot": SLOT.get(r.slot, r.slot),
+                                               "news": _news(a, p.id)}))
+    inj.sort(key=lambda x: (x["side"] != "me", x["injury"] is None, x["name"]))
+
+    return {
+        "key": a.key, "label": a.label, "name": a.name, "period": a.period,
+        "week": f"{fmt_date(sched.date(a.start_sp))}–{fmt_date(sched.date(a.end_sp))}",
+        "goal": a.goal, "mode": a.mode, "mode_reason": a.mode_reason,
+        "me": {"id": a.me.id, "name": a.me.name}, "opp": {"id": a.opp.id, "name": a.opp.name} if a.opp else None,
+        "score": {"me": _r(a.my_live, 0), "opp": _r(a.opp_live, 0), "proj_me": _r(a.my_proj, 0),
+                  "proj_opp": _r(a.opp_proj, 0)},
+        "adds": {"used": a.adds_used, "limit": a.adds_limit},
+        "alerts": a.alerts, "infos": a.infos, "report": league_report(a, tz),
+        "days": days, "roster_me": roster(a.me), "roster_opp": roster(a.opp), "drops": drops,
+        "pick_week": [free_row(f) for f in week[:30]], "pick_long": [free_row(f) for f in longl[:30]],
+        "plan": plan, "injuries": inj,
+    }
+
+
+def export(res, cfg, slot: str | None, report_text: str, previous: dict | None = None) -> dict:
+    tz = cfg.vremenska_zona
+    local = res.now.astimezone(ZoneInfo(tz))
+    leagues = [league(a, tz) for a in res.analyses]
+    have = {L["key"] for L in leagues}
+    # a league that failed this run keeps its last good snapshot, marked stale
+    for old in (previous or {}).get("leagues") or []:
+        if old.get("key") in res.errors and old.get("key") not in have:
+            leagues.append(dict(old, stale=True, error=res.errors[old["key"]][1]))
+            have.add(old["key"])
+    order = {lc.kljuc: i for i, lc in enumerate(cfg.lige)}
+    leagues.sort(key=lambda L: order.get(L["key"], 99))
+    return {
+        "generated": res.now.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
+        "generated_local": f"{local.day}.{local.month}. {local:%H:%M}",
+        "slot": slot, "report": report_text, "leagues": leagues,
+        "errors": [{"key": k, "label": lab, "message": msg} for k, (lab, msg) in res.errors.items()],
+        "claude": res.claude_items,
+    }

@@ -1,0 +1,48 @@
+# Waiver Radar 2 — postavke. Kredencijali (ESPN_S2, ESPN_SWID, TELEGRAM_*, ANTHROPIC_API_KEY) NISU ovdje:
+# čitaju se samo iz environment varijabli / GitHub secrets.
+
+sezona: 2027                    # ESPN seasonId (sezona 2026-27)
+vremenska_zona: Europe/Zagreb
+prvi_dan: 2026-10-20            # scoringPeriodId 1; samo rezerva, inače se računa iz ESPN rasporeda
+dashboard_url: https://arminsahic260-del.github.io/waiver-radar/   # link na kraju Telegram poruke
+
+izvjestaji:                     # GitHub Actions šalje Telegram u ova vremena (po vremenskoj zoni gore)
+  jutro: "08:30"
+  vecer: "21:30"
+
+preuzimanja_tjedno: 7           # adds po H2H tjednu (ESPN-ov "matchupAcquisitionLimit: 1" NIJE dnevni limit)
+
+lige:
+  - kljuc: legendi
+    naziv: Liga Legendi
+    oznaka: LEGENDI
+    league_id: 2023498222
+    team_id: 1
+    privatna: false
+    cilj: tjedan                # tjedan | dugorocno
+    cilj_po_tjednu: {}          # npr. {5: dugorocno} za matchup period 5
+  - kljuc: banijska
+    naziv: 1. Banijska šampion liga
+    oznaka: BANIJSKA
+    league_id: 465846171
+    team_id: 5
+    privatna: true              # treba ESPN_S2 + ESPN_SWID
+    cilj: tjedan
+    cilj_po_tjednu: {}
+
+model:
+  min_minuta: 15                # slobodni igrači s manje minuta (sezona i zadnje 3) se ne predlažu
+  dtd_faktor: 0.85              # projekcija za day-to-day igrača
+  prag_izgubljen: -150          # projekcija tjedna ispod ovoga -> dugoročni način
+  min_dobitak: 6                # najmanji neto dobitak (FP do nedjelje) za prijedlog izmjene
+  rezerva_preuzimanja: 1        # toliko preuzimanja čuvaj za ozljede do subote (zadnja 2 dana smiju sva)
+  min_dobitak_dugorocno: 2.5    # najmanji rast value_long (FP po utakmici) za dugoročnu izmjenu
+  zastita_fp: 4                 # u tjednom načinu ne bacaj igrača čiji je value_long veći od novog za više od ovoga
+  vijesti_sati: 72              # koliko svježa vijest pali signal "novi starter"
+  kandidata_po_ligi: 40         # koliko slobodnih igrača ulazi u planer
+  vatra_min_fp: 12              # 🔥 za novog startera (ili dva signala) od ovoliko FP po utakmici u novoj ulozi
+  vatra_jedan_signal_fp: 20     # samo skok minuta ili samo ozljeda suigrača: tek od ovoliko FP
+
+claude:
+  ukljuceno: false              # true + ANTHROPIC_API_KEY: sažetak vijesti na hrvatskom i provjera "novi starter"
+  model: claude-sonnet-5-5

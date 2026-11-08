@@ -1,0 +1,82 @@
+name: radar
+
+on:
+  schedule:
+    # Izvještaji u 08:30 i 21:30 po Zagrebu. Cron je u UTC-u, a Zagreb je UTC+1 zimi i UTC+2 ljeti,
+    # pa se posao pokreće u oba UTC termina. radar sam provjeri koji je pravi (radar/publish.py: due_slot)
+    # i šalje Telegram jednom po terminu i danu; drugo pokretanje samo osvježi dashboard.
+    - cron: "30 6,7 * * *"
+    - cron: "30 19,20 * * *"
+  workflow_dispatch:
+    inputs:
+      telegram:
+        description: "Telegram poruka"
+        type: choice
+        options: [uvijek, auto, ne]
+        default: uvijek
+  push:
+    branches: [main]
+    paths-ignore: ["site/data/**", "data/**", "*.md"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Testovi
+        run: python -m pytest -q
+
+      - name: Radar
+        if: github.event_name != 'push'
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m radar build --telegram "${{ github.event.inputs.telegram || 'auto' }}"
+
+      - name: Spremi podatke
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "waiver-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data data
+          if git diff --cached --quiet; then echo "nema promjena"; exit 0; fi
+          git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --autostash
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
