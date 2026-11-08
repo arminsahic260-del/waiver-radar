@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-08T06:19:22Z",
+ "updated": "2026-11-08T11:02:27Z",
  "items": [
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "CJ McCollum",
+   "headline": "Continues in bench role",
+   "note": "McCollum contributed nine points (4-14 FG, 1-6 3Pt), four rebounds, three assists, two blocks and two steals across 21 minutes during Saturday's 124-121 win over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/cj-mccollum-news-continues-in-bench-role-538092"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "Jalen Johnson",
+   "headline": "Drops 30 points in return",
+   "note": "Johnson recorded 30 points (11-17 FG, 0-5 3Pt, 8-10 FT), seven rebounds, six assists and one steal in 36 minutes during Saturday's 124-121 win over Brooklyn.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-drops-30-points-in-return-538091"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Flirts with quad-double in win",
+   "note": "Daniels accumulated nine points (4-9 FG, 1-2 FT), 10 rebounds, seven assists, one block and six steals over 31 minutes during Saturday's 124-121 victory over the Nets.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-flirts-with-quad-double-in-win-538090"
+  },
+  {
+   "date": "2026-11-07",
+   "team": "BKN",
+   "player": "Nolan Traore",
+   "headline": "Season-high four steals",
+   "note": "Traore finished with 19 points (8-10 FG, 2-4 3Pt, 1-2 FT), one rebound, two assists and four steals in 23 minutes during Saturday's 124-121 loss to the Hawks.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-season-high-four-steals-538089"
+  },
   {
    "date": "2026-11-07",
    "team": "BKN",
@@ -213,16 +253,6 @@
   },
   {
    "date": "2026-11-07",
-   "team": "OKC",
-   "player": "Shai Gilgeous-Alexander",
-   "headline": "Scores 30 points with nine dimes",
-   "note": "Gilgeous-Alexander racked up 30 points (11-20 FG, 3-5 3Pt, 5-6 FT), two rebounds, nine assists, one block and two turnovers across 29 minutes in Saturday's 114-75 win over the Wizards.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-scores-30-points-with-nine-dimes-538067"
-  },
-  {
-   "date": "2026-11-07",
    "team": "WAS",
    "player": "Deandre Ayton",
    "headline": "Won't return Saturday",
@@ -230,16 +260,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/deandre-ayton-injury-wont-return-saturday-538066"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "DEN",
-   "player": "Nikola Jokic",
-   "headline": "Flirts with triple-double Saturday",
-   "note": "Jokic finished with 19 points (7-20 FG, 1-3 3Pt, 4-4 FT), 13 rebounds, eight assists, one steal and one block across 36 minutes in Saturday's 114-102 win over the Pacers in Mexico City.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-flirts-with-triple-double-saturday-538065"
   },
   {
    "date": "2026-11-07",
@@ -376,7 +396,7 @@
    "team": "CHI",
    "player": "Tobe Awaka",
    "headline": "Questionable for Sunday",
-   "note": "Awaka (knee) is questionable for Sundays' game against the 76ers.",
+   "note": "Awaka (knee) is questionable for Sunday's game against the 76ers.",
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-questionable-for-sunday-538025"
@@ -580,26 +600,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-starting-saturday-538045"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "headline": "Available Saturday",
-   "note": "Clowney (illness) is active for Saturday's game against the Hawks.",
-   "kind": "other",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-saturday-538038"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Noah Clowney",
-   "headline": "Questionable for Saturday",
-   "note": "Clowney is listed as questionable for Saturday's game against the Hawks due to an illness.",
-   "kind": "injury",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/noah-clowney-injury-questionable-for-saturday-537960"
   }
  ]
 }
