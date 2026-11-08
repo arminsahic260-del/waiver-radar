@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:21:57Z",
+ "updated": "2026-11-08T12:21:55Z",
  "engine": "heuristika",
  "picks": [
   {
@@ -50,7 +50,7 @@
    "horizon": "Dok zadrži mjesto u prvoj petorci",
    "risk": "Starterska uloga ne znači velike minute — provjeri prve 2 utakmice",
    "avail": {
-    "Legendi": true,
+    "Legendi": false,
     "Banijska": true
    },
    "source": "https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-starting-versus-spurs-537600",
@@ -628,23 +628,6 @@
        "gtd": false
       },
       {
-       "player": "Zaccharie Risacher",
-       "team": "DAL",
-       "pos": "SF",
-       "espnId": 5211175,
-       "fpts": 21.8,
-       "mpg": 25.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.7,
-       "matchup": "BKN @ DAL",
-       "dates": [
-        "2026-11-08"
-       ],
-       "value": 21.8,
-       "gtd": false
-      },
-      {
        "player": "Sandro Mamukelashvili",
        "team": "LAL",
        "pos": "PF/C",
@@ -659,6 +642,23 @@
         "2026-11-08"
        ],
        "value": 21.8,
+       "gtd": false
+      },
+      {
+       "player": "Keaton Wagler",
+       "team": "LAC",
+       "pos": "PG/SG",
+       "espnId": 5254165,
+       "fpts": 21.2,
+       "mpg": 25.3,
+       "basis": "sezona+projekcija",
+       "gp": 8,
+       "cur": 19.6,
+       "matchup": "NOP @ LAC",
+       "dates": [
+        "2026-11-08"
+       ],
+       "value": 21.2,
        "gtd": false
       }
      ]
@@ -1155,25 +1155,6 @@
        "gtd": false
       },
       {
-       "player": "Zaccharie Risacher",
-       "team": "DAL",
-       "pos": "SF",
-       "espnId": 5211175,
-       "fpts": 21.8,
-       "mpg": 25.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.7,
-       "matchup": "DAL @ MIN",
-       "dates": [
-        "2026-11-12",
-        "2026-11-14",
-        "2026-11-15"
-       ],
-       "value": 21.8,
-       "gtd": false
-      },
-      {
        "player": "Daniss Jenkins",
        "team": "DET",
        "pos": "PG",
@@ -1190,6 +1171,25 @@
        ],
        "value": 19.9,
        "gtd": false
+      },
+      {
+       "player": "Oso Ighodaro",
+       "team": "PHX",
+       "pos": "PF",
+       "espnId": 4601023,
+       "fpts": 19.2,
+       "mpg": 21.8,
+       "basis": "sezona+prošla sezona",
+       "gp": 6,
+       "cur": 18.3,
+       "matchup": "CHA @ PHX",
+       "dates": [
+        "2026-11-12",
+        "2026-11-15"
+       ],
+       "value": 19.2,
+       "gtd": false,
+       "waiver": "2026-11-10"
       }
      ]
     },
@@ -1410,24 +1410,6 @@
      ],
      "picks": [
       {
-       "player": "Zaccharie Risacher",
-       "team": "DAL",
-       "pos": "SF",
-       "espnId": 5211175,
-       "fpts": 21.8,
-       "mpg": 25.1,
-       "basis": "sezona+prošla sezona",
-       "gp": 9,
-       "cur": 22.7,
-       "matchup": "DAL @ CLE",
-       "dates": [
-        "2026-11-14",
-        "2026-11-15"
-       ],
-       "value": 21.8,
-       "gtd": false
-      },
-      {
        "player": "Jerami Grant",
        "team": "MEM",
        "pos": "PF",
@@ -1461,6 +1443,24 @@
        "value": 20.7,
        "gtd": false,
        "waiver": "2026-11-09"
+      },
+      {
+       "player": "Meleek Thomas",
+       "team": "CLE",
+       "pos": "SG",
+       "espnId": 5041951,
+       "fpts": 20.7,
+       "mpg": 22.4,
+       "basis": "sezona",
+       "gp": 7,
+       "cur": 20.7,
+       "matchup": "DAL @ CLE",
+       "dates": [
+        "2026-11-14"
+       ],
+       "value": 20.7,
+       "gtd": false,
+       "waiver": "2026-11-10"
       }
      ]
     },
