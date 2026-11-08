@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-08T12:21:54Z",
+ "updated": "2026-11-08T13:21:49Z",
  "items": [
+  {
+   "date": "2026-11-08",
+   "team": "OKC",
+   "player": "Aday Mara",
+   "headline": "Impresses at both ends Saturday",
+   "note": "Mara registered 18 points (8-10 FG, 1-1 3Pt, 1-2 FT), eight rebounds, three assists and three blocks in Saturday's 114-75 win over the Wizards.",
+   "kind": "other",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aday-mara-news-impresses-at-both-ends-saturday-538095"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "WAS",
+   "player": "Alex Sarr",
+   "headline": "Pulls down 14 rebounds",
+   "note": "Sarr tallied 15 points (7-17 FG, 1-9 3Pt), 14 rebounds and an assist across 28 minutes in Saturday's 114-75 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/alex-sarr-news-pulls-down-14-rebounds-538094"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "WAS",
+   "player": "AJ Dybantsa",
+   "headline": "Leads Wizards with 19 points",
+   "note": "Dybantsa posted 19 points (7-15 FG, 1-5 3Pt, 4-6 FT), six rebounds and three assists across 31 minutes in Saturday's 114-75 loss to the Thunder.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-leads-wizards-with-19-points-538093"
+  },
   {
    "date": "2026-11-07",
    "team": "ATL",
@@ -223,16 +253,6 @@
   },
   {
    "date": "2026-11-07",
-   "team": "NYK",
-   "player": "Jalen Brunson",
-   "headline": "Nets 31 points with nine assists",
-   "note": "Brunson ended with 31 points (12-25 FG, 3-7 3Pt, 4-5 FT), six rebounds and nine assists over 34 minutes during Saturday's 109-97 victory over the Cavaliers.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-nets-31-points-with-nine-assists-538070"
-  },
-  {
-   "date": "2026-11-07",
    "team": "BKN",
    "player": "Mikel Brown",
    "headline": "Scores 18 points Saturday, won't play Sunday",
@@ -240,16 +260,6 @@
    "kind": "injury",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/mikel-brown-injury-scores-18-points-saturday-wont-play-sunday-538069"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Day'Ron Sharpe",
-   "headline": "Records first career triple-double",
-   "note": "Sharpe finished with 12 points (4-8 FG, 0-2 3Pt, 4-4 FT), 10 rebounds, 13 assists and one block over 32 minutes in Saturday's 124-121 loss to Atlanta.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-records-first-career-triple-double-538068"
   },
   {
    "date": "2026-11-07",
@@ -584,22 +594,12 @@
   {
    "date": "2026-11-07",
    "team": "BKN",
-   "player": "Chaney Johnson",
-   "headline": "Sliding back to bench Saturday",
-   "note": "Johnson will come off the bench for Saturday's game against the Hawks, Erik Slater of ClutchPoints.com reports.",
+   "player": "Day'Ron Sharpe",
+   "headline": "Records first career triple-double",
+   "note": "Sharpe finished with 12 points (4-8 FG, 0-2 3Pt, 4-4 FT), 10 rebounds, 13 assists and one block over 32 minutes in Saturday's 124-121 loss to Atlanta.",
    "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/chaney-johnson-news-sliding-back-to-bench-saturday-538046"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Starting Saturday",
-   "note": "Wolf will be in the starting lineup for Saturday's matchup with the Hawks, Erik Slater of ClutchPoints.com reports.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-starting-saturday-538045"
+   "url": "https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-records-first-career-triple-double-538068"
   }
  ]
 }
