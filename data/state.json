@@ -8,7 +8,7 @@
     "PF",
     "SF"
    ],
-   "value": 26.03,
+   "value": 40.04,
    "info": {
     "since": "2026-11-04",
     "min_date": "2026-11-11",
@@ -78,7 +78,7 @@
     "C",
     "PF"
    ],
-   "value": 18.98,
+   "value": 29.19,
    "info": {
     "since": "2026-10-27",
     "min_date": "2026-12-08",
@@ -95,7 +95,7 @@
    "positions": [
     "PG"
    ],
-   "value": 22.36,
+   "value": 34.4,
    "info": {
     "since": "2026-10-30",
     "min_date": "2026-11-27",
@@ -113,7 +113,7 @@
     "PG",
     "SG"
    ],
-   "value": 32.79,
+   "value": 50.44,
    "info": {
     "since": "2026-10-28",
     "min_date": "2026-11-11",
@@ -131,7 +131,7 @@
     "PG",
     "SG"
    ],
-   "value": 17.09,
+   "value": 26.3,
    "info": {
     "since": "2026-10-26",
     "min_date": "2026-11-09",
@@ -149,7 +149,7 @@
     "PF",
     "SF"
    ],
-   "value": 28.05,
+   "value": 43.15,
    "info": {
     "since": "2026-10-24",
     "min_date": "2026-11-21",
@@ -167,7 +167,7 @@
     "C",
     "PF"
    ],
-   "value": 23.04,
+   "value": 35.44,
    "info": {
     "since": "2026-10-31",
     "min_date": "2026-12-26",
@@ -184,15 +184,15 @@
    "positions": [
     "C"
    ],
-   "value": 22.62,
+   "value": 34.8,
    "info": {
-    "since": "2026-10-25",
-    "min_date": "2026-11-08",
-    "max_date": "2026-11-08",
-    "text": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
+    "since": "2026-11-08",
+    "min_date": "2026-11-22",
+    "max_date": "2026-11-22",
+    "text": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "kind": "weeks"
    },
-   "headline": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports."
+   "headline": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
   },
   "4594268": {
    "player_id": 4594268,
@@ -202,7 +202,7 @@
     "SF",
     "SG"
    ],
-   "value": 32.51,
+   "value": 50.01,
    "info": {
     "since": "2026-10-29",
     "min_date": "2026-12-28",
@@ -220,7 +220,7 @@
     "PG",
     "SG"
    ],
-   "value": 13.05,
+   "value": 20.07,
    "info": {
     "since": "2026-10-26",
     "min_date": "2027-04-11",
@@ -237,7 +237,7 @@
    "positions": [
     "C"
    ],
-   "value": 21.14,
+   "value": 32.52,
    "info": {
     "since": "2026-11-05",
     "min_date": "2026-11-19",
@@ -246,6 +246,41 @@
     "kind": "indefinite"
    },
    "headline": "Missi (knee) is out for Friday's game against Minnesota."
+  },
+  "3032979": {
+   "player_id": 3032979,
+   "name": "Dennis Schroder",
+   "pro_team_id": 30,
+   "positions": [
+    "PG"
+   ],
+   "value": 16.75,
+   "info": {
+    "since": "2026-11-08",
+    "min_date": "2026-11-22",
+    "max_date": "2026-11-22",
+    "text": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
+  },
+  "5061575": {
+   "player_id": 5061575,
+   "name": "Kon Knueppel",
+   "pro_team_id": 30,
+   "positions": [
+    "SF",
+    "SG"
+   ],
+   "value": 28.14,
+   "info": {
+    "since": "2026-11-08",
+    "min_date": "2026-12-06",
+    "max_date": "2026-12-06",
+    "text": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.",
+    "kind": "weeks"
+   },
+   "headline": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
   }
  }
 }
