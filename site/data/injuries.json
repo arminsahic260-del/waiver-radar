@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:21:19Z",
+ "updated": "2026-11-08T15:21:18Z",
  "source": "CBS Sports",
  "items": [
   {
@@ -234,16 +234,6 @@
   },
   {
    "team": "DET",
-   "player": "Isaiah Joe",
-   "pos": "SG",
-   "updated": "2026-11-07",
-   "injury": "Hip",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
-  },
-  {
-   "team": "DET",
    "player": "Jalen Duren",
    "pos": "C",
    "updated": "2026-10-25",
@@ -268,6 +258,16 @@
    "pos": "PF",
    "updated": "2026-11-07",
    "injury": "Not Injury Related",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
+  },
+  {
+   "team": "DET",
+   "player": "Isaiah Joe",
+   "pos": "SG",
+   "updated": "2026-11-08",
+   "injury": "Hip",
    "status": "GTD",
    "kind": "gtd",
    "ret": null
@@ -834,16 +834,6 @@
   },
   {
    "team": "WAS",
-   "player": "Deandre Ayton",
-   "pos": "C",
-   "updated": "2026-11-07",
-   "injury": "Leg",
-   "status": "Expected return: at least Nov 9",
-   "kind": "out",
-   "ret": "2026-11-09"
-  },
-  {
-   "team": "WAS",
    "player": "Jamir Watkins",
    "pos": "SF",
    "updated": "2026-10-17",
@@ -881,6 +871,16 @@
    "status": "Expected return: at least Nov 9",
    "kind": "out",
    "ret": "2026-11-09"
+  },
+  {
+   "team": "WAS",
+   "player": "Deandre Ayton",
+   "pos": "C",
+   "updated": "2026-11-08",
+   "injury": "Leg",
+   "status": "GTD",
+   "kind": "gtd",
+   "ret": null
   }
  ]
 }

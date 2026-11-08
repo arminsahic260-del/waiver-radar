@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-08T14:21:58Z",
+ "updated": "2026-11-08T15:21:53Z",
  "items": [
+  {
+   "date": "2026-11-08",
+   "team": "CHI",
+   "player": "Norman Powell",
+   "headline": "Late addition to injury report",
+   "note": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
+   "kind": "injury",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/norman-powell-injury-late-addition-to-injury-report-538118"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "POR",
+   "player": "Scoot Henderson",
+   "headline": "Contributes across multiple categories",
+   "note": "Henderson notched 13 points (4-10 FG, 0-5 3Pt, 5-6 FT), two rebounds, an assist, a steal and a block across 24 minutes in Saturday's 125-103 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-contributes-across-multiple-categories-538114"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "POR",
+   "player": "Damian Lillard",
+   "headline": "Hands out seven assists",
+   "note": "Lillard delivered 12 points (4-8 FG, 2-3 3Pt, 2-3 FT) and seven assists across 20 minutes in Saturday's 125-103 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/damian-lillard-news-hands-out-seven-assists-538113"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "POR",
+   "player": "Deni Avdija",
+   "headline": "Poor shooting performance",
+   "note": "Avdija finished with 15 points (5-13 FG, 2-3 3Pt, 3-4 FT), four rebounds, an assist and a steal across 24 minutes in Saturday's 125-103 loss to the Spurs.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-poor-shooting-performance-538112"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "SAS",
+   "player": "Stephon Castle",
+   "headline": "Solid stat line Saturday",
+   "note": "Castle tallied 14 points (5-12 FG, 2-5 3Pt, 2-2 FT), seven rebounds, five assists and a block across 24 minutes in Saturday's 125-103 win over the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/stephon-castle-news-solid-stat-line-saturday-538111"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "SAS",
+   "player": "Devin Vassell",
+   "headline": "Scores 15 points in 21 minutes",
+   "note": "Vassell registered 15 points (4-8 FG, 2-4 3Pt, 5-5 FT), two rebounds, three assists and two steals across 21 minutes in Saturday's 125-103 win over the Trail Blazers.",
+   "kind": "lineup",
+   "source": "RotoWire",
+   "url": "https://www.rotowire.com/basketball/headlines/devin-vassell-news-scores-15-points-in-21-minutes-538110"
+  },
   {
    "date": "2026-11-08",
    "team": "SAS",
@@ -190,66 +250,6 @@
    "kind": "lineup",
    "source": "RotoWire",
    "url": "https://www.rotowire.com/basketball/headlines/jalen-johnson-news-drops-30-points-in-return-538091"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "ATL",
-   "player": "Dyson Daniels",
-   "headline": "Flirts with quad-double in win",
-   "note": "Daniels accumulated nine points (4-9 FG, 1-2 FT), 10 rebounds, seven assists, one block and six steals over 31 minutes during Saturday's 124-121 victory over the Nets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-flirts-with-quad-double-in-win-538090"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Nolan Traore",
-   "headline": "Season-high four steals",
-   "note": "Traore finished with 19 points (8-10 FG, 2-4 3Pt, 1-2 FT), one rebound, two assists and four steals in 23 minutes during Saturday's 124-121 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/nolan-traore-news-season-high-four-steals-538089"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Terance Mann",
-   "headline": "Goes scoreless again Saturday",
-   "note": "Mann logged zero points (0-2 FG, 0-2 3Pt) and two rebounds over 13 minutes during Saturday's 124-121 loss to Atlanta.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/terance-mann-news-goes-scoreless-again-saturday-538088"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "BKN",
-   "player": "Danny Wolf",
-   "headline": "Double-doubles in spot start",
-   "note": "Wolf accumulated 11 points (4-10 FG, 2-7 3Pt, 1-4 FT), 10 rebounds and one assist in 31 minutes during Saturday's 124-121 loss to the Hawks.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/danny-wolf-news-double-doubles-in-spot-start-538087"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "IND",
-   "player": "Ivica Zubac",
-   "headline": "Double-doubles despite loss",
-   "note": "Zubac notched 10 points (4-5 FG, 2-2 FT), 12 rebounds and five assists in 19 minutes during Saturday's 114-102 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/ivica-zubac-news-double-doubles-despite-loss-538086"
-  },
-  {
-   "date": "2026-11-07",
-   "team": "IND",
-   "player": "Larry Nance",
-   "headline": "Lands five triples in loss",
-   "note": "Nance recorded 15 points (5-7 FG, 5-7 3Pt), two rebounds and one assist over 13 minutes during Saturday's 114-102 loss to the Nuggets.",
-   "kind": "lineup",
-   "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/larry-nance-news-lands-five-triples-in-loss-538085"
   },
   {
    "date": "2026-11-07",
@@ -493,13 +493,13 @@
   },
   {
    "date": "2026-11-07",
-   "team": "OKC",
-   "player": "Jaylin Williams",
-   "headline": "Out against Wizards",
-   "note": "Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports.",
-   "kind": "injury",
+   "team": "ATL",
+   "player": "Dyson Daniels",
+   "headline": "Flirts with quad-double in win",
+   "note": "Daniels accumulated nine points (4-9 FG, 1-2 FT), 10 rebounds, seven assists, one block and six steals over 31 minutes during Saturday's 124-121 victory over the Nets.",
+   "kind": "lineup",
    "source": "RotoWire",
-   "url": "https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-out-against-wizards-538004"
+   "url": "https://www.rotowire.com/basketball/headlines/dyson-daniels-news-flirts-with-quad-double-in-win-538090"
   },
   {
    "date": "2026-11-07",
