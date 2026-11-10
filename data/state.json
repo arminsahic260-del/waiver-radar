@@ -254,7 +254,7 @@
    "positions": [
     "PG"
    ],
-   "value": 16.75,
+   "value": 18.5,
    "info": {
     "since": "2026-11-08",
     "min_date": "2026-11-22",
@@ -281,42 +281,6 @@
     "kind": "weeks"
    },
    "headline": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
-  },
-  "4397014": {
-   "player_id": 4397014,
-   "name": "Quentin Grimes",
-   "pro_team_id": 13,
-   "positions": [
-    "SF",
-    "SG"
-   ],
-   "value": 17.93,
-   "info": {
-    "since": "2026-10-31",
-    "min_date": "2026-11-02",
-    "max_date": "2026-11-02",
-    "text": "Luka Doncic (back) is in the lineup following a one-game absence, pushing Grimes to the second unit.",
-    "kind": "weeks"
-   },
-   "headline": "Grimes won't start Friday's game against the Warriors."
-  },
-  "4431675": {
-   "player_id": 4431675,
-   "name": "Trendon Watford",
-   "pro_team_id": 3,
-   "positions": [
-    "PF",
-    "SF"
-   ],
-   "value": 15.89,
-   "info": {
-    "since": "2026-11-09",
-    "min_date": "2026-11-23",
-    "max_date": "2026-12-21",
-    "text": "In his absence, DeAndre Jordan could re-enter the rotation, given Yves Missi (knee) remains out indefinitely.",
-    "kind": "indefinite"
-   },
-   "headline": "Watford (ankle) is out for Monday's game versus the Warriors."
   }
  }
 }
