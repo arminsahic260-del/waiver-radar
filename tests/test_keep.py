@@ -37,5 +37,6 @@ def test_config_protects_legendi_core(cfg):
     assert not lc.keeps("Draymond Green")
     bl = cfg.league("banijska")
     assert all(bl.keeps(n) for n in ("Cooper Flagg", "Alperen Sengun", "Jaylen Brown", "Jaden McDaniels",
-                                      "Keyonte George", "VJ Edgecombe", "Stephon Castle", "Peyton Watson"))
+                                      "Keyonte George", "VJ Edgecombe", "Stephon Castle", "Peyton Watson",
+                                      "Brayden Burries"))
     assert not bl.keeps("Kel'el Ware") and not bl.keeps("Ziaire Williams")
