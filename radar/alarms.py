@@ -102,8 +102,9 @@ def drop_for(a: Analysis, pid_in: int) -> tuple[int | None, str]:
     pool, why = mine, ""
     if v_in.player.is_center and max_c is not None and n_c >= max_c:
         centers = [p for p in mine if a.values[p].player.is_center]
-        if centers:
-            pool, why = centers, f"imaš {n_c} centra, limit {max_c}"
+        if not centers:        # a non-center drop would break the limit, so there is nobody to drop
+            return None, f"imaš {n_c} centra (limit {max_c}), a svi su na popisu ne_bacaj"
+        pool, why = centers, f"imaš {n_c} centra, limit {max_c}"
     eng = a.eng
     drop = min(pool, key=lambda p: (a.values[p].long, eng.expected(p) if eng else 0))
     return drop, why
@@ -230,6 +231,8 @@ def _strong_drop(a, lg, pid, owned, powned, pteam, names, tz) -> Event:
         if wk is not None:
             bits.append(f"do nedjelje {wk:+.0f}")
         head += f" Za njega baci {dv.player.short}{' (' + why + ')' if why else ''}: {', '.join(bits)}."
+    elif why:
+        head += f" Nemaš koga baciti za njega: {why}."
     return Event(f"drop:{L}:{pid}:{a.today_sp}", a.key, "bacen", head)
 
 

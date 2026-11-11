@@ -1,6 +1,7 @@
 """Fast alarms on the recorded Wednesday 11.11.2026 (Liga Legendi): the previous snapshot is edited to stage
 what happened between two passes."""
 import copy
+import dataclasses
 
 import pytest
 
@@ -34,17 +35,29 @@ def test_nothing_changed_nothing_sent(snaps, leg11):
 def test_strong_center_dropped_suggests_a_center(snaps, leg11):
     """Porzingis (C, 34 % owned) dropped by team 5: FA, and with 4 centers on my roster the drop is a center."""
     lg, prev, cur = snaps
+    a = dataclasses.replace(leg11, keep=set())                # without the user's ne_bacaj list
     assert cur["players"][str(PORZINGIS)][0] == "FA"
     prev["players"][str(PORZINGIS)] = ["T", 5, "OUT", 0, 34.0]
-    ev = diff(prev, cur, leg11, lg)
+    ev = diff(prev, cur, a, lg)
     assert _kinds(ev) == ["bacen"]
     t = ev[0].text
     assert "Kristaps Porzingis" in t and "slobodan (FA), uzmi odmah" in t and lg.team_names[5] in t
     assert "imaš 4 centra, limit 4" in t
-    drop, why = drop_for(leg11, PORZINGIS)
-    assert leg11.values[drop].player.is_center
-    assert f"baci {leg11.values[drop].player.short}" in t
+    drop, why = drop_for(a, PORZINGIS)
+    assert a.values[drop].player.is_center
+    assert f"baci {a.values[drop].player.short}" in t
     assert ev[0].key.startswith("drop:LEGENDI:3102531:")
+
+
+def test_center_limit_with_all_centers_protected_suggests_nobody(snaps, leg11):
+    """All my centers are on ne_bacaj: dropping a guard would break the 4-center limit, so no drop is suggested."""
+    lg, prev, cur = snaps
+    centers = {r.player.id for r in leg11.me.roster if r.player.is_center}
+    a = dataclasses.replace(leg11, keep=centers)
+    prev["players"][str(PORZINGIS)] = ["T", 5, "OUT", 0, 34.0]
+    t = diff(prev, cur, a, lg)[0].text
+    assert drop_for(a, PORZINGIS)[0] is None
+    assert "Za njega baci" not in t and "Nemaš koga baciti" in t and "ne_bacaj" in t
 
 
 def test_strong_player_on_waivers_says_when_the_claim_runs(snaps, leg11):
