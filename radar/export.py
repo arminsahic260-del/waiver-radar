@@ -84,7 +84,8 @@ def league(a: Analysis, tz: str) -> dict:
             return []
         rows = sorted(team.roster, key=lambda r: (r.slot if r.slot < 12 else 50 + r.slot, -v[r.player.id].now))
         return [player(a, r.player.id, tz, {"slot": SLOT.get(r.slot, r.slot), "news": _news(a, r.player.id),
-                                            "acq": r.acq, "draft": draft(r.player.id, team.id)})
+                                            "acq": r.acq, "draft": draft(r.player.id, team.id),
+                                            "keep": r.player.id in a.keep})
                 for r in rows]
 
     drops = []
@@ -146,6 +147,7 @@ def league(a: Analysis, tz: str) -> dict:
                        "day": DAY_SHORT[sched.date(m.sp).weekday()] if m.sp else None} for m in a.opp_moves],
         "alerts": a.alerts, "infos": a.infos, "report": league_report(a, tz),
         "days": days, "roster_me": roster(a.me), "roster_opp": roster(a.opp), "drops": drops,
+        "keep": [r.player.short for r in a.me.roster if r.player.id in a.keep],
         "pick_week": [free_row(f) for f in week[:30]], "pick_long": [free_row(f) for f in longl[:30]],
         "plan": plan, "injuries": inj,
     }

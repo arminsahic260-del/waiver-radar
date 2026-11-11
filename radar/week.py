@@ -140,6 +140,7 @@ class Analysis:
     cond: list[CondStep] = field(default_factory=list)
     protect: float = 4.0
     planner: Planner | None = None
+    keep: set[int] = field(default_factory=set)      # my players never to drop (config `ne_bacaj`)
 
     @property
     def remaining(self) -> list[int]:
@@ -265,9 +266,10 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     # ---- contributions of my players
     drops = []
     ir_ids = {r.player.id for r in me.roster if r.slot == IR}
+    keep = {r.player.id for r in me.roster if lc.keeps(r.player.name)}     # config `ne_bacaj`: never a drop
     for r in me.roster:
         pid = r.player.id
-        if r.slot == IR:
+        if r.slot == IR or pid in keep:
             continue
         loss = sum(eng.total(my_ros, d) - eng.total(my_ros - {pid}, d) for d in remaining)
         days_in = [d for d in remaining if pid in eng.opt(my_ros, d).starters]
@@ -310,7 +312,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                       adds_left=max(0, adds_limit - adds_used), mode=mode,
                       roster_cap=sum((lg.settings.slot_counts or {}).values()) + lg.settings.bench,
                       ir_cap=lg.settings.ir, max_centers=lg.settings.max_centers,
-                      undroppable={r.player.id for r in me.roster if not r.player.droppable},
+                      undroppable={r.player.id for r in me.roster if not r.player.droppable} | keep,
                       min_gain=mc.min_dobitak, min_long_gain=mc.min_dobitak_dugorocno, protect=mc.zastita_fp,
                       reserve=mc.rezerva_preuzimanja, reserve_from=end - 1)
     ir_returns, alerts, infos = [], [], []
@@ -366,7 +368,8 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                  opp_proj=opp_proj, rows=rows, values=values, goal=goal, mode=mode, mode_reason=mode_reason,
                  drops=drops, free=free, plan=plan, alerts=alerts, infos=infos, adds_used=adds_used,
                  adds_limit=adds_limit, news=news, out_state=out_state, schedule=schedule,
-                 free_status=free_status, eng=eng, lg=lg, flags=flags, protect=mc.zastita_fp, planner=planner)
+                 free_status=free_status, eng=eng, lg=lg, flags=flags, protect=mc.zastita_fp, planner=planner,
+                 keep=keep)
 
     # ---- opponent and my own moves this week
     if opp:

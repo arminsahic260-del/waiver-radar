@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import datetime as dt
+import unicodedata
 from pathlib import Path
 from typing import Literal
 
@@ -22,9 +23,19 @@ class LeagueCfg(BaseModel):
     privatna: bool = False
     cilj: Goal = "tjedan"
     cilj_po_tjednu: dict[int, Goal] = Field(default_factory=dict)
+    ne_bacaj: list[str] = Field(default_factory=list)   # puna imena: radar ih nikad ne predlaže za bacanje
 
     def goal_for(self, period: int) -> Goal:
         return self.cilj_po_tjednu.get(period, self.cilj)
+
+    def keeps(self, name: str) -> bool:
+        return name_key(name) in {name_key(x) for x in self.ne_bacaj}
+
+
+def name_key(s: str) -> str:
+    """'Darius Acuff Jr.' == 'darius acuff jr'; accents and apostrophes don't matter."""
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+    return " ".join(s.lower().replace(".", "").replace("'", "").split())
 
 
 class ModelCfg(BaseModel):

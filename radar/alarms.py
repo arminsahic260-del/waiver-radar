@@ -93,7 +93,8 @@ def drop_for(a: Analysis, pid_in: int) -> tuple[int | None, str]:
     center and I'm at the limit."""
     lg = a.lg
     v_in = a.values.get(pid_in)
-    mine = [r.player.id for r in a.me.roster if r.slot != IR and r.player.droppable and r.player.id in a.values]
+    mine = [r.player.id for r in a.me.roster
+            if r.slot != IR and r.player.droppable and r.player.id not in a.keep and r.player.id in a.values]
     if not mine or v_in is None:
         return None, ""
     max_c = lg.settings.max_centers if lg else None

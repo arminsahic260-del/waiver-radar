@@ -351,10 +351,11 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   const norm=s=>String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
   const statusPill=p=>inj(p)||`<span class="pill ok">Zdrav</span>`;
   const gamesBadge=p=>{const n=(p.days||[]).length;return `<span class="games num ${n?"":"g0"}" title="Utakmica do kraja tjedna">${n}<span class="pos"> utak.</span></span>`;};
+  const lock=p=>p.keep?` <span title="Ne bacaj">🔒</span>`:"";
   const mojiMatch=p=>(!S.mojiTeam||p.team===S.mojiTeam)&&(!S.mojiQ||norm(p.name).includes(norm(S.mojiQ)));
   function rosRow(p){
     const nw=(p.news||[]).slice(0,2);
-    return `<div class="ros-row"><span class="name" style="font-size:18px"><span class="slot">${esc(p.slot||"")}</span>${esc(p.name)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span> ${trendHtml(p)}${p.hot?" "+hotPill(p):""}</span>${statusPill(p)}${gamesBadge(p)}
+    return `<div class="ros-row"><span class="name" style="font-size:18px"><span class="slot">${esc(p.slot||"")}</span>${esc(p.name)}${lock(p)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span> ${trendHtml(p)}${p.hot?" "+hotPill(p):""}</span>${statusPill(p)}${gamesBadge(p)}
       ${nw.length?`<span class="meta">${nw.map(n=>`${esc(fmtD(n.date))} ${esc(n.summary||n.headline)}`).join(" · ")}</span>`:""}</div>`;
   }
   function avgTable(ps){
@@ -365,7 +366,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
       const mine=p.draft&&p.draft.mine;
       const other=p.draft&&!mine?` title="Na draftu ga je uzeo drugi tim (#${p.draft.pick})"`:"";
       const pick=mine?`#${p.draft.pick}<small>${p.draft.round}. krug</small>`:`<small${other}>${esc(ACQ[p.acq]||"—")}</small>`;
-      return `<tr><td><span class="rk num">${i+1}</span>${esc(p.name)}<small><span class="team">${esc(p.team)}</span>${esc(p.pos)}${p.injury?" "+inj(p):""}</small></td>
+      return `<tr><td><span class="rk num">${i+1}</span>${esc(p.name)}${lock(p)}<small><span class="team">${esc(p.team)}</span>${esc(p.pos)}${p.injury?" "+inj(p):""}</small></td>
         <td class="n num">${f1(avg(p))}<small>${p.gp||0} utk.</small></td>
         <td class="n num">${f1(p.proj)}</td>
         <td class="n num ${d==null?"":d>=0?"up":"down"}">${d==null?"—":(d>=0?"+":"−")+Math.abs(d).toFixed(1)}</td>
@@ -413,6 +414,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     el.innerHTML=`<div class="tablewrap"><table><thead><tr><th>Igrač</th><th title="Projicirani FP koje gubiš do nedjelje ako ga baciš danas">Gubitak</th><th title="Dana u najboljoj postavi / utakmica do nedjelje">U postavi</th><th title="value_long: FP po utakmici dugoročno">Dugo</th><th title="value_now">Sada</th></tr></thead>
       <tbody>${rows.map(p=>`<tr class="${p.loss<=0.05?"zero":""}"><td><b>${esc(p.name)}</b> ${trendHtml(p)} ${hotPill(p)}${inj(p)}<span class="sub">${esc(p.slot)} · ${esc(p.team)} · ${esc(p.pos)} · igra: ${esc(days(p))}</span></td>
         <td class="n num">${f1(p.loss)}</td><td class="n num">${p.in_lineup}/${p.games}</td><td class="n num">${f1(p.long)}</td><td class="n num">${f1(p.now)}</td></tr>`).join("")}</tbody></table></div>
+      ${(L.keep||[]).length?`<p class="meta">🔒 Nikad ne bacaj (nisu u tablici ni u planu): <b>${L.keep.map(esc).join(", ")}</b></p>`:""}
       <p class="meta">Gubitak = koliko projiciranih bodova do nedjelje izgubiš ako ga baciš danas (računa tko bi ga zamijenio u postavi). Crveno = 0: ne igra ili je višak, kandidat za bacanje. Dugoročno sortira po value_long (0,35 sezona + 0,30 zadnjih 7 + 0,35 projekcija).</p>`;
   }
 

@@ -21,6 +21,14 @@ lige:
     privatna: false
     cilj: tjedan                # tjedan | dugorocno
     cilj_po_tjednu: {}          # npr. {5: dugorocno} za matchup period 5
+    ne_bacaj:                   # nikad ih ne predlaži za bacanje (puno ime kao na ESPN-u)
+      - Cooper Flagg
+      - Kyrie Irving
+      - Darius Acuff Jr.
+      - Trae Young
+      - Yaxel Lendeborg
+      - Fred VanVleet
+      - Donovan Clingan
   - kljuc: banijska
     naziv: 1. Banijska šampion liga
     oznaka: BANIJSKA
