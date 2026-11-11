@@ -84,3 +84,18 @@ def test_roster_cache_lag_is_corrected(client):
 def test_sanitize_strips_members():
     d = sanitize({"members": [{"firstName": "A"}], "teams": [{"owners": ["{X}"], "name": "T"}], "memberId": "{Y}"})
     assert "members" not in d and d["teams"][0]["owners"] == [] and d["memberId"] == ""
+
+
+def test_draft_picks_and_acquisition(client):
+    """Moji igrači shows my draft pick (mDraftDetail) or how the player came (acquisitionType)."""
+    lg = _league(client)
+    assert {"DRAFT", "ADD"} <= {r.acq for r in lg.me.roster}
+    assert lg.draft == {}                                    # this fixture was recorded without mDraftDetail
+    flagg = next(r.player.id for r in lg.me.roster if r.player.name == "Cooper Flagg")
+
+    def mutate(raw, pool):
+        raw["draftDetail"]["picks"] = [
+            {"playerId": flagg, "overallPickNumber": 3, "roundId": 1, "roundPickNumber": 3, "teamId": 1},
+            {"playerId": 0, "overallPickNumber": 4, "roundId": 1, "teamId": 2}]          # no player: skipped
+    d = _league(client, mutate).draft
+    assert list(d) == [flagg] and (d[flagg].pick, d[flagg].round, d[flagg].team_id) == (3, 1, 1)

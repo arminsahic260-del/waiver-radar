@@ -24,7 +24,7 @@ ATHLETE = "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/ath
 SEARCH = "https://site.web.api.espn.com/apis/search/v2"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0 Safari/537.36"
 
-LEAGUE_VIEWS = ("mRoster", "mMatchupScore", "mLiveScoring", "mTeam", "mSettings")
+LEAGUE_VIEWS = ("mRoster", "mMatchupScore", "mLiveScoring", "mTeam", "mSettings", "mDraftDetail")
 
 
 class EspnError(RuntimeError):

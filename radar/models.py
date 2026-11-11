@@ -95,6 +95,13 @@ class RosterSpot(BaseModel):
     player: Player
     slot: int                   # lineupSlotId for the current scoring period
     added_now: bool = False     # in ESPN's player pool but not (yet) in the cached roster
+    acq: str = ""               # ESPN acquisitionType: DRAFT / ADD / TRADE ("" when unknown)
+
+
+class DraftPick(BaseModel):
+    pick: int                   # overall pick number
+    round: int
+    team_id: int                # fantasy team that made the pick
 
 
 class Team(BaseModel):
@@ -162,3 +169,4 @@ class LeagueState(BaseModel):
     transactions: list[Transaction] = Field(default_factory=list)
     fetched_at: dt.datetime | None = None
     roster_fixes: list[str] = Field(default_factory=list)      # corrections applied over the cached roster
+    draft: dict[int, DraftPick] = Field(default_factory=dict)  # player id -> this league's draft pick (mDraftDetail)

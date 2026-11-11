@@ -3,8 +3,8 @@ from __future__ import annotations
 
 import datetime as dt
 
-from ..models import (FreeAgent, GameLog, LeagueSettings, LeagueState, Matchup, Player, RosterSpot, StatLine, Team,
-                      Transaction)
+from ..models import (DraftPick, FreeAgent, GameLog, LeagueSettings, LeagueState, Matchup, Player, RosterSpot, StatLine,
+                      Team, Transaction)
 from .maps import BENCH, SOURCE_PROJ, SOURCE_REAL, SPLIT_GAME, SPLIT_LAST7, SPLIT_LAST15, SPLIT_SEASON, STAT
 
 STARTING_SLOT_IDS = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
@@ -129,7 +129,7 @@ def _team(raw_team: dict, season: int, pool_players: dict[int, Player]) -> Team:
             continue
         pid = int(raw_p["id"])
         p = pool_players.get(pid) or parse_player(raw_p, season)
-        roster.append(RosterSpot(player=p, slot=int(e.get("lineupSlotId", BENCH))))
+        roster.append(RosterSpot(player=p, slot=int(e.get("lineupSlotId", BENCH)), acq=e.get("acquisitionType") or ""))
     tc = raw_team.get("transactionCounter") or {}
     return Team(id=int(raw_team["id"]), name=(raw_team.get("name") or "").strip() or f"Tim {raw_team['id']}",
                 abbrev=raw_team.get("abbrev") or "", roster=roster,
@@ -198,6 +198,10 @@ def parse_league(key: str, raw_league: dict, raw_pool: dict | None, raw_tx: dict
         m = _matchup(raw_league, my_team_id, per)
         if m:
             matchups[per] = m
+    draft = {int(x["playerId"]): DraftPick(pick=int(x["overallPickNumber"]), round=int(x.get("roundId") or 0),
+                                           team_id=int(x.get("teamId") or 0))
+             for x in (raw_league.get("draftDetail") or {}).get("picks") or []
+             if x.get("playerId") and x.get("overallPickNumber")}
     me = teams[my_team_id]
     matchup = matchups.get(period)
     opp = teams.get(matchup.opp_team_id) if matchup and matchup.opp_team_id else None
@@ -207,5 +211,5 @@ def parse_league(key: str, raw_league: dict, raw_pool: dict | None, raw_tx: dict
         sp=sp, matchup_period=period, settings=settings, me=me, opp=opp, matchup=matchup, free_agents=fas,
         players=players, on_team=on_team, team_names={k: t.name for k, t in teams.items()},
         teams=teams, matchups=matchups,
-        transactions=parse_transactions(raw_tx), fetched_at=fetched_at, roster_fixes=fixes,
+        transactions=parse_transactions(raw_tx), fetched_at=fetched_at, roster_fixes=fixes, draft=draft,
     )

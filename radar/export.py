@@ -73,11 +73,18 @@ def league(a: Analysis, tz: str) -> dict:
                      "actual_opp": _r(r.opp_actual, 0), "me": _team_day(a, r.my, r.sp),
                      "opp": _team_day(a, r.opp, r.sp)})
 
+    picks = a.lg.draft if a.lg else {}
+
+    def draft(pid, team_id):
+        d = picks.get(pid)
+        return {"pick": d.pick, "round": d.round, "mine": d.team_id == team_id} if d else None
+
     def roster(team):
         if team is None:
             return []
         rows = sorted(team.roster, key=lambda r: (r.slot if r.slot < 12 else 50 + r.slot, -v[r.player.id].now))
-        return [player(a, r.player.id, tz, {"slot": SLOT.get(r.slot, r.slot), "news": _news(a, r.player.id)})
+        return [player(a, r.player.id, tz, {"slot": SLOT.get(r.slot, r.slot), "news": _news(a, r.player.id),
+                                            "acq": r.acq, "draft": draft(r.player.id, team.id)})
                 for r in rows]
 
     drops = []

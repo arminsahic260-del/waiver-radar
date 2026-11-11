@@ -4,7 +4,7 @@
 //   background, and open pages get a "data-updated" message when the snapshot actually changed
 // - other same-origin files and Google Fonts: served from cache, refreshed in the background
 // Cache writes are best-effort: a full or unavailable cache must never turn a good network response into an error.
-const VERSION = "v2-3";
+const VERSION = "v2-4";
 const SHELL = `wr2-shell-${VERSION}`;
 const DATA = "wr2-data";
 const FONTS = "wr2-fonts";

@@ -42,4 +42,5 @@ def test_publish_writes_dashboard_json_and_sends_once(cfg, client, tmp_path, mon
     L = data["leagues"][0]
     assert data["slot"] == "jutro" and L["key"] == "legendi"
     assert {"days", "roster_me", "roster_opp", "drops", "pick_week", "pick_long", "plan", "injuries"} <= set(L)
+    assert all({"acq", "draft", "avg", "proj", "gp", "slot", "news"} <= set(p) for p in L["roster_me"])
     assert data["errors"][0]["key"] == "banijska"

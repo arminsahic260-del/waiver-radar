@@ -167,8 +167,30 @@ tr.zero td{background:color-mix(in srgb,var(--out-bg) 45%,transparent)}
 .alarm .txt{white-space:pre-wrap;overflow-wrap:anywhere;min-width:0}
 .alarm.muted .txt{color:var(--muted)}
 td.pos{color:var(--ok)}td.neg{color:var(--out)}
-th.on{color:var(--accent)}
-.rk{display:inline-block;min-width:1.7em;color:var(--muted);font-family:var(--display);font-weight:600}
+/* Moji igrači: same look as v1 (Postava rows, Prosjek sezone table) */
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.toolbar input,.toolbar select{font:inherit;color:var(--fg);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:7px 10px;min-width:0}
+.toolbar input{flex:1 1 180px}
+.toolbar select{flex:0 1 auto}
+.toolbar input:focus-visible,.toolbar select:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.rk{font-family:var(--display);font-size:17px;font-weight:700;color:var(--muted)}
+.ros{background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.ros-row{display:grid;grid-template-columns:1fr auto auto;gap:2px 10px;align-items:center;padding:9px 14px;border-top:1px solid var(--line)}
+.ros-row:first-child{border-top:0}
+.ros-row .meta{grid-column:1 / -1}
+.slot{font-family:var(--display);font-size:12px;font-weight:600;color:var(--muted);letter-spacing:.05em;min-width:2.6em;display:inline-block}
+.games{font-family:var(--display);font-size:18px;font-weight:600;min-width:2.2em;text-align:right}
+.games.g0{color:var(--out)}
+table.avg th,table.avg td{padding:8px 4px}
+table.avg th{font-size:12.5px}
+table.avg th:first-child,table.avg td:first-child{padding-left:12px}
+table.avg td:first-child{font-size:16px;line-height:1.2}
+table.avg td:first-child .rk{font-size:14px;display:inline-block;min-width:1.6em}
+table.avg td:last-child,table.avg th:last-child{padding-right:12px}
+table.avg td small{display:block;font-family:var(--body);font-size:11.5px;font-weight:400;color:var(--muted);letter-spacing:0;white-space:nowrap}
+table.avg td:first-child small{margin:3px 0 0 1.95em;display:flex;gap:5px;align-items:center;flex-wrap:wrap}
+table.avg td.up{color:var(--ok)}
+table.avg td.down{color:var(--out)}
 .warn{color:var(--gtd)}
 pre.report{white-space:pre-wrap;font-family:var(--body);font-size:14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin:0}
 details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6px}
@@ -198,11 +220,13 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
 
   <section role="tabpanel" id="p-pregled" aria-labelledby="t-pregled"></section>
   <section role="tabpanel" id="p-moji" aria-labelledby="t-moji" hidden>
-    <div class="chips" id="moji-chips" aria-label="Poredaj po">
-      <button class="chip" type="button" aria-pressed="true" data-v="avg">Prosjek</button>
-      <button class="chip" type="button" aria-pressed="false" data-v="last7">Zadnjih 7 dana</button>
-      <button class="chip" type="button" aria-pressed="false" data-v="now">Sada</button>
-      <button class="chip" type="button" aria-pressed="false" data-v="long">Dugoročno</button>
+    <div class="toolbar">
+      <input id="moji-q" type="search" placeholder="Traži igrača…" aria-label="Traži igrača" autocomplete="off">
+      <select id="moji-team" aria-label="Filtriraj po timu"><option value="">Svi timovi</option></select>
+    </div>
+    <div class="chips" id="moji-chips" aria-label="Prikaz">
+      <button class="chip" type="button" aria-pressed="false" data-v="postava">Postava</button>
+      <button class="chip" type="button" aria-pressed="false" data-v="prosjek">Prosjek sezone</button>
     </div>
     <div id="moji-body"></div>
   </section>
@@ -245,7 +269,8 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   const TABS=["pregled","moji","raspored","baci","uzmi","plan","ozljede","alarmi","povijest"];
   const pct=x=>x==null?"—":Math.round(x*100)+" %";
   const trendHtml=p=>p.trend==="↑"?`<span class="up" title="minute zadnjih 3/5 utakmica iznad prosjeka sezone (${sgn(p.trend_delta)})">↑</span>`:p.trend==="↓"?`<span class="down" title="minute ispod prosjeka sezone (${sgn(p.trend_delta)})">↓</span>`:"";
-  const S={data:null,tab:"pregled",league:null,moji:"avg",baci:"tjedan",uzmi:"tjedan",theme:"auto"};
+  const S={data:null,tab:"pregled",league:null,moji:"prosjek",mojiQ:"",mojiTeam:"",baci:"tjedan",uzmi:"tjedan",theme:"auto"};
+  S.moji=safe(()=>localStorage.getItem("wr2.moji"))==="postava"?"postava":"prosjek";
   S.tab=safe(()=>localStorage.getItem("wr2.tab"))||S.tab;
   S.league=safe(()=>localStorage.getItem("wr2.league"));
   S.theme=safe(()=>localStorage.getItem("wr2.theme"))||"auto";
@@ -319,21 +344,48 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     return `<div class="step"><span class="when">${esc(m.when)}</span><span class="txt">${esc(t)}</span></div>`;
   }
 
-  // ---------- Moji igrači: my roster by FP per game (like v1's "Prosjek sezone"), other sort keys via chips
-  const MOJI_COLS=[["avg","Prosjek","Fantasy bodovi po utakmici ove sezone"],["last7","Z7","Prosjek zadnjih 7 dana"],
-    ["now","Sada","Radarova vrijednost za ovaj tjedan"],["long","Dugo","Radarova dugoročna vrijednost"]];
+  // ---------- Moji igrači (as in v1): both leagues; "Postava" = lineup with status, games left and news,
+  // "Prosjek sezone" = sorted by this season's FP per game next to ESPN's projection and my draft pick
+  const ACQ={ADD:"waiver",TRADE:"trade",DRAFT:"draft"};
+  const fmtD=iso=>{const d=new Date(iso);return isNaN(d)?"":`${d.getDate()}.${d.getMonth()+1}.`;};
+  const norm=s=>String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
+  const statusPill=p=>inj(p)||`<span class="pill ok">Zdrav</span>`;
+  const gamesBadge=p=>{const n=(p.days||[]).length;return `<span class="games num ${n?"":"g0"}" title="Utakmica do kraja tjedna">${n}<span class="pos"> utak.</span></span>`;};
+  const mojiMatch=p=>(!S.mojiTeam||p.team===S.mojiTeam)&&(!S.mojiQ||norm(p.name).includes(norm(S.mojiQ)));
+  function rosRow(p){
+    const nw=(p.news||[]).slice(0,2);
+    return `<div class="ros-row"><span class="name" style="font-size:18px"><span class="slot">${esc(p.slot||"")}</span>${esc(p.name)} <span class="team">${esc(p.team)}</span> <span class="pos">${esc(p.pos)}</span> ${trendHtml(p)}${p.hot?" "+hotPill(p):""}</span>${statusPill(p)}${gamesBadge(p)}
+      ${nw.length?`<span class="meta">${nw.map(n=>`${esc(fmtD(n.date))} ${esc(n.summary||n.headline)}`).join(" · ")}</span>`:""}</div>`;
+  }
+  function avgTable(ps){
+    const avg=p=>p.gp?+p.avg:null;
+    const by=[...ps].sort((a,b)=>(avg(b)??-1)-(avg(a)??-1)||(b.proj??-1)-(a.proj??-1));
+    const rows=by.map((p,i)=>{
+      const d=avg(p)!=null&&p.proj!=null?avg(p)-p.proj:null;
+      const mine=p.draft&&p.draft.mine;
+      const other=p.draft&&!mine?` title="Na draftu ga je uzeo drugi tim (#${p.draft.pick})"`:"";
+      const pick=mine?`#${p.draft.pick}<small>${p.draft.round}. krug</small>`:`<small${other}>${esc(ACQ[p.acq]||"—")}</small>`;
+      return `<tr><td><span class="rk num">${i+1}</span>${esc(p.name)}<small><span class="team">${esc(p.team)}</span>${esc(p.pos)}${p.injury?" "+inj(p):""}</small></td>
+        <td class="n num">${f1(avg(p))}<small>${p.gp||0} utk.</small></td>
+        <td class="n num">${f1(p.proj)}</td>
+        <td class="n num ${d==null?"":d>=0?"up":"down"}">${d==null?"—":(d>=0?"+":"−")+Math.abs(d).toFixed(1)}</td>
+        <td class="n num">${pick}</td></tr>`;}).join("");
+    return `<div class="tablewrap"><table class="avg"><thead><tr><th>Igrač</th><th title="Fantasy bodovi po utakmici ove sezone">Prosjek</th><th title="ESPN projekcija bodova po utakmici za ovu sezonu">Proj.</th><th title="Prosjek minus projekcija">±</th><th title="Tvoj pick na draftu">Pick</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+  }
   function renderMoji(){
-    const el=$("moji-body");const L=cur();
-    if(!L){el.innerHTML=`<div class="empty">Nema podataka za ligu.</div>`;return;}
-    const ps=L.roster_me||[];
-    if(!ps.length){el.innerHTML=`<div class="empty">Nema rostera za ovu ligu.</div>`;return;}
-    const k=S.moji,val=(p,key)=>p[key]==null?-1:+p[key];
-    const rows=[...ps].sort((a,b)=>val(b,k)-val(a,k)||val(b,"avg")-val(a,"avg"));
-    el.innerHTML=`<p class="meta" style="margin:0 0 10px">${esc(L.me.name)} · ${ps.length} ${plural(ps.length,"igrač","igrača","igrača")}</p>
-      <div class="tablewrap"><table><thead><tr><th>Igrač</th>${MOJI_COLS.map(([c,lab,t])=>`<th class="${c===k?"on":""}" title="${esc(t)}">${lab}</th>`).join("")}</tr></thead>
-      <tbody>${rows.map((p,i)=>`<tr><td><span class="rk num">${i+1}.</span><b>${esc(p.name)}</b> ${trendHtml(p)} ${hotPill(p)}${inj(p)}<span class="sub">${esc([p.slot,p.team,p.pos].filter(Boolean).join(" · "))} · ${f0(p.mpg)} min · igra: ${esc(days(p))}</span></td>
-        <td class="n num">${f1(p.avg)}<span class="sub">${p.gp||0} utk.</span></td><td class="n num">${f1(p.last7)}</td><td class="n num">${f1(p.now)}</td><td class="n num">${f1(p.long)}</td></tr>`).join("")}</tbody></table></div>
-      <p class="meta">Prosjek = fantasy bodovi po utakmici ove sezone (bodovanje lige), ispod broj odigranih utakmica. Z7 = prosjek zadnjih 7 dana. Sada = radarova vrijednost za ovaj tjedan (sezona, zadnjih 7 dana i ESPN projekcija; najviše teže sezona i forma). Dugo = dugoročna vrijednost (više teži projekcija). ↑/↓ = minute rastu/padaju, „igra” = preostale utakmice ovog tjedna.</p>`;
+    const el=$("moji-body");const Ls=leagues().filter(L=>(L.roster_me||[]).length);
+    $("moji-chips").querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c.dataset.v===S.moji)));
+    const sel=$("moji-team"),teams=[...new Set(Ls.flatMap(L=>L.roster_me.map(p=>p.team)))].sort();
+    if(sel.dataset.teams!==teams.join()){sel.dataset.teams=teams.join();sel.innerHTML=`<option value="">Svi timovi</option>`+teams.map(t=>`<option>${esc(t)}</option>`).join("");sel.value=S.mojiTeam;}
+    if(!Ls.length){el.innerHTML=`<div class="empty">${S.data?"Nema rostera.":"Podaci se učitavaju…"}</div>`;return;}
+    el.innerHTML=Ls.map(L=>{
+      const ps=L.roster_me.filter(mojiMatch);
+      const sub=[L.me.name,L.adds?`preuzimanja ${L.adds.used}/${L.adds.limit} ovaj tjedan`:null].filter(Boolean).join(" · ");
+      const body=!ps.length?`<div class="ros"><div class="ros-row"><span class="meta">Nema igrača za ovaj filter.</span></div></div>`
+        :S.moji==="prosjek"?avgTable(ps):`<div class="ros">${ps.map(rosRow).join("")}</div>`;
+      return `<div class="league"><h2>${esc(L.label)}<small>${esc(sub)}</small></h2>${body}</div>`;
+    }).join("")+(S.moji==="prosjek"?`<p class="meta">Prosjek = fantasy bodovi po utakmici ove sezone u bodovanju lige (ESPN), ispod broj odigranih utakmica. Proj. = ESPN-ova predsezonska projekcija bodova po utakmici za ovu sezonu, ± = prosjek minus projekcija. Pick = tvoj pick na draftu (ukupno i krug); za igrače koje nisi ti draftao piše kako su došli.</p>`
+      :`<p class="meta">Broj desno = utakmice do kraja ovog tjedna. Ispod igrača dvije zadnje vijesti.</p>`);
   }
 
   // ---------- Raspored
@@ -448,7 +500,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   // ---------- chrome
   function renderChips(){
     const el=$("league-chips");const Ls=leagues();
-    const show=Ls.length>1&&!["pregled","plan","alarmi","povijest"].includes(S.tab);
+    const show=Ls.length>1&&!["pregled","moji","plan","alarmi","povijest"].includes(S.tab);
     el.hidden=!show;
     el.innerHTML=Ls.map(L=>`<button class="chip" type="button" aria-pressed="${(cur()||{}).key===L.key}" data-league="${esc(L.key)}">${esc(L.label)}</button>`).join("");
   }
@@ -482,7 +534,9 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   });
   $("league-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.league=b.dataset.league;safe(()=>localStorage.setItem("wr2.league",S.league));renderAll();});
   function chipGroup(id,key,render){$(id).addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S[key]=b.dataset.v;$(id).querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c===b)));render();});}
-  chipGroup("moji-chips","moji",renderMoji);
+  $("moji-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.moji=b.dataset.v;safe(()=>localStorage.setItem("wr2.moji",S.moji));renderMoji();});
+  $("moji-q").addEventListener("input",e=>{S.mojiQ=e.target.value.trim();renderMoji();});
+  $("moji-team").addEventListener("change",e=>{S.mojiTeam=e.target.value;renderMoji();});
   chipGroup("baci-chips","baci",renderBaci);
   chipGroup("uzmi-chips","uzmi",renderUzmi);
   showTab((location.hash||"").slice(1)||S.tab);
