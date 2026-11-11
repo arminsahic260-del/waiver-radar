@@ -30,7 +30,7 @@ def test_report_text(legendi, run_result):
     text = league_report(legendi)
     assert text.startswith("🏀 LEGENDI — Druzina gospodara Flagga vs Bajka Basna: 1129 : 1201 (proj. ")
     assert "Danas: ti 4 | oni 7" in text
-    assert text.endswith("Preuzimanja: 5/7")
+    assert text.endswith("Preuzimanja: 5/7 (protivnik 2/7)")
     full = full_report(run_result.analyses, run_result.errors)
     assert "🏀 BANIJSKA — ⚠️" in full                         # no recorded data for the private league
 

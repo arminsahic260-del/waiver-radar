@@ -2,7 +2,7 @@ name: radar
 
 on:
   schedule:
-    # Izvještaji u 08:30 i 21:30 po Zagrebu. Cron je u UTC-u, a Zagreb je UTC+1 zimi i UTC+2 ljeti,
+    # Rezerva za PC radar: izvještaji u 08:30 i 21:30 po Zagrebu. Cron je u UTC-u, a Zagreb je UTC+1 zimi i UTC+2 ljeti,
     # pa se posao pokreće u oba UTC termina. radar sam provjeri koji je pravi (radar/publish.py: due_slot)
     # i šalje Telegram jednom po terminu i danu; drugo pokretanje samo osvježi dashboard.
     - cron: "30 6,7 * * *"
@@ -52,7 +52,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m radar build --telegram "${{ github.event.inputs.telegram || 'auto' }}"
+        # Glavni radar radi na PC-u (python -m radar serve). Zakazani prolaz ovdje je samo rezerva: preskače se
+        # dok PC objavljuje podatke na granu `podaci` (zadnja 3 sata). Ručno pokretanje radi uvijek.
+        run: python -m radar build --telegram "${{ github.event.inputs.telegram || 'auto' }}" ${{ github.event_name == 'schedule' && '--preskoci-ako-pc' || '' }}
 
       - name: Spremi podatke
         if: github.event_name != 'push'

@@ -4,6 +4,7 @@ from __future__ import annotations
 import datetime as dt
 from zoneinfo import ZoneInfo
 
+from radar.config import PPlayCfg
 from radar.engine import Engine
 from radar.models import Player, RosterSpot, StatLine, Team
 from radar.schedule import ProSchedule
@@ -51,7 +52,7 @@ def engine(sched_games: dict[int, list[int]], players: list[Player], now: dt.dat
     sched = ProSchedule(raw_schedule(sched_games))
     values = {p.id: evaluate(p, [], now, sched) for p in players}
     return Engine(schedule=sched, now=now, today_sp=sched.sp_of(now.astimezone(ET).date()), days=days,
-                  slot_counts=SLOTS, values=values)
+                  slot_counts=SLOTS, values=values, pcfg=PPlayCfg.neutral())
 
 
 def morning(sp: int) -> dt.datetime:

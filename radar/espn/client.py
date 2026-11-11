@@ -8,6 +8,7 @@ import gzip
 import json
 import logging
 import os
+import random
 import re
 import time
 from pathlib import Path
@@ -18,6 +19,8 @@ log = logging.getLogger("radar.espn")
 
 FANTASY = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/fba/seasons/{season}"
 NEWS = "https://site.api.espn.com/apis/fantasy/v2/games/fba/news/players"
+SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
+ATHLETE = "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/{pid}"
 SEARCH = "https://site.web.api.espn.com/apis/search/v2"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0 Safari/537.36"
 
@@ -52,7 +55,7 @@ def _redact(url: str) -> str:
 class EspnClient:
     """Live client. Every fantasy call gets `_=<ms>` so the CDN can't hand back a stale roster."""
 
-    def __init__(self, season: int, cookies: dict | None = None, tries: int = 3, timeout: int = 45,
+    def __init__(self, season: int, cookies: dict | None = None, tries: int = 4, timeout: int = 45,
                  record_dir: str | Path | None = None):
         self.season = season
         self.base = FANTASY.format(season=season)
@@ -80,13 +83,13 @@ class EspnClient:
                 r = self.s.get(url, params=params, headers=hdrs, timeout=self.timeout)
             except requests.RequestException as e:  # network: retry
                 err = EspnError(f"mreža: {type(e).__name__}")
-                time.sleep(1.5 * (i + 1))
+                self._backoff(i)
                 continue
             if r.status_code in (401, 403):
                 raise EspnAuthError(f"ESPN {r.status_code} za {_redact(r.url.split('?')[0])}", r.status_code)
             if r.status_code == 429 or r.status_code >= 500:
                 err = EspnError(f"ESPN {r.status_code}", r.status_code)
-                time.sleep(2.0 * (i + 1))
+                self._backoff(i)
                 continue
             if r.status_code >= 400:
                 raise EspnError(f"ESPN {r.status_code} za {r.url.split('?')[0]}", r.status_code)
@@ -94,8 +97,13 @@ class EspnClient:
                 return r.json()
             except ValueError:
                 err = EspnError("ESPN je vratio neispravan JSON")
-                time.sleep(1.0)
+                self._backoff(i)
         raise err or EspnError("ESPN: nepoznata greška")
+
+    def _backoff(self, i: int) -> None:
+        """1, 2, 4, 8 s (+ jitter) between tries; nothing after the last one."""
+        if i < self.tries - 1:
+            time.sleep(min(8.0, 2.0 ** i) + random.uniform(0, 0.5))
 
     def _record(self, name: str, data):
         if self.record_dir:
@@ -114,13 +122,14 @@ class EspnClient:
         data = self._get(url + "?" + "&".join(f"{k}={v}" for k, v in params), private=private)
         return self._record(f"{key or league_id}_league", data)
 
-    def player_pool(self, league_id: int, private: bool, key: str = "", limit: int = 1000, games: int = 8,
+    def player_pool(self, league_id: int, private: bool, key: str = "", limit: int = 1000, games: int = 12,
                     statuses=("FREEAGENT", "WAIVERS", "ONTEAM"), ids: list[int] | None = None) -> dict:
         """kona_player_info: everyone (or `ids`) with onTeamId/status/waiverProcessDate and the last `games` games.
 
         Note: never combine filterProTeamIds with status ONTEAM (ESPN returns nothing); filter locally instead."""
         p: dict = {"filterStatsForTopScoringPeriodIds": {
-            "value": games, "additionalValue": [f"00{self.season}", f"10{self.season}", f"01{self.season}"]}}
+            "value": games,
+            "additionalValue": [f"00{self.season}", f"10{self.season}", f"01{self.season}", f"02{self.season}"]}}
         if ids:
             p["filterIds"] = {"value": list(ids)}
         else:
@@ -135,7 +144,21 @@ class EspnClient:
         if sp:
             params["scoringPeriodId"] = sp
         data = self._get(f"{self.base}/segments/0/leagues/{league_id}", params=params, private=private)
-        return self._record(f"{key or league_id}_tx", data)
+        return self._record(f"{key or league_id}_tx" + (f"_{sp}" if sp else ""), data)
+
+    def scoreboard(self, date_et) -> dict:
+        """NBA games of one US (ET) date with start times and live state (public site API)."""
+        ymd = date_et.strftime("%Y%m%d")
+        return self._record(f"scoreboard_{ymd}", self._get(SCOREBOARD, params={"dates": ymd}, bust=False))
+
+    def athlete(self, player_id: int) -> dict | None:
+        """Bio (age, date of birth) from ESPN's core API; None when ESPN doesn't know the player."""
+        try:
+            return self._get(ATHLETE.format(pid=player_id), bust=False)
+        except EspnError as e:
+            if e.status == 404:
+                return None
+            raise
 
     def news(self, player_id: int, limit: int = 6) -> dict:
         data = self._get(NEWS, params={"limit": limit, "playerId": player_id}, bust=False)
@@ -189,7 +212,15 @@ class FixtureClient:
         return self._need(f"{key}_pool")
 
     def transactions(self, league_id, private, key="", sp=None):
+        if sp is not None:
+            return self._load(f"{key}_tx_{sp}") or {"transactions": []}
         return self._load(f"{key}_tx") or {"transactions": []}
+
+    def scoreboard(self, date_et):
+        return self._load(f"scoreboard_{date_et.strftime('%Y%m%d')}") or {"events": []}
+
+    def athlete(self, player_id):
+        return self._load(f"athlete_{player_id}")
 
     def news(self, player_id, limit=6):
         return self._load(f"news_{player_id}") or {"feed": []}

@@ -51,6 +51,7 @@ class Player(BaseModel):
     droppable: bool = True
     season: StatLine = Field(default_factory=StatLine)
     last7: StatLine = Field(default_factory=StatLine)
+    last15: StatLine = Field(default_factory=StatLine)
     proj: StatLine = Field(default_factory=StatLine)
     prev: StatLine = Field(default_factory=StatLine)
     games: list[GameLog] = Field(default_factory=list)  # newest last

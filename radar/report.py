@@ -5,9 +5,10 @@ import datetime as dt
 from zoneinfo import ZoneInfo
 
 from .espn.maps import SLOT
+from .montecarlo import pct
 from .planner import FA, IR_BACK, IR_IN, WAIVER, Move
 from .schedule import DAY_NAMES, DAY_SHORT, ET, fmt_date
-from .week import Analysis
+from .week import Analysis, CondStep, days_text
 
 MAX_HOT = 3
 
@@ -32,8 +33,74 @@ def _days(a: Analysis, pid: int, from_sp: int) -> list[int]:
             and (d > a.today_sp or sched.open_game(p.pro_team_id, d, a.now))]
 
 
-def _dshort(a: Analysis, sps: list[int]) -> str:
-    return ", ".join(DAY_SHORT[a.schedule.date(d).weekday()] for d in sps)
+def _dshort(a: Analysis, sps: list[int], pid: int | None = None) -> str:
+    """'uto, sri🔁, pet' (🔁 = back-to-back for player `pid`)."""
+    out = []
+    for d in sps:
+        lab = DAY_SHORT[a.schedule.date(d).weekday()]
+        if pid is not None and a.eng is not None and a.eng.b2b(pid, d):
+            lab += "🔁"
+        out.append(lab)
+    return ", ".join(out)
+
+
+def hhmm(t: dt.datetime | None, tz: str = "Europe/Zagreb") -> str:
+    return t.astimezone(ZoneInfo(tz)).strftime("%H:%M") if t else "?"
+
+
+def data_time(now: dt.datetime, tz: str = "Europe/Zagreb") -> str:
+    return f"podaci od {now.astimezone(ZoneInfo(tz)):%H:%M}"
+
+
+def short(a: Analysis, pid: int | None) -> str:
+    if pid is None:
+        return "—"
+    return a.values[pid].player.short if pid in a.values else str(pid)
+
+
+def reserves_text(a: Analysis, pids: list[int]) -> str:
+    return ", ".join(short(a, x) for x in pids if x in a.values)
+
+
+def cond_text(a: Analysis, c: CondStep, tz: str = "Europe/Zagreb", short_form: bool = False,
+              short: bool = False) -> str:
+    """'⚠️ Johnson (DAL) upitan, DAL–IND u 01:30. Ako bude OUT: baci Johnson → uzmi Clayton (FA, igra večeras,
+    čet, sub, ned; +14). Imaš do 01:30.'"""
+    v = a.values
+    p = v[c.pid].player
+    when = hhmm(c.start, tz)
+    day = "" if c.sp == a.today_sp else "sutra "
+    if c.action == "klupa":
+        act = f"u postavu stavi {v[c.bench].player.short} (s klupe, igra {days_text(a, c.bench, c.sp) or 'tada'})"
+    elif c.action == "zamjena":
+        act = (f"baci {p.short} → uzmi {v[c.add].player.short} (FA, igra {days_text(a, c.add, c.sp)}; "
+               f"{c.gain:+.0f} do ned.)")
+        if c.reserves:
+            act += f"; rezerve: {reserves_text(a, c.reserves)}"
+    else:
+        act = "nema dobre zamjene, ostavi ga"
+    if short or short_form:
+        lead = "→" if c.status == "OUT" else "Ako bude OUT:"
+        return f"{lead} {act} (do {day}{when})"
+    if c.status == "OUT":
+        return f"⚠️ {p.short} ({p.team}) OUT prema vijesti, {c.game} {day}u {when}. → {act}. Imaš do {day}{when}."
+    st = "DTD" if c.status == "DTD" else "upitan"
+    return f"⚠️ {p.short} ({p.team}) {st}, {c.game} {day}u {when}. Ako bude OUT: {act}. Imaš do {day}{when}."
+
+
+def cond_plan_line(a: Analysis, c: CondStep, tz: str = "Europe/Zagreb") -> str:
+    """Plan step: 'AKO Johnson OUT prije DAL–IND (01:30) → baci Johnson, uzmi Clayton'."""
+    v = a.values
+    p = v[c.pid].player
+    day = "" if c.sp == a.today_sp else "sutra "
+    head = f"AKO {p.short} OUT prije {c.game} ({day}{hhmm(c.start, tz)})"
+    if c.action == "klupa":
+        return f"{head} → u postavu stavi {v[c.bench].player.short} (s klupe)"
+    if c.action == "zamjena":
+        r = f"; rezerve: {reserves_text(a, c.reserves)}" if c.reserves else ""
+        return (f"{head} → baci {p.short}, uzmi {v[c.add].player.short} (FA, igra {days_text(a, c.add, c.sp)}; "
+                f"{c.gain:+.0f}){r}")
+    return f"{head} → nema dobre zamjene, ostavi ga"
 
 
 def waiver_when(a: Analysis, ms: int | None, tz: str) -> str:
@@ -43,33 +110,40 @@ def waiver_when(a: Analysis, ms: int | None, tz: str) -> str:
     return f"{DAY_SHORT[t.weekday()]} {t:%H:%M}"
 
 
-def move_line(a: Analysis, m: Move, tz: str = "Europe/Zagreb") -> str:
+def move_parts(a: Analysis, m: Move, tz: str = "Europe/Zagreb") -> tuple[str, str]:
+    """(when, what): ('SUTRA UJUTRO', 'Zubac → Clayton Jr. (+19; ...)')."""
     v = a.values
     name = lambda pid: v[pid].player.short if pid in v else str(pid)  # noqa: E731
     if m.kind == IR_IN:
-        return f"{when_label(a, m.t)}: {v[m.drop].player.short} na IR (OUT) → mjesto za novog igrača"
+        return when_label(a, m.t), f"{v[m.drop].player.short} na IR (OUT) → mjesto za novog igrača"
     if m.kind == IR_BACK:
         e = a.out_state.get(m.add)
         back = f" (povratak ~{fmt_date(e.info.min_date)})" if e and not m.forced else ""
         drop = f", baci {name(m.drop)}" if m.drop else ""
-        return f"{when_label(a, m.t)}: vrati {name(m.add)} s IR-a{back}{drop}"
+        return when_label(a, m.t), f"vrati {name(m.add)} s IR-a{back}{drop}"
     y = v[m.add].player
     y_days = _days(a, m.add, m.t)
-    why = [f"{y.short}: {_dshort(a, y_days)}" if y_days else f"{y.short} ovaj tjedan ne igra"]
+    why = [f"{y.short}: {_dshort(a, y_days, m.add)}" if y_days else f"{y.short} ovaj tjedan ne igra"]
     if m.drop is not None:
         lost = _days(a, m.drop, m.t)
-        why.append(f"{name(m.drop)} gubi {_dshort(a, lost)}" if lost else "ne gubiš ništa")
+        why.append(f"{name(m.drop)} gubi {_dshort(a, lost, m.drop)}" if lost else "ne gubiš ništa")
     if y.is_dtd:
         why.append("ako nije OUT")
     if a.mode == "dugorocno":
         why.append(f"dugoročno {m.long_gain:+.1f} FP/utak.")
     gain = f"{m.gain:+.0f}" if m.gain else "±0"
     swap = f"{name(m.drop)} → {y.short}" if m.drop is not None else f"uzmi {y.short} na slobodno mjesto"
+    res = f" · rezerve: {reserves_text(a, m.reserves)}" if m.reserves else ""
     if m.kind == WAIVER:
         fs = a.free_status.get(m.add)
         when = waiver_when(a, fs.waiver_ms if fs else None, tz)
-        return f"DANAS (claim, prolazi {when}): {swap} ({gain}; {'; '.join(why)})"
-    return f"{when_label(a, m.t)}: {swap} ({gain}; {'; '.join(why)})"
+        return f"DANAS (claim, prolazi {when})", f"{swap} ({gain}; {'; '.join(why)}){res}"
+    return when_label(a, m.t), f"{swap} ({gain}; {'; '.join(why)}){res}"
+
+
+def move_line(a: Analysis, m: Move, tz: str = "Europe/Zagreb") -> str:
+    when, what = move_parts(a, m, tz)
+    return f"{when}: {what}"
 
 
 def hot_free(a: Analysis) -> list:
@@ -95,6 +169,11 @@ def league_report(a: Analysis, tz: str = "Europe/Zagreb") -> str:
             parts.append(f"{lab}: ti {r.my.n} | oni {r.opp.n if r.opp else 0}")
     if parts:
         L.append("   ".join(parts))
+    if a.win_prob is not None:
+        plan = f" (s planom {pct(a.win_prob_plan)})" if a.win_prob_plan is not None else ""
+        L.append(f"Šansa za pobjedu: {pct(a.win_prob)}{plan}")
+    if a.prob_hint:
+        L.append(f"💡 {a.prob_hint[0].upper()}{a.prob_hint[1:]}")
     if a.mode_reason:
         L.append(f"📉 {a.mode_reason[0].upper()}{a.mode_reason[1:]}")
     L += a.alerts
@@ -105,10 +184,13 @@ def league_report(a: Analysis, tz: str = "Europe/Zagreb") -> str:
         L.append(f"🔥 {p.name} ({p.team}{tag}) — {v.reason()}")
     for m in a.plan:
         L.append(move_line(a, m, tz))
+    for c in a.cond:
+        L.append(cond_plan_line(a, c, tz))
     if not a.plan and a.remaining:
         L.append("Plan: nema izmjene koja se isplati" + (" (iskorištena sva preuzimanja)"
                                                          if a.adds_used >= a.adds_limit else ""))
-    L.append(f"Preuzimanja: {a.adds_used}/{a.adds_limit}")
+    opp = f" (protivnik {a.opp_adds_used}/{a.adds_limit})" if a.opp else ""
+    L.append(f"Preuzimanja: {a.adds_used}/{a.adds_limit}{opp}")
     return "\n".join(L)
 
 
@@ -117,12 +199,18 @@ def error_report(label: str, err: str) -> str:
 
 
 def full_report(analyses: list[Analysis], errors: dict[str, tuple[str, str]], dashboard_url: str = "",
-                tz: str = "Europe/Zagreb") -> str:
+                tz: str = "Europe/Zagreb", now: dt.datetime | None = None) -> str:
     parts = [league_report(a, tz) for a in analyses]
     parts += [error_report(label, err) for label, err in errors.values()]
     text = "\n\n".join(parts)
+    stamp = now or (analyses[0].now if analyses else None)
+    tail = []
+    if stamp is not None:
+        tail.append(f"🕒 {data_time(stamp, tz)}")
     if dashboard_url:
-        text += f"\n\n📊 {dashboard_url}"
+        tail.append(f"📊 {dashboard_url}")
+    if tail:
+        text += "\n\n" + "  ".join(tail)
     return text
 
 
@@ -187,9 +275,17 @@ def detail_report(a: Analysis) -> str:
     for f in longl[:10]:
         p = v[f.pid].player
         x = v[f.pid]
+        arrow = x.trend.arrow if x.trend else ""
         L.append(f"  {'🔥' if x.hot else '  '} {p.name:<24} {p.team:<3} long {x.long:5.1f}  min {x.mpg or 0:4.1f}/"
-                 f"{x.mpg3 or 0:4.1f}  vl. {p.owned:4.1f}%{'' if p.owned_change is None else f' ({p.owned_change:+.1f})'}"
+                 f"{x.mpg3 or 0:4.1f}{arrow or ' '} vl. {p.owned:4.1f}%{'' if p.owned_change is None else f' ({p.owned_change:+.1f})'}"
                  f"{'  ' + x.reason() if x.hot else ''}")
+    if a.win_prob is not None:
+        L.append(f"\nŠANSA ZA POBJEDU {pct(a.win_prob)}" + (f" · s planom {pct(a.win_prob_plan)}"
+                                                           if a.win_prob_plan is not None else ""))
+    if a.opp:
+        L.append(f"PROTIVNIK: izmjene {a.opp_adds_used}/{a.adds_limit}" + "".join(
+            f"\n  {('+' + ', '.join(short(a, x) for x in m.adds)) if m.adds else ''}"
+            f"{(' −' + ', '.join(short(a, x) for x in m.drops)) if m.drops else ''}" for m in a.opp_moves))
     if a.infos:
         L.append("\nINFO: " + "; ".join(a.infos))
     return "\n".join(L)

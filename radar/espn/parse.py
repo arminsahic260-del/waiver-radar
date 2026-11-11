@@ -5,7 +5,7 @@ import datetime as dt
 
 from ..models import (FreeAgent, GameLog, LeagueSettings, LeagueState, Matchup, Player, RosterSpot, StatLine, Team,
                       Transaction)
-from .maps import BENCH, SOURCE_PROJ, SOURCE_REAL, SPLIT_GAME, SPLIT_LAST7, SPLIT_SEASON, STAT
+from .maps import BENCH, SOURCE_PROJ, SOURCE_REAL, SPLIT_GAME, SPLIT_LAST7, SPLIT_LAST15, SPLIT_SEASON, STAT
 
 STARTING_SLOT_IDS = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
 
@@ -62,6 +62,7 @@ def parse_player(raw: dict, season: int) -> Player:
         droppable=raw.get("droppable", True) is not False,
         season=season_line,
         last7=_line(pick(SPLIT_LAST7, SOURCE_REAL, season)),
+        last15=_line(pick(SPLIT_LAST15, SOURCE_REAL, season)),
         proj=_line(pick(SPLIT_SEASON, SOURCE_PROJ, season)),
         prev=_line(pick(SPLIT_SEASON, SOURCE_REAL, season - 1)),
         games=games,

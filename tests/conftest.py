@@ -42,3 +42,25 @@ def run_result(cfg, client):
 @pytest.fixture(scope="session")
 def legendi(run_result):
     return next(a for a in run_result.analyses if a.key == "legendi")
+
+
+# ---- 11.11.2026 (Wednesday, 20:40 Zagreb): Legendi with this week's transactions and the scoreboard ----------------
+FIX11 = ROOT / "tests" / "fixtures" / "2026-11-11"
+NOW11 = dt.datetime(2026, 11, 11, 19, 40, 45, tzinfo=dt.timezone.utc)
+
+
+@pytest.fixture(scope="session")
+def client11():
+    return FixtureClient(FIX11)
+
+
+@pytest.fixture(scope="session")
+def res11(cfg, client11):
+    from radar.build import run
+    from radar.store import Store
+    return run(cfg, client11, NOW11, keys=["legendi"], state_path=None, store=Store(":memory:"))
+
+
+@pytest.fixture(scope="session")
+def leg11(res11):
+    return res11.analyses[0]

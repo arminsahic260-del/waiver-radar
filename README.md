@@ -1,89 +1,109 @@
-# Waiver Radar 2
+# Waiver Radar 2.1
 
-Asistent za dvije ESPN fantasy NBA lige (H2H points). Svaki dan kaže: tko ti igra koji dan u odnosu na protivnika,
-koga baciti, koga uzeti (ovaj tjedan i dugoročno) i **kada** točno napraviti izmjenu. Samo čita i predlaže; add/drop
-i postavu radiš sam na ESPN-u.
+Asistent za dvije ESPN fantasy NBA lige (H2H points). Kaže tko ti igra koji dan u odnosu na protivnika, koga baciti,
+koga uzeti (ovaj tjedan i dugoročno) i **kada** napraviti izmjenu. Od 2.1 radi **stalno na PC-u**: svakih 10–15 min
+gleda slobodne igrače i rostere i odmah javlja na Telegram što se promijenilo, provjerava postavu 60 i 30 min prije
+utakmica i odgovara na naredbe s mobitela. Samo čita i predlaže; add/drop i postavu radiš sam na ESPN-u.
 
-- **Telegram** u 08:30 i 21:30 (Europe/Zagreb), kratko, po ligi
-- **Dashboard** (PWA, GitHub Pages): Pregled, Raspored, Za bacanje, Za uzeti, Plan, Ozljede/vijesti
-- **Odmah u terminalu:** `python -m radar check [legendi|banijska|all]`
+- **Telegram alarmi** (svakih 15 min, 10 dok traju utakmice): bačen jak igrač (≥ 30 % vlasništva ili top 40), novi 🔥,
+  netko uzeo igrača iz plana ili s liste praćenja (+ rezerva), promjena statusa mog igrača, protivnikova izmjena koja
+  pomakne šansu za > 5 postotnih bodova, istekli ESPN kolačići, ESPN ne radi > 30 min
+- **Prije utakmica** (60 i 30 min): OUT/upitan u postavi, igrač s klupe igra dok starter ne igra → što točno napraviti
+  i do kad (slobodni igrači samo ako igraju te večeri)
+- **Izvještaj** u 08:30 i 21:30, **tjedni pregled** u nedjelju u 22:00
+- **Bot**: `/legendi`, `/banijska`, `/sve`, `/danas`, `/plan`, `/igrac`, `/usporedi`, `/pratim`, `/cilj`, `/tisina`…
+- **Dashboard** (PWA): https://arminsahic260-del.github.io/waiver-radar/ (šansa za pobjedu, ↑/↓ minute, 🔁, Alarmi, Povijest)
 
-```
-radar/espn/client.py   jedini ESPN klijent: retry, cache-busting (_=ms), cookieji samo za privatnu ligu, fixtures
-radar/espn/parse.py    ESPN JSON -> modeli; roster se ispravlja po onTeamId iz kona_player_info (cache kasni)
-radar/schedule.py      scoringPeriodId <-> datum (iz ESPN rasporeda), tjedan pon-ned, je li utakmica počela
-radar/value.py         value_now / value_long + signal 🔥 (novi starter, skok minuta, vijest)
-radar/news.py          ESPN vijesti: "will start" (uz negacije), "out X weeks" -> out until
-radar/injuries.py      out until se pamti između prolaza (data/state.json); suigrači koji dobivaju minute
-radar/lineup.py        najbolja dnevna postava s pozicijama (PG, SG, SF, PF, C, G, F, 3x UTIL)
-radar/engine.py        projekcija igrača po danu + memoizirani optimizator
-radar/week.py          analiza tjedna: rezultat, projekcija, tablica po danima, doprinosi, slobodni, upozorenja
-radar/planner.py       planer izmjena s timingom (FA odmah, claim u waiverProcessDate, "X ujutro")
-radar/report.py        tekst izvještaja (Telegram/terminal) i detaljni pregled (--detalji)
-radar/publish.py       site/data/radar.json + Telegram jednom po terminu
-radar/llm.py           opcionalno: Claude sažetak vijesti na hrvatskom + provjera "novi starter"
-site/                  PWA (index.html, sw.js, manifest.json)
-tests/                 snimljeni ESPN odgovori (8.11.2026, Legendi) + Burries + sintetički scenariji
-```
+## Zašto PC, a ne oblak
 
-## Lokalno
+| | |
+|---|---|
+| GitHub Actions cron | kasni satima (u studenom je radar stvarno radio otprilike jednom dnevno) i ne može odgovarati botu |
+| Cloudflare Workers (besplatno) | 10 ms procesora po pozivu i 50 poziva prema van: premalo za analizu (~1 s) i 1000 igrača; sve bi trebalo prepisati u JS |
+| Besplatni VM (Google, Oracle) | radi, ali treba novi račun s karticom (Oracle gasi „besposlene” instance) |
+| **PC (odabrano)** | bez novog računa; ESPN (javna liga, privatna s kolačićima, scoreboard) testiran s ovog računala. Radi dok je PC upaljen (na struji ne ide na spavanje) |
 
-```sh
-python -m venv .venv
-.venv/Scripts/pip install -r requirements.txt          # Linux/macOS: .venv/bin/pip
-.venv/Scripts/python -m radar check all                 # izvještaj odmah
-.venv/Scripts/python -m radar check legendi -d          # + oba rostera, tablica po danima, liste
-.venv/Scripts/python -m radar check all --sada 2026-11-09T08:30   # "kako bi izgledalo u pon ujutro"
-.venv/Scripts/python -m pytest -q
-```
+GitHub Actions ostaje kao **rezerva**: zakazani prolaz se preskače dok PC objavljuje podatke (zadnja 3 h); ako PC šuti,
+pošalje izvještaj (bez alarma) i osvježi dashboard.
 
-Za Banijsku (privatna liga) postavi u terminalu `ESPN_S2` i `ESPN_SWID` (cookieji `espn_s2` i `SWID` s
-espn.com dok si prijavljen: F12 → Application → Cookies). Nikad ih ne upisuj u datoteke u repozitoriju.
+## Postavljanje (jednom)
 
 ```powershell
-$env:ESPN_S2 = "..."; $env:ESPN_SWID = "{...}"
+cd C:\Users\armin\Desktop\NBA\waiver-radar-2
+python -m venv .venv; .venv\Scripts\pip install -r requirements.txt
+copy .env.example .env          # pa upiši vrijednosti (vidi dolje)
+.venv\Scripts\python -m radar telegram                          # spoji bota (spremi chat id u .env)
+powershell -ExecutionPolicy Bypass -File scripts\install-windows.ps1   # pokretanje pri prijavi u Windows
 ```
 
-## GitHub
+`.env` (ne ide u git; radar ga sam ponovno učita kad ga spremiš):
 
-1. Pushaj repo na `main`. **Settings → Pages → Source: GitHub Actions.**
-2. **Settings → Secrets and variables → Actions**:
-   - `ESPN_S2`, `ESPN_SWID`: za Banijsku (bez njih Legendi radi, Banijska javlja grešku)
-   - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`: Telegram poruke
-   - `ANTHROPIC_API_KEY` (opcionalno) + `claude.ukljuceno: true` u `config.yaml`
-3. `dashboard_url` u `config.yaml` = adresa GitHub Pages stranice (link na kraju poruke).
-4. **Actions → radar → Run workflow** za prvi prolaz (Telegram: uvijek). Dalje ide sam.
+- `ESPN_S2`, `ESPN_SWID` — Banijska. Chrome → espn.com (prijavljen) → F12 → Application → Cookies →
+  https://www.espn.com → vrijednosti `espn_s2` i `SWID`. Kad isteknu, radar pošalje **jedan** alarm s ovim uputama.
+- `TELEGRAM_BOT_TOKEN` — @BotFather → `/newbot`. `TELEGRAM_CHAT_ID` upiše `python -m radar telegram`.
+- Dashboard podaci idu na granu `podaci` preko `gh auth token` (GitHub CLI je prijavljen); inače `GITHUB_TOKEN`.
 
-Cron je u UTC-u, a Zagreb mijenja UTC+1/UTC+2, pa workflow ide u 06:30, 07:30, 19:30 i 20:30 UTC;
-`radar/publish.py` šalje Telegram samo kad je po Zagrebu 08:30 ili 21:30 (do 100 min kašnjenja GitHuba) i
-samo jednom po terminu. Ostala pokretanja samo osvježe dashboard.
+Upravljanje: `scripts\uninstall-windows.ps1` (ugasi), nakon promjene koda `Stop-ScheduledTask "Waiver Radar"; Start-ScheduledTask "Waiver Radar"`.
+Log: `data\local\serve.log`. Stanje: `data\local\radar.db` (SQLite: snimke, plan, praćenje, alarmi, povijest).
+
+## Naredbe
+
+| | |
+|---|---|
+| `/legendi` `/banijska` `/sve` | rezultat, projekcija, šansa za pobjedu, igrači po danima (ti:oni), top 3 za bacanje, top 5 za uzeti (tjedan i dugoročno), plan |
+| `/danas` | što napraviti danas u obje lige i do kad (claimovi, izmjene, uvjetni koraci, postava) |
+| `/plan` | ✅ napravljeno, ↪️ napravio si drugačije, ⬜ otvoreno (s uvjetima i rezervama) |
+| `/igrac <ime>` | vrijednost, minute (sezona / z3 / z5, ↑↓), raspored s p_play i 🔁, status, 3 vijesti, gdje je slobodan |
+| `/usporedi <a> <b>` | ostatak tjedna (očekivani FP) i dugoročno; više riječi odvoji zarezom |
+| `/pratim <ime>` `/nepratim <ime>` `/pratim` | lista praćenja: alarm kad se oslobodi, promijeni status ili ga netko uzme |
+| `/cilj legendi tjedan\|dugorocno\|auto` | način rada do kraja ovog tjedna |
+| `/tisina 2h` (`30m`, `off`) | utiša alarme (spremaju se, vide se na dashboardu) |
+| `/tezine` (`prihvati`, `odbaci`, `vrati`) | prijedlog novih težina modela nakon 3+ tjedna podataka |
+| `/osvjezi` `/pomoc` | odmah nove podaci s ESPN-a; popis naredbi |
+
+Bot odgovara samo tvom chat id-u. Odgovor je iz zadnjeg prolaza (≤ 10 min), inače prvo povuče nove podatke (par sekundi).
+
+U terminalu: `python -m radar check all -d` (izvještaj + detalji), `python -m radar bot "/igrac Stirtz"`,
+`python -m radar tick` (jedan prolaz, alarmi u terminal; ne dira stanje servera).
 
 ## Kako računa
 
-**Vrijednost.** `value_now = 0,45·sezona + 0,35·zadnjih 7 dana + 0,20·projekcija` (manje od 2 utakmice:
-projekcija·0,8), `value_long = 0,35 / 0,30 / 0,35`. Ako nema utakmica u zadnjih 7 dana, težine se preraspodijele.
-Igrač s 🔥 vrijedi koliko je postizao u novoj ulozi (utakmice od prvog starta ili skoka minuta), ako je to više.
+**Vrijednost.** `value_now = 0,45·sezona + 0,35·zadnjih 7 + 0,20·projekcija`, `value_long = 0,35 / 0,30 / 0,35`.
+**Kad ESPN projekcija fali ili je 0** (rookieji, novi igrači): `0,5·zadnjih 7 + 0,3·zadnjih 15 + 0,2·sezona` + bonus
+za trend minuta (0,5 × FP po minuti × razlika minuta, najviše ±25 %). Projekcija 0 nikad ne ruši vrijednost.
+**Trend minuta**: prosjek zadnjih 3 i 5 utakmica prema sezoni; ±4 min → ↑/↓. 🔥 signali kao prije (novi starter,
+skok minuta, vijest, ozljeda suigrača).
 
-**🔥 Novi starter / rast minuta** (ide na vrh bez obzira na prosjek sezone):
-- počeo je startati (ESPN „games started” po utakmici) nakon što je prije rijetko startao, prvi start u zadnjih 8 dana
-- minute u zadnje 3 utakmice ≥ prije + 6 (i ≥ 22, u bar 2 od 3 utakmice), ili ≥ 30 a prije < 27
-- vijest u zadnjih 72 h: „will start”, „starting lineup”, „named starter”, „with X out”… (bez „won't start”,
-  „come off the bench”…), samo vijesti kojima je igrač u naslovu
-- dugotrajno OUT suigrač na istoj poziciji (out until iz vijesti, ≥ 7 dana): 2 najbolja slobodna suigrača
-- oznaka: signal uloge (start/vijest) od 12 FP, ili dva signala od 12 FP; samo minute ili samo ozljeda suigrača
-  tek od 20 FP. Slobodni igrači ispod 15 min i OUT se ne predlažu.
+**p_play** (vjerojatnost da igra): zdrav 0,97, DTD 0,6 (danas/sutra; za utakmice za 2+ dana 0,85), upitan po vijesti
+iz zadnjih 24 h 0,5, „ruled out” u vijesti ili OUT 0. Back-to-back (🔁, tim je igrao dan prije) −0,10, a −0,25 ako je
+DTD/upitan ili ima 33+ godine (dob s ESPN-a). Sve projekcije, postave, planer i šansa računaju `value × p_play`.
 
-**Tjedan.** Za svaki preostali dan najbolja postava s pozicijama za mene i protivnika (OUT i IR ne igraju,
-DTD danas/sutra × 0,85, utakmica koja je već počela je već u live rezultatu). Projekcija = live bodovi + zbroj
-postava do nedjelje. Doprinos mog igrača = koliko bodova izgubim ako ga danas bacim (zamjena s klupe uračunata).
+**Šansa za pobjedu.** Monte Carlo, 5000 simulacija (isti seed svaki put, pa se mijenja samo s podacima): svaka
+preostala utakmica igra s p_play, bodovi ~ N(vrijednost, sd zadnjih utakmica ili 30 %), dnevno se broji 10 najboljih
+koji igraju. Ispod 20 % predlaže `/cilj … dugorocno`, iznad 90 % kaže da je tjedan siguran; ništa ne mijenja sam.
 
-**Planer.** Za svaki par (baci X, uzmi Y, dan t) računa neto bodove do nedjelje: X igra do jutra dana t, Y od dana t.
-Slobodni igrač može od danas, claim od dana obrade waivera (X igra do tada). Bira najbolji par, primijeni ga,
-pa ponovi (do preostalih preuzimanja). Poštuje limit od 4 centra, 13 mjesta + IR, preuzimanja iz ESPN brojača
-(limit 7 iz configa), čuva 1 preuzimanje za ozljede do subote. U tjednom načinu ne baca igrača koji dugoročno
-vrijedi > 4 FP više od novog. Igrač koji se vraća s IR-a dobiva mjesto onoga tko tada najmanje vrijedi (streamer
-koji ga čeka zadrži svoje utakmice). Projekcija −150 ili gore → dugoročni način (rang po value_long, najviše
-3 izmjene). `cilj` po ligi i po tjednu u `config.yaml`.
+**Planer.** Kao u 2.0 (neto bodovi do nedjelje za par baci X / uzmi Y / dan; FA odmah, claim od obrade waivera;
+limit 4 centra, 13 + IR, 7 preuzimanja, 1 čuvan za ozljede; u tjednom načinu ne baca igrača koji dugoročno vrijedi
+> 4 FP više). Novo: svaki dodatak ima 2–3 **rezerve**; uvjetni koraci „AKO X OUT prije DAL–IND → …” za upitne
+igrače u postavi (prvo igrač s klupe, inače FA koji igra te večeri). Svakih 15 min plan se uspoređuje s ESPN
+transakcijama: korak napravljen → ✅; napravio si drugo → to je novo stanje, plan se preračuna i dobiješ kratko što se
+promijenilo („za Stirtz si bacio Clayton Jr. umjesto Nesmith → slabiji ti je dan: subota …”); cilj otišao → rezerva.
 
-**Upozorenja.** OUT u postavi, igrač bez utakmice u postavi dok klupa igra, bolji igrač na klupi (+3 FP),
-zdrav igrač na IR-u (ESPN blokira izmjene), OUT igrač kojeg treba staviti na IR, slobodno mjesto, previše centara.
+**Povijest.** Svaka preporuka (vrijeme, liga, baci/uzmi, očekivani dobitak) i je li napravljena (samo dodatak nakon
+preporuke). Stvarni dobitak = bodovi dodanog − bačenog od dana izmjene do nedjelje. Za točnost modela svaki dan se
+zapišu značajke igrača koji igraju i kasnije stvarni bodovi; nakon 3+ tjedna mrežna pretraga težina (sezona / 7 dana /
+projekcija / trend) predloži nove težine u tjednom pregledu, a primjenjuju se tek s `/tezine prihvati`.
+
+```
+radar/serve.py      stalni proces: raspored prolaza, alarmi, prije utakmica, izvještaji, tjedni pregled, bot
+radar/alarms.py     snimka slobodnih/rostera po ligi i razlike -> alarmi (s ključem za deduplikaciju)
+radar/pregame.py    provjera 60/30 min prije utakmice
+radar/plantrack.py  plan kao koraci (uvjet, vrijeme, rezerve) usklađen s mTransactions2
+radar/history.py    preporuke, stvarni dobitak, točnost, tjedni pregled, pretraga težina
+radar/bot.py        Telegram naredbe (tekst -> tekst)
+radar/montecarlo.py šansa za pobjedu;  radar/availability.py  p_play, back-to-back, dob
+radar/scoreboard.py ESPN scoreboard (vrijeme utakmica po Zagrebu, stanje uživo)
+radar/store.py      SQLite (data/local/radar.db);  radar/dashpub.py  radar.json na granu `podaci`
+radar/espn/ value.py week.py planner.py engine.py lineup.py report.py export.py news.py injuries.py  (kao 2.0, dopunjeno)
+tests/              fixtures 8.11. i 11.11.2026 (Legendi) + sintetički scenariji
+```

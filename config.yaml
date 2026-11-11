@@ -1,12 +1,12 @@
-# Waiver Radar 2 — postavke. Kredencijali (ESPN_S2, ESPN_SWID, TELEGRAM_*, ANTHROPIC_API_KEY) NISU ovdje:
-# čitaju se samo iz environment varijabli / GitHub secrets.
+# Waiver Radar 2.1 — postavke. Kredencijali (ESPN_S2, ESPN_SWID, TELEGRAM_*, ANTHROPIC_API_KEY) NISU ovdje:
+# čitaju se samo iz environment varijabli, lokalne .env datoteke (ne ide u git) ili GitHub secrets.
 
 sezona: 2027                    # ESPN seasonId (sezona 2026-27)
 vremenska_zona: Europe/Zagreb
 prvi_dan: 2026-10-20            # scoringPeriodId 1; samo rezerva, inače se računa iz ESPN rasporeda
 dashboard_url: https://arminsahic260-del.github.io/waiver-radar/   # link na kraju Telegram poruke
 
-izvjestaji:                     # GitHub Actions šalje Telegram u ova vremena (po vremenskoj zoni gore)
+izvjestaji:                     # PC radar (i GitHub rezerva) šalje izvještaj u ova vremena (po vremenskoj zoni gore)
   jutro: "08:30"
   vecer: "21:30"
 
@@ -32,7 +32,6 @@ lige:
 
 model:
   min_minuta: 15                # slobodni igrači s manje minuta (sezona i zadnje 3) se ne predlažu
-  dtd_faktor: 0.85              # projekcija za day-to-day igrača
   prag_izgubljen: -150          # projekcija tjedna ispod ovoga -> dugoročni način
   min_dobitak: 6                # najmanji neto dobitak (FP do nedjelje) za prijedlog izmjene
   rezerva_preuzimanja: 1        # toliko preuzimanja čuvaj za ozljede do subote (zadnja 2 dana smiju sva)
@@ -42,6 +41,45 @@ model:
   kandidata_po_ligi: 40         # koliko slobodnih igrača ulazi u planer
   vatra_min_fp: 12              # 🔥 za novog startera (ili dva signala) od ovoliko FP po utakmici u novoj ulozi
   vatra_jedan_signal_fp: 20     # samo skok minuta ili samo ozljeda suigrača: tek od ovoliko FP
+  tezine_sada: [0.45, 0.35, 0.20]          # value_now: sezona, zadnjih 7 dana, ESPN projekcija
+  tezine_dugo: [0.35, 0.30, 0.35]          # value_long
+  tezine_bez_projekcije: [0.5, 0.3, 0.2]   # kad projekcija fali ili je 0: zadnjih 7, zadnjih 15, sezona
+  trend_minuta_prag: 4          # ↑/↓ kad su minute zadnjih 3 i 5 utakmica toliko iznad/ispod prosjeka sezone
+  trend_bonus: 0.5              # bez projekcije: + trend_bonus × FP po minuti × razlika minuta (najviše ±25 %)
+
+p_play:                         # vjerojatnost da igrač igra utakmicu; sve projekcije su vrijednost × p_play
+  active: 0.97
+  dtd: 0.6                      # DTD, utakmica danas ili sutra
+  dtd_kasnije: 0.85             # DTD, utakmica za 2+ dana (status se do tada obično riješi)
+  upitan: 0.5                   # vijest u zadnjih 24 h: questionable / game-time decision / doubtful
+  b2b: 0.10                     # back-to-back (tim je igrao dan prije): minus ovoliko
+  b2b_rizik: 0.25               # ... ili ovoliko ako je DTD, ozlijeđen ili ima 33+ godine
+  b2b_dob: 33
+  povratak: 0.7                 # OUT, ali vijest kaže da se vraća prije te utakmice
+
+alarmi:
+  interval_min: 15              # koliko često se provjeravaju slobodni igrači i rosteri
+  interval_utakmice_min: 10     # ... dok traju NBA utakmice (ili počinju u sljedećih 90 min)
+  jaki_vlasnistvo: 30           # bačen igrač s barem ovoliko % vlasništva ...
+  jaki_top: 40                  # ... ili u top 40 po value_long -> alarm
+  pred_utakmicu_min: [60, 30]   # provjera postave toliko minuta prije utakmice mog igrača
+  prag_sanse_protivnik: 0.05    # alarm kad protivnikova izmjena pomakne šansu za više od 5 postotnih bodova
+  espn_ne_radi_min: 30          # jedan alarm kad ESPN ne odgovara dulje od ovoga
+  tjedni_pregled: "ned 22:00"   # tjedni pregled preporuka (po vremenskoj zoni gore)
+
+simulacija:                     # šansa za pobjedu u tjednu (Monte Carlo)
+  broj: 5000
+  sd_udio: 0.3                  # sd = 30 % vrijednosti kad igrač nema dovoljno utakmica
+  seed: 20261111                # isti seed u svakom prolazu: šansa se mijenja samo kad se promijene podaci
+  savjet_ispod: 0.20            # ispod ovoga predloži /cilj ... dugorocno
+  savjet_iznad: 0.90            # iznad ovoga: tjedan je siguran
+
+server:                         # `python -m radar serve` na PC-u (alarmi, bot, dashboard)
+  lokalno: data/local           # SQLite baza, stanje i log (ne ide u git)
+  objavi_dashboard: true        # radar.json na granu `podaci` (dashboard ga čita s raw.githubusercontent.com)
+  podaci_grana: podaci
+  repo: arminsahic260-del/waiver-radar
+  pc_svjez_sati: 3              # GitHub Actions preskače svoj prolaz dok PC objavljuje podatke
 
 claude:
   ukljuceno: false              # true + ANTHROPIC_API_KEY: sažetak vijesti na hrvatskom i provjera "novi starter"

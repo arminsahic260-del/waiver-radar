@@ -8,11 +8,47 @@ from .config import Config, LeagueCfg
 from .engine import ACTIVE_SLOTS, Engine
 from .espn.maps import BENCH, IR, SLOT
 from .injuries import OutEntry, is_long, teammate_signals
-from .models import FreeAgent, LeagueState, Matchup, Team
-from .news import NewsItem
+from .models import FreeAgent, LeagueState, Matchup, Team, Transaction
+from .montecarlo import win_prob
+from .news import NewsItem, availability_flag
 from .planner import FA, IR_BACK, IR_IN, WAIVER, Cand, Move, Planner
-from .schedule import ET, ProSchedule, day_label
+from .schedule import DAY_SHORT, ET, ProSchedule, day_label
 from .value import Valued, evaluate
+
+
+@dataclass
+class Extras:
+    """Inputs the always-on server adds to a plain run (all optional)."""
+    ages: dict[int, int] = field(default_factory=dict)
+    week_tx: list[Transaction] = field(default_factory=list)   # this week's transactions of the whole league
+    goals: dict[int, str] = field(default_factory=dict)          # /cilj override per matchup period
+    simulate: bool = True
+
+
+@dataclass
+class CondStep:
+    """'AKO X OUT prije utakmice -> ...' for a risky player in my lineup."""
+    pid: int
+    sp: int
+    status: str                 # DTD | upitan | OUT
+    reason: str                 # e.g. the news sentence
+    game: str                   # "DAL–IND"
+    start: dt.datetime | None   # tip-off (deadline)
+    action: str                 # klupa | zamjena | nista
+    bench: int | None = None    # who enters my lineup from the bench
+    add: int | None = None      # FA to add (drop pid)
+    gain: float = 0.0
+    reserves: list[int] = field(default_factory=list)
+
+
+@dataclass
+class TxRow:
+    sp: int | None
+    team_id: int
+    adds: list[int]
+    drops: list[int]
+    date_ms: int | None
+    id: str
 
 
 @dataclass
@@ -92,6 +128,18 @@ class Analysis:
     out_state: dict[int, OutEntry]
     schedule: ProSchedule
     free_status: dict[int, FreeAgent] = field(default_factory=dict)
+    eng: Engine | None = None
+    lg: LeagueState | None = None
+    flags: dict[int, tuple[str, str]] = field(default_factory=dict)
+    win_prob: float | None = None
+    win_prob_plan: float | None = None
+    prob_hint: str = ""
+    opp_adds_used: int = 0
+    opp_moves: list[TxRow] = field(default_factory=list)
+    my_moves: list[TxRow] = field(default_factory=list)
+    cond: list[CondStep] = field(default_factory=list)
+    protect: float = 4.0
+    planner: Planner | None = None
 
     @property
     def remaining(self) -> list[int]:
@@ -145,7 +193,8 @@ def _mins_ok(v: Valued, min_minutes: float) -> bool:
 
 
 def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, now: dt.datetime,
-            news: dict[int, list[NewsItem]], out_state: dict[int, OutEntry]) -> Analysis:
+            news: dict[int, list[NewsItem]], out_state: dict[int, OutEntry], extras: Extras | None = None) -> Analysis:
+    ex = extras or Extras()
     mc = cfg.model
     today = now.astimezone(ET).date()
     today_sp = schedule.sp_of(today)
@@ -173,9 +222,15 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     for pid, s in mates.items():
         val(lg.players[pid] if pid in lg.players else free_status[pid].player, extra=[s])
 
+    flags = {}
+    for pid, items in news.items():
+        if pid in values and items:
+            f = availability_flag(items, values[pid].player.short, now)
+            if f:
+                flags[pid] = f
     eng = Engine(schedule=schedule, now=now, today_sp=today_sp, days=remaining,
                  slot_counts=lg.settings.slot_counts or {0: 1, 1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 11: 3},
-                 values=values, out_state=out_state, dtd_factor=mc.dtd_faktor)
+                 values=values, out_state=out_state, pcfg=cfg.p_play, flags=flags, ages=ex.ages)
 
     my_ros = _active_ids(me)
     opp_ros = _active_ids(opp) if opp else set()
@@ -198,8 +253,9 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     opp_proj = round(opp_live + sum(r.opp.total for r in rows if r.opp), 1)
 
     # ---- mode
-    goal = lc.goal_for(period)
-    mode, mode_reason = goal, ("cilj: dugoročno (config)" if goal == "dugorocno" else "")
+    goal = ex.goals.get(period) or lc.goal_for(period)
+    mode, mode_reason = goal, (("cilj: dugoročno" + (" (/cilj)" if period in ex.goals else " (config)"))
+                               if goal == "dugorocno" else "")
     if goal == "tjedan" and opp and my_proj - opp_proj <= mc.prag_izgubljen:
         mode = "dugorocno"
         mode_reason = f"tjedan je izgubljen (proj. {my_proj - opp_proj:+.0f}) → dugoročni način"
@@ -282,7 +338,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     # best single swap per free agent (for the "this week" list)
     if remaining:
         base_plan = planner.initial(list(ir_returns), to_ir)
-        probe = replace(planner, adds_left=1, mode="tjedan", protect=1e9, notes=[])
+        probe = replace(planner, adds_left=1, mode="tjedan", protect=mc.zastita_fp, notes=[])
         for mv, _ in probe.candidates(base_plan):
             fr = next((x for x in free if x.pid == mv.add), None)
             if fr is not None and (fr.best_gain is None or mv.gain > fr.best_gain):
@@ -305,12 +361,51 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
         alerts.append(f"⚠️ {n_c} centara na rosteru (limit {mc_})")
     infos += lg.roster_fixes
 
-    return Analysis(key=lg.key, label=lc.oznaka, name=lc.naziv, period=period, start_sp=start, end_sp=end,
-                    today_sp=today_sp, now=now, me=me, opp=opp, my_live=my_live, opp_live=opp_live, my_proj=my_proj,
-                    opp_proj=opp_proj, rows=rows, values=values, goal=goal, mode=mode, mode_reason=mode_reason,
-                    drops=drops, free=free, plan=plan, alerts=alerts, infos=infos, adds_used=adds_used,
-                    adds_limit=adds_limit, news=news, out_state=out_state, schedule=schedule,
-                    free_status=free_status)
+    a = Analysis(key=lg.key, label=lc.oznaka, name=lc.naziv, period=period, start_sp=start, end_sp=end,
+                 today_sp=today_sp, now=now, me=me, opp=opp, my_live=my_live, opp_live=opp_live, my_proj=my_proj,
+                 opp_proj=opp_proj, rows=rows, values=values, goal=goal, mode=mode, mode_reason=mode_reason,
+                 drops=drops, free=free, plan=plan, alerts=alerts, infos=infos, adds_used=adds_used,
+                 adds_limit=adds_limit, news=news, out_state=out_state, schedule=schedule,
+                 free_status=free_status, eng=eng, lg=lg, flags=flags, protect=mc.zastita_fp, planner=planner)
+
+    # ---- opponent and my own moves this week
+    if opp:
+        a.opp_adds_used = int(opp.adds_by_period.get(str(period), 0))
+    seen = set()
+    for t in sorted(ex.week_tx or lg.transactions, key=lambda t: t.date_ms or 0):
+        if t.id in seen or t.status != "EXECUTED" or not (t.adds or t.drops):
+            continue
+        if t.sp is not None and not (start <= t.sp <= end + 1):
+            continue
+        seen.add(t.id)
+        row = TxRow(sp=t.sp, team_id=t.team_id, adds=list(t.adds), drops=list(t.drops), date_ms=t.date_ms, id=t.id)
+        if opp and t.team_id == opp.id:
+            a.opp_moves.append(row)
+        elif t.team_id == me.id:
+            a.my_moves.append(row)
+
+    # ---- chance to win the week
+    if ex.simulate and opp and remaining:
+        sc = cfg.simulacija
+        slots = sum((lg.settings.slot_counts or {}).values()) or 10
+        mine = {d: my_ros for d in remaining}
+        theirs = {d: opp_ros for d in remaining}
+        a.win_prob = win_prob(eng, mine, theirs, my_live, opp_live, slots, sc.broj, sc.seed, sc.sd_udio)
+        if any(m.kind in (FA, WAIVER, IR_BACK, IR_IN) for m in plan):
+            a.win_prob_plan = win_prob(eng, planner.rosters(plan), theirs, my_live, opp_live, slots, sc.broj,
+                                       sc.seed, sc.sd_udio)
+        p = a.win_prob_plan if a.win_prob_plan is not None else a.win_prob
+        if goal == "tjedan" and p < sc.savjet_ispod:
+            a.prob_hint = f"šansa je ispod {round(sc.savjet_ispod * 100)} % → predlažem /cilj {lg.key} dugorocno"
+        elif goal == "tjedan" and p > sc.savjet_iznad:
+            a.prob_hint = (f"tjedan je siguran (iznad {round(sc.savjet_iznad * 100)} %) → može se gledati "
+                           f"dugoročno (/cilj {lg.key} dugorocno)")
+    elif not remaining and opp:
+        a.win_prob = 1.0 if my_live > opp_live else 0.0 if my_live < opp_live else 0.5
+
+    # ---- conditional steps for risky players in my lineup (today and tomorrow)
+    a.cond = conditional_steps(a, my_ros)
+    return a
 
 
 def _inj(s: str) -> str:
@@ -371,4 +466,100 @@ def lineup_alerts(eng: Engine, me: Team, today_sp: int, values: dict[int, Valued
     for b in ins:
         if b.player.id not in used:
             out.append(f"⚠️ {b.player.short} igra danas, a sjedi na klupi → stavi ga u postavu")
+    return out
+
+
+# ---------------------------------------------------------------------------------------------------------------
+def game_label(schedule: ProSchedule, pro_team_id: int, sp: int) -> tuple[str, dt.datetime | None]:
+    from .espn.maps import PRO_TEAM
+    g = schedule.game(pro_team_id, sp)
+    if not g:
+        return "", None
+    return f"{PRO_TEAM.get(g.away, '?')}–{PRO_TEAM.get(g.home, '?')}", g.start
+
+
+def days_text(a: Analysis, pid: int, from_sp: int, tonight: bool = True) -> str:
+    """'večeras, čet🔁, sub': his remaining open games from `from_sp` (🔁 = back-to-back)."""
+    eng = a.eng
+    out = []
+    for d in a.remaining:
+        if d < from_sp or not eng.plays(pid, d):
+            continue
+        lab = "večeras" if (tonight and d == a.today_sp) else DAY_SHORT[a.schedule.date(d).weekday()]
+        out.append(lab + ("🔁" if eng.b2b(pid, d) else ""))
+    return ", ".join(out)
+
+
+def if_out(a: Analysis, my_ros: set[int], pid: int, sp: int) -> tuple[str, int | None, int | None, float, list[int]]:
+    """What to do if `pid` is OUT on day `sp`: ('klupa', bench_pid, None, gain, []) /
+    ('zamjena', None, add_pid, gain, reserves) / ('nista', None, None, 0, [])."""
+    eng = a.eng
+    with_him = eng.opt(my_ros, sp)
+    without = eng.opt(my_ros - {pid}, sp)
+    if sp == a.today_sp:
+        # today's ESPN lineup is set: whoever sits on my bench with a game tonight takes his slot
+        active = {r.player.id for r in a.me.roster if r.slot in ACTIVE_SLOTS}
+        entering = [r.player.id for r in a.me.roster if r.slot == BENCH and r.player.id != pid
+                    and r.player.id in my_ros and eng.plays(r.player.id, sp)
+                    and (r.player.id not in with_him.starters or pid in active)]
+    else:
+        entering = [p for p in without.starters if p not in with_him.starters]
+    if entering:
+        b = max(entering, key=lambda p: eng.val(p, sp) or 0)
+        return "klupa", b, None, round(eng.val(b, sp) or 0, 1), []
+    if a.adds_used >= a.adds_limit:
+        return "nista", None, None, 0.0, []
+    me_long = a.values[pid].long
+    max_c = a.lg.settings.max_centers if a.lg else None
+    n_c = sum(1 for p in my_ros if a.values[p].player.is_center)
+    # if he's out on `sp`, what he still gives me later in the week stays on the "keep" side
+    keep = without.total + sum(eng.total(my_ros, d) for d in a.remaining if d > sp)
+    opts = []
+    for f in a.free:
+        if f.kind != "FREEAGENT" or f.avail > sp or not eng.plays(f.pid, sp):
+            continue
+        y = f.pid
+        if a.mode == "tjedan" and me_long > a.values[y].long + a.protect:
+            continue
+        if max_c is not None and a.values[y].player.is_center and not a.values[pid].player.is_center \
+                and n_c >= max_c:
+            continue
+        new = (my_ros - {pid}) | {y}
+        gain = sum(eng.total(new, d) for d in a.remaining if d >= sp) - keep
+        if gain > 0:
+            opts.append((gain, y))
+    opts.sort(reverse=True)
+    if not opts:
+        return "nista", None, None, 0.0, []
+    return "zamjena", None, opts[0][1], round(opts[0][0], 1), [y for _, y in opts[1:3]]
+
+
+def conditional_steps(a: Analysis, my_ros: set[int]) -> list[CondStep]:
+    if a.eng is None or not a.remaining:
+        return []
+    out = []
+    active = {r.player.id for r in a.me.roster if r.slot in ACTIVE_SLOTS}
+    for sp in (a.today_sp, a.today_sp + 1):
+        if sp not in a.remaining:
+            continue
+        for pid in sorted(my_ros):
+            v = a.values[pid]
+            p = v.player
+            if p.is_out or not a.schedule.open_game(p.pro_team_id, sp, a.now):
+                continue        # already OUT: lineup alerts cover him
+            flag = a.flags.get(pid)
+            if flag and flag[0] == "out" and sp == a.today_sp:
+                status, reason = "OUT", flag[1]
+            elif p.is_dtd:
+                status, reason = "DTD", flag[1] if flag else ""
+            elif flag and flag[0] == "upitan":
+                status, reason = "upitan", flag[1]
+            else:
+                continue
+            if sp == a.today_sp and pid not in active and pid not in a.eng.opt(my_ros, sp).starters:
+                continue        # sits anyway
+            action, bench, add, gain, res = if_out(a, my_ros, pid, sp)
+            game, start = game_label(a.schedule, p.pro_team_id, sp)
+            out.append(CondStep(pid=pid, sp=sp, status=status, reason=reason, game=game, start=start,
+                                action=action, bench=bench, add=add, gain=gain, reserves=res))
     return out

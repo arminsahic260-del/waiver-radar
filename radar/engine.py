@@ -1,10 +1,13 @@
-"""Per-day player values and a memoized lineup optimizer shared by the week analysis and the planner."""
+"""Per-day player values (value x p_play) and a memoized lineup optimizer shared by the week analysis, the planner
+and the win-probability simulation."""
 from __future__ import annotations
 
 import datetime as dt
 from dataclasses import dataclass, field
 from typing import Iterable
 
+from .availability import p_play
+from .config import PPlayCfg
 from .injuries import OutEntry
 from .lineup import Lineup, optimize
 from .schedule import ProSchedule
@@ -22,32 +25,45 @@ class Engine:
     slot_counts: dict[int, int]
     values: dict[int, Valued]
     out_state: dict[int, OutEntry] = field(default_factory=dict)
-    dtd_factor: float = 0.85
+    pcfg: PPlayCfg = field(default_factory=PPlayCfg)
+    flags: dict[int, tuple[str, str]] = field(default_factory=dict)   # pid -> ('upitan'|'out', news sentence)
+    ages: dict[int, int] = field(default_factory=dict)
     _memo: dict = field(default_factory=dict, repr=False)
     _val: dict = field(default_factory=dict, repr=False)
+    _p: dict = field(default_factory=dict, repr=False)
+
+    def p(self, pid: int, sp: int) -> float:
+        """p_play for `pid` on day `sp` (0 when there is no open game)."""
+        key = (pid, sp)
+        if key in self._p:
+            return self._p[key]
+        v = self.values.get(pid)
+        res = 0.0
+        if v is not None and self.schedule.open_game(v.player.pro_team_id, sp, self.now):
+            e = self.out_state.get(pid)
+            flag = self.flags.get(pid)
+            res = p_play(v.player, sp, self.today_sp, self.schedule, self.pcfg, flag[0] if flag else None,
+                         e.info.max_date if e else None, self.ages.get(pid))
+        self._p[key] = res
+        return res
 
     def val(self, pid: int, sp: int) -> float | None:
-        """Projected points for `pid` on day `sp`, or None if he won't play (no open game, OUT)."""
+        """Expected points for `pid` on day `sp` (value x p_play), or None if he won't play (no open game, OUT)."""
         key = (pid, sp)
         if key in self._val:
             return self._val[key]
-        v = self.values.get(pid)
-        res = None
-        if v is not None:
-            p = v.player
-            if self.schedule.open_game(p.pro_team_id, sp, self.now):
-                res = v.now
-                if p.is_out:
-                    e = self.out_state.get(pid)
-                    back = e.info.max_date if e else None
-                    res = v.now * 0.7 if back and self.schedule.date(sp) > back else None
-                elif p.is_dtd and sp <= self.today_sp + 1:
-                    res = v.now * self.dtd_factor
+        pp = self.p(pid, sp)
+        res = round(self.values[pid].now * pp, 3) if pp > 0 else None
         self._val[key] = res
         return res
 
     def plays(self, pid: int, sp: int) -> bool:
         return self.val(pid, sp) is not None
+
+    def b2b(self, pid: int, sp: int) -> bool:
+        v = self.values.get(pid)
+        return bool(v) and self.schedule.plays(v.player.pro_team_id, sp) and \
+            self.schedule.plays(v.player.pro_team_id, sp - 1)
 
     def opt(self, roster: Iterable[int], sp: int) -> Lineup:
         playing = frozenset(pid for pid in roster if self.plays(pid, sp))
@@ -64,3 +80,7 @@ class Engine:
 
     def week_total(self, roster_by_day: dict[int, set[int]]) -> float:
         return round(sum(self.total(r, d) for d, r in roster_by_day.items()), 2)
+
+    def expected(self, pid: int, from_sp: int | None = None) -> float:
+        """Expected FP over his remaining games this week (ignoring whether he'd make my lineup)."""
+        return round(sum(self.val(pid, d) or 0 for d in self.days if from_sp is None or d >= from_sp), 1)

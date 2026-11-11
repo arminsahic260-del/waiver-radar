@@ -184,3 +184,33 @@ def out_info(item: NewsItem) -> OutInfo | None:
             return OutInfo(since=pub, min_date=pub + dt.timedelta(days=14), max_date=pub + dt.timedelta(days=42),
                            text=sent, kind="indefinite")
     return None
+
+
+# ---------------------------------------------------------------------------------------------------------------
+_QUESTIONABLE = re.compile(r"\bquestionable\b|game-time decision|\bgtd\b|\bdoubtful\b|uncertain to play|"
+                           r"\bis uncertain\b|listed as (?:questionable|doubtful)|true game-time", re.I)
+_PLAYING = re.compile(r"\b(?:will play|is playing|plans to play|cleared to play|available to play|"
+                      r"will be available|is available|upgraded to (?:probable|available)|will suit up|"
+                      r"will start|in the starting lineup|will return|is set to return|has been cleared)\b", re.I)
+_RULED_OUT = re.compile(r"\b(?:ruled out|won't play|will not play|will miss|won't suit up|"
+                        r"has been downgraded to out|out for (?:tonight|today|wednesday|thursday|friday|saturday|"
+                        r"sunday|monday|tuesday)|will sit out|won't be available|will not be available)\b", re.I)
+
+
+def availability_flag(items: list[NewsItem], last_name: str, now: dt.datetime, hours: float = 24
+                      ) -> tuple[str, str] | None:
+    """('upitan' | 'out', sentence) from his newest news in the last `hours`; None if nothing or he's playing."""
+    cutoff = now - dt.timedelta(hours=hours)
+    for n in items:                      # newest first
+        if n.published < cutoff:
+            break
+        if n.published > now or not about_player(n, last_name):
+            continue
+        for sent in _sentences(n.text):
+            if _RULED_OUT.search(sent):
+                return "out", sent.strip()
+            if _PLAYING.search(sent) and not _QUESTIONABLE.search(sent):
+                return None
+            if _QUESTIONABLE.search(sent):
+                return "upitan", sent.strip()
+    return None

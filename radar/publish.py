@@ -30,11 +30,27 @@ def due_slot(cfg: Config, now: dt.datetime) -> str | None:
     return None
 
 
+def pc_is_fresh(cfg: Config, now: dt.datetime | None = None) -> str | None:
+    """Local time of the PC's last published data if it's recent (then GitHub Actions has nothing to do)."""
+    from .dashpub import fetch_generated
+    gen = fetch_generated(cfg.server.repo, cfg.server.podaci_grana)
+    if not gen:
+        return None
+    try:
+        t = dt.datetime.fromisoformat(gen.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    now = now or dt.datetime.now(dt.timezone.utc)
+    if now - t <= dt.timedelta(hours=cfg.server.pc_svjez_sati):
+        return t.astimezone(ZoneInfo(cfg.vremenska_zona)).strftime("%d.%m. %H:%M")
+    return None
+
+
 def publish(cfg: Config, client, now: dt.datetime, telegram_mode: str = "auto", out_dir: Path = SITE_DATA,
             state_path: Path = STATE) -> int:
     res = run(cfg, client, now, state_path=state_path)
     slot = due_slot(cfg, now)
-    text = full_report(res.analyses, res.errors, cfg.dashboard_url, cfg.vremenska_zona)
+    text = full_report(res.analyses, res.errors, cfg.dashboard_url, cfg.vremenska_zona, now)
     out = out_dir / "radar.json"
     try:
         previous = json.loads(out.read_text(encoding="utf-8"))
@@ -52,6 +68,7 @@ def publish(cfg: Config, client, now: dt.datetime, telegram_mode: str = "auto", 
     local_day = now.astimezone(ZoneInfo(cfg.vremenska_zona)).date().isoformat()
     send = telegram_mode == "uvijek" or (telegram_mode == "auto" and slot and sent.get(slot) != local_day)
     if send:
+        text = "⚠️ PC radar se ne javlja, ovo je rezervni izvještaj s GitHuba (bez alarma).\n\n" + text
         if telegram.send(text):
             if slot:
                 sent[slot] = local_day

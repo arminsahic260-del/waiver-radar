@@ -29,6 +29,7 @@ class Move:
     gain: float = 0.0          # projected FP to Sunday vs. the plan without this move
     long_gain: float = 0.0     # value_long(add) - value_long(drop)
     forced: bool = False
+    reserves: list[int] = field(default_factory=list)   # next best adds for the same drop (if the target goes)
 
 
 @dataclass
@@ -226,6 +227,28 @@ class Planner:
                     out.append((best, plan + [best]))
         return out
 
+    def alternatives(self, plan: list[Move], move: Move, n: int = 3) -> list[int]:
+        """Reserves for `move`: the best other adds for the same drop (any day), best first."""
+        if move.kind not in (FA, WAIVER):
+            return []
+        rest = [m for m in plan if m is not move]
+        long_mode = self.mode == "dugorocno"
+        best: dict[int, Move] = {}
+        for mv, trial in self.candidates(rest):
+            if mv.add == move.add or mv.drop != move.drop:
+                continue
+            score = mv.long_gain if long_mode else mv.gain
+            if score <= 0 or (long_mode and mv.long_gain < self.min_long_gain):
+                continue
+            if not self.valid(trial):
+                continue
+            old = best.get(mv.add)
+            if old is None or score > (old.long_gain if long_mode else old.gain):
+                best[mv.add] = mv
+        ranked = sorted(best.values(), key=lambda m: (m.long_gain, m.gain) if long_mode else (m.gain, m.long_gain),
+                        reverse=True)
+        return [m.add for m in ranked[:n]]
+
     def _early(self, t: int) -> bool:
         return self.reserve_from is not None and t < self.reserve_from
 
@@ -256,4 +279,6 @@ class Planner:
             plan = picked
             long_moves += self.mode == "dugorocno"
             adds -= 1
+        for m in plan:
+            m.reserves = self.alternatives(plan, m)
         return sorted(plan, key=lambda m: (m.t, 0 if m.forced else 1, -m.gain))

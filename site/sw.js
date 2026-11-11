@@ -1,10 +1,10 @@
 // Waiver Radar 2 service worker.
 // - page (navigation): network-first, cached copy when offline
-// - data/*.json: cache-first; refreshed in the background, and open pages get a "data-updated" message when
-//   the snapshot actually changed, so they re-render without a reload
+// - data/*.json and the PC's radar.json (raw.githubusercontent.com, branch `podaci`): cache-first; refreshed in the
+//   background, and open pages get a "data-updated" message when the snapshot actually changed
 // - other same-origin files and Google Fonts: served from cache, refreshed in the background
 // Cache writes are best-effort: a full or unavailable cache must never turn a good network response into an error.
-const VERSION = "v2-1";
+const VERSION = "v2-2";
 const SHELL = `wr2-shell-${VERSION}`;
 const DATA = "wr2-data";
 const FONTS = "wr2-fonts";
@@ -38,7 +38,8 @@ self.addEventListener("fetch", (event) => {
   const req = event.request;
   if (req.method !== "GET") return;
   const url = new URL(req.url);
-  if (url.origin === location.origin && /\/data\/[^/]+\.json$/.test(url.pathname)) {
+  const pcData = url.hostname === "raw.githubusercontent.com" && url.pathname.endsWith("/radar.json");
+  if (pcData || (url.origin === location.origin && /\/data\/[^/]+\.json$/.test(url.pathname))) {
     event.respondWith(dataFirst(event, url));
   } else if (req.mode === "navigate") {
     event.respondWith(pageNetworkFirst(req));

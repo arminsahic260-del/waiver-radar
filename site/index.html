@@ -154,6 +154,19 @@ tr.zero td{background:color-mix(in srgb,var(--out-bg) 45%,transparent)}
 .empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:20px 16px;color:var(--muted)}
 .empty strong{color:var(--fg)}
 .foot{margin-top:28px;font-size:12px;color:var(--muted);line-height:1.6}
+.prob{display:flex;align-items:baseline;justify-content:center;gap:4px 10px;flex-wrap:wrap;margin-top:8px}
+.prob .big{font-family:var(--display);font-size:30px;font-weight:700;line-height:1}
+.prob .big.good{color:var(--ok)}.prob .big.bad{color:var(--out)}
+.prob .lab{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.bar{height:6px;border-radius:3px;background:var(--surface-2);overflow:hidden;margin-top:6px}
+.bar > span{display:block;height:100%;background:var(--ok)}
+.up{color:var(--ok);font-weight:700}.down{color:var(--out);font-weight:700}
+.alarm{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;padding:8px 0;border-top:1px solid var(--line);font-size:14px}
+.alarm:first-child{border-top:0}
+.alarm time{font-size:12px;color:var(--muted);white-space:nowrap;padding-top:2px}
+.alarm .txt{white-space:pre-wrap;overflow-wrap:anywhere;min-width:0}
+.alarm.muted .txt{color:var(--muted)}
+td.pos{color:var(--ok)}td.neg{color:var(--out)}
 .warn{color:var(--gtd)}
 pre.report{white-space:pre-wrap;font-family:var(--body);font-size:14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin:0}
 details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6px}
@@ -172,6 +185,8 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     <button class="tab" role="tab" id="t-uzmi" aria-controls="p-uzmi" data-tab="uzmi">Za uzeti<span class="cnt num" id="c-uzmi" hidden></span></button>
     <button class="tab" role="tab" id="t-plan" aria-controls="p-plan" data-tab="plan">Plan</button>
     <button class="tab" role="tab" id="t-ozljede" aria-controls="p-ozljede" data-tab="ozljede">Ozljede/vijesti</button>
+    <button class="tab" role="tab" id="t-alarmi" aria-controls="p-alarmi" data-tab="alarmi">Alarmi<span class="cnt num" id="c-alarmi" hidden></span></button>
+    <button class="tab" role="tab" id="t-povijest" aria-controls="p-povijest" data-tab="povijest">Povijest</button>
   </div>
 </div></header>
 
@@ -196,8 +211,10 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   </section>
   <section role="tabpanel" id="p-plan" aria-labelledby="t-plan" hidden></section>
   <section role="tabpanel" id="p-ozljede" aria-labelledby="t-ozljede" hidden></section>
+  <section role="tabpanel" id="p-alarmi" aria-labelledby="t-alarmi" hidden></section>
+  <section role="tabpanel" id="p-povijest" aria-labelledby="t-povijest" hidden></section>
 
-  <p class="foot" id="foot">Podaci: ESPN Fantasy (rosteri, rezultat, raspored, vijesti). Izvještaj se radi u 08:30 i 21:30; aplikacija samo predlaže, izmjene radiš sam na ESPN-u.</p>
+  <p class="foot" id="foot">Podaci: ESPN Fantasy (rosteri, rezultat, raspored, vijesti). Radar na PC-u provjerava svakih 10–15 min i šalje alarme na Telegram; izvještaj u 08:30 i 21:30. Aplikacija samo predlaže, izmjene radiš sam na ESPN-u.</p>
 </main>
 
 <script>
@@ -213,7 +230,9 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   const ago=iso=>{const m=Math.max(0,Math.round((Date.now()-new Date(iso).getTime())/60000));if(m<1)return"upravo";if(m<60)return`prije ${m} min`;const h=Math.floor(m/60);if(h<24)return`prije ${h} h`;const d=Math.floor(h/24);return`prije ${d} ${d===1?"dan":"dana"}`;};
   const fmtDate=iso=>{try{const d=new Date(iso);return d.toLocaleString("hr-HR",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"});}catch(e){return iso;}};
 
-  const TABS=["pregled","raspored","baci","uzmi","plan","ozljede"];
+  const TABS=["pregled","raspored","baci","uzmi","plan","ozljede","alarmi","povijest"];
+  const pct=x=>x==null?"—":Math.round(x*100)+" %";
+  const trendHtml=p=>p.trend==="↑"?`<span class="up" title="minute zadnjih 3/5 utakmica iznad prosjeka sezone (${sgn(p.trend_delta)})">↑</span>`:p.trend==="↓"?`<span class="down" title="minute ispod prosjeka sezone (${sgn(p.trend_delta)})">↓</span>`:"";
   const S={data:null,tab:"pregled",league:null,baci:"tjedan",uzmi:"tjedan",theme:"auto"};
   S.tab=safe(()=>localStorage.getItem("wr2.tab"))||S.tab;
   S.league=safe(()=>localStorage.getItem("wr2.league"));
@@ -268,8 +287,11 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
             <div class="proj">proj. <b class="num">${f0(s.proj_me)}</b></div><div></div><div class="proj">proj. <b class="num">${f0(s.proj_opp)}</b></div>
           </div>
           <div class="verdict ${win?"win":"lose"}">${win?"✅ vodiš u projekciji":"❌ gubiš u projekciji"} (${sgn(s.proj_me-s.proj_opp)})</div>
-          <dl class="counts">${cnt(today,"Danas ti : oni")}${cnt(tmr,"Sutra ti : oni")}<div><dt>Preuzimanja</dt><dd class="num">${L.adds.used}/${L.adds.limit}</dd></div></dl>
+          ${L.win_prob!=null?`<div class="prob"><span class="lab">Šansa za pobjedu</span><span class="big num ${L.win_prob>=.5?"good":"bad"}">${pct(L.win_prob)}</span>${L.win_prob_plan!=null?`<span class="meta">s planom <b class="num">${pct(L.win_prob_plan)}</b></span>`:""}</div><div class="bar" aria-hidden="true"><span style="width:${Math.round(L.win_prob*100)}%"></span></div>`:""}
+          <dl class="counts">${cnt(today,"Danas ti : oni")}${cnt(tmr,"Sutra ti : oni")}<div><dt>Preuzimanja</dt><dd class="num">${L.adds.used}/${L.adds.limit}${L.adds.opp_used!=null&&L.opp?` <small class="meta">· opp ${L.adds.opp_used}</small>`:""}</dd></div></dl>
+          ${L.prob_hint?`<div class="alert tip">💡 ${esc(L.prob_hint)}</div>`:""}
           ${L.mode_reason?`<div class="alert mode">📉 ${esc(L.mode_reason)}</div>`:""}
+          ${(L.opp_moves||[]).length?`<p class="meta" style="margin:8px 0 0">Protivnik ovaj tjedan: ${L.opp_moves.map(m=>esc([(m.day||""),m.adds.length?"+"+m.adds.join(", "):"",m.drops.length?"−"+m.drops.join(", "):""].filter(Boolean).join(" "))).join(" · ")}</p>`:""}
           ${(L.alerts||[]).map(a=>`<div class="${alertCls(a)}">${esc(a)}</div>`).join("")}
           ${hot.length?`<ul class="plain">${hot.map(p=>`<li>🔥 <b>${esc(p.name)}</b> (${esc(p.team)}${p.status==="WAIVER"?", waiver do "+esc(p.waiver_until):""}) — ${esc((p.signals||[]).map(s=>s.text).join(", "))}${p.last?`, zadnja: ${esc(p.last.line)}`:""}</li>`).join("")}</ul>`:""}
           ${(L.plan||[]).length?`<div style="margin-top:8px">${L.plan.map(stepHtml).join("")}</div>`:`<p class="meta" style="margin:10px 0 0">Plan: nema izmjene koja se isplati.</p>`}
@@ -281,7 +303,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     const c=$("c-pregled");c.hidden=!warn;c.textContent=warn;c.classList.toggle("warn",!!warn);
   }
   function stepHtml(m){
-    const t=m.text.replace(/^[^:]+:\s*/,"");
+    const t=m.body!=null?m.body:m.text.replace(/^[^:]+:\s*/,"");
     return `<div class="step"><span class="when">${esc(m.when)}</span><span class="txt">${esc(t)}</span></div>`;
   }
 
@@ -289,8 +311,8 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   function renderRaspored(){
     const el=$("p-raspored");const L=cur();
     if(!L){el.innerHTML=`<div class="empty">Nema podataka za ligu.</div>`;return;}
-    const names=td=>td?td.players.map(p=>`<span class="${p.dtd?"dtd":""}">${esc(p.short)}${p.dtd?"*":""}</span>`).join(", ")+(td.extra.length?` · <span class="extra">višak: ${td.extra.map(x=>esc(x.short)).join(", ")}</span>`:""):"";
-    el.innerHTML=`<p class="meta" style="margin:0 0 10px">${esc(L.me.name)} vs ${esc(L.opp?L.opp.name:"—")} · najbolja postava po danu (s pozicijama, najviše 10). * = day-to-day; OUT i IR se ne broje.</p>
+    const names=td=>td?td.players.map(p=>`<span class="${p.dtd?"dtd":""}">${esc(p.short)}${p.dtd?"*":""}${p.b2b?"🔁":""}</span>`).join(", ")+(td.extra.length?` · <span class="extra">višak: ${td.extra.map(x=>esc(x.short)).join(", ")}</span>`:""):"";
+    el.innerHTML=`<p class="meta" style="margin:0 0 10px">${esc(L.me.name)} vs ${esc(L.opp?L.opp.name:"—")} · najbolja postava po danu (s pozicijama, najviše 10). * = day-to-day, 🔁 = back-to-back (tim je igrao dan prije); OUT i IR se ne broje. Bodovi su očekivani: vrijednost × vjerojatnost da igra.</p>
       <div class="days">${(L.days||[]).map(d=>{
         const label=`${d.dow} ${d.date}${d.today?" · danas":d.label==="sutra"?" · sutra":""}`;
         if(d.past)return `<div class="day past"><div class="day-head"><span>${esc(label)}</span><span class="meta">odigrano</span></div>
@@ -308,7 +330,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     if(!L){el.innerHTML=`<div class="empty">Nema podataka za ligu.</div>`;return;}
     const rows=[...(L.drops||[])].sort(S.baci==="tjedan"?(a,b)=>a.loss-b.loss||a.long-b.long:(a,b)=>a.long-b.long);
     el.innerHTML=`<div class="tablewrap"><table><thead><tr><th>Igrač</th><th title="Projicirani FP koje gubiš do nedjelje ako ga baciš danas">Gubitak</th><th title="Dana u najboljoj postavi / utakmica do nedjelje">U postavi</th><th title="value_long: FP po utakmici dugoročno">Dugo</th><th title="value_now">Sada</th></tr></thead>
-      <tbody>${rows.map(p=>`<tr class="${p.loss<=0.05?"zero":""}"><td><b>${esc(p.name)}</b> ${hotPill(p)}${inj(p)}<span class="sub">${esc(p.slot)} · ${esc(p.team)} · ${esc(p.pos)} · igra: ${esc(days(p))}</span></td>
+      <tbody>${rows.map(p=>`<tr class="${p.loss<=0.05?"zero":""}"><td><b>${esc(p.name)}</b> ${trendHtml(p)} ${hotPill(p)}${inj(p)}<span class="sub">${esc(p.slot)} · ${esc(p.team)} · ${esc(p.pos)} · igra: ${esc(days(p))}</span></td>
         <td class="n num">${f1(p.loss)}</td><td class="n num">${p.in_lineup}/${p.games}</td><td class="n num">${f1(p.long)}</td><td class="n num">${f1(p.now)}</td></tr>`).join("")}</tbody></table></div>
       <p class="meta">Gubitak = koliko projiciranih bodova do nedjelje izgubiš ako ga baciš danas (računa tko bi ga zamijenio u postavi). Crveno = 0: ne igra ili je višak, kandidat za bacanje. Dugoročno sortira po value_long (0,35 sezona + 0,30 zadnjih 7 + 0,35 projekcija).</p>`;
   }
@@ -328,10 +350,10 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
       return `<article class="card ${p.hot?"hot":""}">${head(p,st)}
         <p class="meta" style="margin:6px 0 0">igra: <b>${esc(days(p))}</b></p>${gain}
         ${(p.signals||[]).length||p.last?`<ul class="why">${reasons(p)}</ul>`:""}
-        <dl class="kv"><div><dt>Min sez./z3</dt><dd class="num">${f0(p.mpg)}<small> / </small>${f0(p.mpg3)}</dd></div>
+        <dl class="kv"><div><dt>Min sez./z5</dt><dd class="num">${f0(p.mpg)}<small> / </small>${f0(p.mpg5!=null?p.mpg5:p.mpg3)}${trendHtml(p)}</dd></div>
           <div><dt>Prosjek</dt><dd class="num">${f1(p.avg)}<small> ${p.gp} utk.</small></dd></div>
           <div><dt>Zadnjih 7</dt><dd class="num">${f1(p.last7)}</dd></div>
-          <div><dt>Projekcija</dt><dd class="num">${f1(p.proj)}</dd></div>
+          <div><dt>Projekcija</dt><dd class="num">${p.noproj?`<small>nema</small>`:f1(p.proj)}</dd></div>
           <div><dt>Sada / dugo</dt><dd class="num">${f1(p.now)}<small> / ${f1(p.long)}</small></dd></div>
           <div><dt>Vlasništvo</dt><dd class="num">${own}</dd></div></dl>
       </article>`;}).join("")}</div>
@@ -348,7 +370,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
       (L.plan||[]).forEach(m=>{let g=groups.find(x=>x.when===m.when);if(!g){g={when:m.when,items:[]};groups.push(g);}g.items.push(m);});
       return `<div class="league"><h2>${esc(L.label)}<small>preuzimanja ${L.adds.used}/${L.adds.limit} · način: ${L.mode==="dugorocno"?"dugoročno":"ovaj tjedan"}</small></h2>
         <div class="card">${L.mode_reason?`<div class="alert mode" style="margin:0 0 8px">📉 ${esc(L.mode_reason)}</div>`:""}
-        ${groups.length?groups.map(g=>`<h3 style="font-size:18px;margin:6px 0 2px;color:var(--accent)">${esc(g.when)}</h3><ul class="plain">${g.items.map(m=>`<li>${esc(m.text.replace(/^[^:]+:\s*/,""))}</li>`).join("")}</ul>`).join("")
+        ${groups.length?groups.map(g=>`<h3 style="font-size:18px;margin:6px 0 2px;color:var(--accent)">${esc(g.when)}</h3><ul class="plain">${g.items.map(m=>`<li>${esc(m.body!=null?m.body:m.text.replace(/^[^:]+:\s*/,""))}</li>`).join("")}</ul>`).join("")
           :`<p class="meta" style="margin:0">Nema izmjene koja se isplati${L.adds.used>=L.adds.limit?" (iskorištena sva preuzimanja)":""}.</p>`}
         ${(L.infos||[]).length?`<p class="meta" style="margin:10px 0 0">${(L.infos||[]).map(esc).join(" · ")}</p>`:""}</div></div>`;
     }).join("")+`<p class="meta">DANAS = slobodnog igrača uzmi odmah (bačeni gubi današnju utakmicu ako je još nije odigrao). SUTRA/DAN UJUTRO = napravi to jutro, bačeni još igra do tada. Claim prolazi u vrijeme obrade waivera; bačeni igra do tada. Jedno preuzimanje se čuva za ozljede do subote.</p>`;
@@ -366,10 +388,38 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     el.innerHTML=block("me","Moji igrači · "+L.me.name)+block("opp","Protivnik · "+(L.opp?L.opp.name:"—"));
   }
 
+  // ---------- Alarmi (zadnjih 50)
+  function renderAlarmi(){
+    const el=$("p-alarmi");
+    const list=(S.data&&S.data.alarms)||[];
+    const day=Date.now()-24*3600e3;
+    const n=list.filter(a=>new Date(a.ts).getTime()>day).length;
+    const c=$("c-alarmi");c.hidden=!n;c.textContent=n;
+    if(!S.data){el.innerHTML=`<div class="empty">Podaci se učitavaju…</div>`;return;}
+    if(!list.length){el.innerHTML=`<div class="empty"><strong>Još nema alarma.</strong> Alarmi dolaze s radara na PC-u (python -m radar serve): bačeni jaki igrači, novi 🔥, otišli ciljevi iz plana, promjene statusa, provjera 60 i 30 min prije utakmica.</div>`;return;}
+    el.innerHTML=`<div class="card">${list.map(a=>`<div class="alarm ${a.sent===2?"muted":""}"><time datetime="${esc(a.ts)}">${esc(fmtDate(a.ts))}${a.sent===2?" 🔕":a.sent===0?" ⏳":""}</time><span class="txt">${esc(a.text)}</span></div>`).join("")}</div>
+      <p class="meta">Zadnjih 50 alarma. 🔕 = stigao za vrijeme /tisina (nije poslan), ⏳ = čeka slanje na Telegram.</p>`;
+  }
+
+  // ---------- Povijest preporuka
+  function renderPovijest(){
+    const el=$("p-povijest");
+    const list=(S.data&&S.data.history)||[];
+    if(!S.data){el.innerHTML=`<div class="empty">Podaci se učitavaju…</div>`;return;}
+    if(!list.length){el.innerHTML=`<div class="empty"><strong>Još nema zapisanih preporuka.</strong> Radar na PC-u zapisuje svaku preporuku (baci X / uzmi Y), je li napravljena i koliko je stvarno donijela do kraja tog tjedna.</div>`;return;}
+    const done=list.filter(r=>r.executed&&r.actual!=null);
+    const sumE=done.reduce((s,r)=>s+(r.expected||0),0),sumA=done.reduce((s,r)=>s+(r.actual||0),0);
+    el.innerHTML=`${done.length?`<p class="meta" style="margin:0 0 10px">Napravljene preporuke (${done.length}): očekivano <b>${sgn(sumE)}</b>, stvarno <b>${sgn(sumA)}</b> FP.</p>`:""}
+      <div class="tablewrap"><table><thead><tr><th>Preporuka</th><th title="Očekivani dobitak do nedjelje">Očekivano</th><th title="Bodovi dodanog minus bodovi bačenog od dana izmjene do nedjelje">Stvarno</th><th>Napravio</th></tr></thead>
+      <tbody>${list.map(r=>`<tr><td><b>${esc(r.add||"?")}</b> za ${esc(r.drop||"slobodno mjesto")}<span class="sub">${esc(r.league)} · tjedan ${r.period} · ${esc(fmtDate(r.ts))}${r.kind==="WAIVER"?" · claim":""}</span></td>
+        <td class="n num">${sgn(r.expected)}</td><td class="n num ${r.actual==null?"":r.actual>=0?"pos":"neg"}">${r.actual==null?"—":sgn(r.actual)}${r.actual!=null&&!r.final?"<small>*</small>":""}</td><td class="n">${r.executed?"✅":"—"}</td></tr>`).join("")}</tbody></table></div>
+      <p class="meta">Stvarno = bodovi dodanog minus bodovi bačenog igrača od dana izmjene do kraja tog tjedna (računa se i za preporuke koje nisi napravio, da se vidi koliko model pogađa). * = tjedan još traje.</p>`;
+  }
+
   // ---------- chrome
   function renderChips(){
     const el=$("league-chips");const Ls=leagues();
-    const show=Ls.length>1&&S.tab!=="pregled"&&S.tab!=="plan";
+    const show=Ls.length>1&&!["pregled","plan","alarmi","povijest"].includes(S.tab);
     el.hidden=!show;
     el.innerHTML=Ls.map(L=>`<button class="chip" type="button" aria-pressed="${(cur()||{}).key===L.key}" data-league="${esc(L.key)}">${esc(L.label)}</button>`).join("");
   }
@@ -377,16 +427,16 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     const dot=$("dot");dot.className="dot";
     if(!S.data||!S.data.generated){$("stamp").textContent=navigator.onLine?"Čekam podatke…":"offline";return;}
     const age=Date.now()-new Date(S.data.generated).getTime();
-    dot.classList.add(!navigator.onLine?"off":age>14*3600e3?"stale":"live");
-    $("stamp").textContent=`Ažurirano ${ago(S.data.generated)}`+(navigator.onLine?"":" · offline");
+    dot.classList.add(!navigator.onLine?"off":age>3*3600e3?"stale":"live");
+    $("stamp").textContent=`Ažurirano ${ago(S.data.generated)}`+(S.data.source==="pc"?" · PC":" · GitHub")+(navigator.onLine?"":" · offline");
     $("stamp").title=S.data.generated_local||"";
   }
-  function renderAll(){renderStamp();renderChips();renderPregled();renderRaspored();renderBaci();renderUzmi();renderPlan();renderOzljede();}
+  function renderAll(){renderStamp();renderChips();renderPregled();renderRaspored();renderBaci();renderUzmi();renderPlan();renderOzljede();renderAlarmi();renderPovijest();}
 
   function showTab(name,focus){
     if(!TABS.includes(name))name="pregled";
     S.tab=name;
-    document.querySelectorAll(".tab").forEach(b=>{const on=b.dataset.tab===name;b.setAttribute("aria-selected",String(on));b.tabIndex=on?0:-1;if(on&&focus)b.focus();});
+    document.querySelectorAll(".tab").forEach(b=>{const on=b.dataset.tab===name;b.setAttribute("aria-selected",String(on));b.tabIndex=on?0:-1;if(on&&focus)b.focus();if(on)safe(()=>b.scrollIntoView({block:"nearest",inline:"nearest"}));});
     TABS.forEach(n=>{$("p-"+n).hidden=n!==name;});
     safe(()=>localStorage.setItem("wr2.tab",name));
     renderChips();
@@ -408,18 +458,31 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   showTab((location.hash||"").slice(1)||S.tab);
   renderAll();
 
-  // ---------- data
+  // ---------- data: the PC publishes every 10-15 min to the `podaci` branch; GitHub Pages has the fallback copy.
+  // Whichever is newer wins.
+  function remoteUrl(){
+    const h=location.hostname,seg=location.pathname.split("/").filter(Boolean)[0];
+    const owner=h.endsWith(".github.io")?h.split(".")[0]:"arminsahic260-del";
+    const repo=h.endsWith(".github.io")&&seg?seg:"waiver-radar";
+    return `https://raw.githubusercontent.com/${owner}/${repo}/podaci/radar.json`;
+  }
+  const getJson=url=>fetch(url,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();});
   let loading=null;
   function load(){
     if(loading)return loading;
-    loading=fetch("data/radar.json",{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();})
-      .then(d=>{S.data=d;renderAll();})
+    loading=Promise.allSettled([getJson("data/radar.json"),getJson(remoteUrl())]).then(rs=>{
+      const ds=rs.filter(r=>r.status==="fulfilled"&&r.value&&r.value.generated).map(r=>r.value);
+      if(!ds.length)throw new Error("nema podataka");
+      ds.sort((a,b)=>new Date(b.generated)-new Date(a.generated));
+      S.data=ds[0];renderAll();
+    })
       .catch(e=>{console.warn("radar.json",e);if(!S.data)$("stamp").textContent="Podaci nisu dostupni (offline?)";})
       .finally(()=>{loading=null;});
     return loading;
   }
   load();
   setInterval(renderStamp,60e3);
+  setInterval(()=>{if(!document.hidden)load();},5*60e3);
   document.addEventListener("visibilitychange",()=>{if(!document.hidden)load();});
   addEventListener("online",()=>{renderStamp();load();});
   addEventListener("offline",renderStamp);

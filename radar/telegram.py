@@ -57,3 +57,52 @@ def send(text: str) -> bool:
             log.warning("Telegram: %s", type(e).__name__)
             ok = False
     return ok
+
+
+def _api(method: str) -> str | None:
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    return f"https://api.telegram.org/bot{token}/{method}" if token else None
+
+
+def chat_id() -> str | None:
+    return os.environ.get("TELEGRAM_CHAT_ID") or None
+
+
+def get_updates(offset: int | None, timeout: int = 25) -> list[dict]:
+    """Long polling: waits up to `timeout` seconds for new messages. [] on any error (logged without the token)."""
+    url = _api("getUpdates")
+    if not url:
+        return []
+    params = {"timeout": timeout, "allowed_updates": '["message"]'}
+    if offset is not None:
+        params["offset"] = offset
+    try:
+        r = requests.get(url, params=params, timeout=timeout + 15)
+        if r.status_code != 200:
+            log.warning("Telegram getUpdates: HTTP %s", r.status_code)
+            return []
+        return r.json().get("result") or []
+    except (requests.RequestException, ValueError) as e:
+        log.warning("Telegram getUpdates: %s", type(e).__name__)
+        return []
+
+
+def delete_webhook() -> None:
+    """Long polling doesn't work while a webhook is set."""
+    url = _api("deleteWebhook")
+    if url:
+        try:
+            requests.post(url, timeout=20)
+        except requests.RequestException:
+            pass
+
+
+def get_me() -> dict | None:
+    url = _api("getMe")
+    if not url:
+        return None
+    try:
+        r = requests.get(url, timeout=20)
+        return r.json().get("result") if r.status_code == 200 else None
+    except (requests.RequestException, ValueError):
+        return None
