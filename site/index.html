@@ -167,6 +167,8 @@ tr.zero td{background:color-mix(in srgb,var(--out-bg) 45%,transparent)}
 .alarm .txt{white-space:pre-wrap;overflow-wrap:anywhere;min-width:0}
 .alarm.muted .txt{color:var(--muted)}
 td.pos{color:var(--ok)}td.neg{color:var(--out)}
+th.on{color:var(--accent)}
+.rk{display:inline-block;min-width:1.7em;color:var(--muted);font-family:var(--display);font-weight:600}
 .warn{color:var(--gtd)}
 pre.report{white-space:pre-wrap;font-family:var(--body);font-size:14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin:0}
 details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6px}
@@ -180,6 +182,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   </div>
   <div class="tabs" role="tablist" aria-label="Sekcije">
     <button class="tab" role="tab" id="t-pregled" aria-controls="p-pregled" data-tab="pregled">Pregled<span class="cnt num" id="c-pregled" hidden></span></button>
+    <button class="tab" role="tab" id="t-moji" aria-controls="p-moji" data-tab="moji">Moji igrači</button>
     <button class="tab" role="tab" id="t-raspored" aria-controls="p-raspored" data-tab="raspored">Raspored</button>
     <button class="tab" role="tab" id="t-baci" aria-controls="p-baci" data-tab="baci">Za bacanje</button>
     <button class="tab" role="tab" id="t-uzmi" aria-controls="p-uzmi" data-tab="uzmi">Za uzeti<span class="cnt num" id="c-uzmi" hidden></span></button>
@@ -194,6 +197,15 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   <div class="chips" id="league-chips" aria-label="Liga" hidden></div>
 
   <section role="tabpanel" id="p-pregled" aria-labelledby="t-pregled"></section>
+  <section role="tabpanel" id="p-moji" aria-labelledby="t-moji" hidden>
+    <div class="chips" id="moji-chips" aria-label="Poredaj po">
+      <button class="chip" type="button" aria-pressed="true" data-v="avg">Prosjek</button>
+      <button class="chip" type="button" aria-pressed="false" data-v="last7">Zadnjih 7 dana</button>
+      <button class="chip" type="button" aria-pressed="false" data-v="now">Sada</button>
+      <button class="chip" type="button" aria-pressed="false" data-v="long">Dugoročno</button>
+    </div>
+    <div id="moji-body"></div>
+  </section>
   <section role="tabpanel" id="p-raspored" aria-labelledby="t-raspored" hidden></section>
   <section role="tabpanel" id="p-baci" aria-labelledby="t-baci" hidden>
     <div class="chips" id="baci-chips">
@@ -230,10 +242,10 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   const ago=iso=>{const m=Math.max(0,Math.round((Date.now()-new Date(iso).getTime())/60000));if(m<1)return"upravo";if(m<60)return`prije ${m} min`;const h=Math.floor(m/60);if(h<24)return`prije ${h} h`;const d=Math.floor(h/24);return`prije ${d} ${d===1?"dan":"dana"}`;};
   const fmtDate=iso=>{try{const d=new Date(iso);return d.toLocaleString("hr-HR",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"});}catch(e){return iso;}};
 
-  const TABS=["pregled","raspored","baci","uzmi","plan","ozljede","alarmi","povijest"];
+  const TABS=["pregled","moji","raspored","baci","uzmi","plan","ozljede","alarmi","povijest"];
   const pct=x=>x==null?"—":Math.round(x*100)+" %";
   const trendHtml=p=>p.trend==="↑"?`<span class="up" title="minute zadnjih 3/5 utakmica iznad prosjeka sezone (${sgn(p.trend_delta)})">↑</span>`:p.trend==="↓"?`<span class="down" title="minute ispod prosjeka sezone (${sgn(p.trend_delta)})">↓</span>`:"";
-  const S={data:null,tab:"pregled",league:null,baci:"tjedan",uzmi:"tjedan",theme:"auto"};
+  const S={data:null,tab:"pregled",league:null,moji:"avg",baci:"tjedan",uzmi:"tjedan",theme:"auto"};
   S.tab=safe(()=>localStorage.getItem("wr2.tab"))||S.tab;
   S.league=safe(()=>localStorage.getItem("wr2.league"));
   S.theme=safe(()=>localStorage.getItem("wr2.theme"))||"auto";
@@ -305,6 +317,23 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   function stepHtml(m){
     const t=m.body!=null?m.body:m.text.replace(/^[^:]+:\s*/,"");
     return `<div class="step"><span class="when">${esc(m.when)}</span><span class="txt">${esc(t)}</span></div>`;
+  }
+
+  // ---------- Moji igrači: my roster by FP per game (like v1's "Prosjek sezone"), other sort keys via chips
+  const MOJI_COLS=[["avg","Prosjek","Fantasy bodovi po utakmici ove sezone"],["last7","Z7","Prosjek zadnjih 7 dana"],
+    ["now","Sada","Radarova vrijednost za ovaj tjedan"],["long","Dugo","Radarova dugoročna vrijednost"]];
+  function renderMoji(){
+    const el=$("moji-body");const L=cur();
+    if(!L){el.innerHTML=`<div class="empty">Nema podataka za ligu.</div>`;return;}
+    const ps=L.roster_me||[];
+    if(!ps.length){el.innerHTML=`<div class="empty">Nema rostera za ovu ligu.</div>`;return;}
+    const k=S.moji,val=(p,key)=>p[key]==null?-1:+p[key];
+    const rows=[...ps].sort((a,b)=>val(b,k)-val(a,k)||val(b,"avg")-val(a,"avg"));
+    el.innerHTML=`<p class="meta" style="margin:0 0 10px">${esc(L.me.name)} · ${ps.length} ${plural(ps.length,"igrač","igrača","igrača")}</p>
+      <div class="tablewrap"><table><thead><tr><th>Igrač</th>${MOJI_COLS.map(([c,lab,t])=>`<th class="${c===k?"on":""}" title="${esc(t)}">${lab}</th>`).join("")}</tr></thead>
+      <tbody>${rows.map((p,i)=>`<tr><td><span class="rk num">${i+1}.</span><b>${esc(p.name)}</b> ${trendHtml(p)} ${hotPill(p)}${inj(p)}<span class="sub">${esc([p.slot,p.team,p.pos].filter(Boolean).join(" · "))} · ${f0(p.mpg)} min · igra: ${esc(days(p))}</span></td>
+        <td class="n num">${f1(p.avg)}<span class="sub">${p.gp||0} utk.</span></td><td class="n num">${f1(p.last7)}</td><td class="n num">${f1(p.now)}</td><td class="n num">${f1(p.long)}</td></tr>`).join("")}</tbody></table></div>
+      <p class="meta">Prosjek = fantasy bodovi po utakmici ove sezone (bodovanje lige), ispod broj odigranih utakmica. Z7 = prosjek zadnjih 7 dana. Sada = radarova vrijednost za ovaj tjedan (sezona, zadnjih 7 dana i ESPN projekcija; najviše teže sezona i forma). Dugo = dugoročna vrijednost (više teži projekcija). ↑/↓ = minute rastu/padaju, „igra” = preostale utakmice ovog tjedna.</p>`;
   }
 
   // ---------- Raspored
@@ -431,7 +460,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
     $("stamp").textContent=`Ažurirano ${ago(S.data.generated)}`+(S.data.source==="pc"?" · PC":" · GitHub")+(navigator.onLine?"":" · offline");
     $("stamp").title=S.data.generated_local||"";
   }
-  function renderAll(){renderStamp();renderChips();renderPregled();renderRaspored();renderBaci();renderUzmi();renderPlan();renderOzljede();renderAlarmi();renderPovijest();}
+  function renderAll(){renderStamp();renderChips();renderPregled();renderMoji();renderRaspored();renderBaci();renderUzmi();renderPlan();renderOzljede();renderAlarmi();renderPovijest();}
 
   function showTab(name,focus){
     if(!TABS.includes(name))name="pregled";
@@ -453,6 +482,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
   });
   $("league-chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S.league=b.dataset.league;safe(()=>localStorage.setItem("wr2.league",S.league));renderAll();});
   function chipGroup(id,key,render){$(id).addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;S[key]=b.dataset.v;$(id).querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",String(c===b)));render();});}
+  chipGroup("moji-chips","moji",renderMoji);
   chipGroup("baci-chips","baci",renderBaci);
   chipGroup("uzmi-chips","uzmi",renderUzmi);
   showTab((location.hash||"").slice(1)||S.tab);
