@@ -1,8 +1,9 @@
 """Add/drop planner with timing.
 
-A move (drop X, add Y, day t) means: from the morning of day t Y is on the roster and X is gone. X keeps his
-games before t, Y counts from t. Free agents can start today; a waiver claim counts from the day ESPN processes
-it (X is dropped then too, so he still plays until that morning). Gains are projected fantasy points to Sunday
+A move (drop X, add Y, day t) means: Y counts from day t and X keeps his games before t. ESPN locks adds at a day's
+first tip-off: a move made after that goes on the roster for the next day, and X still counts that day's game, so
+a move for day t can be made from the first tip-off of day t-1. Free agents can start today until today's first
+tip-off, tomorrow after it; a waiver claim counts from the day ESPN processes it (X is dropped then too). Gains are projected fantasy points to Sunday
 from the real lineup optimizer, so positions, a full bench and days where nobody fits are all accounted for."""
 from __future__ import annotations
 

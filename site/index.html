@@ -456,7 +456,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;margin:10px 0 6
         ${groups.length?groups.map(g=>`<h3 style="font-size:18px;margin:6px 0 2px;color:var(--accent)">${esc(g.when)}</h3><ul class="plain">${g.items.map(m=>`<li>${esc(m.body!=null?m.body:m.text.replace(/^[^:]+:\s*/,""))}</li>`).join("")}</ul>`).join("")
           :`<p class="meta" style="margin:0">Nema izmjene koja se isplati${L.adds.used>=L.adds.limit?" (iskorištena sva preuzimanja)":""}.</p>`}
         ${(L.infos||[]).length?`<p class="meta" style="margin:10px 0 0">${(L.infos||[]).map(esc).join(" · ")}</p>`:""}</div></div>`;
-    }).join("")+`<p class="meta">DANAS = slobodnog igrača uzmi odmah (bačeni gubi današnju utakmicu ako je još nije odigrao). SUTRA/DAN UJUTRO = napravi to jutro, bačeni još igra do tada. Claim prolazi u vrijeme obrade waivera; bačeni igra do tada. Jedno preuzimanje se čuva za ozljede do subote.</p>`;
+    }).join("")+`<p class="meta">DANAS DO hh:mm = uzmi ga prije prve utakmice dana (bačeni gubi današnju utakmicu). NOĆAS / DAN OD hh:mm = čim počne prva utakmica noći: ESPN novog upisuje za sljedeći dan, a bačenom se ta noćna utakmica još računa. ODMAH = to vrijeme je već prošlo. Claim prolazi u vrijeme obrade waivera; bačeni igra do tada. Jedno preuzimanje se čuva za ozljede do subote.</p>`;
   }
 
   // ---------- Ozljede/vijesti

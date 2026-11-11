@@ -17,12 +17,40 @@ def _n(x: float) -> str:
     return f"{x:.0f}"
 
 
+TZ = ZoneInfo("Europe/Zagreb")
+
+
 def when_label(a: Analysis, t: int) -> str:
+    """When to make a move that counts from scoring period `t`.
+
+    ESPN rule in these leagues: once the first game of a day tips off, an add goes on the roster for the next day and
+    a player dropped then still counts that day's game. So a move for day t can be made from the first tip-off of
+    day t-1 ("NOĆAS OD 01:00"), and a move for today has to be made before today's first tip-off."""
+    sched, now = a.schedule, a.now
     if t <= a.today_sp:
-        return "DANAS"
-    if t == a.today_sp + 1:
-        return "SUTRA UJUTRO"
-    return f"{DAY_NAMES[a.schedule.date(t).weekday()].upper()} UJUTRO"
+        tip = sched.first_tip(a.today_sp)
+        return f"DANAS DO {hhmm(tip)}" if tip and tip > now else "DANAS"
+    tip = sched.first_tip(t - 1)
+    if tip is None:                     # no games the day before: the add counts once that day is over
+        return "SUTRA UJUTRO" if t == a.today_sp + 1 else f"{DAY_NAMES[sched.date(t).weekday()].upper()} UJUTRO"
+    if tip <= now:
+        return "ODMAH"
+    return f"{_tip_day(now, tip)} OD {hhmm(tip)}"
+
+
+def _tip_day(now: dt.datetime, tip: dt.datetime) -> str:
+    """'NOĆAS' / 'VEČERAS' / 'SUTRA' / 'NOĆ PET/SUB' / 'SUBOTA' for a tip-off, seen from `now` in Zagreb."""
+    n, t = now.astimezone(TZ), tip.astimezone(TZ)
+    days = (t.date() - n.date()).days
+    night = t.hour < 6                                  # US evening games start after midnight in Zagreb
+    if night and (days == 0 or (days == 1 and n.hour >= 6)):
+        return "NOĆAS"
+    if not night and days == 0:
+        return "VEČERAS" if t.hour >= 17 else "DANAS"
+    if night:
+        prev = (t - dt.timedelta(days=1)).weekday()
+        return f"NOĆ {DAY_SHORT[prev].upper()}/{DAY_SHORT[t.weekday()].upper()}"
+    return "SUTRA" if days == 1 else DAY_NAMES[t.weekday()].upper()
 
 
 def _days(a: Analysis, pid: int, from_sp: int) -> list[int]:

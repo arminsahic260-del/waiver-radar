@@ -62,6 +62,16 @@ class ProSchedule:
                 seen[g.id] = g
         return sorted(seen.values(), key=lambda g: g.start)
 
+    def first_tip(self, sp: int) -> dt.datetime | None:
+        """Tip-off of the day's first game. From then on ESPN puts an add on the roster for the next scoring period,
+        and a player dropped then still counts that day's game (user's league rule, 12.11.2026)."""
+        games = self.games_on(sp)
+        return games[0].start if games else None
+
+    def adds_locked(self, sp: int, now: dt.datetime) -> bool:
+        t = self.first_tip(sp)
+        return bool(t and t <= now)
+
     def day_done(self, sp: int, now: dt.datetime) -> bool:
         """Every game of the day is over (or there were none and the ET day is past)."""
         games = self.games_on(sp)

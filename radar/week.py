@@ -278,10 +278,13 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     drops.sort(key=lambda x: (x.loss, values[x.pid].long))
 
     # ---- free agents
+    # after today's first tip-off an add only counts from tomorrow (ESPN daily lock)
+    first_sp = today_sp + 1 if schedule.adds_locked(today_sp, now) else today_sp
+
     def avail_of(f: FreeAgent) -> int:
         if f.status == "WAIVERS" and f.waiver_ms:
-            return max(today_sp, schedule.sp_of(dt.datetime.fromtimestamp(f.waiver_ms / 1000, ET).date()))
-        return today_sp
+            return max(first_sp, schedule.sp_of(dt.datetime.fromtimestamp(f.waiver_ms / 1000, ET).date()))
+        return first_sp
 
     free = []
     for f in lg.free_agents:
@@ -510,7 +513,7 @@ def if_out(a: Analysis, my_ros: set[int], pid: int, sp: int) -> tuple[str, int |
     if entering:
         b = max(entering, key=lambda p: eng.val(p, sp) or 0)
         return "klupa", b, None, round(eng.val(b, sp) or 0, 1), []
-    if a.adds_used >= a.adds_limit:
+    if a.adds_used >= a.adds_limit or pid in a.keep:      # never swap out a ne_bacaj player
         return "nista", None, None, 0.0, []
     me_long = a.values[pid].long
     max_c = a.lg.settings.max_centers if a.lg else None

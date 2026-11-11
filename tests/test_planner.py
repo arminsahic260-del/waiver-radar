@@ -143,4 +143,4 @@ def test_report_shape():
     assert lines[0].startswith("🏀 LEGENDI — Moj tim vs Moj tim: 0 : 0 (proj. ")
     assert lines[1] == "Danas: ti 10 | oni 10   Sutra: ti 9 | oni 10"
     assert lines[-1] == "Preuzimanja: 2/7 (protivnik 0/7)"
-    assert any(l.startswith("SUTRA UJUTRO: Drop → Add (+") and "Drop gubi" not in l for l in lines)
+    assert any(l.startswith("NOĆAS OD 01:00: Drop → Add (+") and "Drop gubi" not in l for l in lines)
