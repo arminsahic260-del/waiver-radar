@@ -82,6 +82,8 @@ class Server:
         self.client = client
         res = run(self.cfg, client, now, state_path=self.local_state, store=self.store, tx_cache=self.tx_cache)
         self.res, self.res_at = res, now
+        if self.cfg.rotowire:
+            log.info("RotoWire: %d utakmica", res.lineup_games)
         games = games_for(client, et_today(now))
         if not games and res.schedule is not None:
             games = from_schedule(res.schedule, res.schedule.sp_of(et_today(now)))

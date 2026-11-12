@@ -128,6 +128,7 @@ class Config(BaseModel):
     simulacija: SimCfg = Field(default_factory=SimCfg)
     server: ServerCfg = Field(default_factory=ServerCfg)
     claude: ClaudeCfg = Field(default_factory=ClaudeCfg)
+    rotowire: bool = True       # RotoWire postave za danas: tko starta, tko možda ne igra (% da igra)
 
     @property
     def local_dir(self) -> Path:

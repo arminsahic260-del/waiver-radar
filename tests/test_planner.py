@@ -7,7 +7,7 @@ from radar.config import load_config
 from radar.planner import FA, IR_BACK, WAIVER, Cand, Planner
 from radar.report import league_report, move_line, when_label
 from radar.schedule import ProSchedule
-from radar.week import analyze
+from radar.week import Extras, analyze
 
 WEEK = list(range(21, 28))
 ALL, MWFS = WEEK, [21, 23, 25, 27]
@@ -100,12 +100,12 @@ def test_reserve_keeps_one_add_until_saturday():
 
 
 # ---- full analysis on synthetic leagues -------------------------------------------------------------------------
-def _analyze(me, opp, free=(), now=None, games=None, **kw):
+def _analyze(me, opp, free=(), now=None, games=None, lineups=None, **kw):
     cfg = load_config()
     sched = ProSchedule(raw_schedule(games))
     lc = cfg.lige[0]
     lg = league_state(me, opp, free, **kw)
-    return analyze(lg, lc, cfg, sched, now or morning(21), {}, {})
+    return analyze(lg, lc, cfg, sched, now or morning(21), {}, {}, Extras(lineups=lineups or {}))
 
 
 def test_lineup_alerts_out_starter_and_idle_starter():

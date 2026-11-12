@@ -67,12 +67,14 @@ class Opening:
 
 
 def hurt_by_team(pool: dict[int, Player], today_sp: int, min_value: float = 20,
-                 fresh_days: int = 10) -> dict[int, list[Player]]:
-    """NBA team -> players worth `min_value`+ who are OUT or DTD now and played in the last `fresh_days` (a long
-    absence is already in his teammates' numbers). Best first."""
+                 fresh_days: int = 10, doubtful: set[int] | None = None) -> dict[int, list[Player]]:
+    """NBA team -> players worth `min_value`+ who are OUT or DTD now (or in `doubtful`: RotoWire's 'may not play'
+    tonight) and played in the last `fresh_days` (a long absence is already in his teammates' numbers). Best
+    first."""
+    doubtful = doubtful or set()
     out: dict[int, list[Player]] = {}
     for q in pool.values():
-        if (q.is_out or q.is_dtd) and q.pro_team_id in PRO_TEAM and q.games \
+        if (q.is_out or q.is_dtd or q.id in doubtful) and q.pro_team_id in PRO_TEAM and q.games \
                 and today_sp - q.games[-1].sp <= fresh_days and value_now(q) >= min_value:
             out.setdefault(q.pro_team_id, []).append(q)
     for v in out.values():
@@ -81,9 +83,11 @@ def hurt_by_team(pool: dict[int, Player], today_sp: int, min_value: float = 20,
 
 
 def opening(p: Player, hurt: dict[int, list[Player]], state: dict[int, OutEntry],
-            out_fp: float = 3.0, dtd_fp: float = 1.5, cap: float = 6.0) -> Opening | None:
-    """His hurt teammates (from `hurt_by_team`). As a drop shield OUT counts `out_fp`, DTD `dtd_fp`, together
-    at most `cap` FP/game."""
+            out_fp: float = 3.0, dtd_fp: float = 1.5, cap: float = 6.0,
+            tags: dict[int, str] | None = None) -> Opening | None:
+    """His hurt teammates (from `hurt_by_team`). As a drop shield OUT counts `out_fp`, DTD (and RotoWire's
+    'may not play') `dtd_fp`, together at most `cap` FP/game. `tags`: text for players ESPN still has as
+    healthy ('večeras Out (RotoWire)')."""
     mates = [q for q in hurt.get(p.pro_team_id, []) if q.id != p.id]
     if not mates:
         return None
@@ -91,7 +95,9 @@ def opening(p: Player, hurt: dict[int, list[Player]], state: dict[int, OutEntry]
     bits = []
     for q in mates[:4]:
         e = state.get(q.id)
-        bits.append(f"{q.short} OUT{' ' + e.info.label() if e else ''}" if q.is_out else f"{q.short} DTD")
+        tag = (f"OUT{' ' + e.info.label() if e else ''}" if q.is_out else "DTD" if q.is_dtd
+               else (tags or {}).get(q.id, "upitan"))
+        bits.append(f"{q.short} {tag}")
     more = f" +{len(mates) - 4}" if len(mates) > 4 else ""
     return Opening(fp=round(fp, 1), text=f"{p.team}: {', '.join(bits)}{more}", mates=[q.id for q in mates])
 

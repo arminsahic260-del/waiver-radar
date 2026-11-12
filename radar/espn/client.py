@@ -113,6 +113,16 @@ class EspnClient:
         return data
 
     # -- endpoints -------------------------------------------------------------------------------------------
+    def rotowire_lineups(self) -> str | None:
+        """RotoWire's NBA lineups page for today's games (HTML), None when it can't be read."""
+        from ..lineups import fetch
+        page = fetch(self.s)
+        if page is not None and self.record_dir:
+            self.record_dir.mkdir(parents=True, exist_ok=True)
+            with gzip.open(self.record_dir / "rotowire_lineups.html.gz", "wt", encoding="utf-8") as f:
+                f.write(page)
+        return page
+
     def pro_schedule(self) -> dict:
         return self._record("pro_schedule", self._get(self.base, params={"view": "proTeamSchedules_wl"}))
 
@@ -224,6 +234,14 @@ class FixtureClient:
 
     def news(self, player_id, limit=6):
         return self._load(f"news_{player_id}") or {"feed": []}
+
+    def rotowire_lineups(self):
+        for p in (self.dir / "rotowire_lineups.html.gz", self.dir / "rotowire_lineups.html"):
+            if p.exists():
+                opener = gzip.open if p.suffix == ".gz" else open
+                with opener(p, "rt", encoding="utf-8") as f:
+                    return f.read()
+        return None
 
     def search_player(self, name):
         return []

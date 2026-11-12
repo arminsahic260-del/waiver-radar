@@ -10,6 +10,7 @@ from .availability import p_play
 from .config import ModelCfg, PPlayCfg
 from .injuries import OutEntry
 from .lineup import Lineup, optimize
+from .lineups import p_from
 from .models import Player
 from .schedule import ProSchedule
 from .value import Valued, value_now
@@ -31,6 +32,14 @@ class Engine:
     ages: dict[int, int] = field(default_factory=dict)
     hurt: dict[int, list[Player]] = field(default_factory=dict)       # NBA team -> who matters and is OUT/DTD
     mcfg: ModelCfg = field(default_factory=ModelCfg)
+    rw: dict = field(default_factory=dict)                            # pid -> lineups.Spot (RotoWire, today)
+
+    def _rw_p(self, pid: int, sp: int) -> float | None:
+        """RotoWire's chance to play for that game, when he is on today's lineups page."""
+        s = self.rw.get(pid)
+        if s is None or s.sp != sp:
+            return None
+        return p_from(s, self.pcfg.active)
     _memo: dict = field(default_factory=dict, repr=False)
     _val: dict = field(default_factory=dict, repr=False)
     _p: dict = field(default_factory=dict, repr=False)
@@ -40,6 +49,9 @@ class Engine:
         """Probability that `mate` (a hurt player, maybe not in `values`) misses his team's game on day `sp`."""
         if mate.id in self.values:
             return 1.0 - self.p(mate.id, sp)
+        r = self._rw_p(mate.id, sp)
+        if r is not None:
+            return 1.0 - r
         e = self.out_state.get(mate.id)
         return 1.0 - p_play(mate, sp, self.today_sp, self.schedule, self.pcfg, None, e.info.max_date if e else None)
 
@@ -76,10 +88,14 @@ class Engine:
         v = self.values.get(pid)
         res = 0.0
         if v is not None and self.schedule.open_game(v.player.pro_team_id, sp, self.now):
-            e = self.out_state.get(pid)
-            flag = self.flags.get(pid)
-            res = p_play(v.player, sp, self.today_sp, self.schedule, self.pcfg, flag[0] if flag else None,
-                         e.info.max_date if e else None, self.ages.get(pid))
+            r = self._rw_p(pid, sp)
+            if r is not None:
+                res = r                    # RotoWire knows tonight's scratches before ESPN's status changes
+            else:
+                e = self.out_state.get(pid)
+                flag = self.flags.get(pid)
+                res = p_play(v.player, sp, self.today_sp, self.schedule, self.pcfg, flag[0] if flag else None,
+                             e.info.max_date if e else None, self.ages.get(pid))
         self._p[key] = res
         return res
 

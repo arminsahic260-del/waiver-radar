@@ -13,6 +13,7 @@ from .availability import age_from_bio
 from .config import ROOT, Config, LeagueCfg
 from .espn.client import EspnAuthError, EspnError
 from .espn.parse import parse_league, parse_transactions
+from . import lineups
 from .injuries import OutEntry, update_state
 from .models import LeagueState, Transaction
 from .news import NewsItem, fetch_news
@@ -36,6 +37,7 @@ class RunResult:
     auth_failed: set[str] = field(default_factory=set)                   # private league answered 401/403
     net_failed: set[str] = field(default_factory=set)                    # ESPN unreachable / 5xx
     schedule: ProSchedule | None = None
+    lineup_games: int = 0                                                # games read from RotoWire this pass
 
     def analysis(self, key: str) -> Analysis | None:
         return next((a for a in self.analyses if a.key == key), None)
@@ -226,6 +228,15 @@ def run(cfg: Config, client, now: dt.datetime | None = None, keys: list[str] | N
         save_state(state, state_path)
 
     ages = ages_for(client, states, store, now.astimezone(ET).date()) if store is not None else {}
+    rw_games = []
+    if cfg.rotowire and hasattr(client, "rotowire_lineups"):
+        try:
+            page = client.rotowire_lineups()
+            rw_games = lineups.parse(page) if page else []
+        except Exception as e:  # a second source: never break the run
+            log.warning("RotoWire: %s", e)
+    res.lineup_games = len(rw_games)
+    today_sp = schedule.sp_of(now.astimezone(ET).date())
     for lg in states:
         lc = lcs[lg.key]
         try:
@@ -236,7 +247,9 @@ def run(cfg: Config, client, now: dt.datetime | None = None, keys: list[str] | N
                     g = store.get(f"cilj:{lg.key}:{per}")
                     if g:
                         goals[per] = g
-            ex = Extras(ages=ages, week_tx=week_tx, goals=goals, simulate=simulate)
+            pool = {**lg.players, **{r.player.id: r.player for t in lg.teams.values() for r in t.roster}}
+            ex = Extras(ages=ages, week_tx=week_tx, goals=goals, simulate=simulate,
+                        lineups=lineups.match(rw_games, pool, schedule, today_sp) if rw_games else {})
             res.analyses.append(analyze(lg, lc, cfg, schedule, now, res.news, res.out_state, ex))
         except Exception as e:
             log.exception("analiza %s", lg.key)

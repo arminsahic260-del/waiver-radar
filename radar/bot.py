@@ -130,12 +130,16 @@ def _week_view(ctx: Ctx, p: Player) -> tuple[str, float, int]:
     for d in a.remaining:
         if not sched.open_game(p.pro_team_id, d, a.now):
             continue
-        pp = p_play(p, d, a.today_sp, sched, ctx.cfg.p_play, flag[0] if flag else None,
-                    e.info.max_date if e else None, (a.eng.ages if a.eng else {}).get(p.id))
+        if a.eng is not None and p.id in a.values:      # same numbers as the plan (RotoWire, teammates' boost)
+            pp, fp = a.eng.p(p.id, d), a.values[p.id].now + a.eng.boost(p.id, d)
+        else:
+            pp = p_play(p, d, a.today_sp, sched, ctx.cfg.p_play, flag[0] if flag else None,
+                        e.info.max_date if e else None, (a.eng.ages if a.eng else {}).get(p.id))
+            fp = v.now
         b2b = sched.plays(p.pro_team_id, d - 1)
         lab = ("večeras" if d == a.today_sp else DAY_SHORT[sched.date(d).weekday()]) + ("🔁" if b2b else "")
         days.append(f"{lab} {round(pp * 100)}%")
-        exp += v.now * pp
+        exp += fp * pp
         n += 1 if pp > 0 else 0
     return (", ".join(days) or "ne igra više ovaj tjedan"), round(exp, 1), n
 
@@ -261,6 +265,9 @@ def player_text(ctx: Ctx, query: str) -> str:
         b = a.mate_boost(p.id) if p.id in a.values else 0.0
         L.append(f"🩹 Ozljede u momčadi: {hurt.text} → " +
                  (f"+{b:.0f} FP po utakmici dok ih nema (već uračunato)" if b >= 1 else "više minuta za njega"))
+    spot = a.lineups.get(p.id) if a else None
+    if spot is not None:
+        L.append(f"📋 RotoWire ({'večeras' if spot.sp == a.today_sp else 'sutra'}): {spot.label()}")
     L.append(f"Minute: sezona {p.season.mpg or 0:.1f} · zadnje 3: {t.mpg3 or 0:.1f} · zadnjih 5: {t.mpg5 or 0:.1f}"
              + (f" {t.arrow} ({t.delta:+.1f})" if t.arrow else ""))
     L.append(f"FP: sezona {p.season.avg or 0:.1f} ({p.season.gp} utk.) · zadnjih 7 dana "

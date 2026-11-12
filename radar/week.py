@@ -23,6 +23,7 @@ class Extras:
     week_tx: list[Transaction] = field(default_factory=list)   # this week's transactions of the whole league
     goals: dict[int, str] = field(default_factory=dict)          # /cilj override per matchup period
     simulate: bool = True
+    lineups: dict = field(default_factory=dict)                  # pid -> lineups.Spot (RotoWire, today's games)
 
 
 @dataclass
@@ -143,6 +144,8 @@ class Analysis:
     keep: set[int] = field(default_factory=set)      # my players never to drop (config `ne_bacaj`)
     openings: dict[int, Opening] = field(default_factory=dict)   # my players with hurt teammates right now
     hurt: dict[int, list] = field(default_factory=dict)           # NBA team -> who matters and is OUT/DTD now
+    lineups: dict = field(default_factory=dict)                   # pid -> lineups.Spot (RotoWire, this week)
+    rw_tags: dict[int, str] = field(default_factory=dict)         # 'Out večeras' for players ESPN has healthy
 
     def hurt_mates(self, pid: int | None) -> str:
         """'LAL: Reaves DTD, Dončić DTD' when teammates of `pid` who matter are hurt right now, else ''."""
@@ -150,7 +153,7 @@ class Analysis:
             return ""
         o = self.openings.get(pid)
         if o is None and pid in self.values:
-            o = opening(self.values[pid].player, self.hurt, self.out_state)
+            o = opening(self.values[pid].player, self.hurt, self.out_state, tags=self.rw_tags)
         return o.text if o else ""
 
     def mate_boost(self, pid: int, from_sp: int | None = None) -> float:
@@ -246,15 +249,27 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     for f in lg.free_agents:
         val(f.player)
     long_vals = {pid: v.long for pid, v in values.items()}
-    mates = teammate_signals([f.player for f in lg.free_agents], out_state, today, long_vals)
-    for pid, s in mates.items():
-        val(lg.players[pid] if pid in lg.players else free_status[pid].player, extra=[s])
-    # my players whose teammates are hurt right now: shown next to every drop, and harder to drop
+    extra: dict[int, list[Signal]] = {}
+    for pid, s in teammate_signals([f.player for f in lg.free_agents], out_state, today, long_vals).items():
+        extra.setdefault(pid, []).append(s)
+    # RotoWire: a free agent who rarely starts is in tonight's starting five
+    rw = {pid: s for pid, s in ex.lineups.items() if s.sp in remaining}
+    for pid, s in rw.items():
+        p = free_status[pid].player if pid in free_status else None
+        if p is not None and s.starter and s.sp == today_sp and p.season.gp and p.season.gs / p.season.gp <= 0.25:
+            extra.setdefault(pid, []).append(
+                Signal("start", f"starter večeras ({'potvrđeno' if s.confirmed else 'očekivano'}, RotoWire)",
+                       today_sp))
+    for pid, sigs in extra.items():
+        val(lg.players[pid] if pid in lg.players else free_status[pid].player, extra=sigs)
+    # who matters and may miss games: shown next to every drop (harder to drop) and the engine's per-game boost
     everyone = {**lg.players, **{r.player.id: r.player for t in (me, opp) if t for r in t.roster}}
-    hurt = hurt_by_team(everyone, today_sp, mc.suigrac_min_fp)       # also the engine's per-game boost
+    doubtful = {pid for pid, s in rw.items() if s.pct is not None and s.pct <= 75}
+    rw_tags = {pid: f"{s.status or str(s.pct) + ' %'} večeras" for pid, s in rw.items() if pid in doubtful}
+    hurt = hurt_by_team(everyone, today_sp, mc.suigrac_min_fp, doubtful=doubtful)
     openings: dict[int, Opening] = {}
     for r in me.roster:
-        o = opening(r.player, hurt, out_state)
+        o = opening(r.player, hurt, out_state, tags=rw_tags)
         if o:       # shown with his signals, but his value stays as is (the shield is the planner's part)
             openings[r.player.id] = o
             values[r.player.id].signals.append(Signal("teammate", o.text))
@@ -267,7 +282,8 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                 flags[pid] = f
     eng = Engine(schedule=schedule, now=now, today_sp=today_sp, days=remaining,
                  slot_counts=lg.settings.slot_counts or {0: 1, 1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 11: 3},
-                 values=values, out_state=out_state, pcfg=cfg.p_play, flags=flags, ages=ex.ages, hurt=hurt, mcfg=mc)
+                 values=values, out_state=out_state, pcfg=cfg.p_play, flags=flags, ages=ex.ages, hurt=hurt, mcfg=mc,
+                 rw=rw)
 
     my_ros = _active_ids(me)
     opp_ros = _active_ids(opp) if opp else set()
@@ -409,7 +425,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                  drops=drops, free=free, plan=plan, alerts=alerts, infos=infos, adds_used=adds_used,
                  adds_limit=adds_limit, news=news, out_state=out_state, schedule=schedule,
                  free_status=free_status, eng=eng, lg=lg, flags=flags, protect=mc.zastita_fp, planner=planner,
-                 keep=keep, openings=openings, hurt=hurt)
+                 keep=keep, openings=openings, hurt=hurt, lineups=rw, rw_tags=rw_tags)
 
     # ---- opponent and my own moves this week
     if opp:

@@ -45,7 +45,7 @@ def waiver_text(ms: int | None, tz: str) -> str:
 
 # ---------------------------------------------------------------------------------------------------------------
 def snapshot(lg: LeagueState, a: Analysis | None, top_n: int = 40) -> dict:
-    """Who is where: pid -> [status FA/W/T, fantasy team, injury, hot, owned %]."""
+    """Who is where: pid -> [status FA/W/T, fantasy team, injury, hot, owned %, RotoWire % to play today]."""
     owner: dict[int, int] = {}
     for t in lg.teams.values():
         for r in t.roster:
@@ -63,7 +63,9 @@ def snapshot(lg: LeagueState, a: Analysis | None, top_n: int = 40) -> dict:
         else:
             continue
         hot = bool(a and pid in a.values and a.values[pid].hot and st != "T")
-        players[str(pid)] = [st, tid, p.injury, int(hot), round(p.owned, 1)]
+        rw = a.lineups.get(pid) if a else None
+        pct = rw.pct if rw is not None and rw.sp == a.today_sp else None      # RotoWire, today's game
+        players[str(pid)] = [st, tid, p.injury, int(hot), round(p.owned, 1), pct]
     ranked = sorted(lg.players.values(), key=value_long, reverse=True)[:top_n]
     return {
         "period": a.period if a else lg.matchup_period, "sp": a.today_sp if a else lg.sp,
@@ -161,9 +163,11 @@ def diff(prev: dict | None, cur: dict, a: Analysis, lg: LeagueState, *, watch: d
 
     for spid, c in C.items():
         pid = int(spid)
-        st, team, injury, hot, owned = c
+        st, team, injury, hot, owned = c[:5]
+        rw = c[5] if len(c) > 5 else None                     # older snapshots have no RotoWire field
         p0 = P.get(spid)
-        pst, pteam, pinj, phot, powned = p0 if p0 else (None, None, None, 0, 0)
+        pst, pteam, pinj, phot, powned = p0[:5] if p0 else (None, None, None, 0, 0)
+        prw = p0[5] if p0 and len(p0) > 5 else None
 
         # 1) a strong player was dropped by someone else
         if pst == "T" and pteam != me and st in ("FA", "W"):
@@ -198,9 +202,13 @@ def diff(prev: dict | None, cur: dict, a: Analysis, lg: LeagueState, *, watch: d
             out.append(Event(f"watch:status:{pid}:{injury}:{a.today_sp}", a.key, "pracenje",
                              f"👀 {_name(a, lg, pid)}: {inj(pinj)} → {inj(injury)}"))
 
-        # 8) someone who matters (not mine) went OUT: his free teammates are streamers today/tomorrow
-        if p0 and injury == "OUT" and pinj != "OUT" and team != me:
-            ev = _mate_out(a, lg, pid, pinj, tz, min_gain)
+        # 8) someone who matters (not mine) went OUT (ESPN, or RotoWire for tonight): his free teammates are
+        #    streamers today/tomorrow
+        out_now, out_before = injury == "OUT" or rw == 0, pinj == "OUT" or prw == 0
+        if p0 and out_now and not out_before and team != me:
+            src = "" if injury == "OUT" else " večeras (RotoWire)"
+            was = inj(pinj) + (f", RotoWire {prw} %" if prw is not None else "")
+            ev = _mate_out(a, lg, pid, was, tz, min_gain, src)
             if ev:
                 out.append(ev)
 
@@ -272,7 +280,7 @@ def _hot(a: Analysis, lg, pid, st, tz) -> Event | None:
     return Event(f"hot:{L}:{pid}:{a.period}", a.key, "vatra", text)
 
 
-def _mate_out(a: Analysis, lg, pid, old, tz, min_gain: float) -> Event | None:
+def _mate_out(a: Analysis, lg, pid, old, tz, min_gain: float, src: str = "") -> Event | None:
     """Someone who matters just went OUT and his team plays today/tomorrow: the best free teammate is a streamer
     (the engine's per-game boost is already in his gain)."""
     p = lg.players.get(pid) or (a.values[pid].player if pid in a.values else None)
@@ -290,7 +298,7 @@ def _mate_out(a: Analysis, lg, pid, old, tz, min_gain: float) -> Event | None:
     y = a.values[f.pid].player
     st = "FA" if f.kind == "FREEAGENT" else f"waiver do {waiver_text(f.waiver_ms, tz)}"
     b = a.mate_boost(f.pid, f.best_t)
-    text = (f"🩹➕ {a.label}: {p.name} ({p.team}) {inj(old)} → OUT. {y.short} ({st}) dobiva ~+{b:.0f} FP po "
+    text = (f"🩹➕ {a.label}: {p.name} ({p.team}) {inj(old)} → OUT{src}. {y.short} ({st}) dobiva ~+{b:.0f} FP po "
             f"utakmici dok ga nema. Uzmi ga za {a.values[f.best_drop].player.short}: {f.best_gain:+.0f} do ned. "
             f"({_when(a, f.best_t).lower()}); igra: {days_text(a, f.pid, f.best_t or f.avail) or '—'}")
     if len(mates) > 1:
