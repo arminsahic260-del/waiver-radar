@@ -2,9 +2,11 @@
 from __future__ import annotations
 
 import datetime as dt
+from dataclasses import dataclass, field
 
 from pydantic import BaseModel
 
+from .espn.maps import PRO_TEAM
 from .models import Player, short_name
 from .news import NewsItem, OutInfo, about_player, out_info
 from .value import Signal, value_now
@@ -53,6 +55,37 @@ def update_state(state: dict[int, OutEntry], players: dict[int, Player], news: d
 
 def is_long(e: OutEntry, today: dt.date, min_days: int = 7) -> bool:
     return e.info.kind in ("season", "indefinite") or (e.info.max_date - today).days >= min_days
+
+
+@dataclass
+class Opening:
+    """Teammates of one of MY players who are hurt right now: their minutes/shots go to him (12.11.: Ziaire
+    Williams was proposed as a drop while Reaves, Dončić, Grimes and Sexton were all DTD)."""
+    fp: float               # extra FP/game of protection when he is a drop candidate
+    text: str               # 'LAL: Reaves DTD, Dončić DTD'
+    mates: list[int] = field(default_factory=list)
+
+
+def opening(p: Player, pool: dict[int, Player], state: dict[int, OutEntry], today_sp: int,
+            min_value: float = 18, out_fp: float = 3.0, dtd_fp: float = 1.5, cap: float = 6.0,
+            fresh_days: int = 10) -> Opening | None:
+    """Teammates worth `min_value`+ who are OUT or DTD and played in the last `fresh_days` (a long absence is
+    already in his own numbers). OUT counts `out_fp`, DTD `dtd_fp`, together at most `cap` FP/game."""
+    if p.pro_team_id not in PRO_TEAM:
+        return None
+    mates = [q for q in pool.values()
+             if q.id != p.id and q.pro_team_id == p.pro_team_id and (q.is_out or q.is_dtd)
+             and q.games and today_sp - q.games[-1].sp <= fresh_days and value_now(q) >= min_value]
+    if not mates:
+        return None
+    mates.sort(key=lambda q: -value_now(q))
+    fp = min(cap, sum(out_fp if q.is_out else dtd_fp for q in mates))
+    bits = []
+    for q in mates[:4]:
+        e = state.get(q.id)
+        bits.append(f"{q.short} OUT{' ' + e.info.label() if e else ''}" if q.is_out else f"{q.short} DTD")
+    more = f" +{len(mates) - 4}" if len(mates) > 4 else ""
+    return Opening(fp=round(fp, 1), text=f"{p.team}: {', '.join(bits)}{more}", mates=[q.id for q in mates])
 
 
 def teammate_signals(free_agents: list[Player], state: dict[int, OutEntry], today: dt.date,

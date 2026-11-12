@@ -4,13 +4,14 @@ from __future__ import annotations
 
 import datetime as dt
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from typing import Callable
 from zoneinfo import ZoneInfo
 
 from .alarms import inj
 from .availability import p_play
 from .config import Config
+from .injuries import opening
 from .models import Player
 from .montecarlo import pct
 from .news import norm, parse_feed
@@ -163,7 +164,8 @@ def league_summary(ctx: Ctx, a: Analysis) -> str:
         days.append(f"{DAY_SHORT[r.date.weekday()]} {r.my.n}:{r.opp.n if r.opp else 0}")
     if days:
         L.append("Igrači po danima (ti:oni): " + " · ".join(days))
-    drops = [f"{v[d.pid].player.short} ({d.loss:.0f})" for d in a.drops[:3]]
+    drops = [f"{v[d.pid].player.short} ({d.loss:.0f}{' · ⚠️ ' + a.hurt_mates(d.pid) if a.hurt_mates(d.pid) else ''})"
+             for d in a.drops[:3]]
     if drops:
         L.append("Za bacanje (gubitak do ned.): " + ", ".join(drops))
     week = sorted([f for f in a.free if f.best_gain and f.best_gain > 0], key=lambda f: -f.best_gain)[:5]
@@ -249,8 +251,13 @@ def player_text(ctx: Ctx, query: str) -> str:
     if v:
         L.append(f"Vrijednost: sada {v.now:.1f} · dugoročno {v.long:.1f}" +
                  ("" if p.proj.avg else " (nema ESPN projekcije)") + (" 🔥" if v.hot else ""))
-        if v.signals:
-            L.append("🔥 " + v.reason())
+    hurt = opening(p, a.lg.players, a.out_state, a.today_sp) if a and a.lg else None
+    if v:
+        sig = [s for s in v.signals if not (hurt and s.text == hurt.text)]
+        if sig:
+            L.append("🔥 " + replace(v, signals=sig).reason())
+    if hurt:
+        L.append(f"🩹 Ozljede u momčadi: {hurt.text} → više minuta za njega")
     L.append(f"Minute: sezona {p.season.mpg or 0:.1f} · zadnje 3: {t.mpg3 or 0:.1f} · zadnjih 5: {t.mpg5 or 0:.1f}"
              + (f" {t.arrow} ({t.delta:+.1f})" if t.arrow else ""))
     L.append(f"FP: sezona {p.season.avg or 0:.1f} ({p.season.gp} utk.) · zadnjih 7 dana "

@@ -106,7 +106,8 @@ def drop_for(a: Analysis, pid_in: int) -> tuple[int | None, str]:
             return None, f"imaš {n_c} centra (limit {max_c}), a svi su na popisu ne_bacaj"
         pool, why = centers, f"imaš {n_c} centra, limit {max_c}"
     eng = a.eng
-    drop = min(pool, key=lambda p: (a.values[p].long, eng.expected(p) if eng else 0))
+    shield = lambda p: a.openings[p].fp if p in a.openings else 0.0  # noqa: E731  hurt teammates: keep him
+    drop = min(pool, key=lambda p: (a.values[p].long + shield(p), eng.expected(p) if eng else 0))
     return drop, why
 
 
@@ -230,6 +231,8 @@ def _strong_drop(a, lg, pid, owned, powned, pteam, names, tz) -> Event:
         bits = [f"dugoročno {lg_gain:+.1f} FP po utakmici"]
         if wk is not None:
             bits.append(f"do nedjelje {wk:+.0f}")
+        if a.hurt_mates(drop):
+            bits.append(f"⚠️ {a.hurt_mates(drop)}")
         head += f" Za njega baci {dv.player.short}{' (' + why + ')' if why else ''}: {', '.join(bits)}."
     elif why:
         head += f" Nemaš koga baciti za njega: {why}."
@@ -247,8 +250,9 @@ def _hot(a: Analysis, lg, pid, st, tz) -> Event | None:
     text = f"🔥 {L}: {p.name} ({p.team}, {tag}) — {v.reason()}"
     fr = next((f for f in a.free if f.pid == pid), None)
     if fr and fr.best_gain and fr.best_gain > 0 and fr.best_drop in a.values:
+        hurt = a.hurt_mates(fr.best_drop)
         text += (f". Uzmi ga za {a.values[fr.best_drop].player.short}: {fr.best_gain:+.0f} do ned. "
-                 f"({_when(a, fr.best_t).lower()})")
+                 f"({_when(a, fr.best_t).lower()}){' — ⚠️ ' + hurt if hurt else ''}")
     elif fr is None:
         return None             # filtered out (OUT, too few minutes)
     days = days_text(a, pid, avail_sp(a, pid)) if a.eng else ""

@@ -91,7 +91,8 @@ def league(a: Analysis, tz: str) -> dict:
     drops = []
     for dr in a.drops:
         drops.append(player(a, dr.pid, tz, {"loss": _r(dr.loss), "in_lineup": len(dr.days_in), "games": dr.games,
-                                             "slot": SLOT.get(dr.slot, dr.slot)}))
+                                             "slot": SLOT.get(dr.slot, dr.slot),
+                                             "hurt_mates": a.hurt_mates(dr.pid) or None}))
 
     def free_row(f):
         fs = a.free_status.get(f.pid)

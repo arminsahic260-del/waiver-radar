@@ -7,13 +7,13 @@ from dataclasses import dataclass, field, replace
 from .config import Config, LeagueCfg
 from .engine import ACTIVE_SLOTS, Engine
 from .espn.maps import BENCH, IR, SLOT
-from .injuries import OutEntry, is_long, teammate_signals
+from .injuries import Opening, OutEntry, is_long, opening, teammate_signals
 from .models import FreeAgent, LeagueState, Matchup, Team, Transaction
 from .montecarlo import win_prob
 from .news import NewsItem, availability_flag
 from .planner import FA, IR_BACK, IR_IN, WAIVER, Cand, Move, Planner
 from .schedule import DAY_SHORT, ET, ProSchedule, day_label
-from .value import Valued, evaluate
+from .value import Signal, Valued, evaluate
 
 
 @dataclass
@@ -141,6 +141,12 @@ class Analysis:
     protect: float = 4.0
     planner: Planner | None = None
     keep: set[int] = field(default_factory=set)      # my players never to drop (config `ne_bacaj`)
+    openings: dict[int, Opening] = field(default_factory=dict)   # my players with hurt teammates right now
+
+    def hurt_mates(self, pid: int | None) -> str:
+        """'LAL: Reaves DTD, Dončić DTD' when `pid` is my player and his teammates are hurt, else ''."""
+        o = self.openings.get(pid) if pid is not None else None
+        return o.text if o else ""
 
     @property
     def remaining(self) -> list[int]:
@@ -222,6 +228,14 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     mates = teammate_signals([f.player for f in lg.free_agents], out_state, today, long_vals)
     for pid, s in mates.items():
         val(lg.players[pid] if pid in lg.players else free_status[pid].player, extra=[s])
+    # my players whose teammates are hurt right now: shown next to every drop, and harder to drop
+    openings: dict[int, Opening] = {}
+    pool = {**lg.players, **{r.player.id: r.player for t in (me, opp) if t for r in t.roster}}
+    for r in me.roster:
+        o = opening(r.player, pool, out_state, today_sp)
+        if o:       # shown with his signals, but his value stays as is (the shield is the planner's part)
+            openings[r.player.id] = o
+            values[r.player.id].signals.append(Signal("teammate", o.text))
 
     flags = {}
     for pid, items in news.items():
@@ -275,7 +289,8 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
         days_in = [d for d in remaining if pid in eng.opt(my_ros, d).starters]
         drops.append(DropRow(pid=pid, loss=round(loss, 1), days_in=days_in,
                              games=sum(1 for d in remaining if eng.plays(pid, d)), slot=r.slot))
-    drops.sort(key=lambda x: (x.loss, values[x.pid].long))
+    shield = {pid: o.fp for pid, o in openings.items()}
+    drops.sort(key=lambda x: (x.loss, values[x.pid].long + shield.get(x.pid, 0.0)))
 
     # ---- free agents
     # after today's first tip-off an add only counts from tomorrow (ESPN daily lock)
@@ -316,7 +331,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                       roster_cap=sum((lg.settings.slot_counts or {}).values()) + lg.settings.bench,
                       ir_cap=lg.settings.ir, max_centers=lg.settings.max_centers,
                       undroppable={r.player.id for r in me.roster if not r.player.droppable} | keep,
-                      min_gain=mc.min_dobitak, min_long_gain=mc.min_dobitak_dugorocno, protect=mc.zastita_fp,
+                      shield=shield, min_gain=mc.min_dobitak, min_long_gain=mc.min_dobitak_dugorocno, protect=mc.zastita_fp,
                       reserve=mc.rezerva_preuzimanja, reserve_from=end - 1)
     ir_returns, alerts, infos = [], [], []
     first = remaining[0] if remaining else today_sp
@@ -372,7 +387,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                  drops=drops, free=free, plan=plan, alerts=alerts, infos=infos, adds_used=adds_used,
                  adds_limit=adds_limit, news=news, out_state=out_state, schedule=schedule,
                  free_status=free_status, eng=eng, lg=lg, flags=flags, protect=mc.zastita_fp, planner=planner,
-                 keep=keep)
+                 keep=keep, openings=openings)
 
     # ---- opponent and my own moves this week
     if opp:

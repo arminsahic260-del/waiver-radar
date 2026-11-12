@@ -155,6 +155,8 @@ def move_parts(a: Analysis, m: Move, tz: str = "Europe/Zagreb") -> tuple[str, st
     if m.drop is not None:
         lost = _days(a, m.drop, m.t)
         why.append(f"{name(m.drop)} gubi {_dshort(a, lost, m.drop)}" if lost else "ne gubiš ništa")
+        if a.hurt_mates(m.drop):
+            why.append(f"⚠️ {a.hurt_mates(m.drop)}")
     if y.is_dtd:
         why.append("ako nije OUT")
     if a.mode == "dugorocno":
@@ -289,7 +291,8 @@ def detail_report(a: Analysis) -> str:
     L.append("\nZA BACANJE (gubitak do nedjelje ako ga baciš danas · dani u postavi · value_long)")
     for d in a.drops:
         p = v[d.pid].player
-        L.append(f"  {p.name:<26} {d.loss:6.1f}  u postavi {len(d.days_in)}/{d.games}  long {v[d.pid].long:5.1f}")
+        hurt = f"  ⚠️ {a.hurt_mates(d.pid)}" if a.hurt_mates(d.pid) else ""
+        L.append(f"  {p.name:<26} {d.loss:6.1f}  u postavi {len(d.days_in)}/{d.games}  long {v[d.pid].long:5.1f}{hurt}")
     L.append("\nZA UZETI — OVAJ TJEDAN (neto s najboljim bacanjem)")
     week = sorted(a.free, key=lambda f: (not v[f.pid].hot, -(f.best_gain if f.best_gain is not None else -999)))
     for f in week[:12]:

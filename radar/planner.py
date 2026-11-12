@@ -45,6 +45,7 @@ class Planner:
     ir_cap: int = 1
     max_centers: int | None = 4
     undroppable: set[int] = field(default_factory=set)
+    shield: dict[int, float] = field(default_factory=dict)  # my players whose hurt teammates open minutes: FP/game
     min_gain: float = 4.0
     min_long_gain: float = 2.5
     protect: float = 4.0
@@ -108,6 +109,10 @@ class Planner:
 
     def _long(self, pid) -> float:
         return self.eng.values[pid].long if pid is not None and pid in self.eng.values else 0.0
+
+    def _keep_value(self, pid) -> float:
+        """value_long of a drop candidate, plus the shield when his hurt teammates open minutes for him."""
+        return self._long(pid) + self.shield.get(pid, 0.0)
 
     # ---- moves we don't choose freely: IR in/out ---------------------------------------------------------------
     def repick_ir_drops(self, plan: list[Move]) -> list[Move]:
@@ -181,9 +186,11 @@ class Planner:
                 continue
             y_c = self._center(c.pid)
             for x, x_from in list(drops.items()) + [(None, days[0] if days else ts[0])]:
-                if x is not None and self.mode == "tjedan" and self._long(x) > self._long(c.pid) + self.protect:
+                if x is not None and self.mode == "tjedan" and self._keep_value(x) > self._long(c.pid) + self.protect:
                     continue        # don't trade a better player for a stream
                 lg = self._long(c.pid) - self._long(x)
+                if self.mode == "dugorocno" and lg - self.shield.get(x, 0.0) < self.min_long_gain:
+                    continue        # his minutes are about to grow: the newcomer must beat that too
                 if self.mode == "dugorocno" and lg < self.min_long_gain:
                     continue
                 ts_x = [t for t in ts if t >= x_from]
