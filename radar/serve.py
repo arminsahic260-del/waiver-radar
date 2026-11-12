@@ -105,7 +105,8 @@ class Server:
                 prev = self.store.get(f"snap:{a.key}")
                 cur = snapshot(lg, a, a_cfg.jaki_top)
                 events += diff(prev, cur, a, lg, watch=watch, plan_targets=plan_targets(self.store, a.key),
-                               strong_owned=a_cfg.jaki_vlasnistvo, prob_delta=a_cfg.prag_sanse_protivnik, tz=self.tz)
+                               strong_owned=a_cfg.jaki_vlasnistvo, prob_delta=a_cfg.prag_sanse_protivnik, tz=self.tz,
+                               min_gain=self.cfg.model.min_dobitak)
                 events += reconcile(self.store, a, now, self.tz)
                 history.record(self.store, a)
                 history.mark_executed(self.store, a, now)

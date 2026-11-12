@@ -5,6 +5,7 @@
 - a player from my plan or watchlist was taken: the next best one for the same goal
 - my player's status changed (ACTIVE <-> DTD/OUT), watchlist players freed / taken / status
 - the opponent made a move that shifts my chance to win by more than 5 points
+- someone who matters went OUT and his team plays today/tomorrow: his best free teammate as a streamer
 Every alarm has a dedupe key; the server sends each key once and groups one pass into one message."""
 from __future__ import annotations
 
@@ -144,7 +145,8 @@ def _when(a: Analysis, t: int | None) -> str:
 # ---------------------------------------------------------------------------------------------------------------
 def diff(prev: dict | None, cur: dict, a: Analysis, lg: LeagueState, *, watch: dict[int, str] | None = None,
          plan_targets: dict[int, dict] | None = None, team_names: dict[int, str] | None = None,
-         strong_owned: float = 30, prob_delta: float = 0.05, tz: str = "Europe/Zagreb") -> list[Event]:
+         strong_owned: float = 30, prob_delta: float = 0.05, tz: str = "Europe/Zagreb",
+         min_gain: float = 6) -> list[Event]:
     if not prev or not prev.get("players"):
         return []           # first pass: just remember
     watch = watch or {}
@@ -195,6 +197,12 @@ def diff(prev: dict | None, cur: dict, a: Analysis, lg: LeagueState, *, watch: d
         elif p0 and pid in watch and injury != pinj:
             out.append(Event(f"watch:status:{pid}:{injury}:{a.today_sp}", a.key, "pracenje",
                              f"👀 {_name(a, lg, pid)}: {inj(pinj)} → {inj(injury)}"))
+
+        # 8) someone who matters (not mine) went OUT: his free teammates are streamers today/tomorrow
+        if p0 and injury == "OUT" and pinj != "OUT" and team != me:
+            ev = _mate_out(a, lg, pid, pinj, tz, min_gain)
+            if ev:
+                out.append(ev)
 
     # 7) the opponent made a move that shifts my chance
     new_tx = [m for m in a.opp_moves if m.id not in set(prev.get("opp_tx") or [])]
@@ -258,7 +266,36 @@ def _hot(a: Analysis, lg, pid, st, tz) -> Event | None:
     days = days_text(a, pid, avail_sp(a, pid)) if a.eng else ""
     if days:
         text += f"; igra: {days}"
+    note = a.hurt_note(pid, fr.best_t if fr else None)
+    if note:
+        text += f"; 🩹 {note}"
     return Event(f"hot:{L}:{pid}:{a.period}", a.key, "vatra", text)
+
+
+def _mate_out(a: Analysis, lg, pid, old, tz, min_gain: float) -> Event | None:
+    """Someone who matters just went OUT and his team plays today/tomorrow: the best free teammate is a streamer
+    (the engine's per-game boost is already in his gain)."""
+    p = lg.players.get(pid) or (a.values[pid].player if pid in a.values else None)
+    if p is None or a.eng is None or not any(m.id == pid for m in a.hurt.get(p.pro_team_id, [])):
+        return None
+    if not any(d in a.remaining and a.schedule.open_game(p.pro_team_id, d, a.now)
+               for d in (a.today_sp, a.today_sp + 1)):
+        return None
+    mates = [f for f in a.free if f.pid in a.values and a.values[f.pid].player.pro_team_id == p.pro_team_id
+             and f.best_gain is not None and f.best_gain >= min_gain and f.best_drop in a.values]
+    if not mates:
+        return None
+    mates.sort(key=lambda f: -f.best_gain)
+    f = mates[0]
+    y = a.values[f.pid].player
+    st = "FA" if f.kind == "FREEAGENT" else f"waiver do {waiver_text(f.waiver_ms, tz)}"
+    b = a.mate_boost(f.pid, f.best_t)
+    text = (f"🩹➕ {a.label}: {p.name} ({p.team}) {inj(old)} → OUT. {y.short} ({st}) dobiva ~+{b:.0f} FP po "
+            f"utakmici dok ga nema. Uzmi ga za {a.values[f.best_drop].player.short}: {f.best_gain:+.0f} do ned. "
+            f"({_when(a, f.best_t).lower()}); igra: {days_text(a, f.pid, f.best_t or f.avail) or '—'}")
+    if len(mates) > 1:
+        text += " · rezerve: " + ", ".join(f"{a.values[x.pid].player.short} ({x.best_gain:+.0f})" for x in mates[1:3])
+    return Event(f"mateout:{a.label}:{pid}:{a.today_sp}", a.key, "suigrac", text)
 
 
 def _taken(a: Analysis, lg, pid, team, step: dict, C: dict, names) -> Event:

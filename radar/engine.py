@@ -7,11 +7,12 @@ from dataclasses import dataclass, field
 from typing import Iterable
 
 from .availability import p_play
-from .config import PPlayCfg
+from .config import ModelCfg, PPlayCfg
 from .injuries import OutEntry
 from .lineup import Lineup, optimize
+from .models import Player
 from .schedule import ProSchedule
-from .value import Valued
+from .value import Valued, value_now
 
 ACTIVE_SLOTS = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
 
@@ -28,9 +29,44 @@ class Engine:
     pcfg: PPlayCfg = field(default_factory=PPlayCfg)
     flags: dict[int, tuple[str, str]] = field(default_factory=dict)   # pid -> ('upitan'|'out', news sentence)
     ages: dict[int, int] = field(default_factory=dict)
+    hurt: dict[int, list[Player]] = field(default_factory=dict)       # NBA team -> who matters and is OUT/DTD
+    mcfg: ModelCfg = field(default_factory=ModelCfg)
     _memo: dict = field(default_factory=dict, repr=False)
     _val: dict = field(default_factory=dict, repr=False)
     _p: dict = field(default_factory=dict, repr=False)
+    _boost: dict = field(default_factory=dict, repr=False)
+
+    def miss(self, mate: Player, sp: int) -> float:
+        """Probability that `mate` (a hurt player, maybe not in `values`) misses his team's game on day `sp`."""
+        if mate.id in self.values:
+            return 1.0 - self.p(mate.id, sp)
+        e = self.out_state.get(mate.id)
+        return 1.0 - p_play(mate, sp, self.today_sp, self.schedule, self.pcfg, None, e.info.max_date if e else None)
+
+    def boost(self, pid: int, sp: int) -> float:
+        """Extra FP for `pid` on day `sp` because teammates who matter will probably miss that game: their FP x
+        share (bench/rotation players gain, 28+ min starters hardly), x the chance they miss, minus what his own
+        recent games (already without them) show. Capped."""
+        key = (pid, sp)
+        if key in self._boost:
+            return self._boost[key]
+        v, res = self.values.get(pid), 0.0
+        mates = self.hurt.get(v.player.pro_team_id) if v is not None else None
+        if mates:
+            c = self.mcfg
+            mpg = v.mpg3 if v.mpg3 is not None else (v.mpg or 0)
+            share = c.suigrac_udio if mpg < c.suigrac_starter_min else c.suigrac_udio_starter
+            for m in mates:
+                if m.id == pid or not m.games:
+                    continue
+                miss = self.miss(m, sp)
+                if miss <= 0:
+                    continue
+                without = sum(1 for g in v.player.games if g.sp > m.games[-1].sp)
+                res += miss * share * value_now(m) * max(0.0, 1 - without / 4)
+            res = round(max(0.0, min(res, c.suigrac_max_fp, c.suigrac_max_udio * max(v.now, 0))), 2)
+        self._boost[key] = res
+        return res
 
     def p(self, pid: int, sp: int) -> float:
         """p_play for `pid` on day `sp` (0 when there is no open game)."""
@@ -53,7 +89,7 @@ class Engine:
         if key in self._val:
             return self._val[key]
         pp = self.p(pid, sp)
-        res = round(self.values[pid].now * pp, 3) if pp > 0 else None
+        res = round((self.values[pid].now + self.boost(pid, sp)) * pp, 3) if pp > 0 else None
         self._val[key] = res
         return res
 

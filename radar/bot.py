@@ -173,8 +173,9 @@ def league_summary(ctx: Ctx, a: Analysis) -> str:
         L.append("Uzmi ovaj tjedan:")
         for i, f in enumerate(week, 1):
             st = "FA" if f.kind == "FREEAGENT" else f"W {waiver_when(a, f.waiver_ms, tz)}"
+            note = a.hurt_note(f.pid, f.best_t or f.avail)
             L.append(f" {i}. {v[f.pid].player.short} ({st}) {f.best_gain:+.0f} za {short(a, f.best_drop)}"
-                     f" — {days_text(a, f.pid, f.best_t or f.avail) or '—'}")
+                     f" — {days_text(a, f.pid, f.best_t or f.avail) or '—'}{' · 🩹 ' + note if note else ''}")
     longl = sorted(a.free, key=lambda f: (not v[f.pid].hot, -v[f.pid].long))[:5]
     if longl:
         L.append("Uzmi dugoročno:")
@@ -251,13 +252,15 @@ def player_text(ctx: Ctx, query: str) -> str:
     if v:
         L.append(f"Vrijednost: sada {v.now:.1f} · dugoročno {v.long:.1f}" +
                  ("" if p.proj.avg else " (nema ESPN projekcije)") + (" 🔥" if v.hot else ""))
-    hurt = opening(p, a.lg.players, a.out_state, a.today_sp) if a and a.lg else None
+    hurt = opening(p, a.hurt, a.out_state) if a else None
     if v:
         sig = [s for s in v.signals if not (hurt and s.text == hurt.text)]
         if sig:
             L.append("🔥 " + replace(v, signals=sig).reason())
     if hurt:
-        L.append(f"🩹 Ozljede u momčadi: {hurt.text} → više minuta za njega")
+        b = a.mate_boost(p.id) if p.id in a.values else 0.0
+        L.append(f"🩹 Ozljede u momčadi: {hurt.text} → " +
+                 (f"+{b:.0f} FP po utakmici dok ih nema (već uračunato)" if b >= 1 else "više minuta za njega"))
     L.append(f"Minute: sezona {p.season.mpg or 0:.1f} · zadnje 3: {t.mpg3 or 0:.1f} · zadnjih 5: {t.mpg5 or 0:.1f}"
              + (f" {t.arrow} ({t.delta:+.1f})" if t.arrow else ""))
     L.append(f"FP: sezona {p.season.avg or 0:.1f} ({p.season.gp} utk.) · zadnjih 7 dana "

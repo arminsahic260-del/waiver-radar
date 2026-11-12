@@ -7,7 +7,7 @@ from dataclasses import dataclass, field, replace
 from .config import Config, LeagueCfg
 from .engine import ACTIVE_SLOTS, Engine
 from .espn.maps import BENCH, IR, SLOT
-from .injuries import Opening, OutEntry, is_long, opening, teammate_signals
+from .injuries import Opening, OutEntry, hurt_by_team, is_long, opening, teammate_signals
 from .models import FreeAgent, LeagueState, Matchup, Team, Transaction
 from .montecarlo import win_prob
 from .news import NewsItem, availability_flag
@@ -142,11 +142,32 @@ class Analysis:
     planner: Planner | None = None
     keep: set[int] = field(default_factory=set)      # my players never to drop (config `ne_bacaj`)
     openings: dict[int, Opening] = field(default_factory=dict)   # my players with hurt teammates right now
+    hurt: dict[int, list] = field(default_factory=dict)           # NBA team -> who matters and is OUT/DTD now
 
     def hurt_mates(self, pid: int | None) -> str:
-        """'LAL: Reaves DTD, Dončić DTD' when `pid` is my player and his teammates are hurt, else ''."""
-        o = self.openings.get(pid) if pid is not None else None
+        """'LAL: Reaves DTD, Dončić DTD' when teammates of `pid` who matter are hurt right now, else ''."""
+        if pid is None:
+            return ""
+        o = self.openings.get(pid)
+        if o is None and pid in self.values:
+            o = opening(self.values[pid].player, self.hurt, self.out_state)
         return o.text if o else ""
+
+    def mate_boost(self, pid: int, from_sp: int | None = None) -> float:
+        """Average extra FP per game over his remaining games because hurt teammates will likely miss them."""
+        eng = self.eng
+        if eng is None:
+            return 0.0
+        days = [d for d in self.remaining if (from_sp is None or d >= from_sp) and eng.plays(pid, d)]
+        return round(sum(eng.boost(pid, d) for d in days) / len(days), 1) if days else 0.0
+
+    def hurt_note(self, pid: int | None, from_sp: int | None = None) -> str:
+        """'LAL: Reaves OUT, Dončić DTD → +4 FP/utak.' for a pickup (the boost is what the plan already counts)."""
+        text = self.hurt_mates(pid)
+        if not text:
+            return ""
+        b = self.mate_boost(pid, from_sp)
+        return f"{text} → +{b:.0f} FP/utak." if b >= 1 else text
 
     @property
     def remaining(self) -> list[int]:
@@ -229,10 +250,11 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     for pid, s in mates.items():
         val(lg.players[pid] if pid in lg.players else free_status[pid].player, extra=[s])
     # my players whose teammates are hurt right now: shown next to every drop, and harder to drop
+    everyone = {**lg.players, **{r.player.id: r.player for t in (me, opp) if t for r in t.roster}}
+    hurt = hurt_by_team(everyone, today_sp, mc.suigrac_min_fp)       # also the engine's per-game boost
     openings: dict[int, Opening] = {}
-    pool = {**lg.players, **{r.player.id: r.player for t in (me, opp) if t for r in t.roster}}
     for r in me.roster:
-        o = opening(r.player, pool, out_state, today_sp)
+        o = opening(r.player, hurt, out_state)
         if o:       # shown with his signals, but his value stays as is (the shield is the planner's part)
             openings[r.player.id] = o
             values[r.player.id].signals.append(Signal("teammate", o.text))
@@ -245,7 +267,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                 flags[pid] = f
     eng = Engine(schedule=schedule, now=now, today_sp=today_sp, days=remaining,
                  slot_counts=lg.settings.slot_counts or {0: 1, 1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 11: 3},
-                 values=values, out_state=out_state, pcfg=cfg.p_play, flags=flags, ages=ex.ages)
+                 values=values, out_state=out_state, pcfg=cfg.p_play, flags=flags, ages=ex.ages, hurt=hurt, mcfg=mc)
 
     my_ros = _active_ids(me)
     opp_ros = _active_ids(opp) if opp else set()
@@ -387,7 +409,7 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
                  drops=drops, free=free, plan=plan, alerts=alerts, infos=infos, adds_used=adds_used,
                  adds_limit=adds_limit, news=news, out_state=out_state, schedule=schedule,
                  free_status=free_status, eng=eng, lg=lg, flags=flags, protect=mc.zastita_fp, planner=planner,
-                 keep=keep, openings=openings)
+                 keep=keep, openings=openings, hurt=hurt)
 
     # ---- opponent and my own moves this week
     if opp:

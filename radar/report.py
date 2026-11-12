@@ -152,6 +152,8 @@ def move_parts(a: Analysis, m: Move, tz: str = "Europe/Zagreb") -> tuple[str, st
     y = v[m.add].player
     y_days = _days(a, m.add, m.t)
     why = [f"{y.short}: {_dshort(a, y_days, m.add)}" if y_days else f"{y.short} ovaj tjedan ne igra"]
+    if a.hurt_note(m.add, m.t):
+        why.append(f"🩹 {a.hurt_note(m.add, m.t)}")
     if m.drop is not None:
         lost = _days(a, m.drop, m.t)
         why.append(f"{name(m.drop)} gubi {_dshort(a, lost, m.drop)}" if lost else "ne gubiš ništa")
@@ -300,7 +302,8 @@ def detail_report(a: Analysis) -> str:
         drop = v[f.best_drop].player.short if f.best_drop in v else "—"
         st = "W" if f.kind == "WAIVERS" else "FA"
         L.append(f"  {'🔥' if v[f.pid].hot else '  '} {p.name:<24} {p.team:<3} {st:<2} igra {_dshort(a, f.days):<20} "
-                 f"neto {f.best_gain if f.best_gain is not None else 0:5.1f} (za {drop})  now {v[f.pid].now:4.1f}")
+                 f"neto {f.best_gain if f.best_gain is not None else 0:5.1f} (za {drop})  now {v[f.pid].now:4.1f}"
+                 f"{'  🩹 ' + a.hurt_note(f.pid) if a.hurt_note(f.pid) else ''}")
     L.append("\nZA UZETI — DUGOROČNO (value_long)")
     longl = sorted(a.free, key=lambda f: (not v[f.pid].hot, -v[f.pid].long))
     for f in longl[:10]:

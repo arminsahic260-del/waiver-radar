@@ -104,6 +104,7 @@ def league(a: Analysis, tz: str) -> dict:
             "when": when_label(a, f.best_t) if f.best_t else None,
             "days": [DAY_SHORT[sched.date(x).weekday()] + ("🔁" if a.eng and a.eng.b2b(f.pid, x) else "")
                      for x in f.days],
+            "hurt_mates": a.hurt_mates(f.pid) or None, "mate_boost": a.mate_boost(f.pid, f.best_t) or None,
         })
 
     week = sorted(a.free, key=lambda f: (not v[f.pid].hot, -(f.best_gain if f.best_gain is not None else f.gain_add)))

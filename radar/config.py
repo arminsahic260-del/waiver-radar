@@ -55,6 +55,14 @@ class ModelCfg(BaseModel):
     tezine_bez_projekcije: tuple[float, float, float] = (0.5, 0.3, 0.2)   # zadnjih 7, zadnjih 15, sezona
     trend_minuta_prag: float = 4
     trend_bonus: float = 0.5
+    # suigrač ozlijeđen (OUT/DTD) -> više bodova za ostale na TOJ utakmici. Izmjereno 12.11.2026 na ovoj sezoni:
+    # kad igrač od 25+ FP ne igra, suigrači s 15-28 min dobiju +3..6 FP (~12 % njegovih FP), oni s 28+ min ~0.
+    suigrac_min_fp: float = 20            # ozlijeđeni suigrač se računa ako vrijedi barem ovoliko (value_now)
+    suigrac_udio: float = 0.12            # dio njegovih FP koji dobije igrač s manje od suigrac_starter_min minuta
+    suigrac_udio_starter: float = 0.02
+    suigrac_starter_min: float = 28
+    suigrac_max_fp: float = 10            # najviše ovoliko FP bonusa po utakmici ...
+    suigrac_max_udio: float = 0.5         # ... i najviše ovaj dio njegove vrijednosti
 
 
 class PPlayCfg(BaseModel):

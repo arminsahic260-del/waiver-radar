@@ -66,19 +66,27 @@ class Opening:
     mates: list[int] = field(default_factory=list)
 
 
-def opening(p: Player, pool: dict[int, Player], state: dict[int, OutEntry], today_sp: int,
-            min_value: float = 18, out_fp: float = 3.0, dtd_fp: float = 1.5, cap: float = 6.0,
-            fresh_days: int = 10) -> Opening | None:
-    """Teammates worth `min_value`+ who are OUT or DTD and played in the last `fresh_days` (a long absence is
-    already in his own numbers). OUT counts `out_fp`, DTD `dtd_fp`, together at most `cap` FP/game."""
-    if p.pro_team_id not in PRO_TEAM:
-        return None
-    mates = [q for q in pool.values()
-             if q.id != p.id and q.pro_team_id == p.pro_team_id and (q.is_out or q.is_dtd)
-             and q.games and today_sp - q.games[-1].sp <= fresh_days and value_now(q) >= min_value]
+def hurt_by_team(pool: dict[int, Player], today_sp: int, min_value: float = 20,
+                 fresh_days: int = 10) -> dict[int, list[Player]]:
+    """NBA team -> players worth `min_value`+ who are OUT or DTD now and played in the last `fresh_days` (a long
+    absence is already in his teammates' numbers). Best first."""
+    out: dict[int, list[Player]] = {}
+    for q in pool.values():
+        if (q.is_out or q.is_dtd) and q.pro_team_id in PRO_TEAM and q.games \
+                and today_sp - q.games[-1].sp <= fresh_days and value_now(q) >= min_value:
+            out.setdefault(q.pro_team_id, []).append(q)
+    for v in out.values():
+        v.sort(key=lambda q: -value_now(q))
+    return out
+
+
+def opening(p: Player, hurt: dict[int, list[Player]], state: dict[int, OutEntry],
+            out_fp: float = 3.0, dtd_fp: float = 1.5, cap: float = 6.0) -> Opening | None:
+    """His hurt teammates (from `hurt_by_team`). As a drop shield OUT counts `out_fp`, DTD `dtd_fp`, together
+    at most `cap` FP/game."""
+    mates = [q for q in hurt.get(p.pro_team_id, []) if q.id != p.id]
     if not mates:
         return None
-    mates.sort(key=lambda q: -value_now(q))
     fp = min(cap, sum(out_fp if q.is_out else dtd_fp for q in mates))
     bits = []
     for q in mates[:4]:
