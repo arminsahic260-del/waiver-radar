@@ -144,3 +144,17 @@ def test_report_shape():
     assert lines[1] == "Danas: ti 10 | oni 10   Sutra: ti 9 | oni 10"
     assert lines[-1] == "Preuzimanja: 2/7 (protivnik 0/7)"
     assert any(l.startswith("NOĆAS OD 01:00: Drop → Add (+") and "Drop gubi" not in l for l in lines)
+
+
+def test_player_without_nba_team_is_never_a_pickup():
+    """Kevin Porter Jr. 12.11.: waived (proTeamId 0) but ESPN still projects 33 FP -> was proposed long-term."""
+    me = team([player(i, 20, 1, "ANY") for i in range(13)])
+    opp = team([player(900 + i, 20, 1, "ANY") for i in range(10)], tid=2)
+    unsigned = player(500, 40, 0, "PG/SG", gp=0, proj=33, name="Kevin Porter Jr.")
+    signed = player(501, 30, 3, "SF", name="Real Guy")
+    a = _analyze(me, opp, free=[(unsigned, "FREEAGENT", None), (signed, "FREEAGENT", None)],
+                 games={1: ALL, 3: ALL}, my_points=400, opp_points=100)
+    assert not unsigned.has_team and signed.has_team
+    pids = {f.pid for f in a.free}
+    assert 500 not in pids and 501 in pids
+    assert all(m.add != 500 for m in a.plan)

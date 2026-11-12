@@ -79,6 +79,11 @@ class Player(BaseModel):
         return self.injury in INJURY_OUT
 
     @property
+    def has_team(self) -> bool:
+        """False for players without an NBA team (waived/unsigned: ESPN proTeamId 0) - they can't play."""
+        return self.pro_team_id in PRO_TEAM
+
+    @property
     def is_dtd(self) -> bool:
         return self.injury in INJURY_DTD
 

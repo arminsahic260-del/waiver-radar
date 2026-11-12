@@ -289,8 +289,8 @@ def analyze(lg: LeagueState, lc: LeagueCfg, cfg: Config, schedule: ProSchedule, 
     free = []
     for f in lg.free_agents:
         v = values[f.player.id]
-        if f.player.is_out or not _mins_ok(v, mc.min_minuta):
-            continue
+        if f.player.is_out or not f.player.has_team or not _mins_ok(v, mc.min_minuta):
+            continue                    # no NBA team (e.g. Porter Jr. waived 19.10.): ESPN projection, no games
         if v.now <= 0 and not v.hot:
             continue
         a = avail_of(f)
