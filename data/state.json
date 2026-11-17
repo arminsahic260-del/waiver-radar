@@ -123,24 +123,6 @@
    },
    "headline": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports."
   },
-  "4432165": {
-   "player_id": 4432165,
-   "name": "Jalen Suggs",
-   "pro_team_id": 19,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 26.3,
-   "info": {
-    "since": "2026-10-26",
-    "min_date": "2026-11-09",
-    "max_date": "2026-11-09",
-    "text": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
-    "kind": "weeks"
-   },
-   "headline": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
-  },
   "4432573": {
    "player_id": 4432573,
    "name": "Paolo Banchero",
@@ -230,23 +212,6 @@
    },
    "headline": "Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports."
   },
-  "5061589": {
-   "player_id": 5061589,
-   "name": "Yves Missi",
-   "pro_team_id": 3,
-   "positions": [
-    "C"
-   ],
-   "value": 32.52,
-   "info": {
-    "since": "2026-11-05",
-    "min_date": "2026-11-19",
-    "max_date": "2026-12-17",
-    "text": "He remains without a timetable to return and can be considered week-to-week moving forward.",
-    "kind": "indefinite"
-   },
-   "headline": "Missi (knee) is out for Friday's game against Minnesota."
-  },
   "3032979": {
    "player_id": 3032979,
    "name": "Dennis Schroder",
@@ -254,7 +219,7 @@
    "positions": [
     "PG"
    ],
-   "value": 18.5,
+   "value": 19.84,
    "info": {
     "since": "2026-11-08",
     "min_date": "2026-11-22",
@@ -290,7 +255,7 @@
     "PG",
     "SG"
    ],
-   "value": 16.74,
+   "value": 11.89,
    "info": {
     "since": "2026-11-10",
     "min_date": "2026-11-17",
@@ -308,15 +273,103 @@
     "PF",
     "SF"
    ],
-   "value": 16.29,
+   "value": 15.85,
    "info": {
-    "since": "2026-11-09",
-    "min_date": "2026-11-23",
-    "max_date": "2026-12-21",
-    "text": "In his absence, DeAndre Jordan could re-enter the rotation, given Yves Missi (knee) remains out indefinitely.",
+    "since": "2026-11-12",
+    "min_date": "2026-11-26",
+    "max_date": "2026-12-24",
+    "text": "Friday marks a third consecutive absence for Watford, who has no timetable for a return with a sprained ankle.",
     "kind": "indefinite"
    },
-   "headline": "Watford (ankle) is out for Monday's game versus the Warriors."
+   "headline": "Watford (ankle) is listed as out for Friday's game against the Grizzlies."
+  },
+  "3975": {
+   "player_id": 3975,
+   "name": "Stephen Curry",
+   "pro_team_id": 9,
+   "positions": [
+    "PG"
+   ],
+   "value": 35.28,
+   "info": {
+    "since": "2026-11-12",
+    "min_date": "2026-11-26",
+    "max_date": "2026-11-26",
+    "text": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+    "kind": "weeks"
+   },
+   "headline": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
+  },
+  "2990992": {
+   "player_id": 2990992,
+   "name": "Marcus Smart",
+   "pro_team_id": 10,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 16.46,
+   "info": {
+    "since": "2026-11-03",
+    "min_date": "2026-11-05",
+    "max_date": "2026-11-05",
+    "text": "Smart will shift to the bench Monday due to Fred VanVleet returning from a one-game absence.",
+    "kind": "weeks"
+   },
+   "headline": "Smart will come off the bench for Monday's game against the Celtics, Lachard Binkley of SI.com reports."
+  },
+  "3907497": {
+   "player_id": 3907497,
+   "name": "Dejounte Murray",
+   "pro_team_id": 3,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 26.46,
+   "info": {
+    "since": "2026-11-13",
+    "min_date": "2026-11-27",
+    "max_date": "2026-12-25",
+    "text": "Shams Charania of ESPN noted Friday that the star guard won't be available for New Orleans for the time being, so Murray can be considered out indefinitely while the team tries to find him another home.",
+    "kind": "indefinite"
+   },
+   "headline": "Murray (ankle) is out for Friday's game against Memphis."
+  },
+  "4066336": {
+   "player_id": 4066336,
+   "name": "Lauri Markkanen",
+   "pro_team_id": 26,
+   "positions": [
+    "PF",
+    "SF"
+   ],
+   "value": 33.1,
+   "info": {
+    "since": "2026-11-11",
+    "min_date": "2026-12-11",
+    "max_date": "2026-12-11",
+    "text": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",
+    "kind": "weeks"
+   },
+   "headline": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports."
+  },
+  "5095151": {
+   "player_id": 5095151,
+   "name": "Caleb Wilson",
+   "pro_team_id": 4,
+   "positions": [
+    "SF"
+   ],
+   "value": 30.54,
+   "info": {
+    "since": "2026-11-12",
+    "min_date": "2026-12-10",
+    "max_date": "2026-12-24",
+    "text": "Wilson is undergoing surgery for a fractured right hand and will miss at least four to six weeks, Shams Charania of ESPN reports.",
+    "kind": "weeks"
+   },
+   "headline": "Wilson is undergoing surgery for a fractured right hand and will miss at least four to six weeks, Shams Charania of ESPN reports."
   }
  }
 }
