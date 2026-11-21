@@ -1,23 +1,5 @@
 {
  "out": {
-  "6450": {
-   "player_id": 6450,
-   "name": "Kawhi Leonard",
-   "pro_team_id": 28,
-   "positions": [
-    "PF",
-    "SF"
-   ],
-   "value": 40.04,
-   "info": {
-    "since": "2026-11-04",
-    "min_date": "2026-11-11",
-    "max_date": "2026-11-11",
-    "text": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
-    "kind": "weeks"
-   },
-   "headline": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
-  },
   "3102530": {
    "player_id": 3102530,
    "name": "Jusuf Nurkic",
@@ -27,13 +9,13 @@
    ],
    "value": 22.07,
    "info": {
-    "since": "2026-11-06",
-    "min_date": "2026-11-20",
-    "max_date": "2026-11-20",
-    "text": "He will be re-evaluated in two weeks, the Jazz announced Friday.",
+    "since": "2026-11-20",
+    "min_date": "2026-11-27",
+    "max_date": "2026-11-27",
+    "text": "Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week.",
     "kind": "weeks"
    },
-   "headline": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday."
+   "headline": "Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week."
   },
   "3102531": {
    "player_id": 3102531,
@@ -104,24 +86,6 @@
     "kind": "weeks"
    },
    "headline": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday."
-  },
-  "4396993": {
-   "player_id": 4396993,
-   "name": "Tyrese Haliburton",
-   "pro_team_id": 11,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 50.44,
-   "info": {
-    "since": "2026-10-28",
-    "min_date": "2026-11-11",
-    "max_date": "2026-11-11",
-    "text": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
-    "kind": "weeks"
-   },
-   "headline": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports."
   },
   "4432573": {
    "player_id": 4432573,
@@ -255,7 +219,7 @@
     "PG",
     "SG"
    ],
-   "value": 11.89,
+   "value": 13.54,
    "info": {
     "since": "2026-11-10",
     "min_date": "2026-11-17",
@@ -273,7 +237,7 @@
     "PF",
     "SF"
    ],
-   "value": 15.85,
+   "value": 16.6,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -290,7 +254,7 @@
    "positions": [
     "PG"
    ],
-   "value": 35.28,
+   "value": 43.78,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -300,24 +264,6 @@
    },
    "headline": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
   },
-  "2990992": {
-   "player_id": 2990992,
-   "name": "Marcus Smart",
-   "pro_team_id": 10,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 16.46,
-   "info": {
-    "since": "2026-11-03",
-    "min_date": "2026-11-05",
-    "max_date": "2026-11-05",
-    "text": "Smart will shift to the bench Monday due to Fred VanVleet returning from a one-game absence.",
-    "kind": "weeks"
-   },
-   "headline": "Smart will come off the bench for Monday's game against the Celtics, Lachard Binkley of SI.com reports."
-  },
   "3907497": {
    "player_id": 3907497,
    "name": "Dejounte Murray",
@@ -326,7 +272,7 @@
     "PG",
     "SG"
    ],
-   "value": 26.46,
+   "value": 32.63,
    "info": {
     "since": "2026-11-13",
     "min_date": "2026-11-27",
@@ -361,7 +307,7 @@
    "positions": [
     "SF"
    ],
-   "value": 30.54,
+   "value": 33.52,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-12-10",
@@ -370,6 +316,184 @@
     "kind": "weeks"
    },
    "headline": "Wilson is undergoing surgery for a fractured right hand and will miss at least four to six weeks, Shams Charania of ESPN reports."
+  },
+  "6450": {
+   "player_id": 6450,
+   "name": "Kawhi Leonard",
+   "pro_team_id": 28,
+   "positions": [
+    "PF",
+    "SF"
+   ],
+   "value": 40.04,
+   "info": {
+    "since": "2026-11-04",
+    "min_date": "2026-11-11",
+    "max_date": "2026-11-11",
+    "text": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
+  },
+  "2490149": {
+   "player_id": 2490149,
+   "name": "CJ McCollum",
+   "pro_team_id": 1,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 34.84,
+   "info": {
+    "since": "2026-11-17",
+    "min_date": "2026-12-15",
+    "max_date": "2026-12-15",
+    "text": "McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network.",
+    "kind": "weeks"
+   },
+   "headline": "McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network."
+  },
+  "3157465": {
+   "player_id": 3157465,
+   "name": "Duncan Robinson",
+   "pro_team_id": 8,
+   "positions": [
+    "SF",
+    "SG"
+   ],
+   "value": 22.26,
+   "info": {
+    "since": "2026-11-17",
+    "min_date": "2026-11-24",
+    "max_date": "2026-11-24",
+    "text": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M.",
+    "kind": "weeks"
+   },
+   "headline": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports."
+  },
+  "4066457": {
+   "player_id": 4066457,
+   "name": "Austin Reaves",
+   "pro_team_id": 13,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 40.04,
+   "info": {
+    "since": "2026-11-19",
+    "min_date": "2026-12-03",
+    "max_date": "2026-12-31",
+    "text": "Given that Reaves' workout went \"well\" and the injury has been classified as a \"heel bruise,\" we'd take the \"no timetable\" comment from Redick with a grain of salt.",
+    "kind": "indefinite"
+   },
+   "headline": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports."
+  },
+  "4395625": {
+   "player_id": 4395625,
+   "name": "RJ Barrett",
+   "pro_team_id": 28,
+   "positions": [
+    "SF",
+    "SG"
+   ],
+   "value": 32.76,
+   "info": {
+    "since": "2026-11-19",
+    "min_date": "2026-12-03",
+    "max_date": "2026-12-03",
+    "text": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports."
+  },
+  "4431679": {
+   "player_id": 4431679,
+   "name": "Precious Achiuwa",
+   "pro_team_id": 23,
+   "positions": [
+    "C",
+    "PF"
+   ],
+   "value": 14.31,
+   "info": {
+    "since": "2026-11-18",
+    "min_date": "2026-11-22",
+    "max_date": "2026-11-22",
+    "text": "Achiuwa will shed his questionable tag and return from a two-game absence due to a lower-leg contusion.",
+    "kind": "weeks"
+   },
+   "headline": "Achiuwa (lower leg) is available for Wednesday's game against the Suns."
+  },
+  "4683688": {
+   "player_id": 4683688,
+   "name": "Dereck Lively II",
+   "pro_team_id": 6,
+   "positions": [
+    "C"
+   ],
+   "value": 21.94,
+   "info": {
+    "since": "2026-11-17",
+    "min_date": "2026-12-01",
+    "max_date": "2026-12-29",
+    "text": "Lively remains out indefinitely due to 2025 foot surgery.",
+    "kind": "indefinite"
+   },
+   "headline": "Lively (foot) is out for Wednesday's game against the Warriors."
+  },
+  "5037871": {
+   "player_id": 5037871,
+   "name": "Dylan Harper",
+   "pro_team_id": 24,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 35.21,
+   "info": {
+    "since": "2026-11-19",
+    "min_date": "2026-12-03",
+    "max_date": "2026-12-10",
+    "text": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports."
+  },
+  "5149077": {
+   "player_id": 5149077,
+   "name": "Kingston Flemings",
+   "pro_team_id": 1,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 19.83,
+   "info": {
+    "since": "2026-11-19",
+    "min_date": "2026-11-23",
+    "max_date": "2026-11-23",
+    "text": "The rookie guard is looking to end a two-game absence with a back injury.",
+    "kind": "weeks"
+   },
+   "headline": "Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
+  },
+  "5279130": {
+   "player_id": 5279130,
+   "name": "Nolan Traore",
+   "pro_team_id": 17,
+   "positions": [
+    "PG"
+   ],
+   "value": 22.49,
+   "info": {
+    "since": "2026-11-17",
+    "min_date": "2026-11-19",
+    "max_date": "2026-11-19",
+    "text": "Traore returned from a calf injury Saturday against Memphis following a one-game absence but was deployed off the bench.",
+    "kind": "weeks"
+   },
+   "headline": "Traore is starting Monday's game against Philadelphia, C.J. Holmes of the New York Daily News reports."
   }
  }
 }
