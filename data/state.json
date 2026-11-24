@@ -219,7 +219,7 @@
     "PG",
     "SG"
    ],
-   "value": 13.54,
+   "value": 10.24,
    "info": {
     "since": "2026-11-10",
     "min_date": "2026-11-17",
@@ -237,7 +237,7 @@
     "PF",
     "SF"
    ],
-   "value": 16.6,
+   "value": 11.8,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -317,24 +317,6 @@
    },
    "headline": "Wilson is undergoing surgery for a fractured right hand and will miss at least four to six weeks, Shams Charania of ESPN reports."
   },
-  "6450": {
-   "player_id": 6450,
-   "name": "Kawhi Leonard",
-   "pro_team_id": 28,
-   "positions": [
-    "PF",
-    "SF"
-   ],
-   "value": 40.04,
-   "info": {
-    "since": "2026-11-04",
-    "min_date": "2026-11-11",
-    "max_date": "2026-11-11",
-    "text": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
-    "kind": "weeks"
-   },
-   "headline": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
-  },
   "2490149": {
    "player_id": 2490149,
    "name": "CJ McCollum",
@@ -343,7 +325,7 @@
     "PG",
     "SG"
    ],
-   "value": 34.84,
+   "value": 29.37,
    "info": {
     "since": "2026-11-17",
     "min_date": "2026-12-15",
@@ -361,7 +343,7 @@
     "SF",
     "SG"
    ],
-   "value": 22.26,
+   "value": 27.25,
    "info": {
     "since": "2026-11-17",
     "min_date": "2026-11-24",
@@ -397,7 +379,7 @@
     "SF",
     "SG"
    ],
-   "value": 32.76,
+   "value": 35.91,
    "info": {
     "since": "2026-11-19",
     "min_date": "2026-12-03",
@@ -406,24 +388,6 @@
     "kind": "weeks"
    },
    "headline": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports."
-  },
-  "4431679": {
-   "player_id": 4431679,
-   "name": "Precious Achiuwa",
-   "pro_team_id": 23,
-   "positions": [
-    "C",
-    "PF"
-   ],
-   "value": 14.31,
-   "info": {
-    "since": "2026-11-18",
-    "min_date": "2026-11-22",
-    "max_date": "2026-11-22",
-    "text": "Achiuwa will shed his questionable tag and return from a two-game absence due to a lower-leg contusion.",
-    "kind": "weeks"
-   },
-   "headline": "Achiuwa (lower leg) is available for Wednesday's game against the Suns."
   },
   "4683688": {
    "player_id": 4683688,
@@ -450,7 +414,7 @@
     "PG",
     "SG"
    ],
-   "value": 35.21,
+   "value": 31.01,
    "info": {
     "since": "2026-11-19",
     "min_date": "2026-12-03",
@@ -460,24 +424,6 @@
    },
    "headline": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports."
   },
-  "5149077": {
-   "player_id": 5149077,
-   "name": "Kingston Flemings",
-   "pro_team_id": 1,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 19.83,
-   "info": {
-    "since": "2026-11-19",
-    "min_date": "2026-11-23",
-    "max_date": "2026-11-23",
-    "text": "The rookie guard is looking to end a two-game absence with a back injury.",
-    "kind": "weeks"
-   },
-   "headline": "Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
-  },
   "5279130": {
    "player_id": 5279130,
    "name": "Nolan Traore",
@@ -485,15 +431,103 @@
    "positions": [
     "PG"
    ],
-   "value": 22.49,
+   "value": 23.25,
    "info": {
-    "since": "2026-11-17",
-    "min_date": "2026-11-19",
-    "max_date": "2026-11-19",
-    "text": "Traore returned from a calf injury Saturday against Memphis following a one-game absence but was deployed off the bench.",
+    "since": "2026-11-23",
+    "min_date": "2027-01-18",
+    "max_date": "2027-02-01",
+    "text": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",
     "kind": "weeks"
    },
-   "headline": "Traore is starting Monday's game against Philadelphia, C.J. Holmes of the New York Daily News reports."
+   "headline": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports."
+  },
+  "6450": {
+   "player_id": 6450,
+   "name": "Kawhi Leonard",
+   "pro_team_id": 28,
+   "positions": [
+    "PF",
+    "SF"
+   ],
+   "value": 40.04,
+   "info": {
+    "since": "2026-11-04",
+    "min_date": "2026-11-11",
+    "max_date": "2026-11-11",
+    "text": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
+  },
+  "2991070": {
+   "player_id": 2991070,
+   "name": "Jerami Grant",
+   "pro_team_id": 29,
+   "positions": [
+    "PF"
+   ],
+   "value": 19.27,
+   "info": {
+    "since": "2026-11-23",
+    "min_date": "2026-12-07",
+    "max_date": "2026-12-07",
+    "text": "Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.",
+    "kind": "weeks"
+   },
+   "headline": "Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks."
+  },
+  "3135045": {
+   "player_id": 3135045,
+   "name": "Grayson Allen",
+   "pro_team_id": 30,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 26.29,
+   "info": {
+    "since": "2026-11-15",
+    "min_date": "2026-11-19",
+    "max_date": "2026-11-19",
+    "text": "Allen will shift back to the bench after starting the previous three contests with Brandon Miller (groin) returning from a two-game absence.",
+    "kind": "weeks"
+   },
+   "headline": "Allen is not listed in the starting lineup for Sunday's game against the Clippers, Tomer Azarly of ClutchPoints.com reports."
+  },
+  "4066259": {
+   "player_id": 4066259,
+   "name": "De'Aaron Fox",
+   "pro_team_id": 24,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 26.05,
+   "info": {
+    "since": "2026-11-23",
+    "min_date": "2027-04-11",
+    "max_date": "2027-04-11",
+    "text": "The Grizzlies want to make the playoffs and do some damage while they're there, and Coward is going to be a force for the rest of the season, assuming he stays healthy.",
+    "kind": "season"
+   },
+   "headline": "Fantasy risers and fallers: Trade Davion Mitchell? Move on from De'Aaron Fox?"
+  },
+  "5041935": {
+   "player_id": 5041935,
+   "name": "Cameron Boozer",
+   "pro_team_id": 29,
+   "positions": [
+    "PF"
+   ],
+   "value": 39.49,
+   "info": {
+    "since": "2026-11-23",
+    "min_date": "2026-12-21",
+    "max_date": "2026-12-21",
+    "text": "Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",
+    "kind": "weeks"
+   },
+   "headline": "Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports."
   }
  }
 }
