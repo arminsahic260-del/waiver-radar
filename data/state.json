@@ -185,13 +185,13 @@
    ],
    "value": 19.84,
    "info": {
-    "since": "2026-11-08",
-    "min_date": "2026-11-22",
-    "max_date": "2026-11-22",
-    "text": "Schroder has been diagnosed with a left hamstring strain and will be re-evaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
-    "kind": "weeks"
+    "since": "2026-11-24",
+    "min_date": "2026-12-08",
+    "max_date": "2027-01-05",
+    "text": "Schroder remains out indefinitely with a hamstring strain.",
+    "kind": "indefinite"
    },
-   "headline": "Schroder has been diagnosed with a left hamstring strain and will be re-evaluated in two weeks, Michael Scotto of HoopsHype.com reports."
+   "headline": "Schroder (hamstring) is out for Wednesday's game the Bulls."
   },
   "5061575": {
    "player_id": 5061575,
@@ -237,7 +237,7 @@
     "PF",
     "SF"
    ],
-   "value": 11.8,
+   "value": 16.0,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -431,7 +431,7 @@
    "positions": [
     "PG"
    ],
-   "value": 23.25,
+   "value": 20.39,
    "info": {
     "since": "2026-11-23",
     "min_date": "2027-01-18",
@@ -441,24 +441,6 @@
    },
    "headline": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports."
   },
-  "6450": {
-   "player_id": 6450,
-   "name": "Kawhi Leonard",
-   "pro_team_id": 28,
-   "positions": [
-    "PF",
-    "SF"
-   ],
-   "value": 40.04,
-   "info": {
-    "since": "2026-11-04",
-    "min_date": "2026-11-11",
-    "max_date": "2026-11-11",
-    "text": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
-    "kind": "weeks"
-   },
-   "headline": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
-  },
   "2991070": {
    "player_id": 2991070,
    "name": "Jerami Grant",
@@ -466,7 +448,7 @@
    "positions": [
     "PF"
    ],
-   "value": 19.27,
+   "value": 16.35,
    "info": {
     "since": "2026-11-23",
     "min_date": "2026-12-07",
@@ -494,24 +476,6 @@
    },
    "headline": "Allen is not listed in the starting lineup for Sunday's game against the Clippers, Tomer Azarly of ClutchPoints.com reports."
   },
-  "4066259": {
-   "player_id": 4066259,
-   "name": "De'Aaron Fox",
-   "pro_team_id": 24,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 26.05,
-   "info": {
-    "since": "2026-11-23",
-    "min_date": "2027-04-11",
-    "max_date": "2027-04-11",
-    "text": "The Grizzlies want to make the playoffs and do some damage while they're there, and Coward is going to be a force for the rest of the season, assuming he stays healthy.",
-    "kind": "season"
-   },
-   "headline": "Fantasy risers and fallers: Trade Davion Mitchell? Move on from De'Aaron Fox?"
-  },
   "5041935": {
    "player_id": 5041935,
    "name": "Cameron Boozer",
@@ -519,7 +483,7 @@
    "positions": [
     "PF"
    ],
-   "value": 39.49,
+   "value": 39.03,
    "info": {
     "since": "2026-11-23",
     "min_date": "2026-12-21",
@@ -528,6 +492,24 @@
     "kind": "weeks"
    },
    "headline": "Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports."
+  },
+  "6450": {
+   "player_id": 6450,
+   "name": "Kawhi Leonard",
+   "pro_team_id": 28,
+   "positions": [
+    "PF",
+    "SF"
+   ],
+   "value": 40.04,
+   "info": {
+    "since": "2026-11-24",
+    "min_date": "2026-12-01",
+    "max_date": "2026-12-01",
+    "text": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J.",
+    "kind": "weeks"
+   },
+   "headline": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports."
   }
  }
 }
