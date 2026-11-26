@@ -130,7 +130,7 @@
    "positions": [
     "C"
    ],
-   "value": 34.8,
+   "value": 22.62,
    "info": {
     "since": "2026-11-08",
     "min_date": "2026-11-22",
@@ -191,7 +191,7 @@
     "text": "Schroder remains out indefinitely with a hamstring strain.",
     "kind": "indefinite"
    },
-   "headline": "Schroder (hamstring) is out for Wednesday's game the Bulls."
+   "headline": "Schroder (hamstring) is out for Wednesday's game against the Bulls."
   },
   "5061575": {
    "player_id": 5061575,
@@ -211,24 +211,6 @@
    },
    "headline": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
   },
-  "4397040": {
-   "player_id": 4397040,
-   "name": "Brandon Williams",
-   "pro_team_id": 9,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 10.24,
-   "info": {
-    "since": "2026-11-10",
-    "min_date": "2026-11-17",
-    "max_date": "2026-11-17",
-    "text": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com.",
-    "kind": "weeks"
-   },
-   "headline": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com."
-  },
   "4431675": {
    "player_id": 4431675,
    "name": "Trendon Watford",
@@ -237,7 +219,7 @@
     "PF",
     "SF"
    ],
-   "value": 16.0,
+   "value": 3.2,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -254,7 +236,7 @@
    "positions": [
     "PG"
    ],
-   "value": 43.78,
+   "value": 28.46,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -272,7 +254,7 @@
     "PG",
     "SG"
    ],
-   "value": 32.63,
+   "value": 21.21,
    "info": {
     "since": "2026-11-13",
     "min_date": "2026-11-27",
@@ -290,7 +272,7 @@
     "PF",
     "SF"
    ],
-   "value": 33.1,
+   "value": 21.52,
    "info": {
     "since": "2026-11-11",
     "min_date": "2026-12-11",
@@ -325,7 +307,7 @@
     "PG",
     "SG"
    ],
-   "value": 29.37,
+   "value": 19.09,
    "info": {
     "since": "2026-11-17",
     "min_date": "2026-12-15",
@@ -343,7 +325,7 @@
     "SF",
     "SG"
    ],
-   "value": 27.25,
+   "value": 17.71,
    "info": {
     "since": "2026-11-17",
     "min_date": "2026-11-24",
@@ -379,7 +361,7 @@
     "SF",
     "SG"
    ],
-   "value": 35.91,
+   "value": 21.91,
    "info": {
     "since": "2026-11-19",
     "min_date": "2026-12-03",
@@ -414,7 +396,7 @@
     "PG",
     "SG"
    ],
-   "value": 31.01,
+   "value": 22.26,
    "info": {
     "since": "2026-11-19",
     "min_date": "2026-12-03",
@@ -501,7 +483,7 @@
     "PF",
     "SF"
    ],
-   "value": 40.04,
+   "value": 26.03,
    "info": {
     "since": "2026-11-24",
     "min_date": "2026-12-01",
@@ -510,6 +492,42 @@
     "kind": "weeks"
    },
    "headline": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports."
+  },
+  "4066259": {
+   "player_id": 4066259,
+   "name": "De'Aaron Fox",
+   "pro_team_id": 24,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 26.98,
+   "info": {
+    "since": "2026-11-23",
+    "min_date": "2027-04-11",
+    "max_date": "2027-04-11",
+    "text": "The Grizzlies want to make the playoffs and do some damage while they're there, and Coward is going to be a force for the rest of the season, assuming he stays healthy.",
+    "kind": "season"
+   },
+   "headline": "Fantasy risers and fallers: Trade Davion Mitchell? Move on from De'Aaron Fox?"
+  },
+  "4397040": {
+   "player_id": 4397040,
+   "name": "Brandon Williams",
+   "pro_team_id": 9,
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "value": 3.62,
+   "info": {
+    "since": "2026-11-10",
+    "min_date": "2026-11-17",
+    "max_date": "2026-11-17",
+    "text": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com.",
+    "kind": "weeks"
+   },
+   "headline": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com."
   }
  }
 }
