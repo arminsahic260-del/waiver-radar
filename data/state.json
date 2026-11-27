@@ -130,7 +130,7 @@
    "positions": [
     "C"
    ],
-   "value": 22.62,
+   "value": 34.8,
    "info": {
     "since": "2026-11-08",
     "min_date": "2026-11-22",
@@ -219,15 +219,15 @@
     "PF",
     "SF"
    ],
-   "value": 3.2,
+   "value": 16.0,
    "info": {
-    "since": "2026-11-12",
-    "min_date": "2026-11-26",
-    "max_date": "2026-12-24",
-    "text": "Friday marks a third consecutive absence for Watford, who has no timetable for a return with a sprained ankle.",
-    "kind": "indefinite"
+    "since": "2026-11-26",
+    "min_date": "2026-12-14",
+    "max_date": "2026-12-14",
+    "text": "Watford could be on the verge of making his return to the hardwood Friday after missing each of New Orleans' last nine games.",
+    "kind": "weeks"
    },
-   "headline": "Watford (ankle) is listed as out for Friday's game against the Grizzlies."
+   "headline": "Watford (ankle) is probable for Friday's game against the Clippers."
   },
   "3975": {
    "player_id": 3975,
@@ -236,7 +236,7 @@
    "positions": [
     "PG"
    ],
-   "value": 28.46,
+   "value": 43.78,
    "info": {
     "since": "2026-11-12",
     "min_date": "2026-11-26",
@@ -254,7 +254,7 @@
     "PG",
     "SG"
    ],
-   "value": 21.21,
+   "value": 32.63,
    "info": {
     "since": "2026-11-13",
     "min_date": "2026-11-27",
@@ -272,7 +272,7 @@
     "PF",
     "SF"
    ],
-   "value": 21.52,
+   "value": 33.1,
    "info": {
     "since": "2026-11-11",
     "min_date": "2026-12-11",
@@ -307,7 +307,7 @@
     "PG",
     "SG"
    ],
-   "value": 19.09,
+   "value": 29.37,
    "info": {
     "since": "2026-11-17",
     "min_date": "2026-12-15",
@@ -325,7 +325,7 @@
     "SF",
     "SG"
    ],
-   "value": 17.71,
+   "value": 27.25,
    "info": {
     "since": "2026-11-17",
     "min_date": "2026-11-24",
@@ -361,7 +361,7 @@
     "SF",
     "SG"
    ],
-   "value": 21.91,
+   "value": 33.7,
    "info": {
     "since": "2026-11-19",
     "min_date": "2026-12-03",
@@ -396,15 +396,15 @@
     "PG",
     "SG"
    ],
-   "value": 22.26,
+   "value": 34.25,
    "info": {
-    "since": "2026-11-19",
-    "min_date": "2026-12-03",
-    "max_date": "2026-12-10",
-    "text": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports.",
+    "since": "2026-11-26",
+    "min_date": "2026-12-10",
+    "max_date": "2026-12-17",
+    "text": "19 suggesting he was set to miss two to three weeks due to a left hip external rotator strain.",
     "kind": "weeks"
    },
-   "headline": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports."
+   "headline": "Harper (hip) is questionable for Friday's game against the Lakers."
   },
   "5279130": {
    "player_id": 5279130,
@@ -413,7 +413,7 @@
    "positions": [
     "PG"
    ],
-   "value": 20.39,
+   "value": 17.42,
    "info": {
     "since": "2026-11-23",
     "min_date": "2027-01-18",
@@ -430,7 +430,7 @@
    "positions": [
     "PF"
    ],
-   "value": 16.35,
+   "value": 14.95,
    "info": {
     "since": "2026-11-23",
     "min_date": "2026-12-07",
@@ -465,7 +465,7 @@
    "positions": [
     "PF"
    ],
-   "value": 39.03,
+   "value": 35.53,
    "info": {
     "since": "2026-11-23",
     "min_date": "2026-12-21",
@@ -483,7 +483,7 @@
     "PF",
     "SF"
    ],
-   "value": 26.03,
+   "value": 40.04,
    "info": {
     "since": "2026-11-24",
     "min_date": "2026-12-01",
@@ -493,41 +493,23 @@
    },
    "headline": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports."
   },
-  "4066259": {
-   "player_id": 4066259,
-   "name": "De'Aaron Fox",
-   "pro_team_id": 24,
+  "3917376": {
+   "player_id": 3917376,
+   "name": "Jaylen Brown",
+   "pro_team_id": 20,
    "positions": [
-    "PG",
+    "SF",
     "SG"
    ],
-   "value": 26.98,
+   "value": 31.99,
    "info": {
-    "since": "2026-11-23",
-    "min_date": "2027-04-11",
-    "max_date": "2027-04-11",
-    "text": "The Grizzlies want to make the playoffs and do some damage while they're there, and Coward is going to be a force for the rest of the season, assuming he stays healthy.",
-    "kind": "season"
-   },
-   "headline": "Fantasy risers and fallers: Trade Davion Mitchell? Move on from De'Aaron Fox?"
-  },
-  "4397040": {
-   "player_id": 4397040,
-   "name": "Brandon Williams",
-   "pro_team_id": 9,
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "value": 3.62,
-   "info": {
-    "since": "2026-11-10",
-    "min_date": "2026-11-17",
-    "max_date": "2026-11-17",
-    "text": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com.",
+    "since": "2026-11-26",
+    "min_date": "2026-12-02",
+    "max_date": "2026-12-02",
+    "text": "Brown has been out for just three games this season, but if he's forced to miss more time, Dean Wade could see an uptick in his playing time.",
     "kind": "weeks"
    },
-   "headline": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com."
+   "headline": "Brown (hamstring) is out for Friday's game against the Pacers."
   }
  }
 }
